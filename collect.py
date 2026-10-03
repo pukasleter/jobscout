@@ -105,18 +105,29 @@ def fetch_ba(cfg: dict) -> list[dict]:
                     break
             if q == cfg["queries"]["de"][0]:
                 log(f"BA-Diagnose '{q}': " + " | ".join(info))
+                if items:
+                    log(f"BA-Felder eines Treffers: {sorted(items[0])}")
             if all("HTTP" in i for i in info):
                 raise RuntimeError("BA: " + " | ".join(info))
             for s in items:
-                ort = s.get("arbeitsort") or s.get("arbeitsorte") or {}
+                ort = (s.get("arbeitsort") or s.get("arbeitsorte") or s.get("stellenlokationen")
+                       or s.get("arbeitsortAdresse") or {})
                 if isinstance(ort, list):
                     ort = ort[0] if ort else {}
+                if isinstance(ort, dict) and isinstance(ort.get("adresse"), dict):
+                    ort = ort["adresse"]
+                if not isinstance(ort, dict):
+                    ort = {"ort": str(ort)}
                 refnr = s.get("refnr") or s.get("referenznummer")
+                ag = (s.get("arbeitgeber") or s.get("firma") or s.get("arbeitgeberName")
+                      or s.get("unternehmen") or "")
+                if isinstance(ag, dict):
+                    ag = ag.get("name") or ag.get("bezeichnung") or ""
                 out.append(job(
                     "arbeitsagentur",
-                    s.get("titel") or s.get("stellenbezeichnung") or s.get("beruf"),
-                    s.get("arbeitgeber") if isinstance(s.get("arbeitgeber"), str)
-                    else (s.get("arbeitgeber") or {}).get("name", ""),
+                    s.get("titel") or s.get("stellenangebotsTitel") or s.get("stellenbezeichnung")
+                    or s.get("stellentitel") or s.get("beruf") or s.get("hauptberuf"),
+                    ag,
                     " ".join(str(x) for x in (ort.get("plz"), ort.get("ort")) if x),
                     s.get("externeUrl") or f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{refnr}",
                     country="DE",
@@ -223,7 +234,9 @@ def fetch_linkedin(cfg: dict) -> list[dict]:
     payload = {
         "keywords": keywords,
         "locations": cfg["locations"]["linkedin"],
-        "datePosted": sc.get("date_posted", "past 24 hours"),
+        # Actor erlaubt nur: any | month | week | day
+        "datePosted": {"past 24 hours": "day", "past week": "week", "past month": "month",
+                       "any time": "any"}.get(sc.get("date_posted", "day"), sc.get("date_posted", "day")),
         "scrapeJobDetails": sc.get("scrape_details", True),
         "maxItems": sc.get("max_items", 150),
         "proxyConfiguration": {"useApifyProxy": True},
@@ -293,6 +306,9 @@ def main() -> int:
     # Filtern + Duplikate zusammenführen
     merged: dict[str, dict] = {}
     n_excluded = 0
+    no_title = sum(1 for j in raw if not j["title"])
+    if no_title:
+        log(f"WARNUNG: {no_title} Treffer ohne Titel (Feldname unbekannt) – werden übersprungen")
     for j in raw:
         if not j["title"] or excluded(j, cfg):
             n_excluded += 1
