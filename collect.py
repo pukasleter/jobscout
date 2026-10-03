@@ -91,26 +91,55 @@ def fetch_ba(cfg: dict) -> list[dict]:
                 "page": 1, "angebotsart": sc.get("angebotsart", 1),
                 "zeitarbeit": str(cfg["exclude"].get("zeitarbeit", False)).lower(),
             }
-            data = None
-            for path in ("/pc/v6/jobs", "/pc/v4/app/jobs", "/pc/v4/jobs"):
+            items, info = [], []
+            # v4/app hat das dokumentierte Format; v6 als Ausweichlösung
+            for path in ("/pc/v4/app/jobs", "/pc/v6/jobs", "/pc/v4/jobs"):
                 r = requests.get(base + path, params=params, headers=headers, timeout=30)
-                if r.status_code == 200:
-                    data = r.json()
+                if r.status_code != 200:
+                    info.append(f"{path}: HTTP {r.status_code}")
+                    continue
+                data = r.json()
+                items = _ba_items(data)
+                info.append(f"{path}: {len(items)} Treffer, Felder={list(data)[:6]}")
+                if items:
                     break
-            if data is None:
-                raise RuntimeError(f"BA: keine Antwort ({r.status_code})")
-            for s in data.get("stellenangebote", []) or []:
-                ort = s.get("arbeitsort") or {}
+            if q == cfg["queries"]["de"][0]:
+                log(f"BA-Diagnose '{q}': " + " | ".join(info))
+            if all("HTTP" in i for i in info):
+                raise RuntimeError("BA: " + " | ".join(info))
+            for s in items:
+                ort = s.get("arbeitsort") or s.get("arbeitsorte") or {}
+                if isinstance(ort, list):
+                    ort = ort[0] if ort else {}
+                refnr = s.get("refnr") or s.get("referenznummer")
                 out.append(job(
-                    "arbeitsagentur", s.get("titel") or s.get("beruf"), s.get("arbeitgeber"),
-                    " ".join(filter(None, [ort.get("plz"), ort.get("ort")])),
-                    f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{s.get('refnr')}",
+                    "arbeitsagentur",
+                    s.get("titel") or s.get("stellenbezeichnung") or s.get("beruf"),
+                    s.get("arbeitgeber") if isinstance(s.get("arbeitgeber"), str)
+                    else (s.get("arbeitgeber") or {}).get("name", ""),
+                    " ".join(str(x) for x in (ort.get("plz"), ort.get("ort")) if x),
+                    s.get("externeUrl") or f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{refnr}",
                     country="DE",
                     posted=s.get("aktuelleVeroeffentlichungsdatum") or s.get("modifikationsTimestamp"),
-                    extra={"refnr": s.get("refnr"), "query": q},
+                    extra={"refnr": refnr, "query": q},
                 ))
             time.sleep(0.5)
     return out
+
+
+def _ba_items(data) -> list[dict]:
+    """Findet die Liste der Stellen, egal unter welchem Schlüssel die API-Version sie liefert."""
+    if not isinstance(data, dict):
+        return []
+    for key in ("stellenangebote", "jobs", "ergebnisse", "content", "items"):
+        v = data.get(key)
+        if isinstance(v, list) and v and isinstance(v[0], dict):
+            return v
+    for v in data.values():
+        if isinstance(v, list) and v and isinstance(v[0], dict) and (
+                {"refnr", "referenznummer", "titel", "beruf"} & set(v[0])):
+            return v
+    return []
 
 
 def enrich_ba_details(jobs: list[dict], cfg: dict) -> None:
@@ -203,7 +232,8 @@ def fetch_linkedin(cfg: dict) -> list[dict]:
            f"?timeout={sc.get('timeout_s', 280)}")
     r = requests.post(url, json=payload, timeout=sc.get("timeout_s", 280) + 30,
                       headers={"Authorization": f"Bearer {token}"})
-    r.raise_for_status()
+    if not r.ok:  # Apify erklärt im Body, was am Input nicht passt
+        raise RuntimeError(f"Apify HTTP {r.status_code}: {r.text[:400]}")
     items = r.json()
     out: list[dict] = []
     for s in items if isinstance(items, list) else []:
@@ -213,14 +243,14 @@ def fetch_linkedin(cfg: dict) -> list[dict]:
         loc = _pick(s, "location", "jobLocation", "place") or ""
         out.append(job(
             "linkedin", title, _pick(s, "company", "companyName", "company_name"), loc,
-            _pick(s, "url", "jobUrl", "link", "linkedinUrl", "applyUrl"),
+            _pick(s, "job_url", "url", "jobUrl", "link", "linkedinUrl", "applyUrl"),
             country="CH" if re.search(r"switzerland|schweiz|suisse", loc, re.I) else
                     ("DE" if re.search(r"germany|deutschland", loc, re.I) else None),
-            posted=_pick(s, "postedAt", "publishedAt", "postedDate", "listedAt", "datePosted"),
+            posted=_pick(s, "posted_date", "posted_text", "postedAt", "publishedAt", "postedDate", "listedAt"),
             description=_pick(s, "description", "descriptionText", "jobDescription"),
             salary=_pick(s, "salary", "salaryInfo", "compensation"),
-            extra={"seniority": _pick(s, "seniorityLevel", "experienceLevel"),
-                   "employment_type": _pick(s, "employmentType", "contractType"),
+            extra={"seniority": _pick(s, "seniority_level", "seniorityLevel", "experienceLevel"),
+                   "employment_type": _pick(s, "employment_type", "employmentType", "contractType"),
                    "applicants": _pick(s, "applicantsCount", "applicants")},
         ))
     return out
