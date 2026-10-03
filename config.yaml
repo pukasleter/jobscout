@@ -5,7 +5,7 @@
 # ============================================================
 
 # Wie weit zurück gesucht wird (Tage). Erster Lauf: 14, danach 2.
-days_back: 30
+days_back: 2
 
 # ------------------------------------------------------------
 # Suchbegriffe = Berufs-/Themenfelder (nicht "Soziologie", nicht "HR")
@@ -94,8 +94,8 @@ sources:
   linkedin:
     enabled: true
     actor: "jmlp~linkedin-jobs-scraper"
-    date_posted: "past 24 hours"
-    max_items: 200
+    date_posted: "day"            # erlaubt: any | month | week | day
+    max_items: 100
     scrape_details: true
     timeout_s: 280
 
@@ -113,13 +113,19 @@ exclude:
     # Buchhaltung/Kasse/Abrechnung
     - "buchhalt|kassier|finanzbuchh|lohnbuchh|entgeltabrechn|payroll|controller|steuerfach|bilanz"
     # klassische HR-Administration / Sachbearbeitung
-    - "personalsachbearb|personalreferent|hr[- ]?referent|hr[- ]?generalist|hr[- ]?business|hr[- ]?administrat|personaladministr|personalverwaltung|sachbearbeit|verwaltungsfachang|bürokauf|kaufm.*angestellte|assistenz der geschäftsführung|sekretär|empfang"
+    - "personalsachbearb|personalreferent|hr[- ]?referent|hr[- ]?generalist|hr[- ]?business|hr[- ]?administrat|personaladministr|personalverwaltung|verwaltungsfachang|bürokauf|kaufm.*angestellte|assistenz der geschäftsführung|sekretär|empfang"
     # Technik/Ingenieurwesen/IT
     - "ingenieur|engineer|techniker|informatik|software|entwickler|developer|devops|elektro|mechatron|konstrukt"
     # Führung (aktuell nicht gesucht)
     - "teamleit|abteilungsleit|bereichsleit|amtsleit|fachbereichsleit|geschäftsführ|direktor|head of"
     # Schicht/Pflege/Erziehung (andere Berufsausbildung)
-    - "schicht|pflegefach|pflegekraft|erzieher|kinderpfleg|heilerzieh|sozialpädagog.*(wohngruppe|schicht)"
+    - "schicht|pflegefach|pflegekraft|pflegedienst|erzieher|kinderpfleg|heilerzieh|sozialpädagog.*(wohngruppe|schicht)|pädagogische fachkraft|ergänzungskraft|fachkraft.*(kita|krippe|kindergarten)|schulbegleit"
+    # Medizin/Gesundheit
+    - "arzt|ärzt|oberarzt|facharzt|klinik.*leit|therapeut|physio|sanitäter|zahnmedizin|medizinische fachangestellte|\\bmfa\\b|apothek|optiker|optometr|psycholog"
+    # Handwerk/Gastro/Logistik/Handel
+    - "koch|köch|küche|patissier|reinigung|hausmeister|gärtner|garten- und landschaft|lager|logistik|fahrer|disponent|mechani|schlosser|schweiß|monteur|maler|elektrik|netzelektr|werkzeug|fertigung|kunststoff|bauleiter|architekt|bauhof|straßenunterhalt|detailhandel|store manager|filialleit|boutique|lehrstelle|\\befz\\b|\\beba\\b|soldat|wehrdienst"
+    # Finanzen/IT/Recht ohne Bezug
+    - "treasur|einkäufer|einkauf|beschaffung|audit|compliance|underwrit|private equity|relationship manager|cyber|security|\\bsap\\b|cloud|\\bit[- ]|rechtsanwaltsfach|gerichtsschreiber|versicherungs|vorsorge.*berat|finanzberat"
   companies:
     - "randstad"
     - "adecco"
@@ -131,5 +137,18 @@ exclude:
     - "amadeus fire"
   zeitarbeit: false
 
-max_description_chars: 4000
-seen_retention_days: 90
+# Ortsfilter – gilt NUR für LinkedIn (Arbeitsagentur und Google Jobs suchen
+# schon per Umkreis um Konstanz bzw. die Schweizer Orte).
+# Fliegt raus, wenn der Ort keinen dieser Begriffe enthält. Stellen ohne Ort
+# oder mit "Remote" bleiben drin. Zürich bewusst nicht enthalten (Ausnahme-
+# regel, findet Claude bei Bedarf direkt).
+location_filter_sources: ["linkedin"]
+location_allow:
+  # Kreis Konstanz / Hegau
+  - "konstanz|constance|allensbach|reichenau|radolfzell|singen|steißlingen|stockach|engen|hilzingen|rielasingen|gottmadingen|gailingen|öhningen|moos|bodman|ludwigshafen"
+  # Bodenseekreis / Überlingen / Friedrichshafen
+  - "überlingen|ueberlingen|sipplingen|owingen|meersburg|uhldingen|hagnau|immenstaad|markdorf|salem|friedrichshafen|meckenbeuren|tettnang|langenargen|eriskirch|kressbronn|bodensee"
+  # Schweiz: ganze Kantone Thurgau, St. Gallen, Schaffhausen + Winterthur
+  - "thurgau|kreuzlingen|tägerwilen|ermatingen|bottighofen|münsterlingen|frauenfeld|weinfelden|amriswil|romanshorn|arbon"
+  - "st\\.? ?gallen|schaffhausen|winterthur|herisau|rorschach|wil\\b|stein am rhein|diessenhofen"
+  - "remote|homeoffice|home office|beliebig|^(deutschland|germany|schweiz|switzerland)$"
