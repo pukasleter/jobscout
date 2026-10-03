@@ -5,7 +5,7 @@
 # ============================================================
 
 # Wie weit zurück gesucht wird (Tage). Erster Lauf: 14, danach 2.
-days_back: 2
+days_back: 30
 
 # ------------------------------------------------------------
 # Suchbegriffe = Berufs-/Themenfelder (nicht "Soziologie", nicht "HR")
