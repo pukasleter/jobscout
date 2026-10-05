@@ -6,6 +6,7 @@ Sammelt täglich Stellen aus
   - Bundesagentur für Arbeit (inoffizielle, aber öffentliche REST-API)
   - Google Jobs via SerpApi        (env: SERPAPI_KEY)
   - LinkedIn via Apify-Actor       (env: APIFY_TOKEN)
+  - Job-Room / arbeit.swiss (SECO)  direkt, sonst über Apify-Actor
 
 normalisiert sie, filtert harte Ausschlüsse, entfernt Duplikate (auch
 quellenübergreifend) und schreibt nur NEUE Stellen nach data/jobs.json.
@@ -230,7 +231,13 @@ def fetch_linkedin(cfg: dict) -> list[dict]:
     if not token:
         raise RuntimeError("APIFY_TOKEN fehlt")
     sc = cfg["sources"]["linkedin"]
-    keywords = sorted(set(cfg["queries"]["de"] + cfg["queries"]["ch"]))
+    # Reihenfolge = Priorität aus config.yaml (nicht alphabetisch). Der Actor
+    # arbeitet die Suchen der Reihe nach ab und hört bei max_items auf – damit
+    # nicht immer dieselben Begriffe hinten abgeschnitten werden, startet die
+    # Liste jeden Tag an einer anderen Stelle.
+    keywords = list(dict.fromkeys(cfg["queries"]["de"] + cfg["queries"]["ch"]))
+    off = TODAY.toordinal() % len(keywords)
+    keywords = keywords[off:] + keywords[:off]
     payload = {
         "keywords": keywords,
         "locations": cfg["locations"]["linkedin"],
@@ -269,6 +276,115 @@ def fetch_linkedin(cfg: dict) -> list[dict]:
     return out
 
 
+# ------------------------------------------------------------ Job-Room (CH)
+JOBROOM_API = "https://www.job-room.ch/jobadservice/api/jobAdvertisements/_search"
+
+
+def _first(*vals):
+    for v in vals:
+        if v:
+            return v
+    return None
+
+
+def _jobroom_direct(cfg: dict) -> list[dict]:
+    """Offizielle Suche von job-room.ch (SECO/RAV) – kostenlos, aber undokumentiert."""
+    sc = cfg["sources"]["jobroom"]
+    headers = {**UA, "Content-Type": "application/json", "Accept": "application/json"}
+    out: list[dict] = []
+    for q in sc.get("queries") or cfg["queries"]["ch"]:
+        body = {"workloadPercentageMin": sc.get("workload_min", 10), "workloadPercentageMax": 100,
+                "permanent": None, "companyName": None, "onlineSince": sc.get("online_since_days", 3),
+                "displayRestricted": False, "professionCodes": [], "keywords": [q],
+                "communalCodes": [], "cantonCodes": sc.get("cantons", [])}
+        r = requests.post(JOBROOM_API, params={"page": 0, "size": sc.get("max_results_per_query", 8),
+                                               "sort": "date_desc"},
+                          json=body, headers=headers, timeout=30)
+        if r.status_code != 200:
+            raise RuntimeError(f"Job-Room direkt HTTP {r.status_code}: {r.text[:200]}")
+        data = r.json()
+        items = data if isinstance(data, list) else (data.get("content") or data.get("items") or [])
+        if q == (sc.get("queries") or cfg["queries"]["ch"])[0]:
+            sample = items[0] if items else {}
+            log(f"Job-Room-Diagnose '{q}': {len(items)} Treffer, Felder={sorted(sample)[:8]}")
+        for it in items:
+            ad = it.get("jobAdvertisement", it) if isinstance(it, dict) else {}
+            c = ad.get("jobContent") or {}
+            d = (c.get("jobDescriptions") or [{}])[0]
+            loc = c.get("location") or {}
+            comp = c.get("displayCompany") or c.get("company") or {}
+            emp = c.get("employment") or {}
+            jid = ad.get("id")
+            out.append(job(
+                "jobroom", d.get("title"), comp.get("name"),
+                " ".join(str(x) for x in (loc.get("postalCode"), loc.get("city")) if x),
+                _first(c.get("externalUrl"), f"https://www.job-room.ch/job-search/{jid}" if jid else None),
+                country="CH", posted=(ad.get("publication") or {}).get("startDate") or ad.get("createdTime"),
+                description=d.get("description"),
+                extra={"canton": loc.get("cantonCode"), "query": q,
+                       "workload": f"{emp.get('workloadPercentageMin')}-{emp.get('workloadPercentageMax')} %",
+                       "permanent": emp.get("permanent"), "jobroom_id": jid},
+            ))
+        time.sleep(0.5)
+    return out
+
+
+def _jobroom_apify(cfg: dict) -> list[dict]:
+    token = os.environ.get("APIFY_TOKEN")
+    if not token:
+        raise RuntimeError("APIFY_TOKEN fehlt")
+    sc = cfg["sources"]["jobroom"]
+    payload = {
+        "searchQueries": sc.get("queries") or cfg["queries"]["ch"],
+        "cantonCodes": sc.get("cantons", []),
+        "onlineSinceDays": sc.get("online_since_days", 3),
+        "maxResultsPerQuery": sc.get("max_results_per_query", 8),
+        "maxResults": sc.get("max_results", 60),
+        "workloadMin": sc.get("workload_min", 10),
+        "sortBy": "date_desc",
+        "statsMode": "off",
+    }
+    url = (f"https://api.apify.com/v2/acts/{sc['actor']}/run-sync-get-dataset-items"
+           f"?timeout={sc.get('timeout_s', 240)}")
+    r = requests.post(url, json=payload, timeout=sc.get("timeout_s", 240) + 30,
+                      headers={"Authorization": f"Bearer {token}"})
+    if not r.ok:
+        raise RuntimeError(f"Apify Job-Room HTTP {r.status_code}: {r.text[:400]}")
+    items = r.json()
+    out: list[dict] = []
+    for s in items if isinstance(items, list) else []:
+        title = _pick(s, "title")
+        if not title:
+            continue
+        out.append(job(
+            "jobroom", title, _pick(s, "company"), _pick(s, "location") or "",
+            _pick(s, "source_url", "apply_url", "url"),
+            country="CH", posted=_pick(s, "posted_at"),
+            description=_pick(s, "description_full", "description_snippet", "description"),
+            extra={"canton": _pick(s, "canton"), "query": _pick(s, "search_query"),
+                   "workload": f"{s.get('workload_min')}-{s.get('workload_max')} %",
+                   "employment_type": _pick(s, "employment_type"),
+                   "expires": _pick(s, "expires_at")},
+        ))
+    return out
+
+
+def fetch_jobroom(cfg: dict) -> list[dict]:
+    """Erst kostenlos direkt; wenn das scheitert oder nichts liefert, über Apify."""
+    if cfg["sources"]["jobroom"].get("direct_first", True):
+        try:
+            res = _jobroom_direct(cfg)
+            if res:
+                log(f"Job-Room: direkt {len(res)} Treffer")
+                return res
+            log("Job-Room: direkt 0 Treffer – versuche Apify")
+        except Exception as e:
+            log(f"Job-Room direkt fehlgeschlagen ({e}) – versuche Apify")
+    res = _jobroom_apify(cfg)
+    log(f"Job-Room: über Apify {len(res)} Treffer")
+    return res
+
+
 # ------------------------------------------------------------ pipeline
 def excluded(j: dict, cfg: dict) -> bool:
     ex = cfg.get("exclude", {})
@@ -281,6 +397,10 @@ def excluded(j: dict, cfg: dict) -> bool:
     allow = cfg.get("location_allow") or []
     loc = (j.get("location") or "").strip()
     if j.get("source") not in cfg.get("location_filter_sources", ["linkedin"]):
+        return False
+    # Job-Room: ganze Kantone erlaubt (z. B. TG/SG/SH), Rest (ZH) nur über die Ortsliste
+    canton = (j.get("extra") or {}).get("canton")
+    if canton and canton in cfg.get("sources", {}).get("jobroom", {}).get("allow_cantons", []):
         return False
     if allow and loc and not any(re.search(p, loc, re.I) for p in allow):
         return True
@@ -295,7 +415,8 @@ def main() -> int:
 
     fetchers = {"arbeitsagentur": ("ba", fetch_ba),
                 "google_jobs": ("serpapi", fetch_serpapi),
-                "linkedin": ("linkedin", fetch_linkedin)}
+                "linkedin": ("linkedin", fetch_linkedin),
+                "jobroom": ("jobroom", fetch_jobroom)}
     raw: list[dict] = []
     stats, errors = {}, {}
     for name, (key, fn) in fetchers.items():
