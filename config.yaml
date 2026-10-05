@@ -1,5 +1,5 @@
 # ============================================================
-# Job-Agent – Konfiguration (Stand: Profil vom 03.10.2026)
+# Job-Agent – Konfiguration v6 (Stand: 05.10.2026)
 # Das inhaltliche Profil steckt NICHT hier, sondern im Prompt der
 # Claude-Aufgabe. Hier nur: wonach gesucht und was hart aussortiert wird.
 # ============================================================
@@ -47,6 +47,8 @@ queries:
     - "Projektkoordination"
     - "Evaluation"
     - "Doktorandin Soziologie"
+    - "Diversity"
+    - "Fachstelle Integration"
 
 # ------------------------------------------------------------
 # Regionen – kein Auto, nur ÖV. Zürich bewusst NICHT im Standard-Radius.
@@ -87,7 +89,7 @@ sources:
 
   serpapi:
     enabled: true
-    # 66 Kombinationen (Begriff x Ort); 8 pro Tag -> alle ~8 Tage einmal durch.
+    # 80 Kombinationen (Begriff x Ort); 8 pro Tag -> alle ~10 Tage einmal durch.
     # Google Jobs listet Anzeigen meist mehrere Wochen, daher reicht das.
     max_requests_per_run: 8
 
@@ -95,9 +97,26 @@ sources:
     enabled: true
     actor: "jmlp~linkedin-jobs-scraper"
     date_posted: "day"            # erlaubt: any | month | week | day
-    max_items: 100
+    # Obergrenze für ALLE Suchen zusammen (Begriffe x Orte). Bei 100 war sie
+    # voll -> hintere Begriffe fielen weg. Kosten: ~6 Cent bei 100, ~10 Cent bei 250.
+    max_items: 250
     scrape_details: true
     timeout_s: 280
+
+  # Job-Room / arbeit.swiss – staatliche Schweizer Stellenplattform (SECO/RAV).
+  # Erst direkt (kostenlos); klappt das nicht, über einen Apify-Actor
+  # (~1 $ pro 1000 Stellen, Obergrenze unten).
+  jobroom:
+    enabled: true
+    direct_first: true
+    actor: "parsebird~job-room-ch-jobs-scraper"
+    cantons: ["TG", "SG", "SH", "ZH"]   # ZH nur wegen Winterthur, siehe allow_cantons
+    allow_cantons: ["TG", "SG", "SH"]   # ganze Kantone ok; ZH nur über location_allow
+    online_since_days: 3
+    max_results_per_query: 6
+    max_results: 60
+    workload_min: 50
+    timeout_s: 240
 
 # ------------------------------------------------------------
 # Harte Ausschlüsse (No-Gos aus dem Profil) – Regex auf den TITEL.
@@ -137,12 +156,12 @@ exclude:
     - "amadeus fire"
   zeitarbeit: false
 
-# Ortsfilter – gilt NUR für LinkedIn (Arbeitsagentur und Google Jobs suchen
+# Ortsfilter – gilt NUR für LinkedIn und Job-Room (Arbeitsagentur und Google Jobs suchen
 # schon per Umkreis um Konstanz bzw. die Schweizer Orte).
 # Fliegt raus, wenn der Ort keinen dieser Begriffe enthält. Stellen ohne Ort
 # oder mit "Remote" bleiben drin. Zürich bewusst nicht enthalten (Ausnahme-
 # regel, findet Claude bei Bedarf direkt).
-location_filter_sources: ["linkedin"]
+location_filter_sources: ["linkedin", "jobroom"]
 location_allow:
   # Kreis Konstanz / Hegau
   - "konstanz|constance|allensbach|reichenau|radolfzell|singen|steißlingen|stockach|engen|hilzingen|rielasingen|gottmadingen|gailingen|öhningen|moos|bodman|ludwigshafen"
