@@ -1,5 +1,5 @@
 # ============================================================
-# Job-Agent – Konfiguration v6 (Stand: 05.10.2026)
+# Job-Agent – Konfiguration v6.1 (Stand: 05.10.2026)
 # Das inhaltliche Profil steckt NICHT hier, sondern im Prompt der
 # Claude-Aufgabe. Hier nur: wonach gesucht und was hart aussortiert wird.
 # ============================================================
@@ -126,7 +126,11 @@ sources:
 exclude:
   title_patterns:
     # Einstieg/Ausbildung/zu niedrig dotiert
-    - "praktik|werkstudent|ausbildung|azubi|minijob|aushilfe|volontär|volontariat|trainee|duales studium|fsj|bfd|bundesfreiwillig"
+    - "praktik|werkstudent|working student|ausbildung|azubi|minijob|aushilfe|volontär|volontariat|trainee|duales studium|fsj|bfd|bundesfreiwillig"
+    # Stellen, die eine Promotion schon voraussetzen
+    - "postdoc|post-doc|postdoktor|post-doctorant|habilitand"
+    # Branchen ohne Bezug (kam v. a. über LinkedIn rein)
+    - "treuhand|wirtschaftsprüf|steuerkommiss|aktuar|actuar|claims|immobilienschätz|eigentumsverwalt|liegenschaftsverwalt|sattler|polster|radiolog|ernährungsberat|arbeitssicherheit|hardware|business analyst|fachfrau gesundheit|fachmann gesundheit"
     # Vertrieb/Akquise
     - "vertrieb|sales|verkäuf|verkauf|außendienst|aussendienst|key account|account manag|akquise|call ?center|telefonist|kundenberater|kundenservice"
     # Buchhaltung/Kasse/Abrechnung
@@ -164,10 +168,10 @@ exclude:
 location_filter_sources: ["linkedin", "jobroom"]
 location_allow:
   # Kreis Konstanz / Hegau
-  - "konstanz|constance|allensbach|reichenau|radolfzell|singen|steißlingen|stockach|engen|hilzingen|rielasingen|gottmadingen|gailingen|öhningen|moos|bodman|ludwigshafen"
+  - "konstanz|constance|allensbach|reichenau|radolfzell|singen|steißlingen|stockach|\\bengen\\b|hilzingen|rielasingen|gottmadingen|gailingen|öhningen|\\bmoos\\b|bodman"
   # Bodenseekreis / Überlingen / Friedrichshafen
   - "überlingen|ueberlingen|sipplingen|owingen|meersburg|uhldingen|hagnau|immenstaad|markdorf|salem|friedrichshafen|meckenbeuren|tettnang|langenargen|eriskirch|kressbronn|bodensee"
   # Schweiz: ganze Kantone Thurgau, St. Gallen, Schaffhausen + Winterthur
   - "thurgau|kreuzlingen|tägerwilen|ermatingen|bottighofen|münsterlingen|frauenfeld|weinfelden|amriswil|romanshorn|arbon"
-  - "st\\.? ?gallen|schaffhausen|winterthur|herisau|rorschach|wil\\b|stein am rhein|diessenhofen"
+  - "st\\.? ?gallen|schaffhausen|winterthur|herisau|rorschach|\\bwil\\b|stein am rhein|diessenhofen"
   - "remote|homeoffice|home office|beliebig|^(deutschland|germany|schweiz|switzerland)$"
