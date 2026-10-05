@@ -469,12 +469,30 @@ def main() -> int:
     cutoff = (TODAY - dt.timedelta(days=cfg.get("seen_retention_days", 90))).isoformat()
     seen = {k: v for k, v in seen.items() if v >= cutoff}
 
+    # Stellen aus einem manuellen Lauf (nach 06:00 UTC, also nach der Claude-
+    # Auswertung am Morgen) nicht verlieren: in den nächsten Lauf übernehmen.
+    carried = []
+    if JOBS_FILE.exists():
+        try:
+            prev = json.loads(JOBS_FILE.read_text(encoding="utf-8"))
+            gen = dt.datetime.fromisoformat(prev.get("generated_at"))
+            if gen.hour >= cfg.get("carry_over_after_utc_hour", 6) and \
+                    (dt.datetime.now(dt.timezone.utc) - gen).days < 3:
+                ids = {j["id"] for j in new}
+                carried = [dict(j, carried_over=True) for j in prev.get("jobs", [])
+                           if j.get("id") not in ids
+                           and not excluded({**j, "source": (j.get("sources") or [None])[0]}, cfg)]
+                if carried:
+                    log(f"{len(carried)} Stellen aus dem Lauf von {gen:%d.%m. %H:%M} UTC übernommen")
+        except Exception as e:
+            log(f"Übernahme alter Stellen übersprungen: {e}")
+
     result = {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "stats": {"raw_per_source": stats, "excluded": n_excluded,
-                  "unique": len(merged), "new": len(new)},
+                  "unique": len(merged), "new": len(new), "carried_over": len(carried)},
         "errors": errors,
-        "jobs": new,
+        "jobs": new + carried,
     }
     JOBS_FILE.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
     (ARCHIVE / f"{TODAY.isoformat()}.json").write_text(
