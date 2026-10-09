@@ -2,11 +2,14 @@ name: Jobs sammeln
 
 on:
   schedule:
-    - cron: "0 4 * * *"
-  workflow_dispatch:
+    # 01:17 UTC = 03:17 Sommerzeit / 02:17 Winterzeit (Konstanz).
+    # GitHub startet geplante Läufe oft Stunden zu spät (zur vollen Stunde am
+    # schlimmsten) – deshalb früh und auf krummer Minute.
+    - cron: "17 1 * * *"
+  workflow_dispatch:        # manueller Start über "Run workflow"
 
 permissions:
-  contents: write
+  contents: write           # damit der Lauf data/ committen darf
 
 concurrency:
   group: collect
@@ -18,8 +21,6 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -41,5 +42,5 @@ jobs:
           git config user.email "job-agent@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "jobs $(date -u +%F)"
-          git pull --rebase -X theirs --autostash
+          git pull --rebase --autostash
           git push
