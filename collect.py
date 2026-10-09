@@ -385,6 +385,21 @@ def fetch_jobroom(cfg: dict) -> list[dict]:
     return res
 
 
+def last_scout_run(cfg: dict) -> dt.datetime:
+    """Zeitpunkt des letzten planmäßigen Job-Scout-Laufs (Ortszeit Konstanz)."""
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo("Europe/Berlin")
+    hh, mm = (int(x) for x in cfg.get("scout_time", "06:51").split(":"))
+    t = dt.datetime.now(tz)
+    cand = t.replace(hour=hh, minute=mm, second=0, microsecond=0)
+    if cand > t:
+        cand -= dt.timedelta(days=1)
+    days = set(cfg.get("scout_days", [1, 2, 3, 4, 5]))   # 0 = Mo … 6 = So
+    while cand.weekday() not in days:
+        cand -= dt.timedelta(days=1)
+    return cand.astimezone(dt.timezone.utc)
+
+
 # ------------------------------------------------------------ pipeline
 def excluded(j: dict, cfg: dict) -> bool:
     ex = cfg.get("exclude", {})
@@ -469,15 +484,15 @@ def main() -> int:
     cutoff = (TODAY - dt.timedelta(days=cfg.get("seen_retention_days", 90))).isoformat()
     seen = {k: v for k, v in seen.items() if v >= cutoff}
 
-    # Stellen aus einem manuellen Lauf (nach 06:00 UTC, also nach der Claude-
-    # Auswertung am Morgen) nicht verlieren: in den nächsten Lauf übernehmen.
+    # Stellen, die der Job-Scout noch nicht gesehen hat (Datei entstand nach
+    # seinem letzten Lauf, z. B. weil GitHub den Zeitplan verspätet startet
+    # oder manuell gestartet wurde), in diese Datei übernehmen.
     carried = []
     if JOBS_FILE.exists():
         try:
             prev = json.loads(JOBS_FILE.read_text(encoding="utf-8"))
             gen = dt.datetime.fromisoformat(prev.get("generated_at"))
-            if gen.hour >= cfg.get("carry_over_after_utc_hour", 6) and \
-                    (dt.datetime.now(dt.timezone.utc) - gen).days < 3:
+            if gen > last_scout_run(cfg) and (dt.datetime.now(dt.timezone.utc) - gen).days < 4:
                 ids = {j["id"] for j in new}
                 carried = [dict(j, carried_over=True) for j in prev.get("jobs", [])
                            if j.get("id") not in ids

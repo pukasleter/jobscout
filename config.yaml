@@ -1,11 +1,17 @@
 # ============================================================
-# Job-Agent – Konfiguration v6.1 (Stand: 05.10.2026)
+# Job-Agent – Konfiguration v6.2 (Stand: 09.10.2026)
 # Das inhaltliche Profil steckt NICHT hier, sondern im Prompt der
 # Claude-Aufgabe. Hier nur: wonach gesucht und was hart aussortiert wird.
 # ============================================================
 
 # Wie weit zurück gesucht wird (Tage). Erster Lauf: 14, danach 2.
 days_back: 2
+
+# Wann die Claude-Auswertung läuft (Ortszeit Konstanz): Di–Sa um 06:51.
+# Stellen aus Sammelläufen NACH dem letzten Scout-Lauf werden übernommen,
+# z. B. die von So und Mo in den Lauf am Dienstag.
+scout_time: "06:51"
+scout_days: [1, 2, 3, 4, 5]   # 0 = Mo, 1 = Di … 5 = Sa, 6 = So
 
 # ------------------------------------------------------------
 # Suchbegriffe = Berufs-/Themenfelder (nicht "Soziologie", nicht "HR")
