@@ -1,19 +1,895 @@
 {
- "generated_at": "2026-10-10T07:18:32+00:00",
+ "generated_at": "2026-10-11T07:21:38+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 166,
-   "google_jobs": 1,
-   "linkedin": 238,
-   "jobroom": 31
+   "arbeitsagentur": 165,
+   "google_jobs": 9,
+   "linkedin": 235,
+   "jobroom": 27
   },
-  "excluded": 336,
-  "unique": 83,
-  "new": 37,
-  "carried_over": 0
+  "excluded": 344,
+  "unique": 78,
+  "new": 36,
+  "carried_over": 37
  },
  "errors": {},
  "jobs": [
+  {
+   "title": "Projektkoordination (w/m/d)",
+   "company": "Caritas Konstanz",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://talents.studysmarter.de/companies/caritas-konstanz/projektkoordination-w-m-d-24900003/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Talents By StudySmarter",
+   "description": "Für unser Projekt \\\"Vielfalt säen - Gemeinschaft ernten\\\" in der Gemeinde Reichenau suchen wir zum 01.03.2026 bis zum 30.06.2028 mit einem Stellenumfang von 25 % eine Projektkoordination (w/m/d) Die Gemeinde Reichenau ist eine lebendige, ländlich geprägte Inselgemeinde mit rund 5.300 Einwohnenden. Durch die Insellage besteht ein eingeschränkter Zugang zu Beratungs- und Unterstützungsangeboten in Konstanz. Seit der Eröffnung einer neuen Gemeinschaftsunterkunft im Jahr 2025 leben zusätzlich zahlreiche geflüchtete Menschen auf der Insel - eine Chance, Integration neu zu gestalten und aktiv zu fördern. Die Reichenau bietet mit ihrer traditionsreichen Landwirtschaft, einem aktiven Vereinsleben (Musik-, Fasnachts- und Sportvereine) sowie starken kirchlichen Strukturen hervorragende Möglichkeiten für Begegnung, Engagement und kulturellen Austausch. Ihre Aufgaben: Netzwerkaufbau und Koordination der Netzwerktreffen Aufbau und Förderung von Begegnungsformaten zwischen Alteingesessenen und Zugewanderten Unterstützung der Ehrenamtlichen bei Veranstaltungen und Aktionen Entwicklung von Formaten, in denen Zugewanderte ihre Kultur vorstellen können (z. B. \\\"kulinarische Reise um die Welt\\\") Koordination, Begleitung und Gewinnung von ehrenamtlichen Sprachförderpersonen Stärkung der Teilhabe durch enge Zusammenarbeit mit Vereinen, Initiativen, kirchlichen Einrichtungen und der Gemeinde Förderung von Verständnis, Empathie und Abbau von Hemmungen & Berührungsängsten Förderung eines positiven Miteinanders, das Geflüchtete als Mitbürger*innen wahrnimmt und ihre Ressourcen sichtbar macht Ihr Profil: Abgeschlossene Ausbildung oder Studium im sozialen, pädagogischen oder gesellchafts-wissenschaftlichen Bereich oder vergleichbare Qualifikation Erfahrung in Gemeinwesenarbeit, Integrationsarbeit oder Ehrenamtskoordination wünschenswert Freude an interkultureller Zusammenarbeit und an der Arbeit mit unterschiedlichen Zielgruppen Kommunikationsstärke, Organisationstalent und Teamfähigkeit Bereitschaft zu gelegentlichen Einsätzen in den Abendstunden und am Wochenende Wir bieten Ihnen: Einen vielseitigen, abwechslungsreichen Arbeitsplatz Gezielte Einarbeitung, Selbstverantwortliches Arbeiten Leistungsgerechte Vergütung nach AVR Regelmäßige Fort- und Weiterbildung Kostenlose Gesundheitsangebote, Zusätzliche Altersversorgung Haben wir Ihr Interesse geweckt? befristet bis 30.06.2028 Menschen mit einer Schwerbehinderung werden bei gleicher Eignung bevorzugt behandelt. Die Zugehörigkeit zur katholischen Konfession ist keine Voraussetzung für Ihre Bewerbung. Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständigen und aussagekräftigen Bewerbungsunterlagen über das \\\"Online Bewerben\\\"-Formular. Öffnen Sie einfach das Stellenangebot, klicken Sie auf den \\\"Online Bewerben\\\" Button auf der rechten Seite und über-tragen Sie Ihre Dokumente datensicher direkt an die zuständigen Ansprechpartner. https://www.jobs-caritas-konstanz.de/jobs/jobs.aspx Die Caritas Konstanz bietet auch Stellen für Auszubildende, ein Freiwilliges Soziales Jahr oder den Bundesfreiwilligendienst an. Ansprechperson Frau Nikola Haag Teamleitung „Migration“ 49 7531 1200 247 n.haag@caritas-kn.de",
+   "extra": {
+    "schedule": null,
+    "query": "Projektkoordination",
+    "apply_links": [
+     "https://talents.studysmarter.de/companies/caritas-konstanz/projektkoordination-w-m-d-24900003/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "4928e24547785e06",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://talents.studysmarter.de/companies/caritas-konstanz/projektkoordination-w-m-d-24900003/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Projektkoordination (Festanstellung/Vollzeit)",
+   "company": "Corventis Executive Consultants",
+   "location": "Friedrichshafen",
+   "country": "DE",
+   "url": "https://talents.studysmarter.de/companies/corventis-executive-consultants/projektkoordination-festanstellung-vollzeit-10337339/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Talents By StudySmarter",
+   "description": "MITTELSTÄNDISCHES UNTERNEHMEN / TRANSPARENZ & VERANTWORTUNG / VISION Unser Auftraggeber in der Bodensee-Region ist ein namhaftes und international agierendes, mittelständisches Planungsunternehmen. Seit über 20 Jahren erfolgreich am Markt, hat sich das Unternehmen auf die Entwicklung, Planung und Realisierung durchdachter und nachhaltiger Logistik-, Infrastruktur- und Industriebaulösungen spezialisiert. Für unseren Mandanten sind wir auf der Suche nach einem erfahrenen Projektmanager (m/w/d) Industriebau, der ein qualitativ hochwertiges Projektmanagement sicherstellt und mit Know-how und Kompetenz den verantwortungsvollen Aufgaben übernimmt. Projektmanagement sowie eine enge Zusammenarbeit mit den unterschiedlichen Projektbeteiligten – von der Planungsphase über die Genehmigungs- und Ausschreibungsphase bis hin zu den Vergabeprozessen Erfolgreiche Kommunikation und Abstimmung mit Kunden & Projektbeteiligten sowie Koordination der Schnittstellen im Projekt Erfolgreich abgeschlossenes Studium im Bereich Bauingenieurwesen / Architektur oder eine vergleichbare Qualifikation Einschlägige Berufserfahrung im Bereich Projektmanagement und der Gesamtleitung von komplexen Projekten inkl. Sicherer Umgang mit MS-Office-Produkten sowie AutoCad-, Kenntnisse Sehr gute Deutsch- und Englisch-Kenntnisse Attraktives Vergütungsmodell und unbefristete Festanstellung in Vollzeit Arbeitsverhältnis mit flexiblen Arbeitszeitmodellen & Mobiles Arbeiten Spannende Projekte bei namenhaften Kunden mit modernsten Technologien und zukunftsorientierten Lösungen Verantwortungsvolle Position in einem etablierten, international agierenden Unternehmen Angenehme Arbeitsatmosphäre in einem kollegialen Team, flache Hierarchien mit Flexibilität für Ihre individuellen Bedürfnisse Langfristiger, attraktiver und sicherer Arbeitsplatz mit moderner Infrastruktur in einem zukunftsorientierten Unternehmen Bitte laden Sie Ihre Bewerbung über unsere Homepage hoch: Online-Bewerbungen können wir zügig bearbeiten und Ihnen dadurch zeitnah eine entsprechende Rückmeldung zukommen lassen. Für weitere Informationen stehen Ihnen Monica Müller und das Corventis Team unter +49 / 751 359690 gerne zur Verfügung.",
+   "extra": {
+    "schedule": null,
+    "query": "Projektkoordination",
+    "apply_links": [
+     "https://talents.studysmarter.de/companies/corventis-executive-consultants/projektkoordination-festanstellung-vollzeit-10337339/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "bc073a5ed0ae9cea",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://talents.studysmarter.de/companies/corventis-executive-consultants/projektkoordination-festanstellung-vollzeit-10337339/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Bibliothekar/in für die Projektkoordination bszFOLIO - [\\'Vollzeit\\']",
+   "company": "Bibliotheksservice-Zentrum Baden-Württemberg (BSZ)",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://talents.studysmarter.de/companies/bibliotheksservice-zentrum-baden-wuerttemberg-bsz/bibliothekar-in-fuer-die-projektkoordination-bszfolio-vollzeit-10579670/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Talents By StudySmarter",
+   "description": "Bibliothekar/in für die Projektkoordination bszFOLIO (w/m/d) (Vollzeit, bis E 11 TV-L)Kennziffer 2025/124. Die Stelle ist zum nächstmöglichen Zeitpunkt zu besetzen. Sie ist zunächst auf vier Jahre befristet. Eine Verlängerung wird angestrebt. Die Stelle ist grundsätzlich teilbar.Das BSZ erbringt IT-gestützte Dienstleistungen für wissenschaftliche Bibliotheken, Museen und Archive, insbesondere in Baden-Württemberg, Sachsen und dem Saarland. In dem durch das Ministerium für Wissenschaft und Kunst des Landes Baden-Württemberg geförderten Projekt bwFOLIO prüfen wir derzeit in Kooperation mit unseren Projektpartnern die Einsatzfähigkeit des Bibliotheksmanagementsystems FOLIO für die wissenschaftlichen Bibliotheken des Landes Baden-Württemberg. Im Rahmen des Folgeprojekts bszFOLIO werden wir zunächst die Migration der Pilotbibliothek LIV Heilbronn durchführen. Im Anschluss werden wir einen landesweiten Roll-out an den Hochschulbibliotheken in Baden-Württemberg realisieren. Ihre AufgabenBibliotheksfachliche Verantwortung für das FOLIO-Projekt-Team Einführung des Open-Source-Bibliotheksmanagementsystems FOLIO in Baden-Württemberg in einem engagierten Team in enger Zusammenarbeit mit der ProjektleitungGestaltung des Transformations- und Migrationsprozesses von aDIS/BMS zu FOLIO im Team zusammen mit der ProjektleitungVernetzung mit der regionalen, nationalen und internationalen FOLIO-Community und Leitung internationaler fachlicher Arbeitsgruppen, bspw. für die mehrsprachige Anwenderdokumentation von FOLIOIhr ProfilEin abgeschlossenes Hochschulstudium in den Bereichen Bibliothekswesen oder Informationswissenschaften oder nachweisbar vergleichbare Qualifikation mit abgeschlossenem HochschulstudiumKenntnisse in den Geschäftsgängen in Bibliotheken Fähigkeit zu eigenverantwortlichem und selbstständigem ArbeitenKommunikations- und TeamfähigkeitGute Deutsch- und Englischkenntnisse Kenntnisse der Bibliotheksmanagementsysteme FOLIO und/oder aDIS/BMS sind von VorteilWir bieten Ihnen Die Möglichkeit, den spannenden Prozess der Einführung von FOLIO mitzugestaltenEine wertschätzende ArbeitsatmosphäreGleitende ArbeitszeitMobile OfficeWeiterbildungsangeboteMöglichkeit der Teilnahme an HansefitEingruppierung nach den tariflichen Bestimmungen des TV‑Länder (je nach persönlichen Voraussetzungen und Dauer der Berufserfahrung bis Entgeltgruppe 11 TV-L)Eine auf Sie zugeschnittene individuelle Einarbeitung ist für uns selbstverständlich. Die volle regelmäßige Wochenarbeitszeit beträgt derzeit 39,5 Stunden.Konstanz ist die größte Stadt am Bodensee und als Naherholungsgebiet ein beliebter Wohn- und Arbeitsort mit vielfältigen Freizeitmöglichkeiten.Weitere Informationen erhalten Sie gerne bei Herrn Peter-Paul Kloppenborg (über das Sekretariat des BSZ, Tel. + 49 7531-88-2929) .Wir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum 27.06.2025 über das Online-Bewerbungsportal .Schwerbehinderte werden bei entsprechender Eignung bevorzugt berücksichtigt (Schwerbehindertenvertretung für das BSZ: Tel.: +49 (0)711 685-66145) . Das Land Baden-Württemberg strebt eine Erhöhung des Anteils von Frauen an und begrüßt deshalb die Bewerbung von Frauen.",
+   "extra": {
+    "schedule": null,
+    "query": "Projektkoordination",
+    "apply_links": [
+     "https://talents.studysmarter.de/companies/bibliotheksservice-zentrum-baden-wuerttemberg-bsz/bibliothekar-in-fuer-die-projektkoordination-bszfolio-vollzeit-10579670/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "b87ae1dd12a8bde0",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://talents.studysmarter.de/companies/bibliotheksservice-zentrum-baden-wuerttemberg-bsz/bibliothekar-in-fuer-die-projektkoordination-bszfolio-vollzeit-10579670/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Bildungsplanung",
+   "company": "Stadt Friedrichshafen",
+   "location": "Friedrichshafen",
+   "country": "DE",
+   "url": "https://talents.studysmarter.de/companies/stadt-friedrichshafen/bildungsplanung-35073210/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Talents By StudySmarter",
+   "description": "Friedrichshafen sucht Sie! Eine dynamische Stadt mit vielen Möglichkeiten – Friedrichshafen ist das wirtschaftliche Zentrum einer attraktiven Region direkt am Bodensee. Wir sind eine moderne Stadtverwaltung, die gesellschaftliche Vielfalt im Alltag lebt und eine Unternehmenskultur der gegenseitigen Wertschätzung pflegt. Rund 1.600 Mitarbeiterinnen und Mitarbeiter unserer Stadtverwaltung sorgen täglich für die Lebensqualität von rund 62.000 Einwohnern.\n   Unterstützen Sie uns dabei.\n    Wir haben im Amt für Gesellschaft, Bildung und Soziales – Abteilung Bildung – zum nächstmöglichen Zeitpunkt folgende Stelle (m/w/d) zu besetzen:\n       Bildungsplanung          Die Abteilung Bildung der Stadt Friedrichshafen gestaltet und koordiniert zentrale Aufgaben im Bildungsbereich. Sie trägt Verantwortung für die städtischen Schulen sowie für die Verwaltung der Kindertageseinrichtungen und leistet damit einen wichtigen Beitrag zu guten Bildungs- und Betreuungsangeboten für Kinder und Jugendliche in unserer Stadt.\n     Ihre Aufgaben       Bildungsplanung:\n         Bearbeitung von Grundsatzfragen der Schul- und Bildungsentwicklung          Analyse bildungspolitischer Entwicklungen, Prognosen und Forschungsergebnisse          Konzeptionelle Weiterentwicklung der Bildungslandschaft          Schulentwicklungsplanung:\n         Verantwortung für die Schulentwicklungsplanung          Entwerfen von Lösungsmöglichkeiten bei neuen schulpolitischen und schulgesetzlichen Entwicklungen          Konzeptionelle Planung und Evaluation des öffentlichen Schulangebots (Schulneubauten, -erweiterungen, -zusammenlegungen oder -schließungen) in enger Abstimmung mit Hochbau, Liegenschaften und Finanzverwaltung          Schulraumplanung          Kitaentwicklungsplanung:\n         Quantitative und qualitative Analyse und Planung des Bedarfs an Kitaplätzen in Friedrichshafen          Erstellung von Prognosen für die entsprechenden Alterskohorten für das gesamte Stadtgebiet und die einzelnen Kitastandorten          Eine Anpassung des Aufgabengebiets behalten wir uns vor.\n     Ihr Profil           Ein abgeschlossenes Studium im Bereich Geistes-, Sozial- oder Bildungswissenschaften (B.A. oder Diplom) oder vergleichbar          Umfassende Kenntnisse des baden-württembergischen Schulsystems, aktueller bildungspolitischer und pädagogischer Fragestellungen und Entwicklungen sowie Berufserfahrung in den genannten Aufgabenfeldern und in der Projektarbeit sind wünschenswert          Berufserfahrung in der Projektleitung und im Themenfeld Bildungsplanung sind wünschenswert          Kenntnisse in statistischen Methoden zur Prognosenerstellung          Ausgeprägte Fähigkeiten in der Gesprächsführung sowie im Projektmanagement          Durchsetzungs-, Kommunikations- und Reflexionsfähigkeit sowie Flexibilität          Sicherer Umgang mit Kritik- und Konfliktsituationen sowie ausgeprägte Kooperations- und Teamfähigkeit          Hohes Maß an Eigeninitiative, strategischem Denkvermögen und Belastbarkeit          Wir bieten Ihnen           Einen (krisen-)sicheren modernen Arbeitsplatz mit einer unbefristeten Tätigkeit in Vollzeit (39 Wochenstunden); Die Stelle ist grundsätzlich teilbar (50 % / 50 %). Bitte geben Sie den von Ihnen gewünschten Beschäftigungsumfang (50 % oder 100 %) in der Bewerbung an.          Eine leistungsgerechte Vergütung bei Vorliegen der persönlichen und tariflichen Voraussetzungen bis Entgeltgruppe 11 TVöDinklusive Zusatzrente (ZVK), Leistungsentgelt, Jahressonderzahlung und Vermögenswirksame Leistungen          Eine Einbindung in ein leistungsstarkes Team und ein freundliches Arbeitsklima          Flexible Arbeitszeiten, Vereinbarkeit von Beruf und Familie durch Gleitzeit sowie nach Absprache Möglichkeit zur Arbeit im Homeoffice          Möglichkeiten für bezahlte Freistellungen zur Ermöglichung einer persönlichen Auszeit, Jubiläumszuwendungen, Heiligabend und Silvester dienstfrei          Vielseitige Fort- und Weiterbildungsmöglichkeiten          …",
+   "extra": {
+    "schedule": null,
+    "query": "Bildungsplanung",
+    "apply_links": [
+     "https://talents.studysmarter.de/companies/stadt-friedrichshafen/bildungsplanung-35073210/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "9df68cf30bf8321f",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://talents.studysmarter.de/companies/stadt-friedrichshafen/bildungsplanung-35073210/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "verkehrsexpertin für stadtentwicklung",
+   "company": "beBeeVerkehrslenkung",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://talents.studysmarter.de/companies/bebeeverkehrslenkung/verkehrsexpertin-fuer-stadtentwicklung-27141817/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Talents By StudySmarter",
+   "description": "Stadt Konstanz wächst kontinuierlich. Hierbei liegt der Schwerpunkt auf dem Verkehr im gesamten Gemeindegebiet.\nDas Tiefbauamt hat die Aufgabe, das Verkehrsmanagement zu steuern und umzusetzen.\nIn einem engagierten Team arbeiten wir an der Entwicklung des Verkehrsmanagements.\nAufgaben in unserem Team sind:\nPlanung von Projekten mit fachlicher Expertise Kooperationen zwischen Abteilungen  Auch werden unsere Mitarbeiter gerne über interne Umstrukturierungen informiert.\\\"),",
+   "extra": {
+    "schedule": null,
+    "query": "Stadtentwicklung",
+    "apply_links": [
+     "https://talents.studysmarter.de/companies/bebeeverkehrslenkung/verkehrsexpertin-fuer-stadtentwicklung-27141817/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "7fb317a2f0791eed",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://talents.studysmarter.de/companies/bebeeverkehrslenkung/verkehrsexpertin-fuer-stadtentwicklung-27141817/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Gleichstellungsbeauftragte für das Landratsamt Konstanz",
+   "company": "Landratsamt Konstanz",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://talents.studysmarter.de/companies/landratsamt-konstanz/gleichstellungsbeauftragte-fuer-das-landratsamt-konstanz-15883575/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Talents By StudySmarter",
+   "description": "Das Landratsamt Konstanz gehört mit über 1.300 Mitarbeitenden zu den größten Arbeitgebern in der Region. Unsere rund 30 Fachämter bieten vielseitige Karriereperspektiven und die Chance, den Landkreis Konstanz nachhaltig mitzugestalten.\nUnser Gleichstellungsteam setzt sich aktiv für Gleichstellung sowie Chancen- und Geschlechtergerechtigkeit im Landratsamt und Landkreis ein. Zur Verstärkung suchen wir eine Impulsgeberin und Ansprechpartnerin für die gleichberechtigte Teilhabe im Haus: Sie informieren und beraten Mitarbeitende zu Gleichstellungsthemen und bringen Gleichstellungsgrundsätze erfolgreich in die Verwaltungspraxis.\n Starten Sie zum 1. Januar 2026 als unsere kommunale Gleichstellungsbeauftragte – in Teilzeit (40-50 %) und mit einer vielfältigen, bedeutsamen Aufgabe.\n    Gestalten:       Sie leiten und verantworten die Erstellung des Chancengleichheitsplans und setzen damit eine zentrale Forderung des Chancengleichheitsgesetzes Baden-Württemberg um.    Sie konzipieren wirksame Maßnahmen zum Abbau von Unterrepräsentanzen und zur Förderung der Vereinbarkeit und Chancengleichheit.    Sie bilden ein strategisches Tandem mit der externen Gleichstellungsbeauftragten des Landkreises, stimmen sich eng ab und sichern die gegenseitige Vertretung.         Beraten:       Sie beraten und unterstützen die Mitarbeitenden bei Fragen zu Diskriminierung, Gleichstellung und Vereinbarkeit.     Sie prägen personelle, organisatorische und soziale Initiativen des Landratsamtes aktiv mit.         Vernetzen:\n      Sie arbeiten partnerschaftlich mit den Personalvertretungen zusammen und entwickeln gemeinsame Maßnahmen.    Sie engagieren sich in der Landesarbeitsgemeinschaft der Gleichstellungsbeauftragten Baden-Württemberg.\n    Abgeschlossenes Studium in Soziologie, Sozialer Arbeit, Sozialmanagement, Personalmanagement, Gender Studies oder vergleichbar.     Fundierte Fachkenntnisse in Frauen- und Gleichstellungspolitik, Gendermainstreaming, Diversity Management sowie Vereinbarung von Familie/Pflege/Beruf.     Relevante Erfahrung in Projektleitung, Projektmanagement und Öffentlichkeitsarbeit.\n   Im Idealfall Erfahrung in der Projekt- und Netzwerkarbeit sowie im Umgang mit politischen und sozial aktiven Netzwerken.    Flexibilität in der Arbeitszeitgestaltung für Termine und Abstimmungen.    Sie überzeugen durch Empathie, ausgeprägte Kommunikationsfähigkeit und sicheres Auftreten.\n    Ihre Arbeitsweise ist geprägt von Selbstständigkeit, strukturiertem Vorgehen, Lösungsorientierung und ausgezeichneter Organisationsfähigkeit.\n    Aktiv gestalten: Eine vielseitige und zentrale, gestaltende Rolle mit Bezahlung bis Entgeltgruppe 11 TVöD (2.076,67 – 3.077,22 Euro in Teilzeit mit 50%) bzw. Besoldungsgruppe A 12 LBesO BW, vorbehaltlich der finalen Stellenbewertung.     Flexibel arbeiten: Gleitzeitregelung, Homeoffice-Option und ein Arbeitszeitkonto für Freizeitausgleich.     Ausgeglichen leben: Vielfältige Angebote für ein gesundes, familienfreundliches Arbeitsumfeld – von Betriebsmedizin bis Kinder-Ferienprogramm.      Finanziell profitieren: Betriebliche Altersvorsorge, Leistungsprämie, Jahressonderzahlung, vermögenswirksame Leistungen.      Rundum wohlfühlen: Kantine, Hansefit, Bike-Benefits und ein Arbeitsplatz in zentrale Lage mit sehr guter Verkehrsanbindung.\n Wir freuen uns auf Ihre Bewerbung bis zum  26. Oktober 2025   über unser Bewerbungsportal.\n Wir fördern Chancengleichheit und ermutigen auch Menschen mit Migrationshintergrund, mit anerkannter Behinderung und in besonderen Lebenslagen sich zu bewerben.",
+   "extra": {
+    "schedule": null,
+    "query": "Gleichstellung",
+    "apply_links": [
+     "https://talents.studysmarter.de/companies/landratsamt-konstanz/gleichstellungsbeauftragte-fuer-das-landratsamt-konstanz-15883575/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "4547540d609039b0",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://talents.studysmarter.de/companies/landratsamt-konstanz/gleichstellungsbeauftragte-fuer-das-landratsamt-konstanz-15883575/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Chemiker/in Produktentwicklung & Analytik / Stv. Laborleitung (m/w/d), 80 - 100%",
+   "company": "Halag Chemie AG",
+   "location": "Aadorf, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/chemiker-in-produktentwicklung-analytik-stv-laborleitung-m-w-d-80-100%25-at-halag-chemie-ag-4477229340",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Über uns Die Halag Chemie AG nimmt eine entscheidende Rolle bei der Gewährleistung der Lebensmittelsicherheit wahr, und trägt somit zu einer sicheren Versorgung der Schweizer Bevölkerung mit qualitativ hochwertigen Lebensmitteln bei. Wir sind Teil der Schweizer Agrargenossenschaft fenaco. Zu dieser gehören auch andere namhafte Marken wie UFA, RAMSEIER, Volg, LANDI und AGROLA. Halag Chemie – auch das ist fenaco. Chemiker/in Produktentwicklung & Analytik / Stv. Laborleitung (m/w/d), 80 - 100% Die Halag Chemie AG in Aadorf/TG ist der führende Schweizer Hersteller von nachhaltigen Reinigungs- und Desinfektionsprodukten, Systemlösungen und Serviceleistungen für die Lebensmittelindustrie. In unserem Forschungs- & Entwicklungslabor gestaltest Du die Produkte von morgen mit: von der Rezepturentwicklung nachhaltiger Reinigungs- und Desinfektionslösungen über die instrumentelle Analytik bis zur Digitalisierung unserer Laborprozesse. Die enge Zusammenarbeit im Team und die vielfältigen Fragestellungen aus der Lebensmittelindustrie sorgen für eine abwechslungsreiche, spannende und verantwortungsvolle Tätigkeit. Du übernimmst gerne Verantwortung und möchtest innovative sowie nachhaltige Lösungen mitgestalten? Dann freuen wir uns darauf, Dich kennenzulernen. Zur Ergänzung unseres Labor- und Entwicklungsteams suchen wir per 1. Januar 2027 oder nach Vereinbarung eine/einen Chemiker/in Produktentwicklung & Analytik / Stv. Laborleitung (m/w/d), 80 - 100% Diese Aufgaben begeistern dich Du entwickelst und optimierst Reinigungs- und Desinfektionsprodukte unter Berücksichtigung technischer, umweltbedingter und gesetzlicher Vorgaben. Anwendungstechnische Proben und Membranautopsien werden von Dir bearbeitet, beurteilt und dokumentiert. Du qualifizierst neue Rohstoffe und übernimmst die Freigabeverantwortung für Qualitätskontrollproben und Laborberichte von Kundenproben. Du bist für unsere analytischen Laborgeräte inkl. Software (u. a. NMR, IR, TOC, NIR/Vis, Labormembrananlage) verantwortlich, entwickelst Methoden weiter und stellst den Stand der Technik sicher. Mit Deinem chemischen Fachwissen unterstützt Du den Einkauf und andere interne Stellen und führst Schulungen und Workshops durch. Bei Engpässen übernimmst Du die Stellvertretung in der Qualitätskontrolle und der Analyse der Kundenproben. Du übernimmst die Stellvertretung der Laborleitung. Auf dieses Profil freuen wir uns Du hast eine abgeschlossene Ausbildung als Chemiker/in FH, bzw. eine gleichwertige Qualifikation. Du hast Berufserfahrung in der Produkt- bzw. Rezepturentwicklung und/oder in der instrumentellen Analytik, idealerweise im Bereich Reinigung/Desinfektion oder einer verwandten Branche. Du hast eine ausgeprägte Affinität zur instrumentellen Analytik und Freude an der Geräteverantwortung (u. a. NMR, IR, TOC, NIR/Vis). Digitalaffinität und Interesse an der Digitalisierung von Laborprozessen (LIMS, Laborsoftware). Selbständig, exakt und strukturiert zu arbeiten, ist für Dich selbstverständlich und Du hast einen ausgeprägten Teamgeist. Du experimentierst gerne und hast Freude an praktischer Entwicklungs- und Laborarbeit. Sehr gute Deutschkenntnisse, Englischkenntnisse von Vorteil. Entdecke deine Vorteile Aus- und Weiterbildung Wir investieren in die Entwicklung unserer Mitarbeitenden. Ein breites internes Bildungsangebot steht allen offen, und wir unterstützen externe Weiterbildungen. Attraktive Ferienregelung Unsere Ferienregelung garantiert allen Mitarbeitenden mindestens 5 Wochen Ferien. Ab dem 50. Lebensjahr sind es 6 Wochen und ab dem 60. Lebensjahr sogar 7 Wochen. Zudem ist der Kauf von weiteren Ferientagen möglich. Familienzeit Mütter erhalten während der 18 Wochen Mutterschaftsurlaub 100 Prozent ihres versicherten Lohns. Der andere Elternteil geniesst 3 Wochen Familienzeit bei vollem Lohn. Versicherungsleistungen Wir sichern unsere Mitarbeitenden mit überdurchschnittlichen Sozial- und Vorsorgeleistungen ab und bieten Sonderkonditionen auf Zusatzversicherungen bei diversen …",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9fb1322c7f1f85ba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/chemiker-in-produktentwicklung-analytik-stv-laborleitung-m-w-d-80-100%25-at-halag-chemie-ag-4477229340"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Wissenschaftliche:r Mitarbeiter:in im Fachbereich Strategie und Leadership 80–100 %",
+   "company": "Equal.Jobs",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-im-fachbereich-strategie-und-leadership-80%E2%80%93100-%25-at-equal-jobs-4478041341",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Als wissenschaftliche:r Mitarbeiter:in an der Fachstelle Strategie und Leadership verfügen Sie über ein profundes Verständnis in den Themenbereichen Strategisches Management und Führung. Im Fokus Ihrer Tätigkeit steht die Erforschung und die Wissensvermittlung von Strategie und Leadership als Faktoren für den nachhaltigen Erfolg von Organisationen. Ergänzen Sie unser Team mit Ihrem Wissen und Ihrer Erfahrung! Departement School of Management and Law Arbeitsbeginn per sofort oder nach Vereinbarung Aufgaben Mitarbeit in Forschungs- und Dienstleistungsprojekten Mitarbeit in der Akquisition von Drittmittelgeldern (z.B. Innosuisse, SNF) Wissensvermittlung in Bachelor-Studiengängen und Weiterbildungen (CAS) Begleitung von Bachelor- sowie Diplomarbeiten Erstellung von wissenschaftlichen Publikationen, Expertisen und Berichten Profil Abgeschlossenes Hochschulstudium (Master) in Wirtschaft- oder Sozialwissenschaften im Bereich Strategisches Management und/oder Leadership Klare Motivation, eine Promotion an einer Universität aufzunehmen (wir unterstützen Sie beim Verfolgen Ihres Promotionsprojektes) Mehrjährige relevante Berufs- bzw. Praxiserfahrung in Bereichen wie Strategie, Führung, Organisationsentwicklung, Transformation, Beratung oder vergleichbaren Funktionen Ausgeprägtes Interesse daran, Praxisfragen wissenschaftlich zu reflektieren, zu systematisieren und weiterzuentwickeln Fähigkeit und Bereitschaft, Praxis- und Forschungsperspektiven miteinander zu verbinden – insbesondere in der Lehre und in der angewandten Forschung Freude an forschungsbasierter, praxisnaher Lehre sowie an der Zusammenarbeit mit Studierenden und externen Praxispartnern Didaktischen Qualifikation oder Bereitschaft gegeben, diese nachzuholen Sehr gute Deutsch- und Englischkenntnisse Einreichung wird ausschliesslich über das Online-Formular entgegen genommen bis zum 18. Oktober 2026. Die Online-Erstgespräche sind vorgesehen vom 26. bis 28. Oktober 2026. Dafür stehen wir Die ZHAW Zürcher Hochschule für Angewandte Wissenschaften ist mit über 14'000 Studierenden und über 11'000 Weiterbildungsteilnehmenden sowie mit rund 3'700 Mitarbeitenden eine der grössten Mehrsparten-Fachhochschulen der Schweiz. Die ZHAW School of Management and Law (SML) ist mit international anerkannten Bachelor- und Masterstudiengängen sowie kooperativen Doktoratsprogrammen, einem bedarfsorientierten und etablierten Weiterbildungsangebot sowie innovativen Forschungs- und Entwicklungsprojekten eine der führenden Wirtschaftshochschulen der Schweiz. Als erstes Wirtschaftsdepartement einer Schweizer Fachhochschule erfüllt die SML die hohen Standards der Association to Advance Collegiate Schools of Business (AACSB) und zählt damit zu den besten 800 Business Schools weltweit. Die ZHAW setzt sich für geschlechtergemischte und diverse Teams ein, um Gleichstellung, Vielfalt und Innovation zu fördern. Das bieten wir an Wir Bieten Hochschulgerechte Arbeits- Und Anstellungsbedingungen Und Fördern Aktiv Die Personalentwicklung Unserer Mitarbeitenden Und Führungspersonen. Eine Detaillierte Beschreibung Der Vorteile Finden Sie Auf Der Seite Arbeiten An Der ZHAW. Hier Die Wichtigsten Eckpunkte Kontakt Dr. Michael Stadler Leiter Fachstelle Strategie und Leadership Franziska Trebus HR Branding & Recruiting Manager Show more Show less Seniority level Not Applicable Employment type Full-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at Equal.Jobs by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "aa185c9fc8cab9dd",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-im-fachbereich-strategie-und-leadership-80%E2%80%93100-%25-at-equal-jobs-4478041341"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Dozent:in für Strafrecht 60 %",
+   "company": "Equal.Jobs",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/dozent-in-f%C3%BCr-strafrecht-60-%25-at-equal-jobs-4478037578",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Sind Sie eine initiative und motivierte Persönlichkeit mit Freude am Unterrichten und Forschen, die im Bereich des Strafrechts und Strafprozessrechts spezialisiert ist? Dann haben wir die richtige Stelle für Sie! Wir bieten Ihnen viele Gestaltungsmöglichkeiten in einem hoch relevanten Rechtsgebiet. Departement School of Management and Law Arbeitsbeginn Februar 2027 Aufgaben Unterstützung beim Aufbau der Fachstelle für Wirtschaftsstrafrecht in den Bereichen Lehre, Forschung & Entwicklung, Weiterbildung sowie Dienstleistung Entwicklung von Modulen im Bachelorstudiengang Angewandtes Recht Lehrtätigkeit im Bereich Straf- und Strafprozessrecht in Bachelor, Master- und Weiterbildungslehrgängen Forschungs- und Publikationstätigkeit im Bereich Straf- und Strafprozessrecht, damit verbunden Akquisition und Realisierung von einschlägigen Forschungsprojekten Mitarbeit an der Entwicklung und Lancierung von neuen Aus- und Weiterbildungsprodukten Profil Für diese anspruchsvolle und vielseitige Funktion bringen Sie einen juristischen Hochschulabschluss mit Promotion und vorzugsweise ein Anwaltspatent mit. Im Straf- und Strafprozessrecht verfügen Sie über einen überzeugenden wissenschaftlichen Ausweis und mehrjährige praktische Erfahrung. Sie verfügen bereits über Lehrerfahrung sowie eine didaktische Qualifikation und sind motiviert, Ihre Expertise weiterzugeben. Sie denken unternehmerisch, sind initiativ und ideenreich und haben Freude, Verantwortung zu übernehmen und zusammen mit einem Team Neues zu entwickeln und aufzubauen. Wir bieten Ihnen den Freiraum und das kollegiale Umfeld zur Entfaltung Ihrer Ambitionen. Ihre ausgeprägte Kommunikationsfähigkeit in Deutsch und Englisch runden Ihr Profil ab. Dafür stehen wir Die ZHAW Zürcher Hochschule für Angewandte Wissenschaften ist mit über 14'000 Studierenden und über 11'000 Weiterbildungsteilnehmenden sowie mit rund 3'700 Mitarbeitenden eine der grössten Mehrsparten-Fachhochschulen der Schweiz. Die ZHAW School of Management and Law (SML) ist mit rund 9500 Studierenden eine der grössten Business Schools der Schweiz. Sie ist als einzige Fachhochschule des Landes in renommierten Rankings der Wirtschaftszeitung «Financial Times» vertreten und AACSB, EQUIS sowie AMBA akkreditiert – Labels für hohe Qualitätsstandards in Lehre, Forschung und Weiterbildung. Die international anerkannten Bachelor- und Masterstudiengänge, kooperativen PhD-Programme sowie die zahlreichen Weiterbildungsangebote sind wissenschaftlich fundiert, interdisziplinär und praxisorientiert. Die SML unterhält zahlreiche Kooperationen mit über 190 ausgesuchten Partnerhochschulen weltweit. In der Abteilung Business Law ist die rechtliche Kompetenz der School of Management and Law konzentriert. Zu den vielfältigen bestehenden Aktivitäten der Abteilung in Lehre, Forschung- und Entwicklung sowie Weiterbildung ist seit dem Herbstsemester 2022 der Bachelorstudiengag Angewandtes Recht hinzugekommen, in welchem Strafrecht ein wichtiger Bestandteil ist. Die Fachstelle für Wirtschaftsstrafrecht ist Teil der Abteilung Business Law. Wir befassen uns mit strafrechtlichen und strafprozessrechtlichen Fragen im nationalen und internationalen Kontext. Die ZHAW setzt sich für geschlechtergemischte und diverse Teams ein, um Gleichstellung, Vielfalt und Innovation zu fördern. Das bieten wir an Wir Bieten Hochschulgerechte Arbeits- Und Anstellungsbedingungen Und Fördern Aktiv Die Personalentwicklung Unserer Mitarbeitenden Und Führungspersonen. Eine Detaillierte Beschreibung Der Vorteile Finden Sie Auf Der Seite Arbeiten An Der ZHAW. Hier Die Wichtigsten Eckpunkte Kontakt Prof. Dr. iur. Sonja Pflaum Leiterin Fachstelle für Wirtschaftsstrafrecht Dagmar Debrunner-Stachl Recruiting Manager Show more Show less Seniority level Not Applicable Employment type Part-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at Equal.Jobs by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "abcb94c725192c70",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/dozent-in-f%C3%BCr-strafrecht-60-%25-at-equal-jobs-4478037578"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Berufsbildner:in Gleisbau",
+   "company": "SBB CFF FFS",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/berufsbildner-in-gleisbau-at-sbb-cff-ffs-4441207893",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "76d5a6f474b25257",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/berufsbildner-in-gleisbau-at-sbb-cff-ffs-4441207893"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Projektleiter Sanitär 80-100% (m/w)",
+   "company": "yellowshark® AG",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-sanit%C3%A4r-80-100%25-m-w-at-yellowshark%C2%AE-ag-4475612381",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Für unserer Kunden dürfen wir eine spannende Schlüsselposition im Bereich Sanitär besetzen. Gesucht wird eine engagierte Persönlichkeit, die gerne Verantwortung übernimmt, technisch versiert ist und Freude daran hat, Projekte erfolgreich von der Planung bis zur Umsetzung zu begleiten. Unser Kunde ist ein etabliertes und zukunftsorientiertes Unternehmen im Bereich Gebäudetechnik. Qualität, Kundenzufriedenheit und eine professionelle Arbeitsweise stehen dabei ebenso im Mittelpunkt wie ein wertschätzendes Miteinander und die Weiterentwicklung der Mitarbeitenden. Aufgaben In dieser vielseitigen Funktion übernehmen Sie eine zentrale Rolle in der Planung und Umsetzung von Sanitärprojekten. Sie koordinieren unterschiedliche Anspruchsgruppen, behalten den Überblick und sorgen dafür, dass Projekte effizient, qualitativ und termingerecht umgesetzt werden. Zu Ihren Aufgaben Gehören Unter Anderem Selbstständige Betreuung und Leitung von Sanitärprojekten Planung, Koordination und Überwachung der Projekte von der Offerte bis zur Fertigstellung Erstellung und Bearbeitung von Offerten und Kalkulationen Koordination von Mitarbeitenden, Lieferanten, Kunden und weiteren Projektpartnern Überwachung von Terminen, Kosten und Qualität Technische Beratung und Betreuung der Kunden Begleitung der Ausführung und Sicherstellung einer fachgerechten Umsetzung Organisation und Koordination von Material und Ressourcen Bearbeitung von Projektdokumentationen und administrativen Aufgaben Aktive Mitarbeit bei der Weiterentwicklung von Abläufen und Lösungen Profil Sie sind eine Persönlichkeit, die gerne Verantwortung übernimmt und auch bei mehreren parallel laufenden Projekten den Überblick behält. Idealerweise Verfügen Sie Über Eine abgeschlossene Ausbildung im Sanitärbereich oder eine vergleichbare technische Ausbildung Berufserfahrung in der Sanitär- bzw. Gebäudetechnik Eine Weiterbildung im Bereich Projektleitung, Gebäudetechnik oder eine vergleichbare Qualifikation von Vorteil Erfahrung in der selbstständigen Abwicklung von Projekten Gutes technisches Verständnis und ausgeprägtes Organisationstalent Eine strukturierte, zuverlässige und lösungsorientierte Arbeitsweise Sicheres und kundenorientiertes Auftreten Kommunikationsstärke und Freude an der Zusammenarbeit mit unterschiedlichen Ansprechpartnern Eigeninitiative, Verantwortungsbewusstsein und unternehmerisches Denken Wissenswertes Hier übernehmen Sie nicht einfach einen Job Sie erhalten die Möglichkeit, Projekte aktiv mitzugestalten und Verantwortung zu übernehmen. Unser Kunde Bietet Ihnen Abwechslungsreiche Projekte mit unterschiedlichen Herausforderungen Viel Eigenverantwortung und persönlichen Gestaltungsspielraum Moderne Arbeitsbedingungen und professionelle Strukturen Kurze Entscheidungswege und eine unkomplizierte Zusammenarbeit Ein kollegiales und wertschätzendes Team, in dem gegenseitige Unterstützung selbstverständlich ist Weiterbildungs- und Entwicklungsmöglichkeiten, damit Sie fachlich und persönlich weiterkommen Eine langfristige Perspektive in einem etablierten und zukunftsorientierten Unternehmen Direkten Kundenkontakt und die Möglichkeit, eigene Ideen und Lösungen einzubringen Zeitgemässe Anstellungsbedingungen und attraktive Rahmenbedingungen Ein Arbeitsumfeld, in dem Qualität, Vertrauen und Eigeninitiative geschätzt werden Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Services Referrals increase your chances of interviewing at yellowshark® AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "971b46d295bfc206",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-sanit%C3%A4r-80-100%25-m-w-at-yellowshark%C2%AE-ag-4475612381"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Produktmanager Finanzierung (m/w/d) – Entwickeln Sie Finanzierungslösungen, die Zu",
+   "company": "Volksbank eG Überlingen",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktmanager-finanzierung-m-w-d-%E2%80%93-entwickeln-sie-finanzierungsl%C3%B6sungen-die-zu-at-volksbank-eg-%C3%BCberlingen-4475609568",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Aufgaben Firmenbeschreibung Als unabhängige Genossenschaftsbank gestalten wir bei der Volksbank eG Überlingen aktiv die Zukunft unserer Region – ehrlich, respektvoll und partnerschaftlich an der Seite unserer Mitglieder und Kunden. Teilen Sie unsere Werte? Dann werden Sie Teil unseres Teams! Ein eigenes Zuhause, eine Investition oder der nächste unternehmerische Schritt: Hinter jeder Finanzierung steht ein Vorhaben. Als Produktmanager Finanzierung entwickeln Sie die Angebote und Vertriebsansätze, mit denen wir unsere Kunden bei der Verwirklichung ihrer Ziele unterstützen. Was Sie bei uns bewegen: Sie übernehmen die fachliche Verantwortung für unser Kunden- und Leistungsportfolio im Produktfeld Kredit & Finanzierung und entwickeln es strategisch und operativ weiter. Sie analysieren Kundenbedürfnisse, Markt- und Wettbewerbsentwicklungen sowie regulatorische Veränderungen und leiten daraus konkrete Handlungsbedarfe ab. Sie entwickeln bedarfsgerechte Lösungen, Angebote und Vertriebsansätze rund um Kredit und Finanzieren, Immobilie und Wohnen sowie Investition und Finanzierung. Sie steuern die Weiterentwicklung des Portfolios entlang unserer Vertriebsziele und bringen Kundenorientierung, wirtschaftliche Tragfähigkeit und fachliche Anforderungen zusammen. Als zentrale fachliche Ansprechperson im Produktfeld bereiten Sie komplexe Themen verständlich auf und erstellen fundierte Entscheidungsgrundlagen und Handlungsempfehlungen für Management, Vertrieb und Fachbereiche. Das bringen Sie mit: Eine abgeschlossene Bankausbildung mit relevanter Weiterqualifikation, beispielsweise zum Bankfachwirt oder Bankbetriebswirt, oder ein abgeschlossenes wirtschaftswissenschaftliches Studium. Mehrjährige relevante Erfahrung im Kundenkredit- und Finanzierungsgeschäft, im Produktmanagement oder im Vertriebsmanagement mit Schwerpunkt Finanzierung. Fundierte Kenntnisse im Kreditgeschäft sowie ein gutes Verständnis für die Anforderungen von Privat- und Firmenkunden und die relevanten regulatorischen Rahmenbedingungen. Analytische und konzeptionelle Fähigkeiten sowie einen ganzheitlichen Blick auf das Zusammenspiel von Produkten, Prozessen und Vertrieb. Unternehmerisches Denken, ausgeprägte Kundenorientierung und die Fähigkeit, aus fachlichen Erkenntnissen konkrete Verbesserungen abzuleiten. Kommunikationsstärke, eine strukturierte und eigenverantwortliche Arbeitsweise sowie Freude daran, gemeinsam mit unterschiedlichen Fachbereichen tragfähige Lösungen zu entwickeln. Was wir Ihnen bieten: Mitarbeit in einem engagierten Team, kurze Wege und schnelle Entscheidungen Attraktive Vergütung, umfangreiche Sozialleistungen und Sonderkonditionen für Bankprodukte Gezielte Weiterbildung und individuelle Förderprogramme in der Genossenschaftlichen FinanzGruppe Flexible Arbeitszeiten und moderne Arbeitsstrukturen Kostenlose Mitgliedschaft im Fitnessstudio und JobRad Sie haben Fragen zur Position oder sind unsicher, ob Ihr Profil passt? Lassen Sie uns gerne darüber sprechen. Wir freuen uns darauf, Sie kennenzulernen. Kathrin Girlanda - Recruiting Telefon: 07551-1930656 kathrin.girlanda@volksbank-ueberlingen.de Jetzt bewerben Profil Wir bieten Firmenbeschreibung Als unabhängige Genossenschaftsbank gestalten wir bei der Volksbank eG Überlingen aktiv die Zukunft unserer Region – ehrlich, respektvoll und partnerschaftlich an der Seite unserer Mitglieder und Kunden. Teilen Sie unsere Werte? Dann werden Sie Teil unseres Teams! Ein eigenes Zuhause, eine Investition oder der nächste unternehmerische Schritt: Hinter jeder Finanzierung steht ein Vorhaben. Als Produktmanager Finanzierung entwickeln Sie die Angebote und Vertriebsansätze, mit denen wir unsere Kunden bei der Verwirklichung ihrer Ziele unterstützen. Was Sie bei uns bewegen: Sie übernehmen die fachliche Verantwortung für unser Kunden- und Leistungsportfolio im Produktfeld Kredit & Finanzierung und entwickeln es strategisch und operativ weiter. Sie analysieren Kundenbedürfnisse, Markt- und Wettbewerbsentwicklungen sowie …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "23dde2654a8a3595",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktmanager-finanzierung-m-w-d-%E2%80%93-entwickeln-sie-finanzierungsl%C3%B6sungen-die-zu-at-volksbank-eg-%C3%BCberlingen-4475609568"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Fachperson Sozialpädagogik HF/FH oder Psychiatrie HF (80-90%)",
+   "company": "Faire une carrière empreinte d'humanité",
+   "location": "Weinfelden, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachperson-sozialp%C3%A4dagogik-hf-fh-oder-psychiatrie-hf-80-90%25-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4478069372",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Wohnheim mit integrierter Beschäftigung Die Sonnenburg bietet 30 erwachsenen Menschen mit Suchtmittelabhängigkeiten (v.a. Alkohol) und/oder psychischen Beeinträchtigungen einen begleiteten Lebensraum und angepasste Beschäftigungsmöglichkeiten. Unser niederschwelliges Angebot richtet sich nach dem Konzept der „Zieloffenen Suchtarbeit“. Wir ermöglichen Menschen mit komplexen Lebensverhältnissen ein stabilisierendes Umfeld und damit Lebensqualität. Als Verstärkung des Wohnteams suchen wir Fachperson Sozialpädagogik HF/FH oder Psychiatrie HF (80-90%) mit Zusatzaufgabe Praxisanleiter Ihre Aufgaben Tagdienst mit Schicht- und Wochenendabdeckung (keine Nachtdienste) Beziehungs- und Alltagsgestaltung in Bezugspersonenarbeit Ferien- und Freizeitgestaltung Notversorgung und Krisenbewältigung (mit Hintergrund Unterstützung) Zusatzaufgaben nach Interesse und Bedarf Praxisanleitung von Studierenden (Bereitschaft zur Weiterbildung dazu) Ihr Profil Diplomabschluss in genannter Profession Führerschein mit Fahrpraxis Sie sind bereit Herausforderungen kreativ anzugehen Selbstkompetenz, Entscheidungs- und Durchsetzungsfähigkeit Belastbarkeit und ausgeprägtes Reflexionsvermögen Gute PC-Anwenderkenntnisse Ihre Zukunft bei uns Detaillierte Einarbeitung Wertschätzendes Arbeitsklima Viel Raum für Eigeninitiative, agiles Team Interne und externe Weiterbildungen Kontaktperson Herr Steiger Raphael, Heimleitung, gibt Ihnen unter 071 626 27 34 gern Auskunft zu dieser interessanten Stelle. – Weitere Informationen: www.sonnenburg.ch Ihre vollständigen Bewerbungsunterlagen senden Sie vorzugsweise bitte digital an info@sonnenburg.ch. / oder schriftlich an: Sonnenburg, wohnen und arbeiten, Amriswilerstrasse 32, 8570 Weinfelden Show more Show less Seniority level Not Applicable Employment type Full-time Industries Higher Education Referrals increase your chances of interviewing at Faire une carrière empreinte d'humanité by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "26bb4f314f9d8970",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-sozialp%C3%A4dagogik-hf-fh-oder-psychiatrie-hf-80-90%25-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4478069372"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Senior Investment Advisor(in), 60 - 100 %",
+   "company": "Equal.Jobs",
+   "location": "Weinfelden, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-investment-advisor-in-60-100-%25-at-equal-jobs-4478040473",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Miteinander mehr bewirken Wir sind voller Engagement und Empathie - und geben täglich unser Bestes. Gemeinsam setzen wir uns dafür ein, dass die Menschen und Unternehmen unserer Region in der TKB mehr als eine Bank sehen. Wir wollen miteinander mehr bewirken. Das gelingt uns, indem wir auf individuelle Stärken, empathische Führungskräfte und Mitarbeitende sowie eine unkomplizierte Zusammenarbeit auf Augenhöhe setzen. Dein Wirkungskreis Du begleitest unsere Private-Banking-Berater als Investment-Spezialist bei anspruchsvollen Kundenterminen. Dabei bringst du deine Expertise zu Finanzmärkten, Anlagestrategien und Investmentprodukten gezielt ein und vermittelst komplexe Anlagethemen verständlich und überzeugend Du entwickelst, verfasst und publizierst Investmentideen, Anlageempfehlungen, Ad-hoc-Kommentare sowie fundierte Analysen zum Kapitalmarktgeschehen. Dabei stützt du dich auf das Research ausgewählter Partner, ordnest die Erkenntnisse eigenständig ein und leitest daraus konkrete Anlageimpulse ab Du bist zentrale Ansprechperson für investment- und produktbezogene Fragestellungen über alle relevanten Anlageklassen hinweg Du unterstützt Kundenberaterinnen und Kundenberater bei der Erstellung fundierter Depotanalysen und individueller Anlagevorschläge Dein Potenzial Du verfügst über einen Universitäts- oder Fachhochschulabschluss oder über eine vergleichbare Qualifikation, beispielsweise AZEK oder CFA, in Verbindung mit mehrjähriger relevanter Berufserfahrung Du hast Erfahrung in der direkten Beratung von Private Banking Kunden, im Investment Advisory oder in einer vergleichbaren kundennahen Investmentfunktion Du hast Erfahrung im eigenständigen Verfassen stilsicherer und aussagekräftiger Marktberichte, Anlageempfehlungen oder anderer Anlagepublikationen Du verfügst über breite und fundierte Kenntnisse der Finanzmärkte, Anlagestrategien und Investmentprodukte. Dazu gehören insbesondere Aktien, Obligationen, kollektive Anlageinstrumente und strukturierte Produkte Du bist versiert im Umgang mit Office-Applikationen, Bloomberg und KI-Tools Deine Arbeitsweise Du trittst in Kundengesprächen professionell, gewinnend und überzeugend auf und verstehst es, mit deiner fachlichen Kompetenz Vertrauen zu schaffen Du arbeitest partnerschaftlich mit unseren Private-Banking-Beratern zusammen und verstehst deine Rolle als fachliche Ergänzung in der Kundenberatung Du verfügst über eine lösungsorientierte und kreative Arbeitsweise und agierst gerne als kollegiale(r) Teamplayer(in) Du bist engagiert, eigenverantwortlich und verfügst über ausgeprägte analytische und konzeptionelle Fähigkeiten Du kommunizierst und präsentierst gerne und besitzt eine stilsichere Ausdrucksweise in Wort und Schrift Dein nächster Schritt Wir freuen uns auf deine Online-Bewerbung und melden uns so schnell wie möglich wieder bei dir! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at Equal.Jobs by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5ab3970bb6df2fa7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-investment-advisor-in-60-100-%25-at-equal-jobs-4478040473"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Zivilschutzinstruktorin / Zivilschutzinstruktor, 100 %",
+   "company": "Kanton Schaffhausen",
+   "location": "Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/zivilschutzinstruktorin-zivilschutzinstruktor-100-%25-at-kanton-schaffhausen-4477218566",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Kanton Schaffhausen, Amt für Bevölkerungsschutz und Armee Im Amt für Bevölkerungsschutz und Armee (B+A) sorgen wir in Zusammenarbeit mit den Partnerorganisationen und Dritten für den Schutz der Bevölkerung in Grossereignissen, Katastrophen und Notlagen. Gibt es eine bessere Aufgabe? Für die Abteilung Zivilschutzorganisation (ZSO) suchen wir aufgrund einer Pensionierung per 01.06.2027 oder nach Vereinbarung eine / einen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Schaffhausen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "652288d3b3600d15",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/zivilschutzinstruktorin-zivilschutzinstruktor-100-%25-at-kanton-schaffhausen-4477218566"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Strategic Sourcing Manager - Raw Material & Surface Treatment",
+   "company": "VAT GROUP",
+   "location": "Sennwald, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/strategic-sourcing-manager-raw-material-surface-treatment-at-vat-group-4475612331",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "About VAT Group At VAT, we change the world with vacuum solutions. As the world’s leading supplier of high-performance vacuum valves, we have been driving innovation for more than 60 years. With over 3,200 employees worldwide, we operate from our headquarters in Haag, Switzerland, with manufacturing sites in Switzerland, Malaysia and Romania, as well as sales and service hubs around the world. We guided by our passions integrity, teamwork, customer centricity, and innovation – always working together as #oneVAT. Joining us means becoming part of a passionate, international team where your voice is heard, your ideas matter, and your career growth is supported. Strategic Sourcing Manager - Raw Material & Surface Treatment Purpose of the role: Developing and executing global sourcing strategies for the assigned direct materials categories: Raw Material & Surface Treatment Acting as a business partner to key stakeholders in business (Business Units, Engineering, etc.) and Operations (Product Line Supply Chain, Supplier Quality, Production, Materials Management, etc.) The global category manager shall sustain the Global Strategic Sourcing Operating Model and provide the supply capability and capacity at best cost to support the company’s future business needs and protection of brand value Application of aligned sourcing processes, sustainable supplier assessments and development approach, a performing and regulatory compliant supply base footprint shall be established and actively managed, contributing to the enhancement of the supply base performance on Quality, Delivery and Cost (QCD) Realization of a measurable value >3% in recurring and P&L effective cost reductions per year across the global 3rd party spend in the assigned spend categories accompanied by a leveraged and benchmarked supply base management Grow and further develop a qualified and performing Best Cost Country Supply Base in line with the companies and operations BCC objectives preferably in Eastern Europe and manage a sustainable spend allocation Responsibilities: Management of own material categories (capacity, knowledge management, performance) Accountable for contributing to the global Direct Material & Supply Base Performance (QCD) Representing own direct material categories within the VAT organization Accountable for the category specific achievement of the objectives of cost optimization, supply base optimization, geographic sourcing footprint and Best Cost Country Sourcing Providing forward-looking guidance on trends, threats and opportunities in own categories (eg. raw materials etc.) Active contribution to the bottom up alignment of the Direct Materials Category Team with the defined / set company objectives Interface to BU / Engineering for Strategic Sourcing activities along with the PDP (IP07) process Act as a change agent in regards to main stakeholders Perform the development of category sourcing strategies applying and complying with defined methods and tools Active supplier relationship management of the global supply base within its own category perimeter in alignment with the category teams in Switzerland, Malaysia and Romania Ensure consistent application of all Sourcing Levers Contribution to main Sourcing KPIs Assembles and actively leads category specific / cross-functional sourcing board Actively monitors and performs a supply base risk assessment across its own categories Participates in and contributes to continuous improvement of direct material practices Qualifications: 5+ years in-depth strategic and operational sourcing experience with a solid working knowledge of global category management Demonstrated work experience on category specific production techniques and processes Knowledge about category sourcing markets Office Software / IT application (esp. Excel, Word, Power Point etc.) Sourcing in Eastern Europe, Asia and experience in Best Cost Country and spend relocation activities Working experience within a global complex …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "1e953fb5ff96f78b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/strategic-sourcing-manager-raw-material-surface-treatment-at-vat-group-4475612331"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Fachverantwortliche Kinder mit besonderen Bedürfnissen (m/w), 30–50 %, befristet bis 31.12.2026 mit Option auf Festanstellung",
+   "company": "Kanton Schaffhausen",
+   "location": "Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachverantwortliche-kinder-mit-besonderen-bed%C3%BCrfnissen-m-w-30%E2%80%9350-%25-befristet-bis-31-12-2026-mit-option-auf-festanstellung-at-kanton-schaffhausen-4477212923",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "79eee36cd1ac3207",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachverantwortliche-kinder-mit-besonderen-bed%C3%BCrfnissen-m-w-30%E2%80%9350-%25-befristet-bis-31-12-2026-mit-option-auf-festanstellung-at-kanton-schaffhausen-4477212923"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Spezialist/-in Finanz- und Rechnungswesen und Finance Transformation | 80% - 100%",
+   "company": "Quellenhof-Stiftung",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-in-finanz-und-rechnungswesen-und-finance-transformation-80%25-100%25-at-quellenhof-stiftung-4478044518",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "88c2bdb4b15117c2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-finanz-und-rechnungswesen-und-finance-transformation-80%25-100%25-at-quellenhof-stiftung-4478044518"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Fachspezialistin Digitalisierung (m/w), 100 %, vorerst befristet für 4 Jahre",
+   "company": "Kanton Schaffhausen",
+   "location": "Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachspezialistin-digitalisierung-m-w-100-%25-vorerst-befristet-f%C3%BCr-4-jahre-at-kanton-schaffhausen-4477204949",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Kanton Schaffhausen, Finanzdepartement Das Finanzdepartement des Kantons Schaffhausen sorgt mit dem Steuer- und Finanzbereich einerseits für die Bereitstellung der finanziellen Ressourcen und trägt Sorge für einen stabilen Kantonshaushalt. Anderseits gehören zu unseren Aufgaben Schutz und Sicherheit der Bevölkerung, Gewährleistung von Ruhe und Ordnung, das Militär-, Bevölkerungs- und Zivilschutzwesen sowie die Gebäudeversicherung. Einen hohen Stellenwert nimmt weiter der Personalbereich ein. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Schaffhausen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "7ae13067557623cb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialistin-digitalisierung-m-w-100-%25-vorerst-befristet-f%C3%BCr-4-jahre-at-kanton-schaffhausen-4477204949"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Customer Consultant Bewirtschaftung (m/w/d), Winterthur, 60-100% (Winterthur, Zürich, CH, 8400)",
+   "company": "Wincasa",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/customer-consultant-bewirtschaftung-m-w-d-winterthur-60-100%25-winterthur-z%C3%BCrich-ch-8400-at-wincasa-4383908655",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "234c24b3f74b78b6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/customer-consultant-bewirtschaftung-m-w-d-winterthur-60-100%25-winterthur-z%C3%BCrich-ch-8400-at-wincasa-4383908655"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Montierer (m/w/d)",
+   "company": "TEMPTON Group",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/montierer-m-w-d-at-tempton-group-4475601902",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Montierer (m/w/d) Wir suchen ab sofort motivierte Unterstützung als Montierer (m/w/d) Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: Montage von Getrieben und verschiedene Getriebebaugruppen Einbau und Abbau von Einzelteilen, Baugruppen und Peripherieteilen Durchführung von Prüf-, Einstell- und Kontrolltätigkeiten an Getrieben Werker Selbstprüfungen Ursachenanalysen von Montagefehlern und Behebung Mitarbeit bei laufenden Verbesserungen der Arbeitssysteme Profil Das bringen Sie mit: abgeschlossene Ausbildung zum Industriemechaniker/in, Mechatroniker/in, KFZ-Mechatroniker/in, Land- und Baumaschinenmechaniker oder ähnliche Berufszweige Fachwissen und Erfahrung im Bereich Montage sind von Vorteil zuverlässige und gewissenhafte Arbeitsweise Präzision und Sorgfalt Bereitschaft zur Schichtarbeit Wir bieten Diese Vorteile erwarten Sie bei Tempton unbefristetes Arbeitsverhältnis Bezahlung mindestens nach GVP/DGB-Tarifvertrag tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung Einsätze in namhaften Kundenunternehmen, bei denen Sie die Chance haben, sich persönlich weiterzuentwickeln Mitarbeitervorteilsprogramm (wie z. B. Vergünstigungen in Onlineshops) kostenfreie arbeitsmedizinische Vorsorgeuntersuchung kostenfreie Stellung von Arbeitsschutzkleidung Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Referrals increase your chances of interviewing at TEMPTON Group by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "fe4404a27963e51e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/montierer-m-w-d-at-tempton-group-4475601902"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Produktmanager Zahlungsverkehr (m/w/d) – Zukunft von Konto und Payment gestalten",
+   "company": "Volksbank eG Überlingen",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktmanager-zahlungsverkehr-m-w-d-%E2%80%93-zukunft-von-konto-und-payment-gestalten-at-volksbank-eg-%C3%BCberlingen-4475615226",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "865cb26d1eb37df5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktmanager-zahlungsverkehr-m-w-d-%E2%80%93-zukunft-von-konto-und-payment-gestalten-at-volksbank-eg-%C3%BCberlingen-4475615226"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "PLM / CAD Berater Creo Parametric oder Windchill | Inhouse / nur lokale Reise, bis 95.000 € (mwd)",
+   "company": "Vesterling AG",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/plm-cad-berater-creo-parametric-oder-windchill-inhouse-nur-lokale-reise-bis-95-000-%E2%82%AC-mwd-at-vesterling-ag-4373591512",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2157e1933cd76a95",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/plm-cad-berater-creo-parametric-oder-windchill-inhouse-nur-lokale-reise-bis-95-000-%E2%82%AC-mwd-at-vesterling-ag-4373591512"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "F&B Manager / Leiter Gastronomie (m/w/d)",
+   "company": "Strandhotel Löchnerhaus",
+   "location": "Reichenau, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/f-b-manager-leiter-gastronomie-m-w-d-at-strandhotel-l%C3%B6chnerhaus-4475608526",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "56b28eae1438fcc0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/f-b-manager-leiter-gastronomie-m-w-d-at-strandhotel-l%C3%B6chnerhaus-4475608526"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Niederlassungsleitung (w/m/d)",
+   "company": "Fielmann Group",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/niederlassungsleitung-w-m-d-at-fielmann-group-4278269912",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7aea34ae517d69c0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/niederlassungsleitung-w-m-d-at-fielmann-group-4278269912"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Commercial Operations",
+   "company": "Mediconsult AG",
+   "location": "Roggwil, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/commercial-operations-at-mediconsult-ag-4477682086",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Bereit für Mediconsult? Mediconsult ist ein führendes Dienstleistungsunternehmen im Bereich der Ophthalmologie und ein zuverlässiger Partner für Augenärzte und Optiker in der Schweiz und Österreich, mit über 50 Mitarbeitenden an den Standorten Roggwil (Schweiz), Givisiez (Schweiz) und Linz (Österreich). Dank eines weltweiten Netzwerks bieten wir qualitativ hochwertige Produkte wie Praxis- und Optikerausstattungen, Implantate, chirurgisches Verbrauchsmaterial sowie Hightech-Geräte an. Eine zentrale End-to-End-Funktion an der Schnittstelle von Kunden, Verkauf, Einkauf, und Logistik. Du begleitest Kundenaufträge vom Erstkontakt bis zur Nachbetreuung und stellst gleichzeitig die bedarfsgerechte Beschaffung von Handelswaren sicher. Commercial Operations 100% (w/m/d) ﻿ Deine Aufgaben Im Team Commercial Operations übernimmst du Verantwortung für durchgängige kommerzielle Abläufe. Du koordinierst Kundenanfragen, Aufträge, Liefertermine und sorgst dafür, dass Informationen, Waren und Dokumente zuverlässig zusammenkommen. Im operativen Einkauf betreust du den gesamten Bestellprozess bis und mit Verbuchung von Rechnungen. End-to-End Commercial Operations Ganzheitliche Bearbeitung von Kundenanfragen und -aufträgen Koordination und Überwachung von Lieferterminen sowie proaktive Kommunikation bei Abweichungen Abwicklung von Retouren, Ersatzlieferungen und Reparaturaufträgen Verwaltung von Kundenverträgen, Konsignationslagern, Mustersendungen und Artikeln zur Ansicht Unterstützung der Kunden beim Onboarding und bei der Nutzung des Kundenportals Operativer Einkauf und Beschaffung Durchführung operativer Einkaufstätigkeiten für unterschiedliche Produkte Erstellung und Auslösung von Bestellungen Prüfung und Bearbeitung von Auftragsbestätigungen, Lieferterminen, Lieferscheinen und Rechnungen Sicherstellung einer bedarfsgerechten und termingerechten Warenverfügbarkeit Frühzeitige Identifikation von Versorgungsrisiken und Einleitung geeigneter Massnahmen Pflege von einkaufsrelevanten Stamm- und Bewegungsdaten im ERP-System Dein Profil Abgeschlossene kaufmännische Grundbildung oder eine vergleichbare Aus- oder Weiterbildung Erfahrung im operativen Einkauf und/oder in der End-to-End-Auftragsabwicklung Ausgeprägtes Prozessverständnis, Organisationstalent und eine strukturierte, selbstständige Arbeitsweise Sicherer Umgang mit ERP-Systemen (SAP Business byDesign) sowie gute Kenntnisse in Outlook, Word und Excel Sehr gute Deutsch- und Französischkenntnisse; Italienisch und/oder Englisch sind von Vorteil Erfahrung in der Medizintechnik, Augenheilkunde oder im Gesundheitswesen ist von Vorteil Das zeichnet dich aus Du denkst End-to-End, übernimmst Verantwortung und bringst Aufgaben zuverlässig zum Abschluss. Du arbeitest kundenorientiert, exakt und lösungsorientiert, setzt auch bei mehreren parallelen Vorgängen die richtigen Prioritäten und kommunizierst verbindlich mit Kunden, Lieferanten sowie internen Ansprechpartnern. Was dich bei uns erwartet Eine vielseitige, spannende und abwechslungsreiche innerhalb von Commercial Operations Hohe Eigenverantwortung und die Möglichkeit, Abläufe aktiv weiterzuentwickeln Enge bereichsübergreifende Zusammenarbeit und ein praxisnahes Arbeitsumfeld Entwicklungsmöglichkeiten im Team Deine Benefits Verantwortungsvolle und abwechslungsreiche Aufgaben Kollegiale Zusammenarbeit in zukunftssicherer Medizintechnikbranche Faire Anstellungsbedingungen und moderne Infrastruktur Moderne Arbeitsmittel wie Laptop, Smartphone, Firmenfahrzeug (Privatnutzung möglich) Fringe Benefits, Teamanlässe, etc. Deine Bewerbung Interessiert? Wir freuen uns auf Ihre Bewerbung. Erste Fragen beantwortet Ihnen Gilles Gächter (+41 71 454 71 16). Bitte übermitteln Sie uns Ihre Bewerbungsunterlagen ausschliesslich digital über: job.mediconsult.ch Mediconsult rekrutiert eigenständig und verzichtet auf die Dienstleistungen und Bewerbungen von Personalvermittlern. Show more Show less Seniority level Entry level Employment type Full-time Industries Medical …",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5226fc3d24fc055e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/commercial-operations-at-mediconsult-ag-4477682086"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "CAD/CAM Technician",
+   "company": "VAT GROUP",
+   "location": "Sennwald, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/cad-cam-technician-at-vat-group-4475609510",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "About VAT Group At VAT, we change the world with vacuum solutions. As the world’s leading supplier of high-performance vacuum valves, we have been driving innovation for more than 60 years. With over 3,200 employees worldwide, we operate from our headquarters in Haag, Switzerland, with manufacturing sites in Switzerland, Malaysia and Romania, as well as sales and service hubs around the world. We guided by our passions integrity, teamwork, customer centricity, and innovation – always working together as #oneVAT. Joining us means becoming part of a passionate, international team where your voice is heard, your ideas matter, and your career growth is supported. CAD/CAM Technician Vulkanisieren Für den Bereich CH-VAT Operations suchen wir eine technisch versierte Persönlichkeit mit Schwerpunkt CAD/CAM, 3-Achs-CNC-Fräsen, 3-Achs-CNC-Drehen und Vakuumspanntechnik. Deine Hauptaufgaben Konstruktion von Vakuum- und Mehrfachspannvorrichtungen im CAD Erstellung, Anpassung und Optimierung von CAM-/CNC-Programmen für 3-Achs-CNC-Fräs- und 3-Achs-CNC-Drehmaschinen Einfahren neuer und geänderter Programme an 3-Achs-CNC-Fräs- und Drehmaschinen Fertigung von vulkanisierten Teilen auf Mehrfachspannvorrichtungen Herstellung, Bearbeitung und Inbetriebnahme von Vakuumspannvorrichtungen Optimierung von Spannkonzepten, Bearbeitungsstrategien, Werkzeugen und Schnittdaten Analyse und Lösung von Problemen bei Programmen, Werkzeugen, Bauteilen und Spannvorrichtungen Pflege und Verwaltung von Programmen, technischen Daten und Dokumentationen im PLM-System Zusammenarbeit mit Produktion, Engineering und Qualitätssicherung Dein Profil Ausbildung als Polymechaniker EFZ oder vergleichbare technische Ausbildung Erfahrung im 3-Achs-CNC-Fräsen und 3-Achs-CNC-Drehen Gute Kenntnisse in CAD-/CAM-Programmierung idealerweise Top Solid Erfahrung mit Vakuum- und Mehrfachspannvorrichtungen Verständnis für technische Zeichnungen, Fertigungsprozesse und Prüfanforderungen Selbstständige, genaue und lösungsorientierte Arbeitsweise Hohes Qualitäts- und Verantwortungsbewusstsein Teamfähigkeit und Bereitschaft zur Unterstützung der Produktion Show more Show less Seniority level Not Applicable Employment type Full-time Industries Motor Vehicle Manufacturing Referrals increase your chances of interviewing at VAT GROUP by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e036c5c52eee82b0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/cad-cam-technician-at-vat-group-4475609510"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Product Manager (m/w/d)",
+   "company": "MF Group AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/product-manager-m-w-d-at-mf-group-ag-4478095329",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Unternehmensbeschreibung Die MF Group ist eine Tochtergesellschaft von Riverty und Teil des weltweit tätigen Bertelsmann-Konzerns und beschäftigt rund 100 Mitarbeitende an zwei Standorten in der Schweiz. Sie ist der führende Schweizer Anbieter für Kauf auf Rechnung mit flexibler Teilzahlungsoption und bietet ihren Kunden innovative und bedürfnisgerechte Lösungen in Bonitätsprüfung, Rechnungsstellung, Factoring und Kundenbindung an. Die MF Group ist Spezialist für komplexe Projekte, welche verschiedene Absatzkanäle und Zahlungsmittel kombinieren. Dank der MF Group können Händler ihre Waren und Dienstleistungen risikofrei auf Rechnung anbieten und erhalten den Einkaufsbetrag des Kunden immer sofort und garantiert ausbezahlt. Dies auch, wenn sich ein Kunde für die beliebte Teilzahlung entscheidet oder sich die Zahlung verzögern sollte. Mit ihren Payment-Dienstleistungen, zu denen auch Kredit- und Geschenkkarten zählen, bedient die MF Group nahezu sämtliche grössere stationäre und Online-Händler der Schweiz, Deutschland und Österreich. Stellenbeschreibung Wir suchen Unterstützung als Product Manager (m/w/d) (unbefristet, Voll- oder Teilzeit) Schliesse dich unserem Product-Management-Team an unserem Standort in St. Gallen an und gestalte die Zukunft unserer Produkte – flexible Arbeitsbedingungen verfügbar Als Product Manager liegt die ganzheitliche Steuerung deiner Projekte und Produkte in deinen Händen – von der Anforderungsdefinition bis zur erfolgreichen Umsetzung. Dabei treibst du Themen aktiv voran, behältst stets den Gesamtüberblick und stellst sicher, dass alle Initiativen im Einklang mit den Business-Zielen erfolgreich abgeschlossen werden. Dein Aufgabenbereich Du fungierst als zentrale Schnittstelle zwischen Fachbereichen und IT und sorgst für eine reibungslose Zusammenarbeit Du übernimmst die Verantwortung für die Definition, Priorisierung und Umsetzung von Anforderungen sowie für die inhaltliche Steuerung deiner Projekte und Produkte Du treibst Projekte aktiv voran und stellst sicher, dass diese zielgerichtet und termingerecht umgesetzt werden Du analysierst Anforderungen, konzipierst neue Produktfeatures und entwickelst bestehende Lösungen kontinuierlich weiter Du pflegst und priorisierst das Product Backlog und behältst dabei die Business-Ziele im Blick Du arbeitest eng mit agilen Entwicklungsteams zusammen und stellst eine kontinuierliche Lieferung von Mehrwert sicher Du nutzt qualitative und quantitative Daten, um fundierte Entscheidungen zu treffen und Hypothesen zu validieren Du definierst, überwachst und interpretierst relevante Business-KPIs und leitest daraus geeignete Massnahmen ab Qualifikationen Das Bringst Du Mit Du verfügst über mehrjährige Erfahrung im Product Management oder in einer vergleichbaren Rolle (z. B. Product Owner oder Projektmanager) Du bringst Praxiserfahrung im E-Commerce, im Bereich digitaler Zahlungen oder im Banking-Umfeld mit Du hast fundierte Kenntnisse des Schweizer Marktes, insbesondere im Bereich Retail und Payment-Infrastruktur Du verstehst die Zusammenarbeit zwischen Business und IT und kannst beide Seiten effektiv miteinander verbinden Du zeichnest dich durch eine hohe Eigenverantwortung aus und treibst Themen proaktiv und zielgerichtet voran Du bist vertraut mit agilen Methoden und Frameworks (z. B. Scrum oder vergleichbar) Du überzeugst durch ausgeprägte Kommunikationsstärke und ein sicheres Stakeholder-Management Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Zusätzliche Informationen Das Erwartet Dich Du arbeitest eng mit nahezu allen Unternehmensbereichen zusammen Du bewegst dich in einem komplexen Produktumfeld mit vielfältigen Systemen und Schnittstellen Du übernimmst Verantwortung in einem regulierten Umfeld mit dynamischen Marktanforderungen Informationspflichten Im Zusammenhang Mit Der Erhebung Deiner Personenbezogenen Daten Verantwortlicher für den Datenschutz bei deiner Bewerbung ist die in der Stellenausschreibung angegebene Firma. Die …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "22b368ac832ee85c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/product-manager-m-w-d-at-mf-group-ag-4478095329"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "GMP Services Measuring Technician",
+   "company": "Particle Measuring Systems",
+   "location": "Wattwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/gmp-services-measuring-technician-at-particle-measuring-systems-4450258837",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Do you want to be part of a business that genuinely values entrepreneurialism , innovation and individual accountability? We focus on our customers and are proud of the difference our technology makes. We partner with some of the biggest manufacturing companies in the world and our technical innovations are used to enhance well-known brands across multiple industries. Particle Measuring Systems AG ist ein führender Anbieter in der Reinraumüberwachung und -qualifizierung. Zur Verstärkung unseres Teams suchen wir engagierte Persönlichkeiten als Messtechniker GMP Service Measurement, die mit technischem Know-how und hoher Kundenorientierung überzeugen . Techniker im Aussendienst für Reinraumqualifizierung (m/w/d) Schweiz (Wattwil SG & Stein AG) | Österreich (Innsbruck) 80% Aussendienst | Einsatzgebiet: DACH-Region Du bist gerne unterwegs, arbeitest sorgfältig und interessierst dich für Technik, Messungen und spannende Einsätze bei Kunden? Dann könnte diese Stelle genau zu dir passen. Wir suchen einen Techniker im Aussendienst, der Reinräume und kontrollierte Bereiche bei unseren Kunden prüft, misst und dokumentiert. Dabei geht es um die Qualifizierung von Reinräumen gemäss ISO- und GMP-Anforderungen. Erfahrung in der Reinraumbranche ist von Vorteil, aber kein Muss – wir arbeiten dich gründlich ein und machen dich Schritt für Schritt mit den Anforderungen vertraut . Deine Aufgaben Du führst Messungen und Prüfungen in Reinräumen und kontrollierten Umgebungen durch. Dazu gehören unter anderem Luftströmungsmessungen, Partikelmessungen, Filterprüfungen und weitere qualifizierende Tätigkeiten gemäss geltenden ISO- und GMP-Vorgaben. Du dokumentierst deine Ergebnisse sorgfältig, erstellst Prüfberichte und bist direkt beim Kunden vor Ort im Einsatz. Dabei arbeitest du mit moderner Messtechnik und trägst dazu bei, dass sensible Produktions- und Laborbereiche sicher und normgerecht betrieben werden können. Wen wir suchen Du hast eine technische Ausbildung oder ein gutes technisches Verständnis, zum Beispiel aus den Bereichen Gebäudetechnik, Elektrotechnik, HLK, Labor, Messtechnik, Service, Unterhalt, Mechanik oder einem ähnlichen Umfeld. Auch wenn du bisher nicht in der Reinraumbranche gearbeitet hast, bist du willkommen. Wichtig sind uns eine genaue Arbeitsweise, Zuverlässigkeit, Freude am Kundenkontakt und die Bereitschaft, viel im Aussendienst unterwegs zu sein . Das bringst du idealerweise mit Eine abgeschlossene technische Ausbildung oder praktische Erfahrung in einem technischen Beruf Interesse an Messtechnik, Qualität und regulierten Umgebungen Selbstständige, strukturierte und saubere Arbeitsweise Freude am Reisen und an wechselnden Einsatzorten Gute Deutschkenntnisse, jede weitere Sprache von Vorteil Führerausweis Kategorie B Das bieten wir dir Eine spannende Aussendienstrolle mit hoher Eigenverantwortung und abwechslungsreichen Kundeneinsätzen Eine gründliche Einarbeitung – auch für Personen ohne Erfahrung in der Reinraumbranche Moderne Messgeräte und professionelle Arbeitsmittel Ein Geschäftsfahrzeug, das du auch privat nutzen darfst 25 Tage Ferien Ein kollegiales Team und kurze Entscheidungswege Langfristige Entwicklungsmöglichkeiten in einem spezialisierten, zukunftssicheren technischen Umfeld Warum diese Stelle besonders ist Du sitzt nicht jeden Tag am gleichen Ort, sondern bist direkt bei Kunden im Einsatz. Du lernst unterschiedliche Branchen kennen, arbeitest mit präziser Messtechnik und entwickelst dich in einem spezialisierten Bereich weiter, der hohe Qualitätsstandards erfüllt und langfristig gefragt ist. Interessiert? Dann freuen wir uns auf deine Bewerbung. Auch wenn du nicht alle Anforderungen erfüllst, aber technisches Interesse und Freude am Aussendienst mitbringst, möchten wir dich gerne kennenlernen. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Manufacturing Referrals increase your chances of interviewing at Particle Measuring Systems by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "fba5749a743dc7c5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/gmp-services-measuring-technician-at-particle-measuring-systems-4450258837"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Spezialist Automation / Instandhaltungstechnik 80–100 % (m/w)",
+   "company": "yellowshark® AG",
+   "location": "Kirchberg, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-automation-instandhaltungstechnik-80%E2%80%93100-%25-m-w-at-yellowshark%C2%AE-ag-4448088634",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "628d4e4636b068fb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-automation-instandhaltungstechnik-80%E2%80%93100-%25-m-w-at-yellowshark%C2%AE-ag-4448088634"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Service Coordinator 80 - 100% (f/m/d)",
+   "company": "ABB",
+   "location": "Zuzwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/service-coordinator-80-100%25-f-m-d-at-abb-4474964051",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4832caf7dbc654c5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/service-coordinator-80-100%25-f-m-d-at-abb-4474964051"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Supply Chain Planner",
+   "company": "VAT GROUP",
+   "location": "Sennwald, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/supply-chain-planner-at-vat-group-4475620026",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "67b544d9dc8cd55f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/supply-chain-planner-at-vat-group-4475620026"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Zolldeklarant Thayngen (m/w/d)",
+   "company": "DSV - Global Transport and Logistics",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/zolldeklarant-thayngen-m-w-d-at-dsv-global-transport-and-logistics-4414185436",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5be237009daa4d74",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/zolldeklarant-thayngen-m-w-d-at-dsv-global-transport-and-logistics-4414185436"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Maintenance Specialist",
+   "company": "VAT GROUP",
+   "location": "Sennwald, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/maintenance-specialist-at-vat-group-4475606592",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "Über VAT Bei der VAT verändern wir die Welt mit Vakuumlösungen. Als weltweit führende Anbieterin von Hochleistungs-Vakuumventilen treiben wir seit über 60 Jahren Innovationen voran. Mit über 3.200 Mitarbeitenden weltweit agieren wir von unserem Hauptsitz in Haag (Schweiz) aus und betreiben Produktionsstandorte in der Schweiz, Malaysia und Rumänien sowie Vertriebs- und Servicezentren rund um den Globus. Unsere Leidenschaft für Integrität, Teamarbeit, Kundenorientierung und Innovation leitet uns – immer gemeinsam als #oneVAT. Wenn du zu uns kommst, wird Teil eines engagierten, internationalen Teams, in dem deine Stimme zählt, deine Ideen etwas bewirken und deine berufliche Entwicklung gefördert wird. Zweck der Rolle In dieser Funktion stellen Sie durch die effiziente Planung und Koordination von Instandhaltungsaktivitäten die Verfügbarkeit und Zuverlässigkeit der Produktionsanlagen sicher. Sie unterstützen den reibungslosen Betrieb durch ein professionelles Ersatzteilmanagement, die Zusammenarbeit mit internen und externen Stakeholdern sowie die aktive Mitwirkung bei Investitions- und Verbesserungsprojekten. Verantwortlichkeiten Planen und koordinieren von geplanten Instandhaltungsmaßnahmen für Produktionsanlagen. Organisieren der jährlichen Wartungen in enger Abstimmung mit der Produktion. Beschaffen, anfragen und nachbestellen von Ersatzteilen unter Berücksichtigung des vorgegebenen Budgets. Unterstützen des Beschaffungsprozesses für neue Anlagen und technische Investitionen. Koordinieren und überwachen externer Dienstleister für geplante und ungeplante Instandhaltungsarbeiten. Durchführen von Wareneingangskontrollen sowie Analysieren von Ersatzteilen. Mitarbeiten in technischen und organisatorischen Projekten zur kontinuierlichen Verbesserung. Sicherstellen der Einhaltung von Arbeitssicherheitsvorschriften sowie Kontrollieren der Sicherheitsstandards bei externen Dienstleistern. Qualifikationen Abgeschlossene technische Ausbildung. Erfahrung mit Maschinenkomponenten und Ersatzteilmanagement. Erfahrung in administrativen Tätigkeiten innerhalb der Instandhaltung. Grundkenntnisse im Einkauf sowie im Lieferantenmanagement. Erfahrung in der Zusammenarbeit mit internen und externen Schnittstellen. Gute MS-Office-Kenntnisse. Ausgeprägte Kommunikationsfähigkeiten sowie adressatengerechte Kommunikation auf unterschiedlichen Ebenen. Selbstständige, zuverlässige und strukturierte Arbeitsweise verbunden mit hoher Teamfähigkeit. Sehr gute Deutschkenntnisse in Wort und Schrift (zwingend erforderlich). Englischkenntnisse sind von Vorteil. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Motor Vehicle Manufacturing Referrals increase your chances of interviewing at VAT GROUP by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "69f3abe61fb3a2d3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/maintenance-specialist-at-vat-group-4475606592"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Sanitärinstallateur bauphysikalisches Labor (a) 100%",
+   "company": "Geberit Schweiz",
+   "location": "Rapperswil-Jona, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sanit%C3%A4rinstallateur-bauphysikalisches-labor-a-100%25-at-geberit-schweiz-4458663309",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "HAUPTAUFGABEN In deiner Funktion bist du verantwortlich für auftragsbezogene Versuchsaufbauten im Bereich Statik und Akustik. Dies beinhaltet insbesondere folgende Tätigkeiten: Du koordinierst Prüfaufträge und führst sie nach Normen, Richtlinien und spezifischen Anforderungen durch Du unterstützt Entwicklungsingenieure bei der Dokumentation und Auswertung der Prüfergebnisse Du arbeitest eng mit Produktmanagement, -entwicklung und Qualitätsmanagement zusammen Du bringst die Anwendersicht in die Neu- und Weiterentwicklung unserer Produkte ein Du erkennst und bewertest die Bedürfnisse unserer Anwender im In- und Ausland PROFIL Du bringst einen Abschluss als Spengler-Sanitärinstallateur oder Sanitärmonteur EFZ mit. Eine zusätzliche Weiterbildung im Bereich Haustechnik ist von Vorteil. Zudem zeichnen dich folgende Eigenschaften und Fähigkeiten aus: Mehrjährige Berufserfahrung im Bereich Sanitär-Installationen Präzise Arbeitsweise und ein gutes technisches Verständnis Gute MS Office Kenntnisse (Word, PowerPoint, einfache Excel-Tabellen) Kommunikationsstärke und gute Englischkenntnisse von Vorteil ERGÄNZENDE HINWEISE Für diese Position berücksichtigen wir ausschliesslich Direktbewerbungen. WIR BIETEN Unternehmenskultur: Basierend auf unserem Kompass Entlohnung: Marktgerechter Lohn, Bonus und Aktienprogramm sowie attraktive Lohnnebenleistungen (REKA-Pay, Mobilitätsbeitrag und vieles mehr) Arbeitszeiten: 40h Arbeitswoche und mind. 5 Ferienwochen pro Kalenderjahr Förderung: Individuelle Unterstützung bei Weiterbildungen Verpflegung: Abwechslungsreiche, vergünstigte Verpflegung im hochwertigen Personalrestaurant in Jona Und vieles mehr: Erfahre hier alles über unsere Benefits BEWERBUNG & KONTAKT Teilst du unsere Werte und fühlst du dich in einem kollegialen sowie bodenständigen Umfeld wohl? Dann freuen wir uns auf deine Bewerbung! Für diese Position berücksichtigen wir ausschliesslich Direktbewerbungen. KONTAKT Isabelle Rotzler Talent Recruiter Geberit International AG CH-8645 Jona +41 55 221 61 49 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Geberit Schweiz by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e365d0ba8df8f817",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sanit%C3%A4rinstallateur-bauphysikalisches-labor-a-100%25-at-geberit-schweiz-4458663309"
+   },
+   "first_seen": "2026-10-11"
+  },
+  {
+   "title": "Sozialpädagogin / Sozialpädagoge im Jugendbereich | 60% - 80%",
+   "company": "Quellenhof-Stiftung",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagoge-im-jugendbereich-60%25-80%25-at-quellenhof-stiftung-4478078740",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "teilen posten mitteilen teilen Du glaubst daran, dass junge Menschen – auch nach schwierigen Erfahrungen – neue Chancen verdienen? Du hast Erfahrung in der sozialpädagogischen Arbeit und möchtest dich mit Engagement und Herzblut in ein Team einbringen, das Jugendlichen Perspektiven bietet? Dann bist du bei uns genau richtig. Wir suchen eine engagierte Fachperson für den Einsatz in einem unserer beiden stationären Angebote in Winterthur: T-Home: Ein etabliertes, sozialpädagogisches Wohnangebot für Jugendliche zwischen 13 und 25 Jahren. Mit zwei Wohngruppen bieten wir bis zu 15 jungen Menschen eine klare Tagesstruktur, stabile Beziehungen und Unterstützung auf dem Weg zur Selbstständigkeit. T-Hope: Ein neues, intensives Wohnangebot mit interner Tagesstruktur für acht junge Frauen zwischen 15 und 20 Jahren. Geprägt von traumatischen Erfahrungen und psychischer Belastung benötigen sie eine enge Kombination aus Beziehung, Therapie und Betreuung. Einsatz im T-Home oder T-Hope | per sofort oder nach Vereinbarung. Sozialpädagogin / Sozialpädagoge im Jugendbereich | 60% - 80% Das bieten wir dir Sinnstiftende Arbeit: Du begleitest junge Menschen auf ihrem Weg in ein selbstbestimmtes Leben – und gibst Halt, Orientierung und Hoffnung. Flexible Dienstplanung: Wir nehmen Rücksicht auf deine persönliche Lebenssituation und gestalten die Dienstplanung gemeinsam im Team. Faire Vergütung: Dein Einsatz wird wertgeschätzt – mit klar geregelten Löhnen und Schichtzulagen. Moderne Arbeitsbedingungen: Dazu gehören Homeoffice-Möglichkeiten für administrative Tätigkeiten sowie der Einsatz digitaler Hilfsmittel, um deine Arbeit zu erleichtern. Weiterentwicklung: Du profitierst von der KOSS-Weiterbildung mit Zertifikat sowie weiteren internen und externen Fortbildungen. Unterstützung im Alltag: Einzel- und Teamsupervision, regelmässige Schulungen, Teambildung und ein gut strukturierter Tagesablauf bieten dir einen verlässlichen Rahmen – auch in herausfordernden Situationen. Arbeitsumfeld mit Qualität: Wir pflegen ein wertschätzendes Miteinander, arbeiten an einem zentralen Standort in Winterthur und legen Wert auf klare Strukturen und gute Zusammenarbeit im Alltag. Mitgestaltung erwünscht: Du bringst deine Ideen ein und entwickelst das jeweilige Angebot mit uns weiter. Sicherer Ort – für alle: Wir schaffen einen geschützten Rahmen, in dem sich Jugendliche wie auch Mitarbeitende sicher, getragen und respektiert fühlen. Zusätzliche Benefits: Verpflegung im Dienst (inkl. Getränke und Snacks), Prämienübernahme (NBU und KTG), Vergünstigungen intern (Kafi Theodor, Pedalwerk-Velos, Schreinerei Q, Q-Design Shop) und externe (Fontis, Reusser-Garage, Visilab). Deine Aufgaben Du übernimmst als fallführende Fachperson die Verantwortung für die individuelle Begleitung und Betreuung der Jugendlichen. Du unterstützt die Jugendlichen in ihren Entwicklungsprozessen, förderst ihre Selbstwirksamkeit und stärkst sie im Alltag. Du gestaltest den Alltag, das Gruppenleben und die Freizeitangebote aktiv mit. Du arbeitest nach der KOSS-Methodik, dokumentierst deine Arbeit professionell und bringst dich in Projekte und Ressortaufgaben ein. Du trägst mit deinem Engagement zu einem sicheren, stabilen Umfeld bei – in dem sich Jugendliche orientieren und wachsen können. Das bringst du mit Du bist eine engagierte Fachperson mit Herz, Haltung und Fachwissen – und bringst Folgendes mit: Eine abgeschlossene Ausbildung in Sozialpädagogik (HF oder FH). Eine lösungsorientierte, teamfähige und belastbare Persönlichkeit mit einer systemischen Grundhaltung. Du bringst die Bereitschaft mit, auch Spät-, Wochenend- und Pikettdienste zu übernehmen – weil du weisst, dass Beziehungsarbeit Zeit und Präsenz braucht. Idealerweise Erfahrung im stationären Jugendbereich – oder die Motivation, dich in dieses Feld einzuarbeiten. Einen Führerausweis der Kategorie B sowie die Bereitschaft, den SLRG-Kurs und BLS-AED-CPR zu absolvieren. Freude daran, dich aktiv einzubringen und Teil eines Teams zu sein, das …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "df1e7a6be32791ee",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagoge-im-jugendbereich-60%25-80%25-at-quellenhof-stiftung-4478078740"
+   },
+   "first_seen": "2026-10-11"
+  },
   {
    "title": "Sozialarbeiterin / Sozialpädagogin (m/w/d) Mobile Jugendarbeit",
    "company": "Stadtverwaltung Konstanz",
@@ -37,7 +913,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003835665-S"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Garderobiere & Ankleiderin (m/w/d) in Teilzeit am Theater Konstanz",
@@ -62,7 +939,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003836119-S"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Prüfungskoordinator/in (m/w/d) Weiterbildungsprüfungen in Vollzeit – Standort Konstanz",
@@ -86,7 +964,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/pr%C3%BCfungskoordinator-in-m-w-d-weiterbildungspr%C3%BCfungen-in-vollzeit-%E2%80%93-standort-konstanz-at-ihk-hochrhein-bodensee-4475269082"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Marketingexperte für SEO & AI Search (m/w/d)",
@@ -110,7 +989,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/marketingexperte-f%C3%BCr-seo-ai-search-m-w-d-at-zf-bkk-4476284963"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Systembibliothekar*in (m/w/d)",
@@ -134,7 +1014,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/systembibliothekar-in-m-w-d-at-university-of-konstanz-4477692788"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter / Sachbearbeiterin Aus- und Weiterbildung (m/w/d) 40%-60%",
@@ -158,7 +1039,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-sachbearbeiterin-aus-und-weiterbildung-m-w-d-40%25-60%25-at-lidl-switzerland-4477674515"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiterin/SachbearbeiterStudienadministration",
@@ -182,7 +1064,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiterin-sachbearbeiterstudienadministration-at-kanton-thurgau-4476820096"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Brandschutzbeauftragter (m/w/d) – Industrie / Energie – bundesweit",
@@ -206,7 +1089,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/brandschutzbeauftragter-m-w-d-%E2%80%93-industrie-energie-%E2%80%93-bundesweit-at-sigeho-gmbh-4477851014"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Med. Praxisassistentin /Praxisassistent mit Zusatzfunktion als Praxisbildnerin / Praxisbildner",
@@ -230,7 +1114,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/med-praxisassistentin-praxisassistent-mit-zusatzfunktion-als-praxisbildnerin-praxisbildner-at-kantonsspital-winterthur-4476822018"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Content Creator (m/w/d) – Social Media, Text & Design",
@@ -254,7 +1139,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/content-creator-m-w-d-%E2%80%93-social-media-text-design-at-arana-care-4477801436"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Wissenschaftliche Mitarbeiter/PhD student (m/w/d)",
@@ -278,7 +1164,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-mitarbeiter-phd-student-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4458245724"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Wissenschaftliche Hilfskraft / Forschungsassistenz bei Prof. em. Dr. Thomas Bieger (m/w/d)",
@@ -302,7 +1189,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-hilfskraft-forschungsassistenz-bei-prof-em-dr-thomas-bieger-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4477893177"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Wissenschaftliche/r Mitarbeiter/in im Büro des Verteidigungsattachés in Moskau",
@@ -326,7 +1214,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-im-b%C3%BCro-des-verteidigungsattach%C3%A9s-in-moskau-at-state-secretariat-for-security-policy-sepos-4476823342"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Research Expert (m/f/d)",
@@ -350,7 +1239,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/research-expert-m-f-d-at-wingd-ltd-4477840282"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Technischer Projektleiter (m/w/d/kA)",
@@ -374,7 +1264,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/technischer-projektleiter-m-w-d-ka-at-kugler-gmbh-4475259484"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Lean-Manager (m/w/d)",
@@ -398,7 +1289,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/lean-manager-m-w-d-at-diehl-defence-4475446269"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Projektleiter:in Tief- und Strassenbau",
@@ -422,7 +1314,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-tief-und-strassenbau-at-werren-thomann-gmbh-4465988132"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Programme Manager Custom Programmes, ES HSG (m/w/d)",
@@ -446,7 +1339,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/programme-manager-custom-programmes-es-hsg-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4477882791"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Projektleiter/in Arbeitslosenversicherung (m/w/d)",
@@ -470,7 +1364,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-arbeitslosenversicherung-m-w-d-at-kanton-st-gallen-4476830086"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "CAPEX Project Manager - Industrialization",
@@ -494,7 +1389,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/capex-project-manager-industrialization-at-vat-group-4475229570"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Sanitär (m/w)",
@@ -518,7 +1414,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-sanit%C3%A4r-m-w-at-yellowshark%C2%AE-ag-4457716563"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Digital R&D Manager (m/f/d) 80-100%",
@@ -542,7 +1439,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/digital-r-d-manager-m-f-d-80-100%25-at-wingd-ltd-4476277421"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Infrastruktur 80 - 100 %",
@@ -566,7 +1464,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-infrastruktur-80-100-%25-at-glaus-personal-gmbh-4475237349"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Leiter*in Administration Wohnen & Beschäftigung 100%",
@@ -590,7 +1489,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-administration-wohnen-besch%C3%A4ftigung-100%25-at-stiftung-balm-4476813559"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "R&D Specialist / Project Manager – Pharmaceutical Development",
@@ -614,7 +1514,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/r-d-specialist-project-manager-%E2%80%93-pharmaceutical-development-at-gloor-lang-pharma-and-biotech-recruiting-4477672555"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Senior Projektleiter Heizung / Kälte 100% (m/w)",
@@ -638,7 +1539,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-projektleiter-heizung-k%C3%A4lte-100%25-m-w-at-yellowshark%C2%AE-ag-4457797493"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Projektleiter/in Automation (m/w/d)",
@@ -662,7 +1564,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-automation-m-w-d-at-rocken%C2%AE-4476294403"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Ausführung Bau (m/w/d)",
@@ -686,7 +1589,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-ausf%C3%BChrung-bau-m-w-d-at-rocken%C2%AE-4476803009"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Estate Planner | Financial Planner | Private Banking (w/m/d)",
@@ -710,7 +1614,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/estate-planner-financial-planner-private-banking-w-m-d-at-right-search-4475211875"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Referatsleitung Kreiskasse",
@@ -734,7 +1639,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/referatsleitung-kreiskasse-at-heyjobs-4476261878"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Svetovale (129), Oddelek za upravne notranje zadeve in promet",
@@ -758,7 +1664,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/svetovale-129-oddelek-za-upravne-notranje-zadeve-in-promet-at-vlada-republike-slovenije-4476804009"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter / Sachbearbeiterin Qualitätssicherung & Nachhaltigkeit (m/w/d) 80-100%",
@@ -782,7 +1689,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-sachbearbeiterin-qualit%C3%A4tssicherung-nachhaltigkeit-m-w-d-80-100%25-at-lidl-switzerland-4449024579"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "KMU-Supporter:in Generalagentur Frauenfeld (m/w/d), 100%",
@@ -806,7 +1714,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/kmu-supporter-in-generalagentur-frauenfeld-m-w-d-100%25-at-allianz-suisse-4476293248"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Fachperson Sozialpädagogik HF / FH",
@@ -830,7 +1739,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-sozialp%C3%A4dagogik-hf-fh-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4476865530"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Junior Consultant – Unabhängige Vermögensberatung",
@@ -854,7 +1764,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/junior-consultant-%E2%80%93-unabh%C3%A4ngige-verm%C3%B6gensberatung-at-vz-verm%C3%B6genszentrum-4476867851"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Dipl. Expertin / Experte Intensivpflege NDS 80-100% für Güttingen gesucht – Dein Wissen für eine optimale Patientenversorgung",
@@ -880,7 +1791,8 @@
    "links": {
     "jobroom": "https://med-ipersonal.ch/jobs/dipl-expertin-experte-intensivpflege-nds-80-100-fuer-guettingen-gesucht-dein-wissen-fuer-eine-optimale-patientenversorgung/"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   },
   {
    "title": "Dipl. Expertin / Experte Intensivpflege NDS 80-100% für Dussnang gesucht – Dein Wissen für eine optimale Patientenversorgung",
@@ -906,7 +1818,8 @@
    "links": {
     "jobroom": "https://med-ipersonal.ch/jobs/dipl-expertin-experte-intensivpflege-nds-80-100-fuer-dussnang-gesucht-dein-wissen-fuer-eine-optimale-patientenversorgung/"
    },
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-10",
+   "carried_over": true
   }
  ]
 }
