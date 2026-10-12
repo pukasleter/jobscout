@@ -1,19 +1,900 @@
 {
- "generated_at": "2026-10-11T07:21:38+00:00",
+ "generated_at": "2026-10-12T07:31:46+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 165,
-   "google_jobs": 9,
-   "linkedin": 235,
-   "jobroom": 27
+   "arbeitsagentur": 162,
+   "google_jobs": 6,
+   "linkedin": 250,
+   "jobroom": 22
   },
-  "excluded": 344,
-  "unique": 78,
+  "excluded": 355,
+  "unique": 73,
   "new": 36,
-  "carried_over": 37
+  "carried_over": 73
  },
  "errors": {},
  "jobs": [
+  {
+   "title": "Analytiker (m/w/d)",
+   "company": "Phast Development GmbH & Co. K G",
+   "location": "78467 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000982914-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# Unternehmensbeschreibung\nEurofins ist ein internationales Life-Science-Unternehmen, das Kunden aus verschiedenen Branchen ein einzigartiges Angebot an Analytik-Dienstleistungen anbietet, um das Leben und unsere Umwelt sicherer, gesünder und nachhaltiger zu machen. Von den Lebensmitteln, die Sie essen, über das Wasser, das Sie trinken, bis hin zu den Medikamenten, auf die Sie sich verlassen, arbeitet Eurofins mit den größten Unternehmen der Welt zusammen, um zu gewährleisten, dass die gelieferten Produkte sicher sind, ihre Inhaltsstoffe authentisch sind und die Kennzeichnung korrekt ist. Das Unternehmen ist ein weltweit führender Anbieter von Analytik für Lebensmittel, Umwelt, pharmazeutische und kosmetische Produkte sowie von agrarwissenschaftlichen Auftragsforschungs-Dienstleistungen (CRO). Zusätzlich ist Eurofins einer der unabhängigen Weltmarktführer für Test- und Labordienstleistungen in den Bereichen Genomik, Pharmakologie, Forensik, CDMO (Vertragsherstellung und –entwicklung), Materialwissenschaften und für die Unterstützung klinischer Studien.\nIn nur 30 Jahren ist Eurofins von einem Labor in Nantes, Frankreich, auf ca. 65.000 Mitarbeitende in einem Netzwerk von mehr als über 1000 unabhängigen Unternehmen in 59 Ländern mit mehr als 950 Laboratorien gewachsen. Eurofins bietet ein Portfolio von mehr als 200.000 Analysemethoden zur Bewertung der Sicherheit, Identität, Zusammensetzung, Authentizität, Herkunft, Rückverfolgbarkeit und Reinheit von biologischen Substanzen und Produkten sowie innovative Dienstleistungen im Bereich der klinischen Diagnostik als einer der weltweit führenden, aufstrebenden Anbieter von spezialisierten klinischen Diagnosetests.\nIm Jahr 2025 erzielte Eurofins einen Gesamtumsatz von 7,296 Milliarden Euro und zählt in den letzten 20 Jahren zu einer der Aktien mit der besten Wertentwicklung in Europa.\nFür die Eurofins PHAST Development GmbH & Co. KG suchen wir für den Standort Konstanz in Vollzeit oder Teilzeit einen Analytiker (m/w/d).\n# Stellenbeschreibung\n- Prüfung & Analytische Charakterisierung pharmazeutischer Darreichungsformen mittels moderner Analysenverfahren\n- GMP-gerechte Durchführung und Dokumentation der Arbeiten\n- Bewertung von Analyseergebnissen und Erstellung von Prüfberichten und Analysenzertifikaten sowie Prüfanweisungen und SOPen\n- Gegenprüfung von Rohdaten, Originaldaten und Prüfberichten\n- Mitwirkung bei der Durchführung von Methodenentwicklung, Validierungen sowie Transfers\n- Qualifizierung von Prüfmitteln\n- Mitwirkung bei technischen Machbarkeitsprüfungen von Kundenanfragen\n- Mitwirkung bei Kontinuierlichen Verbesserungsprozessen (KVPs)\n# Qualifikationen\n- Sie haben eine Berufsausbildung als Chemielaborant/in, Chemisch-technische/r-Assistent/in o.ä. erfolgreich abgeschlossen oder einen Abschluss in einem naturwissenschaftlichen Studiengang\n- Sie kennen die modernen Analysentechniken wie Chromatographie (HPLC, UPLC, GC, IC) oder Spektroskopie (IR, NIR, UV)\n- Sie haben bereits Erfahrungen gesammelt mit der Probenvorbereitung von verschiedenen Arzneimitteldarreichungsformen\n- Sie haben bereits erste Erfahrungen im GMP-Umfeld sammeln können\n- Das Arbeiten mit MS-Office ist Ihnen vertraut\n- Idealerweise besitzen Sie Erfahrungen im Bereich der Validierung analytischer Methoden\n- Sprachkenntnisse in Englisch wünschenswert\n- Sie sind in der Lage Probleme zu erkennen und entsprechende Lösungswege zu definieren\n- Sie sind flexibel, engagiert, belastbar und zuverlässig\n# Zusätzliche Informationen\nWir bieten Ihnen:\n- Aktiven Gestaltungsspielraum und die Möglichkeit, Verantwortung zu übernehmen\n- Ein kollegiales Miteinander in einem motivierten und freundlichen Team\n- Flexible Arbeitszeiten und Arbeitszeitmodelle\n- Abwechslungsreicher Arbeitsplatz\n- Flache Hierarchien, kurze Entscheidungswege\n- Individuelle fachliche und persönliche Weiterentwicklungsmöglichkeiten\n- Vergünstigtes Essensangebot\n- Firmenfeiern wie Sommerfest oder Weihnachtsfeier\n- Weitere Vorteile (Corporate Benefit …",
+   "extra": {
+    "refnr": "10001-1000982914-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "cf85f4755bb822ea",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000982914-S"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Analytiker (m/w/d) im Partikellabor",
+   "company": "Phast Development GmbH & Co. K G",
+   "location": "78467 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001755402-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "## Unternehmensbeschreibung\nEurofins ist ein internationales Life-Science-Unternehmen, das Kunden aus verschiedenen Branchen ein einzigartiges Angebot an Analytik-Dienstleistungen anbietet, um das Leben und unsere Umwelt sicherer, gesünder und nachhaltiger zu machen. Von den Lebensmitteln, die Sie essen, über das Wasser, das Sie trinken, bis hin zu den Medikamenten, auf die Sie sich verlassen, arbeitet Eurofins mit den größten Unternehmen der Welt zusammen, um zu gewährleisten, dass die gelieferten Produkte sicher sind, ihre Inhaltsstoffe authentisch sind und die Kennzeichnung korrekt ist. Das Unternehmen ist ein weltweit führender Anbieter von Analytik für Lebensmittel, Umwelt, pharmazeutische und kosmetische Produkte sowie von agrarwissenschaftlichen Auftragsforschungs-Dienstleistungen (CRO). Zusätzlich ist Eurofins einer der unabhängigen Weltmarktführer für Test- und Labordienstleistungen in den Bereichen Genomik, Pharmakologie, Forensik, CDMO (Vertragsherstellung und –entwicklung), Materialwissenschaften und für die Unterstützung klinischer Studien.\nIn nur 30 Jahren ist Eurofins von einem Labor in Nantes, Frankreich, auf ca. 65.000 Mitarbeitende in einem Netzwerk von mehr als über 1000 unabhängigen Unternehmen in 59 Ländern mit mehr als 950 Laboratorien gewachsen. Eurofins bietet ein Portfolio von mehr als 200.000 Analysemethoden zur Bewertung der Sicherheit, Identität, Zusammensetzung, Authentizität, Herkunft, Rückverfolgbarkeit und Reinheit von biologischen Substanzen und Produkten sowie innovative Dienstleistungen im Bereich der klinischen Diagnostik als einer der weltweit führenden, aufstrebenden Anbieter von spezialisierten klinischen Diagnosetests.\nIm Jahr 2025 erzielte Eurofins einen Gesamtumsatz von 7,296 Milliarden Euro und zählt in den letzten 20 Jahren zu einer der Aktien mit der besten Wertentwicklung in Europa.\nFür die Eurofins PHAST Development GmbH & Co. KG suchen wir für den  Standort Konstanz einen Analytiker im Partikellabor (m/w/d).\n## Stellenbeschreibung\n- Bestimmung physikalischer Eigenschaften von Pulverproben und weiteren Pharmaprodukten\n- Prüfung pharmazeutischer Produkte mittels moderner Analysenverfahren\n- Bewertung von Analyseergebnissen\n- Erstellung von Prüfberichten\n- GMP-gerechte Dokumentation der durchgeführten Analysen\n- Gegenprüfung von Rohdaten, Originaldaten und Prüfberichten\n- Mitwirkung bei Methodenentwicklungen, Validierungen sowie Transfers\n- Mitwirkung bei Kontinuierlichen Verbesserungsprozessen (KVPs)\n## Qualifikationen\n- Sie haben Berufserfahrung als Chemielaborant/in, Chemisch-technische/r-Assistent/in, Physikalisch-technische/r-Assistent/in o.ä. in der pharmazeutischen Industrie\n- Vorzugsweise haben sie bereits Kenntnisse in der Durchführung einer der folgenden Methoden:\n    - Laserbeugungsmethoden\n    - Elektronenmikroskopie\n    - sonstige Methoden im Bereich der Partikelanalytik\n- Sie haben schon im GMP Umfeld gearbeitet\n- Sie sind flexibel, engagiert und zuverlässig\n- Sie haben ausgezeichnete Kenntnisse der englischen Sprache in Wort und Schrift\n## Zusätzliche Informationen\nWir bieten Ihnen:\n- Aktiven Gestaltungsspielraum und die Möglichkeit, Verantwortung zu übernehmen\n- Ein kollegiales Miteinander in einem motivierten und freundlichen Team\n- Flexible Arbeitszeiten und Arbeitszeitmodelle\n- Unterstützung bei der Vermittlung von Kindergartenplätzen in einem kooperierenden Kindergarten in Betriebsnähe\n- Übernahme der Kosten für das Deuschlandticket\n- Abwechslungsreicher Arbeitsplatz\n- Flache Hierarchien, kurze Entscheidungswege\n- Individuelle fachliche und persönliche Weiterentwicklungsmöglichkeiten\n- Vergünstigtes Essensangebot\n- Firmenfeiern wie Sommerfest oder Weihnachtsfeier\n- Weitere Vorteile (Corporate Benefit Programm, Gesundheitsmanagement, etc.)\nEurofins unterstützt die Entwicklung unserer Mitarbeitenden! Haben Sie das Gefühl, dass Sie nicht zu 100% die Anforderungen in der Stellenanzeige erfüllen? Zögern Sie nicht sich dennoch zu bewerben! Die Unternehmen von Eurofins …",
+   "extra": {
+    "refnr": "10001-1001755402-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "6f5528694020fa86",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001755402-S"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "GMP Project Coordinator - Pharma",
+   "company": "Phast Development GmbH & Co. K G",
+   "location": "78467 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002223475-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# Company Description\nThe Eurofins network of companies is the global leader in food, environment, pharmaceutical and cosmetic product testing and in discovery pharmacology, forensics, advanced material sciences and agroscience contract research services. It is one of the market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, advanced material sciences and in the support of clinical studies, as well as having an emerging global presence in Contract Development and Manufacturing Organisations. It also has a rapidly developing presence in highly specialised and molecular clinical diagnostic testing and in-vitro diagnostic products.\nEurofins Scientific is an international life sciences company, providing a unique range of analytical testing services to clients across multiple industries, to make life and our environment safer, healthier and more sustainable. From the food you eat, to the water you drink, to the medicines you rely on, Eurofins laboratories work with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic, and labelling is accurate.\nEurofins is dedicated to delivering testing services that contribute to the health and safety of society and the planet, and to its corporate responsibility to protect the environment and ensure diversity, equity, and inclusion across the entire network of Eurofins companies.\nIn over 35 years, Eurofins has grown from one laboratory in Nantes, France to 65,000 staff across a decentralised and entrepreneurial network of over 1000 laboratories in 59 countries. Eurofins companies offer a portfolio of over 200,000 analytical methods to evaluate the safety, identity, composition, authenticity, origin, traceability and purity of biological substances and products.\nIn 2025, Eurofins generated total revenues of EUR 7.296 billion, and has been among the best performing stocks in Europe over the past 20 years.\n# Job Description\nThe Eurofins BioPharma Services Network of Companies is a first-class biopharmaceutical outsourcing services partner (Contract Research Organization - CRO), working with pharmaceutical, chemical, biotechnology, medical device, and cosmetic clients.\nThe network covers the whole chain of drug development thanks to an international network of laboratories and testing units with global reach, uniform QA systems, and high-quality services.\nWe are looking for a GMP Project Manager Pharma who will contribute to the significant growth of our business by:\n**Key Responsibilities**\n- **End-to-end project leadership** for Pharma Analytics: Analytical Development & Method validation, Dissolution, Chromatography, Particle Testing, Stability Storage, and related subcontracted services within the Eurofins Group\n- **Project planning and timeline management**: define project plans, track milestones, manage POs, risks and forecasts, and report status to stakeholders\n- **Technical coordination**: review and evaluate technical customer requests and create appropriate work packages and proposals\n- **GMP compliance**: ensure correct execution of commissioned analytical work per GMP; contribute to audit readiness and continuous improvement\n- **LIMS configuration**: map and configure projects in LIMS and support data integrity best practices\n- **Stakeholder management**: coordinate interfaces between internal labs, clients, and external partners; support new project acquisition\n- **Quality system contributions**: assist in authoring and maintaining SOPs and GMP documentation; support client, GMP, and regulatory audits\n- **Process optimization**: identify and implement improvements to increase efficiency, quality, and throughput at the site\n## Qualifications\n- **Degree in life sciences** (pharmacy, chemistry, biology) **or** **completed vocational training** in a pharmaceutical or chemical field **preferably** **combined with 3+ years of relevant professional experience** in a regulated …",
+   "extra": {
+    "refnr": "10001-1002223475-S",
+    "query": "Diversity",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "3021d41313c5b94b",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002223475-S"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Integrations- und Diversity-Management",
+   "company": "Allensbach Hochschule",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://www.aubi-plus.de/weiterbildung/allensbach-hochschule-integrations-und-diversity-management-konstanz-2988/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "AUBI-Plus",
+   "description": "Zertifikatsstudium Integrations- und Diversity-Management\nWas versteht man unter Diversity?\nDiversity ist ein Buzzword in der wirtschaftlichen und gesellschaftlichen Debatte geworden. Ein Diversity-Konzept umfasst Akzeptanz von und Respekt vor Vielfalt. Diversity ist das Verständnis, dass jeder Mensch einzigartig ist. Individuelle Unterschiede, beispielsweise hinsichtlich Herkunft, ethnischer Zugehörigkeit, Geschlecht, sexueller Orientierung, sozioökonomischem Status, Alter, körperlichen Fähigkeiten, religiösen und politischen Überzeugungen etc., spielen demnach keine Rolle im Ansehen und der Positionierung einer Person.\nWarum ist das Thema Diversity relevant?\nDas Management von Vielfaltsthemen ist auch zu einem wesentlichen Thema für alle Unternehmen geworden. Zum Beispiel haben Unternehmen mit einem divers aufgestellten Top-Management eine 25 % höhere Wahrscheinlichkeit, überdurchschnittlich profitabel zu sein. Und eine Studie hat ergeben: Der größte Nutzen von Diversity Management aus Sicht der Befragten sind Offenheit und Lernfähigkeit der Organisation, wodurch ihre Zukunftsfähigkeit sichergestellt wird. Vor allem liegt der Fokus auf dem Employer Branding mit Blick auf die jüngeren Generationen. Dabei ist Diversity unverzichtbarer Bestandteil. Angehörige der Genration Y und Generation Z suchen gezielt nach fairen und diversen Arbeitgebern!\nDas Hochschulzertifikat Integrations- und Diversity-Management umfasst die beiden Module Diversity Management und Interkulturelles Integrationsmanagement aus dem M.A. Wirtschaftspädagogik und will die Teilnehmenden qualifizieren, sich im beruflichen beziehungsweise organisationellen Umfeld den Herausforderungen an Integrations- und Diversity-Bemühungen kompetent zu stellen.\nZielgruppe des Hochschulzertifikats\nDas Hochschulzertifikat richtet sich vor allem an (angehende) Praktiker:innen im Bereich Human Resources, dem Diversity- und Inklusions-Management oder auch dem Marketing- und Kommunikations-Management. Ebenso können Geschäftsleiter:innen die erworbenen Kompetenzen für die Diversity- und Integrationsorientierte strategische Unternehmensführung nutzen und entsprechende Managemententscheidungen fachlich qualifizieren.\nIm Fokus des Zertifikatsstudiums steht, hinreichende Kompetenzen dafür zu erwerben, Vielfalt in der Arbeitswelt in Deutschland voranzubringen und dieses Konzept als festen Bestandteil in allen Organisationen zu etablieren. Organisationen sollen ein Arbeitsumfeld erschaffen, das frei von Vorurteilen ist. Wichtig ist, dass Organisationen die Diversität als ein Gewebe aus zahlreichen Elementen und Ebenen verstehen und das Diversity Management dementsprechend aufbauen und verankern.\nDas Hochschulzertifikat Integrations- und Diversity-Management steht dafür, wichtige praktische Kompetenzen auf einer anerkannten wissenschaftlichen Basis zu vermitteln!\nIn Ihrem Zertifikatsstudium absolvieren Sie die folgenden zwei Module:\nDiversity Management (10 ECTS)\nInterkulturelles Integrationsmanagement (10 ECTS)\nDiese zwei Module schließen Sie je mit einer Einsendeaufgabe ab.\nDas Wichtigste zu Ihrem Hochschulzertifikat:\nZulassungsvoraussetzung ist eine Berufsausbildung oder ein erster berufsqualifizierender Studienabschluss, z.B. Bachelor, Diplom FH, Diplom BA, Diplom Universität. Über Ausnahmen entscheidet der Prüfungsausschuss.\nStudiendauer: 6 Monate + 6 Monate kostenfreie Verlängerung\nCredit Points: 20 ECTS\nPrüfungsform: Einsendeaufgabe\nStudienbeginn: jederzeit\nStudiengebühren: 215 EUR monatlich, 1.290 EUR insgesamt\nStarttermin: jederzeit\nDas Hochschulzertifikat können Sie online und ohne verpflichtende Präsenzveranstaltungen absolvieren.\nHaben Sie Interesse? Dann kontaktieren Sie unsere Studienberatung, wir freuen uns auf Sie!",
+   "extra": {
+    "schedule": null,
+    "query": "Diversity",
+    "apply_links": [
+     "https://www.aubi-plus.de/weiterbildung/allensbach-hochschule-integrations-und-diversity-management-konstanz-2988/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "ba4b898346744291",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://www.aubi-plus.de/weiterbildung/allensbach-hochschule-integrations-und-diversity-management-konstanz-2988/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Referent*in für Praxisphasen und Netzwerkkoordination",
+   "company": "GKK PARTNERS",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://de.trabajo.org/stellenangebot-28654-b1fa49688538058052b3da397c0c4934?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Trabajo.org",
+   "description": "Referent*in für Praxisphasen und Netzwerkkoordination (w/m/d) im Lehrprojekt „Village Lab“ (Teilzeit 50 %, E 13 TV-L)\nKennziffer 2026/174.\nIst dies der nächste Schritt in Ihrer Karriere Finden Sie heraus, ob Sie der richtige Kandidat sind, indem Sie die vollständige Übersicht unten lesen.\nDie Stelle ist im Sachgebiet Career Service und Schlüsselqualifikationen in der Abteilung Studium und Lehre angesiedelt und ab dem befristet bis 3 zu besetzen.\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\nIm Rahmen der Ausschreibung „Die Welt ist mein Campus“ der Stiftung Innovation in der Hochschullehre wird unter der Leitung des Prorektors für Lehre das Projekt „Village Lab“ der Universität Konstanz gefördert. Mit diesem Vorhaben etabliert die Universität Konstanz einen fächerübergreifenden Schwerpunkt Demokratie in ländlichen Räumen. Ziel ist es, die fachlichen Dimensionen des Universitätsstudiums durch eine explizite praxisbasierte Reflexion der Rolle wissenschaftlich ausgebildeter Akademiker*innen als demokratisch Handelnde zu ergänzen.\nLändliche Regionen dienen dabei als besonders herausfordernde, aber auch konkret fassbare Lernorte demokratischer Aushandlungsprozesse. Das Vorhaben setzt auf co-creative Partnerschaften zwischen Universität und ländlichen Kommunen. Es wird ein*e Mitarbeiter*in im Sachgebiet Career Service und Schlüsselqualifikationen gesucht, die innerhalb dieses Projekts unten angegebene Aufgaben übernimmt.\nAufbau und Koordination einer zentralen Beratungs- und Koordinationsstelle für Praxisphasen im Bereich Demokratiebildung und ZivilgesellschaftsstärkungIdentifikation, Gewinnung und Begleitung geeigneter PraxisstellenAufbau, Pflege und strategische Weiterentwicklung von Partnerschaften und Kooperationen mit Kommunen, Vereinen, Initiativen, regionalen Unternehmen und weiteren gesellschaftlichen Akteuren im ländlichen RaumEntwicklung und Koordination von Finanzierungs- und Fördermodellen, um Praxisphasen sowie den Aufenthalt von Studierenden im ländlichen Raum zu ermöglichenEntwicklung und Umsetzung von Qualitätsstandards sowie eines Kriterienkatalogs zur Anerkennung und Qualitätssicherung der PraxisphasenBeratung und Begleitung von Studierenden bei der Planung, Durchführung und Reflexion ihrer PraxisphasenAbstimmung mit Fachbereichen zur curricularen Verankerung und Anerkennung der Pflichtpraktika bzw. PraxissemesterDokumentation, Evaluation und Berichterstattung im Rahmen des Projekts sowie Mitwirkung an dessen WeiterentwicklungAbgeschlossenes wissenschaftliches Hochschulstudium (Master), vorzugsweise in den Bereichen Sozialwissenschaften, Bildungswissenschaften, Politik- und Verwaltungswissenschaft oder verwandten DisziplinenAusgeprägte konzeptionelle und organisatorische Fähigkeiten sowie Erfahrung im Aufbau und in der Koordination von Netzwerken und KooperationsstrukturenErfahrung in der Zusammenarbeit mit kommunalen und zivilgesellschaftlichen Akteuren, vorzugsweise in xmdgtar ländlichen RäumenVertrautheit mit Hochschulstrukturen, Qualitätsstandards und curricularen Prozessen ist von VorteilIdealerweise Erfahrung in der Beratung und Begleitung von jungen MenschenSelbstständige, strukturierte und lösungsorientierte ArbeitsweiseAusgeprägte konzeptionelle, organisatorische und kommunikative KompetenzenHohe Teamfähigkeit sowie Freude an der Zusammenarbeit mit unterschiedlichen AkteurenSehr gute Deutschkenntnisse in Wort …",
+   "extra": {
+    "schedule": null,
+    "query": "Netzwerkkoordination",
+    "apply_links": [
+     "https://de.trabajo.org/stellenangebot-28654-b1fa49688538058052b3da397c0c4934?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "dd733402bd52ea46",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://de.trabajo.org/stellenangebot-28654-b1fa49688538058052b3da397c0c4934?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Charmante Labertaschen gesucht! Nebenjob für Studenten m/w/d aus Theater / Politik / Sozialwissenschaften / Pädagogik Konstanz",
+   "company": "talk2move Fundraising GmbH",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://www.recrudo.com/jobs/charmante-labertaschen-gesucht-nebenjob-fur-studenten-mwd-aus-theater-politik-sozialwissenschaften-padagogik-100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Recrudo",
+   "description": "Plappern ist Deine größte Leidenschaft und Du liebst es auf fremde Menschen zuzugehen? Dann passt Du perfekt in unser kunterbuntes Team!\nWir suchen kommunikative, coole Menschen wie Dich, die sich als Dialoger bzw. Fundraiser (m/w/d) für Hilfsorganisationen stark machen wollen – Leute Anquatschen für den guten Zweck!\nDein Job: Du informierst Menschen in der Fußgängerzone über die Arbeit verschiedener Hilfsorganisationen (z.B. WWF, SOS-Kinderdorf, Welthungerhilfe uvm.) und versuchst dabei viele neue langfristige Fördermitglieder zu gewinnen. Das alles geschieht an unseren hübschen Infoständen und gemeinsam mit Deinem mega gut gelaunten Team.\nWir sind deutschlandweit aktiv – das heißt, Du reist mit uns von Stadt zu Stadt, besuchst die coolsten Städte und supportest dabei große und namhafte Non-Profit Organisationen.\nDas erwartet Dich:\n-\tDurchschnittlich 120 Euro pro Tag im Einsatz\n-\tflexible Arbeitszeiten – Du entscheidest wann Du startest\n-\tein cooles Team aus jungen, enthusiastischen Menschen in Deinem Alter\n-\tReisen quer durch Deutschland, wie auf Klassenfahrt!\n-\tneue Freunde und sehr viel Spaß in unserer Crew\n-\tkostenlose Unterkünfte und Leihautos\n-\tregelmäßige Team-Events: Schulungen, Sommerpartys, Incentive-Reisen uvm.\nDas bringst du mit:\n-\tDu bist mindestens 18 Jahre alt\n-\tDu sprichst fließend Deutsch (muttersprachliches Niveau)\n-\tDu bist kommunikativ, ehrgeizig und arbeitest gerne im Team\n-\tDu hast 2 - 4 Wochen Zeit für uns (z.B. in den Semesterferien)\n-\tDu bist bereit für den coolsten Studentenjob der Welt!\nKlingt mega gut? Dann bewirb Dich noch heute bei uns! Wir freuen darauf, Dich bald kennenzulernen.\nGib bitte Deine Telefonnummer und Emailadresse bei Deiner Bewerbung an, damit wir Dich schnellstmöglich kontaktieren können.\nDein talk2move Team",
+   "extra": {
+    "schedule": null,
+    "query": "Sozialwissenschaften",
+    "apply_links": [
+     "https://www.recrudo.com/jobs/charmante-labertaschen-gesucht-nebenjob-fur-studenten-mwd-aus-theater-politik-sozialwissenschaften-padagogik-100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "d2b354dac9884f18",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://www.recrudo.com/jobs/charmante-labertaschen-gesucht-nebenjob-fur-studenten-mwd-aus-theater-politik-sozialwissenschaften-padagogik-100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Endlich ein sinnvoller Ferienjob für Studenten der Sozialwissenschaften - Flexibel, sinnvoll für NGO`s und flexibler Einstieg jederzeit möglich Friedrichshafen",
+   "company": "DialogDirect Promotion",
+   "location": "Friedrichshafen",
+   "country": "DE",
+   "url": "https://www.recrudo.com/jobs/-21-149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Recrudo",
+   "description": "Nutze deine Zeit um sinnvoll Geld zu verdienen, deine Skills zu verbessern und lerne als Dialoger*in für NGO´s und Hilfsorganisationen viel über Kommunikation und Rhetorik.\nDeine Aufgaben:\n•\tMit deinem Team bist du min.2,  besser 3-4 Wochen am Stück bundesweit im Einsatz.\n•\tAm Infostand begeisterst du Passant*innen, indem du wichtige Aufklärungsarbeit über die Projekte der Hilfsorganisationen leistest.\n•\tIm Gespräch überzeugst du Passant*innen von der finanziellen Unterstützung wichtiger Projekte in den Bereichen Umweltschutz, Menschenrechte und Flüchtlingshilfe.\nDas findest du hier:\n•\tÜber 2.000 € Festgehalt mtl.  PLUS Prämien\n•\tIm Schnitt 2.300 € - 3.100 € mtl. als neue*r Dialoger*in (Festgehalt & Prämien)\n•\tStartprämie: Arbeite 4 Wochen am Stück und erhalte zusätzlich 500 €\n•\tReisekosten? Übernehmen wir! (An-, Abfahrt, Schulung, Ferienwohnung, Mietfahrzeug & Benzin)\n•\tRhetoriktrainings und Coachings\n•\tIndividuelle Entwicklungschancen\n•\tTolle Teamkolleg*innen\n•\tTeamspirit & einen erfüllenden Job mit Sinn!\n•\tAb 4 Wochen Einsatz: Praktikumszeugnis für deinen Lebenslauf\nDas bringst du mit:\n•\tMindestens 2, besser 3-4 Wochen Zeit am Stück\n•\t18 Jahre +\n•\tDeutsch: C1 oder besser\n•\tLust auf Skills & Weiterentwicklung deiner Kommunikationsfähigkeiten!\n•\tMotivation + Ausdauer + Überzeugungskraft\n•\tDu hast Lust auf richtiges Teamwork\nDer Bewerbungsprozess:\n•\tDirekt Online bewerben\n•\tTelefonnummer angeben: Wir rufen dich für ein Infogespräch zurück!\n•\tFragen? Du erreichst uns unter 0800 60 70 80 6 (Mo. bis Fr. 10 – 15 Uhr)\nWer sind wir?\nDas Original. DialogDirect ist seit 25 Jahren im Einsatz für Hilfsorganisationen wie unter anderem Amnesty International, dem WWF oder der UNO-Flüchtlingshilfe. Wir arbeiten bundesweit, bringen Menschen und Hilfsorganisationen zusammen und ermöglichen durch qualitativ hochwertiges Fundraising die wichtigen Projekte der NGO‘s.",
+   "extra": {
+    "schedule": null,
+    "query": "Sozialwissenschaften",
+    "apply_links": [
+     "https://www.recrudo.com/jobs/-21-149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "26ab0df875910fff",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://www.recrudo.com/jobs/-21-149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Freundliche Quasselstrippen & charmante Labertaschen gesucht! Nebenjob für Studenten (m/w/d) aus Theater / Politik / Sozialwissenschaften / Pädagogik Radolfzell am Bodensee",
+   "company": "talk2move Fundraising GmbH",
+   "location": "Radolfzell am Bodensee",
+   "country": "DE",
+   "url": "https://www.recrudo.com/jobs/freundliche-quasselstrippen-und-charmante-labertaschen-gesucht-120-eur-tag-nebenjob-fur-studenten-mwd-aus-theater-politik-soz-381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Recrudo",
+   "description": "Plappern ist deine größte Leidenschaft und du liebst es auf fremde Menschen zuzugehen? Dann passt du perfekt in unser Team!\nWir suchen kommunikative, coole Menschen wie dich, die sich als Dialoger bzw. Fundraiser (m/w/d) für Hilfsorganisationen stark machen wollen – Leute Anquatschen für den guten Zweck!\nDein Job: Du informierst Menschen in der Fußgängerzone über die Arbeit verschiedener Hilfsorganisationen (z.B. WWF, Unicef, SOS Kinderdorf uvm.) und versuchst dabei viele neue langfristige Spender:innen zu gewinnen. Das alles geschieht an unseren hübschen Infoständen und gemeinsam mit deinem mega gut gelaunten Team.\nWir sind deutschlandweit aktiv – das heißt, du reist mit uns von Stadt zu Stadt, besuchst die coolsten Städte und supportest dabei große Non-Profit Organisationen.\nDas erwartet dich:\n-\t80 bis 120 Euro pro Tag im Einsatz\n-\tflexible Arbeitszeiten – du entscheidest wann du startest\n-\tein cooles Team aus jungen, enthusiastischen Menschen in deinem Alter\n-\tReisen quer durch Deutschland, wie auf Klassenfahrt!\n-\tneue Freunde und sehr viel Spaß in unserer Crew\n-\tkostenlose Unterkünfte und Leihautos\n-\tregelmäßige Team-Events: Schulungen, Sommerpartys, Incentive-Reisen uvm.\nDas bringst du mit:\n-\tdu bist mindestens 18 Jahre alt\n-\tdu sprichst fließend Deutsch (muttersprachliches Niveau)\n-\tdu bist kommunikativ, ehrgeizig und arbeitest gerne im Team\n-\tdu hast 3-4 Wochen Zeit für uns (z.B. in den Ferien)\n-\tdu bist bereit für den coolsten Nebenjob der Welt!\nKlingt mega gut? Dann bewirb dich noch heute bei uns! Wir freuen darauf, dich bald kennenzulernen.\nGib bitte Deine Telefonnummer und Emailadresse bei deiner Bewerbung an, damit wir Dich schnellstmöglich kontaktieren können.\nDein talk2move Team",
+   "extra": {
+    "schedule": null,
+    "query": "Sozialwissenschaften",
+    "apply_links": [
+     "https://www.recrudo.com/jobs/freundliche-quasselstrippen-und-charmante-labertaschen-gesucht-120-eur-tag-nebenjob-fur-studenten-mwd-aus-theater-politik-soz-381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "9eac243c439d7b48",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://www.recrudo.com/jobs/freundliche-quasselstrippen-und-charmante-labertaschen-gesucht-120-eur-tag-nebenjob-fur-studenten-mwd-aus-theater-politik-soz-381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Leitung Amt für Kunst und Kultur",
+   "company": "Lindau",
+   "location": "Friedrichshafen",
+   "country": "DE",
+   "url": "https://talents.studysmarter.de/companies/lindau/leitung-amt-fuer-kunst-und-kultur-9782752/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "posted": null,
+   "salary": null,
+   "via": "Talents By StudySmarter",
+   "description": "Friedrichshafen sucht Sie!Eine dynamische Stadt mit vielen Möglichkeiten – Friedrichshafen ist das wirtschaftliche Zentrum einer attraktiven Region direkt am Bodensee. Wir sind eine moderne Stadtverwaltung, die gesellschaftliche Vielfalt im Alltag lebt und eine Unternehmenskultur der gegenseitigen Wertschätzung pflegt. Rund 1.600 Mitarbeiterinnen und Mitarbeiter unserer Stadtverwaltung sorgen täglich für die Lebensqualität von rund 62.000 Einwohnern.\nUnterstützen Sie uns dabei.\nWir haben im Amt für Kunst und Kultur zum nächstmöglichen Zeitpunkt folgende Stelle (m/w/d) zu besetzen:\nLeitung Amt für Kunst und Kultur Friedrichshafen verfügt über eine äußerst vielfältige und lebendige Kulturlandschaft: Neben zahlreichen städtischen Einrichtungen, wie Museen von nationaler Bedeutung, dem Medienhaus am See, Kleinkunstbühnen und einem Kultur- und Kongresszentrum mit einem hochwertigen Programm mit über 300 Veranstaltungen prägt auch eine vielfältige aktive freie Kulturszene das kulturelle Leben der Stadt.\nZur Stärkung von Friedrichshafen als Kulturstadt sollen alle Einrichtungen und Aktivitäten von Stadt und Zeppelin-Stiftung im Bereich Kultur und Kunst künftig in einem neu aufzubauenden Amt für Kunst und Kultur gebündelt und aus einer Hand gesteuert und vorangetrieben werden. Das neu geschaffene Amt für Kunst und Kultur umfasst bei Gründung folgende Einrichtungen und Aufgabenbereiche:\nKulturbüro Kultur- und Kongresszentrum Graf-Zeppelin-Haus sowie die Veranstaltungsstätten Kiesel im K42 und Bahnhof Fischbach Stadtbibliothek Medienhaus am See mit den Zweigstellen Kluftern, Fischbach und Ettenkirch Schulmuseum sowie Stadtarchiv mit Bodenseebibliothek Stadtorchester Friedrichshafen  Ihre Aufgaben Aufbau und Leitung des Amts für Kunst und Kultur mit ca. 240 Beschäftigten inklusive der Personal- und Budgetverantwortung für den gesamten Zuständigkeitsbereich Gesamtverantwortung für die Kulturentwicklung und Ausgestaltung der Kulturlandschaft und kulturellen Angebote in Friedrichshafen einschließlich der Klärung von Grundsatzfragen Sicherstellung der reibungslosen, effizienten und effektiven Erfüllung der Aufgaben des Amts Steuerung des Amts einschließlich der strategischen, organisatorischen und fachlichen Ausrichtung Entwicklung von neuen Angeboten und Formaten für eine vielfältige Kulturlandschaft sowie Identifikation, proaktives Aufgreifen und Gestalten von künftigen Herausforderungen im Bereich Kultur sowie eigenständige Entwicklung von Lösungsansätzen für aufkommende Herausforderungen und Problemstellungen Vertretung der Aufgaben, Interessen und Ziele des Amts für Kunst und Kultur innerhalb der Stadtverwaltung, in politischen Gremien wie auch nach außen gegenüber der Öffentlichkeit, Institutionen, Kulturakteuren, Kommunen, Verbänden, Unternehmen und Drittmittelgebenden sowie in interkommunalen Netzwerken Vermittlung der Aufgaben, Ziele und Inhalte des Amts in den politischen Raum und die Stadtgesellschaft hinein  Eine Anpassung des Aufgabengebietsdes künftigen Amts für Kunst und Kultur im Zuge der weiteren Kulturentwicklung der Stadtbehalten wir uns vor.\nIhr Profil Ein auf den Tätigkeitsbereich bezogenes abgeschlossenes wissenschaftliches Hochschulstudium gemäß TVöD-V (Master/Magister/Diplom), vorrangig im Bereich Kulturmanagement oder Kulturwissenschaftoder einer vergleichbaren Studienrichtung  Mehrjährige erfolgreiche einschlägige Berufs- und Führungserfahrung im genannten Aufgabenbereich, vorrangig in einer Kommunalverwaltung  Umfangreiche Kenntnisse und Erfahrungen in den genannten Aufgabengebieten sowie in der Zusammenarbeit mit Kulturschaffenden, politischen Gremien, anderen Behörden, Kommunen und Organisationen Souveräne Führungspersönlichkeit mit sehr ausgeprägten fachlichen und sozialen Kompetenzen und Erfahrung im Bereich der Strukturentwicklung sowie in der positiven Gestaltung von Veränderungsprozessen Hohes Maß an Initiative und Innovationskraft, Einsatzbereitschaft, Teamfähigkeit, Belastbarkeit sowie Kreativität …",
+   "extra": {
+    "schedule": null,
+    "query": "Kulturmanagement",
+    "apply_links": [
+     "https://talents.studysmarter.de/companies/lindau/leitung-amt-fuer-kunst-und-kultur-9782752/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    ]
+   },
+   "id": "0a31ab85fbd68aab",
+   "sources": [
+    "google_jobs"
+   ],
+   "links": {
+    "google_jobs": "https://talents.studysmarter.de/companies/lindau/leitung-amt-fuer-kunst-und-kultur-9782752/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Trainer (d/m/w) Satellitenkommunikation",
+   "company": "Airbus Defence and Space",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/trainer-d-m-w-satellitenkommunikation-at-airbus-defence-and-space-4432898543",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Job Description: Tätigkeitsbeschreibung Für Airbus Defence and Space in Friedrichshafen suchen wir für den Bereich \"Connencted Intelligence“ in der Abteilung „TCADCP Integrated Product Support“ einen Trainer (d/m/w). Die Schwerpunkte der Tätigkeiten beziehen sich auf nationale und internationale Projekte der sicheren Satellitenkommunikation. Dein Standort Am Airbus-Standort in Friedrichshafen/Immenstaad arbeitest du dort an Innovationen, wo andere Urlaub machen. Genieße den Panoramablick auf den Bodensee, während du in unserer Kantine zu Mittag isst. Und nach der Arbeit schließt du dich einer unserer vielen Betriebssportgruppen an, um zu laufen, zu segeln oder Ski zu fahren. Deine Vorteile Attraktive Vergütung und Sonderzahlungen 30 Tage bezahlter Urlaub und zusätzliche freie Tage für besondere Anlässe Ausgezeichnete Weiterbildungsmöglichkeiten und tolle internationale, konzernweite Entwicklungsperspektiven Sonderleistungen: arbeitgeberfinanzierte Altersversorgung, Mitarbeiteraktienoptionen, vergünstigtes Autoleasing, Sonderkonditionen für Versicherungen, Bezuschussung im öffentlichen Personennahverkehr, Mitarbeitervorteile bei kooperierenden Unternehmen Vor-Ort-Einrichtungen: Standortnaher Kindergarten, Arzt für Check-ups und andere gesundheitsbezogene Dienstleistungen, Kantine und Cafeteria mit Seeblick Betriebssportgruppen und Freizeitaktivitäten wie Segeln, Tennis und Wintersport Vereinbarkeit von Familie & Beruf (Jobsharing, Teilzeitmodelle, flexible Arbeitszeiten, individuelle Auszeit) Arbeiten in einem diversen Umfeld, mit mehr als 140 Nationalitäten, in dem jede Stimme gehört wird Deine Aufgaben und Verantwortlichkeiten Die Arbeitsaufgabe umfasst die Vorbereitung, das Koordinieren und selbstständige Durchführen von technischen Trainings für komplexe Kommunikationssysteme mit diversen Schnittstellen. Entwicklung und Bereitstellung von Schulungskursen und Trainingsprogrammen im nationalen und internationalen Umfeld Zentraler Ansprechpartner für den Kunden in Bezug auf Kundenschulungen Diverse Fachunterlagen studieren bzw. analysieren und mit Experten, Spezialisten und Fachleuten diskutieren und abstimmen Einhaltung und Beachtung der Kundenanforderungen Analysieren der Kundenanforderungen, techn. Möglichkeiten sowie Fähigkeiten der zu Trainierenden (Trainingsbedarfsanalyse) unter Berücksichtigung von Wirtschaftlichkeitspotenzialen und Kundennutze n Selbstständiges konzipieren von Trainings und Erstellen von Trainingsunterlagen unter Berücksichtigung der Kundenanforderungen und didaktischen Aspekten Durchführung von komplexen technischen Trainingsmaßnahmen Sich jederzeit selbstständig auf Stand bzgl. neuer Technologien bzw. Bauzustände halten und in das Training einpflegen Sicherstellen von termin-, ziel- und kundenorientierter Bereitstellung von Unterlagen und Trainingsmedien im Rahmen der Ausbildung. Maßnahmen und Vorschläge zum Erreichen der Ausbildungsziele abstimmen und vorgeben Ausbildungsschritte beurteilen, ggf. Korrekturmaßnahmen einleiten Erforderliche Kenntnisse und Qualifikationen Abgeschlossenes Studium der Informationstechnik, Nachrichtentechnik, Elektrotechnik oder eine vergleichbare Qualifikation. Ausgeprägte Kenntnisse in der Kommunikations- und Nachrichtentechnik. Nachweisliche Erfahrung als technischer Trainer. Sie können komplexe technische Inhalte einfach, verständlich und überzeugend vermitteln. Sie sind in der Lage, Mitarbeiter bei Kundenvorführungen anzuleiten und zu unterweisen. Sie sind stressresistent, anpassungsfähig und flexibel bei neuen Herausforderungen. Sie sprechen fließend Deutsch und haben gute Englischkenntnisse. Sie sind bereit, national und bei Bedarf auch europaweit zu reisen. f0682a678faf This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth. Company: Airbus Defence and Space GmbH Employment Type: Permanent Experience Level: Professional Job Family: …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "28 applicants"
+   },
+   "id": "7fd3f3b22ee22d78",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/trainer-d-m-w-satellitenkommunikation-at-airbus-defence-and-space-4432898543"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Digitalisierungsmanager:in (w/m/d)",
+   "company": "ECOVIS RTS",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/digitalisierungsmanager-in-w-m-d-at-ecovis-rts-4477253383",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Über ECOVIS RTS Wir sind eine mittelständische Steuerberatungsgesellschaft mit über 1.500 Mitarbeitenden an mehr als 70 Standorten in Baden-Württemberg und betreuen Unternehmen sowie Privatpersonen in steuerlichen und betriebswirtschaftlichen Fragestellungen. Bei ECOVIS RTS steht der Mensch im Mittelpunkt – sowohl in der Zusammenarbeit mit unseren Kund*innen als auch im täglichen Miteinander unserer Mitarbeitenden. Wir schaffen ein Umfeld, in dem Ideen Wertschätzung erfahren, Stärken gesehen werden und persönliches Engagement Raum zur Entfaltung findet. Wo Sie steuern, was wirklich zählt Vorantreiben der digitalen Transformation der Kanzlei Konzeption und Einrichtung von Schnittstellen und DATEV-Anwendungen bei Mandanten Identifikation und Bewertung neuer Technologien für die Kanzlei Schulung unserer Kolleg:innen im Digitalisierungsnetzwerk Koordination und Abstimmung zwischen Fachbereichen und IT Wen wir suchen Abgeschlossenes Studium der Wirtschaftsinformatik oder Ausbildung im IT-Bereich bzw. als Steuerfachangestellte:r Idealerweise Berufserfahrung im Kanzleiumfeld Erfahrung mit DATEV Starke Kommunikationsfähigkeit Das finden Sie nur bei uns Flexibilität: mobiles Arbeiten, individuelle Arbeitszeiten & moderne Ausstattung – geleistete Überstunden können selbstverständlich als Freizeitausgleich genommen werden Ihre Pluspunkte: Kita-Zuschuss, Edenred-Sachbezug (z. B. für Tanken, Einkäufe oder Gutscheine), Fahrtkostenzuschuss, BahnCard sowie Zuschuss zu Internetkosten On-top-Leistungen: Bike Leasing, freie Getränke, Obstkörbe Mehrwert & Vorsorge: Arbeitgebergeförderte betriebliche Altersvorsorge, vermögenswirksame Leistungen sowie exklusive Mitarbeiterrabatte über Corporate Benefits Gesundheit: Deutschlandweite Sport- und Fitnessangebote über unseren Partner Wellpass sowie anonymer psychologischer Beratungsservice Weiterbildung: Geförderte Schulungen, interne Lernangebote & klare Karrierepfade Mobilität: Je nach Standort kostenfreie Parkplätze und E-Lademöglichkeiten Prämienprogramme: Mitarbeitende-werben-Mitarbeitende-Prämien sowie Beteiligung bei erfolgreicher Mandantenempfehlung Sonderurlaub & zusätzliche freie Tage: Freistellung bei besonderen Ereignissen wie Umzug, Hochzeit oder Todesfall im engen Familienkreis sowie ein zusätzlicher Urlaubstag ab zehn Jahren Betriebszugehörigkeit Team & Events: Jährliche Standortevents, Sommerfeste, Firmenläufe & standortübergreifende Veranstaltungen Engagement & Nachhaltigkeit: Teilnahme an Umweltprojekten & Unterstützung sozialer Initiativen Wir verbinden flexible, verlässliche Arbeitsmodelle mit modern ausgestatteten, digitalen Arbeitsplätzen . Ergänzt wird dies durch attraktive Benefits , die je nach Standort individuell ausgestaltet sind und ein überzeugendes Gesamtpaket bieten. Ausgezeichnet: Top Company 2026 & Digitale Kanzlei 2025 Interessiert? Wir freuen uns auf Ihre Bewerbung! Albiona Gashi Senior Recruiterin Redaktionell empfohlener externer Inhalt Video anzeigen Ich bin damit einverstanden, dass mir externe Inhalte angezeigt werden. Damit werden personenbezogene Daten an Drittplattformen übermittelt. ECOVIS RTS Steuerberatungsgesellschaft hat darauf keinen Einfluss. Näheres dazu lesen Sie in unserer Datenschutzerklärung. Sie können die Anzeige jederzeit wieder deaktivieren. Video ausblenden Sie können solche externen Einbettungen mit diesem Schalter wieder deaktivieren ( Datenschutzerklärung ). Show more Show less Seniority level Not Applicable Employment type Full-time Industries Accounting Referrals increase your chances of interviewing at ECOVIS RTS by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "424ed71502e57f4e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/digitalisierungsmanager-in-w-m-d-at-ecovis-rts-4477253383"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Projektleiter:in Anlagenbau (m/w/d)",
+   "company": "Rocken®",
+   "location": "Weinfelden, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-anlagenbau-m-w-d-at-rocken%C2%AE-4477262788",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Unser Rocken Partner entwickelt und liefert hochspezialisierte Systeme für Reinigung, Desinfektion und Sterilisation im Life-Science-Bereich. Das Unternehmen verbindet technische Innovation mit umfassenden Dienstleistungen – von Planung über Schulung bis zum Service. Mit ganzheitlichen Lösungen für hygienekritische Prozesse setzt der Partner auf Präzision und Verlässlichkeit. Das Tätigkeitsfeld umfasst die gesamte Wertschöpfungskette: Produktentwicklung, kundenspezifische Anpassungen, Digitalisierung und weltweiter Support. Der Fokus liegt auf massgeschneiderten Systemlösungen, die höchste Qualitätsansprüche erfüllen. Eigenverantwortung, technisches Know-how und ein lösungsorientierter Ansatz prägen den Arbeitsalltag. Möchtest du in einem Umfeld arbeiten, wo Präzision und Innovation Hand in Hand gehen? Dann freuen wir uns, dich mit unserem Rocken Partner zusammenzubringen. Rolle Du möchtest technische Projekte ganzheitlich von der Vertragsunterzeichnung bis zur erfolgreichen Kundenübergabe verantworten? In dieser vielseitigen Rolle verbindest du Projektmanagement, technische Koordination und wirtschaftliche Steuerung und begleitest anspruchsvolle Projekte bis zur Inbetriebnahme. Verantwortung Übernahme der End-to-End-Projektverantwortung vom Kick-off bis zur Kundenübergabe Planung und Steuerung von Terminen, Meilensteinen, Ressourcen, Risiken und Abhängigkeiten Verantwortung für Budget, Kosten, Forecast, Projektmarge sowie Change- und Nachtragsmanagement Koordination der Projektausführung vor Ort inklusive Installation, Inbetriebnahme, SAT, Kundenschulung und Übergabe Sicherstellung von Qualität, Abnahmefähigkeit und vollständiger Projektdokumentation Technische Klärung von Schnittstellen mit Kunden, Planern, Lieferanten und Produktionsstätten Koordination und Überwachung externer Dienstleister und Lieferanten Erstellung bzw. Koordination kundenspezifischer Ausführungs- und Angebotspläne Strukturierter Projektabschluss inklusive Lessons Learned und Mitarbeit an der Weiterentwicklung der Projektmanagement-Prozesse Qualifikationen Technische, planerische oder bautechnische Ausbildung mit Weiterbildung/Studium in Projektmanagement, Maschinenbau, Bauwesen oder vergleichbar Mehrjährige Erfahrung im Projektmanagement von Anlagenbau-, Investitionsgüter- oder Bauprojekten Erfahrung in Baustellenkoordination, technischen Schnittstellen sowie der Zusammenarbeit mit Lieferanten und Dienstleistern Sehr gutes technisches Verständnis in Anlagenbau und/oder Innenausbau; Interesse an Medizintechnik von Vorteil Unternehmerisches und betriebswirtschaftliches Denken sowie sicherer Umgang mit Kosten, Risiken und Zielkonflikten Strukturierte, selbstständige und lösungsorientierte Arbeitsweise mit ausgeprägtem Verantwortungsbewusstsein Kommunikations- und Verhandlungsstärke sowie souveränes Auftreten Fliessendes Deutsch, Französisch und/oder Italienisch von Vorteil Benefits Homeoffice Interessante und abwechslungsreiche Tätigkeiten/Projekte Internationales Umfeld Markt- und leistungsgerechte Löhne Attraktive Vorsorge- und Versicherungsleistungen 13. Monatsgehalt Flexible Arbeitszeitgestaltung Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "6deb551806b5ceaa",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-anlagenbau-m-w-d-at-rocken%C2%AE-4477262788"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Višji svetovalec (118), ODDELEK ZA UPRAVNE NOTRANJE ZADEVE IN PROMET",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-118-oddelek-za-upravne-notranje-zadeve-in-promet-at-vlada-republike-slovenije-4477287134",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "21a214fb13a8c2ba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-118-oddelek-za-upravne-notranje-zadeve-in-promet-at-vlada-republike-slovenije-4477287134"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Chef/cheffe de projet métier - secteur public",
+   "company": "XMB Group AG",
+   "location": "Oensingen, Solothurn, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/chef-cheffe-de-projet-m%C3%A9tier-secteur-public-at-xmb-group-ag-4478311372",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Pour l’un de nos clients dans le secteur public, XMB Group SA recherche une cheffe ou un chef de projet SI expérimenté/e pour des projets IT et de transformation numérique. La mission est prévue dans le cadre d’une procédure d’appel d’offres et reste soumise à adjudication. Conditions Début: 1er février 2027, sous réserve d’adjudication Durée: minimum 12 mois Lieu: région Lausanne, présence sur site selon les besoins du projet Taux: disponibilité à indiquer; cadre visé 80-100% Langues: français C2 obligatoire, anglais technique B2 minimum Exigences obligatoires Au moins 5 ans d’expérience comme chef/cheffe de projet SI. Au moins 2 références comparables de plus de 12 mois chacune. Français C2 obligatoire. Anglais technique B2 minimum. Casier judiciaire vierge. Disponibilité minimale de 12 mois. Accord pour être nommé/e dans l’offre et signer une attestation d’engagement. Accord pour la vérification du CV, des diplômes/certifications et d’au moins une expérience professionnelle. Show more Show less Seniority level Director Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at XMB Group AG by 2x See who you know",
+   "extra": {
+    "seniority": "Director",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "c0b7149a00deddca",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/chef-cheffe-de-projet-m%C3%A9tier-secteur-public-at-xmb-group-ag-4478311372"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Projektleiter Gebäudeautomation (m/w/d)",
+   "company": "Rocken®",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-geb%C3%A4udeautomation-m-w-d-at-rocken%C2%AE-4477279018",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "73271d95613bdf82",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-geb%C3%A4udeautomation-m-w-d-at-rocken%C2%AE-4477279018"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Sachbearbeiter:in Land- und Forstwirtschaft (m/w/d)",
+   "company": "ECOVIS RTS",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-land-und-forstwirtschaft-m-w-d-at-ecovis-rts-4477252410",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Über ECOVIS RTS Wir sind eine mittelständische Steuerberatungsgesellschaft mit über 1.500 Mitarbeitenden an mehr als 70 Standorten in Baden-Württemberg und betreuen Unternehmen sowie Privatpersonen in steuerlichen und betriebswirtschaftlichen Fragestellungen. Bei ECOVIS RTS steht der Mensch im Mittelpunkt – sowohl in der Zusammenarbeit mit unseren Kund*innen als auch im täglichen Miteinander unserer Mitarbeitenden. Wir schaffen ein Umfeld, in dem Ideen Wertschätzung erfahren, Stärken gesehen werden und persönliches Engagement Raum zur Entfaltung findet. Wo Sie steuern, was wirklich zählt Bearbeitung allgemeiner Sachbearbeitungsaufgaben im landwirtschaftlichen Bereich Erfassung und Pflege von Daten und Unterlagen Unterstützung bei der Bearbeitung von Vorgängen und Dokumenten Vorbereitung und Ablage von Unterlagen und Belegen Telefonische und schriftliche Korrespondenz mit Mandant:innen und Behörden Unterstützung des Teams bei administrativen und organisatorischen Aufgaben Termin- und Dokumentenmanagement sowie allgemeine Büroorganisation Wen wir suchen Abgeschlossene kaufmännische Ausbildung oder eine vergleichbare Qualifikation Sicherer Umgang mit den gängigen MS-Office-Programmen sowie eine strukturierte und sorgfältige Arbeitsweise Teamfähigkeit, Organisationsgeschick und Freude an administrativen Aufgaben Sicherer Umgang mit DATEV Das finden Sie nur bei uns Flexibilität: mobiles Arbeiten, individuelle Arbeitszeiten & moderne Ausstattung – geleistete Überstunden können selbstverständlich als Freizeitausgleich genommen werden Ihre Pluspunkte: Kita-Zuschuss, Edenred-Sachbezug (z. B. Tanken, Einkaufen, Gutscheine), Fahrtkostenzuschuss, BahnCard & Zuschuss im Internet On-top-Leistungen: Bike Leasing, freie Getränke, Obstkörbe Mehrwert & Vorsorge: Arbeitgebergeförderte betriebliche Altersvorsorge, vermögenswirksame Leistungen sowie exklusive Mitarbeiterrabatte über Corporate Benefits Gesundheit: Deutschlandweite Sport- und Fitnessangebote über unseren Partner Wellpass sowie anonymer psychologischer Beratungsservice Weiterbildung: Geförderte Schulungen, interne Lernangebote & klare Karrierepfade Mobilität: Je nach Standort kostenfreie Parkplätze und E-Lademöglichkeiten Prämienprogramme: Mitarbeitende-werben-Mitarbeitende-Prämien sowie Beteiligung bei erfolgreicher Mandantenempfehlung Sonderurlaub & zusätzliche freie Tage: Freistellung bei besonderen Ereignissen wie Umzug, Hochzeit oder Todesfall im engen Familienkreis sowie ein zusätzlicher Urlaubstag ab zehn Jahren Betriebszugehörigkeit Team & Events: Jährliche Standortevents, Sommerfeste, Firmenläufe & standortübergreifende Veranstaltungen Engagement & Nachhaltigkeit: Teilnahme an Umweltprojekten & Unterstützung sozialer Initiativen Wir verbinden flexible, verlässliche Arbeitsmodelle mit modern ausgestatteten, digitalen Arbeitsplätzen. Ergänzt wird dies durch attraktive Benefits, die je nach Standort individuell ausgestaltet sind und ein überzeugendes Gesamtpaket bieten. Ausgezeichnet: Top Company 2026 & Digitale Kanzlei 2025 Interessiert? Wir freuen uns auf Ihre Bewerbung! Albiona Gashi Senior Recruiterin Redaktionell empfohlener externer Inhalt Video anzeigen Ich bin damit einverstanden, dass mir externe Inhalte angezeigt werden. Damit werden personenbezogene Daten an Drittplattformen übermittelt. ECOVIS RTS Steuerberatungsgesellschaft hat darauf keinen Einfluss. Näheres dazu lesen Sie in unserer Datenschutzerklärung. Sie können die Anzeige jederzeit wieder deaktivieren. Video ausblenden Sie können solche externen Einbettungen mit diesem Schalter wieder deaktivieren ( Datenschutzerklärung ). Show more Show less Seniority level Not Applicable Employment type Full-time Industries Accounting Referrals increase your chances of interviewing at ECOVIS RTS by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "3fa54b48e79189ff",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-land-und-forstwirtschaft-m-w-d-at-ecovis-rts-4477252410"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "German Speaking Estate Planner (Hybrid)",
+   "company": "Ignite",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/german-speaking-estate-planner-hybrid-at-ignite-4477265772",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Salary: €80,000 – €95,000 gross p.a. (Fixed base salary, all-in) Industry: Wealth Advisory & Regional Financial Services Travel Requirements: 10–20% regional travel (:100 km radius for client visits and training across the Lake Constance area) Languages Required: Fluent German (C1+ level) Employment Type: Permanent, Full-Time (39-hour working week) About The Role We transcend traditional financial services to alleviate intricate financial responsibilities for high-net-worth (HNW) clients, establishing a solid foundation of trust, transparency, and sustainable intergenerational security. As an Estate Planner / Generation Manager within our Wealth Consulting practice, you will counsel private clients and family offices on advanced wealth succession, asset transfers, and multi-generational estate governance. Partnering directly with key client advisors, you will oversee sophisticated client mandates (:50 cases per year) while actively contributing to the scaling of our regional Estate Planning division. We welcome diverse professional trajectories—whether your background spans private banking, family offices, or financial advisory, we provide the platform and fully sponsor any required specialized certifications. Key Responsibilities Strategic Advisory: Deliver sophisticated estate and succession planning strategies tailored to multi-generational wealth safeguarding goals for high-net-worth individuals and families. Structuring Solutions: Determine optimal legal, fiscal, and organizational frameworks—incorporating corporate foundations, strategic gifts, and asset transfer structures—to maximize long-term asset protection. Joint Client Engagement: Collaborate shoulder-to-shoulder with Private Banking managers and senior wealth advisors on complex, high-value client engagements. Business Development: Generate fee-based advisory revenues (Honorarbasis) and maximize share-of-wallet across core regional client portfolios with integrity and professionalism. Process Innovation: Introduce strategic concepts, contemporary planning technologies, and progressive ideas to continually optimize the advisory framework and service offerings. Requirements Must-Haves: Relevant Experience: 2 to 3+ years of hands-on professional experience in wealth structuring, estate succession planning, Private Banking, Wealth Management, Financial Planning, or a Family Office setting. Domain Knowledge: A robust foundational grasp of wealth conservation principles, asset transfer tactics, or German inheritance and gift tax concepts. Soft Skills & Articulation: Advanced German fluency (C1+ standard) combined with deep empathy, emotional intelligence, diplomatic finesse, and exceptional communication talents required to guide sensitive family discussions. Openness to Development: High enthusiasm to pursue specialized professional designations (such as Certified Estate or Financial Planner), fully coordinated and financed by the firm. Location Presence: Capability to operate under a flexible hybrid work model across the Lake Constance area and execute local client consultations. Nice-to-Haves: Completed banking apprenticeship (Bankkaufmann), a university degree in Law, Finance, or Economics, or existing Estate Planner credentials. Practical background utilizing Microsoft 365 alongside digital financial and estate-planning applications. What We Offer Competitive Fixed Compensation: €80,000 to €95,000 fixed all-in annual base remuneration free from variable commission pressures, ensuring financial stability. Paid Professional Training: Complete financial sponsorship and administrative backing for formal Estate and Financial Planner certifications upon onboarding. Modern Work Setup: Flexible hybrid working structure, a standard 39-hour working week, and 30.5 days of paid annual vacation to ensure a healthy work-life balance. High Impact & Ownership: Full autonomy to help shape a growing advisory unit within a stable, expanding regional financial organization that …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "752679e36bc0bf54",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/german-speaking-estate-planner-hybrid-at-ignite-4477265772"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Produktmanager Finanzierung (m/w/d) – Entwickeln Sie Finanzierungslösungen, die Zukunft ermöglichen",
+   "company": "Volksbank eG Überlingen",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktmanager-finanzierung-m-w-d-%E2%80%93-entwickeln-sie-finanzierungsl%C3%B6sungen-die-zukunft-erm%C3%B6glichen-at-volksbank-eg-%C3%BCberlingen-4477504459",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "Als unabhängige Genossenschaftsbank gestalten wir bei der Volksbank eG Überlingen aktiv die Zukunft unserer Region – ehrlich, respektvoll und partnerschaftlich an der Seite unserer Mitglieder und Kunden. Teilen Sie unsere Werte? Dann werden Sie Teil unseres Teams! Ein eigenes Zuhause, eine Investition oder der nächste unternehmerische Schritt: Hinter jeder Finanzierung steht ein Vorhaben. Als Produktmanager Finanzierung entwickeln Sie die Angebote und Vertriebsansätze, mit denen wir unsere Kunden bei der Verwirklichung ihrer Ziele unterstützen. Die Besetzung dieser Position ist sowohl in Vollzeit auch in Teilzeit (mind. 50%) möglich. Was Sie bei uns bewegen: Sie übernehmen die fachliche Verantwortung für unser Kunden- und Leistungsportfolio im Produktfeld Kredit & Finanzierung und entwickeln es strategisch und operativ weiter. Sie analysieren Kundenbedürfnisse, Markt- und Wettbewerbsentwicklungen sowie regulatorische Veränderungen und leiten daraus konkrete Handlungsbedarfe ab. Sie entwickeln bedarfsgerechte Lösungen, Angebote und Vertriebsansätze rund um Kredit und Finanzieren, Immobilie und Wohnen sowie Investition und Finanzierung. Sie steuern die Weiterentwicklung des Portfolios entlang unserer Vertriebsziele und bringen Kundenorientierung, wirtschaftliche Tragfähigkeit und fachliche Anforderungen zusammen. Als zentrale fachliche Ansprechperson im Produktfeld bereiten Sie komplexe Themen verständlich auf und erstellen fundierte Entscheidungsgrundlagen und Handlungsempfehlungen für Management, Vertrieb und Fachbereiche. Das bringen Sie mit: Eine abgeschlossene Bankausbildung mit relevanter Weiterqualifikation, beispielsweise zum Bankfachwirt oder Bankbetriebswirt, oder ein abgeschlossenes wirtschaftswissenschaftliches Studium. Mehrjährige relevante Erfahrung im Kundenkredit- und Finanzierungsgeschäft, im Produktmanagement oder im Vertriebsmanagement mit Schwerpunkt Finanzierung. Fundierte Kenntnisse im Kreditgeschäft sowie ein gutes Verständnis für die Anforderungen von Privat- und Firmenkunden und die relevanten regulatorischen Rahmenbedingungen. Analytische und konzeptionelle Fähigkeiten sowie einen ganzheitlichen Blick auf das Zusammenspiel von Produkten, Prozessen und Vertrieb. Unternehmerisches Denken, ausgeprägte Kundenorientierung und die Fähigkeit, aus fachlichen Erkenntnissen konkrete Verbesserungen abzuleiten. Kommunikationsstärke, eine strukturierte und eigenverantwortliche Arbeitsweise sowie Freude daran, gemeinsam mit unterschiedlichen Fachbereichen tragfähige Lösungen zu entwickeln. Was wir Ihnen bieten: Mitarbeit in einem engagierten Team, kurze Wege und schnelle Entscheidungen Attraktive Vergütung, umfangreiche Sozialleistungen und Sonderkonditionen für Bankprodukte Gezielte Weiterbildung und individuelle Förderprogramme in der Genossenschaftlichen FinanzGruppe Flexible Arbeitszeiten und moderne Arbeitsstrukturen Kostenlose Mitgliedschaft im Fitnessstudio und JobRad Show more Show less Seniority level Entry level Employment type Full-time Industries Banking Referrals increase your chances of interviewing at Volksbank eG Überlingen by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ad7d3ad0047b31ed",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktmanager-finanzierung-m-w-d-%E2%80%93-entwickeln-sie-finanzierungsl%C3%B6sungen-die-zukunft-erm%C3%B6glichen-at-volksbank-eg-%C3%BCberlingen-4477504459"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Steuerberater (w/m/d) in Singen",
+   "company": "ECOVIS RTS",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/steuerberater-w-m-d-in-singen-at-ecovis-rts-4477248556",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Über ECOVIS RTS Als mittelständische Steuerberatungsgesellschaft mit über 1.500 Mitarbeitenden an mehr als 70 Standorten in Baden-Württemberg begleiten wir Unternehmen und Privatpersonen in steuerlichen und betriebswirtschaftlichen Fragestellungen. Bei uns steht der Mensch im Mittelpunkt, mit Raum für Ideen, Stärken und persönliches Wachstum. Das finden Sie nur bei uns Flexibilität: mobiles Arbeiten, individuelle Arbeitszeiten & moderne Ausstattung – geleistete Überstunden können als Freizeitausgleich genommen werden Ihre Karriereperspektive: Möglichkeit zur fachlichen und unternehmerischen Weiterentwicklung bis hin zur Partnerschaft bei ECOVIS RTS Ihre Pluspunkte: Kita-Zuschuss, Edenred-Sachbezug (z. B. Tanken, Einkaufen, Gutscheine), Fahrtkostenzuschuss & BahnCard On-top-Leistungen: Bike Leasing, freie Getränke, Obstkörbe Mehrwert & Vorsorge: Arbeitgebergeförderte betriebliche Altersvorsorge, vermögenswirksame Leistungen sowie exklusive Mitarbeiterrabatte über Corporate Benefits Gesundheit: Deutschlandweite Sport- und Fitnessangebote über unseren Partner Wellpass sowie anonymer psychologischer Beratungsservice Weiterbildung: Geförderte Schulungen, interne Lernangebote & klare Karrierepfade Mobilität: Je nach Standort kostenfreie Parkplätze und E-Lademöglichkeiten Prämienprogramme: Mitarbeitende-werben-Mitarbeitende-Prämien sowie Beteiligung bei erfolgreicher Mandantenempfehlung Sonderurlaub & zusätzliche freie Tage: Freistellung bei besonderen Ereignissen wie Umzug oder Hochzeit sowie ein zusätzlicher Urlaubstag ab zehn Jahren Betriebszugehörigkeit Team & Events: Jährliche Standortevents, Sommerfeste, Firmenläufe & standortübergreifende Veranstaltungen Engagement & Nachhaltigkeit: Teilnahme an Umweltprojekten & Unterstützung sozialer Initiativen Hinweis: Die genannten Benefits können je nach Standort variieren. Auch die Vergütung richtet sich nach Qualifikation und Berufserfahrung. Wo Sie steuern, was wirklich zählt Ganzheitliche Beratung unserer Mandant:innen in steuerlichen und betriebswirtschaftlichen Fragestellungen Erstellung und Prüfung von Jahresabschlüssen und Steuererklärungen für Unternehmen und Privatpersonen Beratung bei steuerlichen Gestaltungsfragen und Entwicklung individueller Lösungen Eigenverantwortliche Betreuung und Weiterentwicklung eines festen Mandantenstamms Enge Zusammenarbeit mit der Standortleitung sowie Übernahme von fachlicher und unternehmerischer Verantwortung Wen wir suchen Steuerberater oder kurz vor dem erfolgreichen Abschluss des Steuerberaterexamens Idealerweise erste Erfahrung in der steuerlichen Beratung Routinierter DATEV- und MS-Office-Kenntnisse Selbstständige, strukturierte und mandantenorientierte Arbeitsweise Freude an Teamarbeit sowie am direkten Mandantenkontakt Wir freuen uns auf Ihre Bewerbung! Wir meinen: Es ist nie zu früh, miteinander ins Gespräch zu kommen. Bei Fragen zur Stelle oder zum Bewerbungsprozess rufen Sie mich gerne an. Ausgezeichnet: Top Company 2026 & DATEV Digitale Kanzlei 2026 Albiona Gashi Senior Recruiterin Show more Show less Seniority level Not Applicable Employment type Full-time Industries Accounting Referrals increase your chances of interviewing at ECOVIS RTS by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "0a263722b1b2ae53",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/steuerberater-w-m-d-in-singen-at-ecovis-rts-4477248556"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Steuerberater (w/m/d) in Friedrichshafen",
+   "company": "ECOVIS RTS",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/steuerberater-w-m-d-in-friedrichshafen-at-ecovis-rts-4477262106",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Über ECOVIS RTS Als mittelständische Steuerberatungsgesellschaft mit über 1.500 Mitarbeitenden an mehr als 70 Standorten in Baden-Württemberg begleiten wir Unternehmen und Privatpersonen in steuerlichen und betriebswirtschaftlichen Fragestellungen. Bei uns steht der Mensch im Mittelpunkt, mit Raum für Ideen, Stärken und persönliches Wachstum. Das finden Sie nur bei uns Flexibilität: mobiles Arbeiten, individuelle Arbeitszeiten & moderne Ausstattung – geleistete Überstunden können als Freizeitausgleich genommen werden Ihre Karriereperspektive: Möglichkeit zur fachlichen und unternehmerischen Weiterentwicklung bis hin zur Partnerschaft bei ECOVIS RTS Ihre Pluspunkte: Kita-Zuschuss, Edenred-Sachbezug (z. B. Tanken, Einkaufen, Gutscheine), Fahrtkostenzuschuss & BahnCard On-top-Leistungen: Bike Leasing, freie Getränke, Obstkörbe Mehrwert & Vorsorge: Arbeitgebergeförderte betriebliche Altersvorsorge, vermögenswirksame Leistungen sowie exklusive Mitarbeiterrabatte über Corporate Benefits Gesundheit: Deutschlandweite Sport- und Fitnessangebote über unseren Partner Wellpass sowie anonymer psychologischer Beratungsservice Weiterbildung: Geförderte Schulungen, interne Lernangebote & klare Karrierepfade Mobilität: Je nach Standort kostenfreie Parkplätze und E-Lademöglichkeiten Prämienprogramme: Mitarbeitende-werben-Mitarbeitende-Prämien sowie Beteiligung bei erfolgreicher Mandantenempfehlung Sonderurlaub & zusätzliche freie Tage: Freistellung bei besonderen Ereignissen wie Umzug oder Hochzeit sowie ein zusätzlicher Urlaubstag ab zehn Jahren Betriebszugehörigkeit Team & Events: Jährliche Standortevents, Sommerfeste, Firmenläufe & standortübergreifende Veranstaltungen Engagement & Nachhaltigkeit: Teilnahme an Umweltprojekten & Unterstützung sozialer Initiativen Hinweis: Die genannten Benefits können je nach Standort variieren. Auch die Vergütung richtet sich nach Qualifikation und Berufserfahrung. Wo Sie steuern, was wirklich zählt Ganzheitliche Beratung unserer Mandant:innen in steuerlichen und betriebswirtschaftlichen Fragestellungen Erstellung und Prüfung von Jahresabschlüssen und Steuererklärungen für Unternehmen und Privatpersonen Beratung bei steuerlichen Gestaltungsfragen und Entwicklung individueller Lösungen Eigenverantwortliche Betreuung und Weiterentwicklung eines festen Mandantenstamms Enge Zusammenarbeit mit der Standortleitung sowie Übernahme von fachlicher und unternehmerischer Verantwortung Wen wir suchen Erfolgreiche Bestellung als Steuerberater (w/m/d) oder kurz vor dem erfolgreichen Abschluss des Steuerberaterexamens Erfahrung in der steuerlichen Beratung von Unternehmen und Privatpersonen Sicherer Umgang mit DATEV sowie den MS-Office-Anwendungen Selbstständige, strukturierte und mandantenorientierte Arbeitsweise Freude an Teamarbeit sowie am direkten Mandantenkontakt Wir freuen uns auf Ihre Bewerbung! Wir meinen: Es ist nie zu früh, miteinander ins Gespräch zu kommen. Bei Fragen zur Stelle oder zum Bewerbungsprozess rufen Sie mich gerne an. Ausgezeichnet: Top Company 2026 & DATEV Digitale Kanzlei 2026 Albiona Gashi Senior Recruiterin Show more Show less Seniority level Not Applicable Employment type Full-time Industries Accounting Referrals increase your chances of interviewing at ECOVIS RTS by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "dd0018d67ecf94ca",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/steuerberater-w-m-d-in-friedrichshafen-at-ecovis-rts-4477262106"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Co-Gruppenleitung / Gruppenleitung Wohnbereich (80–100%)",
+   "company": "sozjobs.ch",
+   "location": "Münchwilen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/co-gruppenleitung-gruppenleitung-wohnbereich-80%E2%80%93100%25-at-sozjobs-ch-4477282395",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "Wir begleiten erwachsene Menschen mit einer schweren Mehrfachbeeinträchtigung in ihrer Lebensgestaltung und schaffen für sie individuelle Lebensfelder. Unsere Arbeit ist geprägt von Respekt und Empathie. Wir orientieren uns an definierten Qualitätsstandards sowie an anerkannten agogischen, pflegerischen und therapeutischen Grundsätzen. Co-Gruppenleitung / Gruppenleitung Wohnbereich (80–100%) Das ist dein Aufgabenbereich Leitung und Mitarbeit einer Wohngruppe mit 8 Klient*innen und rund 12 Mitarbeitenden Individuelle, ressourcenorientierte Begleitung von Menschen mit Mehrfachbeeinträchtigung im Alltag Förderung von Selbstbestimmung und Selbständigkeit Enge Zusammenarbeit mit anderen Gruppenleitungen, Angehörigen und anderen Fachpersonen Das darfst du erwarten Einen Arbeitsplatz mit viel Eigenverantwortung und Gestaltungsmöglichkeiten Eine wertschätzende und teamorientierte Zusammenarbeitskultur Sorgfältige Einarbeitung durch die aktuelle Gruppenleitung Grosszügige Weiterbildungsmöglichkeiten und Supervision Mitgestaltungsmöglichkeiten in einem ressourcen- und lösungsorientierten Arbeitsumfeld Zeitgemässe Anstellungsbedingungen und Sozialleistungen (Details auf unserer Website) Das wünschen wir von dir Ausbildung im sozialpädagogischen oder pflegerischen Bereich (HF/FH) Erfahrung in der Begleitung von Menschen mit Behinderung Führungserfahrung sowie entsprechende Weiterbildung oder Bereitschaft dazu Engagement, Leidenschaft und Freude daran, gemeinsam Grosses zu bewegen Belastbarkeit, Flexibilität und kreative Lösungsansätze Eine Haltung, die den Menschen in seiner Einzigartigkeit ins Zentrum stellt Bereit, etwas zu bewegen? Dann freuen wir uns darauf, dich kennenzulernen! Für weitere Auskünfte wende dich bitte an Silvan Güttinger, Bereichsleiter Agogik Tel. 071 969 47 01 So kannst du dich bewerben Bitte sende Deine vollständige Bewerbung per E-Mail an personal@stiftung-sonnenhalde.ch Besuche unsere Homepage www.stiftung-sonnenhalde.ch Show more Show less Seniority level Not Applicable Employment type Part-time Industries Human Resources Services Referrals increase your chances of interviewing at sozjobs.ch by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ff6bb21e826b7838",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/co-gruppenleitung-gruppenleitung-wohnbereich-80%E2%80%93100%25-at-sozjobs-ch-4477282395"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Sachbearbeiter/in Immobilien-Bewirtschaftung (100 %)",
+   "company": "Büchler AG Immobilien-Dienstleistungen",
+   "location": "Uzwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-immobilien-bewirtschaftung-100-%25-at-b%C3%BCchler-ag-immobilien-dienstleistungen-4478380717",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cae559a28bd11240",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-immobilien-bewirtschaftung-100-%25-at-b%C3%BCchler-ag-immobilien-dienstleistungen-4478380717"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Immobilien-Bewirtschafter/in (70 - 100%)",
+   "company": "VID AG Verwaltungen - Immobilien Dienstleistungen",
+   "location": "Uzwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/immobilien-bewirtschafter-in-70-100%25-at-vid-ag-verwaltungen-immobilien-dienstleistungen-4477195114",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "00b20e42ffba8aaf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/immobilien-bewirtschafter-in-70-100%25-at-vid-ag-verwaltungen-immobilien-dienstleistungen-4477195114"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "BI Consultant Planung (100%) (w/m/d), Deutschland, hybrid",
+   "company": "HICO Group AG",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/bi-consultant-planung-100%25-w-m-d-deutschland-hybrid-at-hico-group-ag-4475658241",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Unternehmen aller Größen bauen erfolgreich auf HICOs Management- und IT-Beratung, um mit uns relevante BI-, Planungs- und Digitalisierungs-Herausforderungen effizient, modern und verlässlich zu lösen. Die HICO-Group verbindet die strategische Sicht und Verbindlichkeit eines Gründer-geführten Unternehmens mit der Dynamik eines Technologie-Start-Ups. Aufgaben Was erwartet dich bei uns? Projektleitung, Konzeption und Implementierung anspruchsvoller CPM-Projekte Unterstützung im Presales bis hin zum unternehmensweiten Roll-Out Qualifikation Erkennst du dich im folgenden Kurzprofil wieder? Du bist leidenschaftlich an Themen wie Geschäftsprozessen, moderne Datenlandschaften etc. interessiert. Du hast Erfahrung darin effiziente, moderne CPM-Lösungen zu designen und erfolgreich umzusetzen. Du bist ein exzellenter Kommunikator mit Erfahrung im Projektmanagement. Du bist Pragmatiker, kein Zweifler …dann bist DU die richtige Person für uns! Was bringst du mit? 3+ Jahre Erfahrung beim Design und Aufbau von Planungslösungen 3+ Jahre Erfahrung im Consulting Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder vergleichbarem Leidenschaft für Planungs-Prozesse Mehrjährige Erfahrung im Controlling/ Finance Vorteilhafte Skills: Jedox (oder vergleichbare Planungstechnologien), IBCS, SQL, Java, SSIS/SSAS, Microsoft Azure, SAP Analytics Cloud (SAC), SAP BW Hervorragende Kommunikations- und Präsentationsfähigkeiten Wohnsitz in Deutschland Sehr gute Deutsch- und gute Englischkenntnisse (mindestens B2+ bzw. C1) Benefits Welche Vorteile bieten wir dir? Flache Hierarchien, kurze Entscheidungswege, langfristige Entwicklungsmöglichkeiten Ein modernes und angenehmes Arbeitsumfeld mit kompetenten, aufgeschlossenen Teams Motivierte und unterstützende Arbeitskolleginnen und -kollegen mit einer «can do» Mentalität und großartige Teamevents Attraktive, erfolgsorientierte Vergütung Flexibler Standort innerhalb Deutschlands Hoher «remote-work»-Anteil und damit verbunden geringe Reisezeiten und mehr Work-Life-Balance! Bezuschusste Mitgliedschaft bei Wellhub oder Hansefit Interesse? Dann möchten wir Dich gerne näher kennenlernen. Bitte sende uns deine kompletten Bewerbungsunterlagen unter Angabe des Gehaltswunsches sowie des frühestmöglichen Einstiegstermins über das Bewerbungsformular auf unserer Webseite oder per E-Mail. Für Rückfragen steht unser HR-Team (Tel. (0)7731 939 80 50) gerne zur Verfügung. Auch wenn du noch nicht alle Anforderungen erfüllst doch du kannst bei 70-80% ein „Check“ setzen, und du hast Bock mehr zu lernen, dann werden wir die nächsten Skills gemeinsam erreichen. Wir sind ein vielseitiges, diverses, multikulturelles und familiäres Team. Wir freuen uns auf Deine Bewerbung! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Professional Services Referrals increase your chances of interviewing at HICO Group AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "7b059891adc854fb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/bi-consultant-planung-100%25-w-m-d-deutschland-hybrid-at-hico-group-ag-4475658241"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Produktmanager Zahlungsverkehr (m/w/d) – Gestalten Sie die Zukunft von Konto und Payment",
+   "company": "Volksbank eG Überlingen",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktmanager-zahlungsverkehr-m-w-d-%E2%80%93-gestalten-sie-die-zukunft-von-konto-und-payment-at-volksbank-eg-%C3%BCberlingen-4477291971",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "Als unabhängige Genossenschaftsbank gestalten wir bei der Volksbank eG Überlingen aktiv die Zukunft unserer Region – ehrlich, respektvoll und partnerschaftlich an der Seite unserer Mitglieder und Kunden. Teilen Sie unsere Werte? Dann werden Sie Teil unseres Teams! Wie möchten Menschen und Unternehmen heute bezahlen und morgen ihre Zahlungsprozesse gestalten? Als Produktmanager Zahlungsverkehr und Payment verbinden Sie Kundenbedürfnisse mit passenden Produkten, digitalen Lösungen und wirksamen Vertriebsansätzen. Die Besetzung dieser Position ist sowohl in Vollzeit als auch in Teilzeit (mind. 50%) möglich! Was Sie bei uns bewegen: Sie übernehmen die fachliche Verantwortung für unser Kunden- und Leistungsportfolio im Produktfeld Zahlungsverkehr und entwickeln es entlang der Kundenbedürfnisse und unserer Vertriebsziele weiter. Sie analysieren Markttrends, Kundenanforderungen, Wettbewerbsangebote und regulatorische Entwicklungen. Daraus leiten Sie konkrete Handlungsbedarfe für unsere Bank ab. Sie entwickeln unser Angebot rund um Girokonto, Bezahlen und Liquidität strategisch und operativ weiter und schaffen damit einen Mehrwert für unsere Kunden und unsere Bank. Sie koordinieren die fachliche Umsetzung neuer Anforderungen und sorgen dafür, dass die beteiligten Schnittstellen abgestimmt zusammenarbeiten. Als zentrale fachliche Ansprechperson geben Sie Orientierung im Bedarfsfeld und bereiten Entscheidungsgrundlagen sowie Handlungsempfehlungen für Management, Vertrieb und Fachbereiche auf. Das bringen Sie mit: Eine abgeschlossene Bankausbildung mit relevanter Weiterqualifikation, beispielsweise zum Bankfachwirt oder Bankbetriebswirt, oder ein abgeschlossenes wirtschaftswissenschaftliches Studium. Mehrjährige relevante Erfahrung im Zahlungsverkehr, im Produktmanagement oder im Vertriebsmanagement mit Schwerpunkt Konto und Payment. Fundierte Kenntnisse im Zahlungsverkehr sowie ein gutes Verständnis für digitale Bezahllösungen, Kundenanforderungen und die regulatorischen Rahmenbedingungen. Analytische und konzeptionelle Stärke sowie die Fähigkeit, komplexe Zusammenhänge in verständliche Empfehlungen und praktikable Lösungen zu übersetzen. Kunden- und Vertriebsorientierung, unternehmerisches Denken und Freude daran, bestehende Angebote zu hinterfragen und weiterzuentwickeln. Kommunikationsstärke, Eigeninitiative und die Fähigkeit, unterschiedliche Perspektiven zusammenzuführen und Vorhaben gemeinsam mit anderen voranzubringen. Was wir Ihnen bieten: Mitarbeit in einem engagierten Team, kurze Wege und schnelle Entscheidungen Attraktive Vergütung, umfangreiche Sozialleistungen und Sonderkonditionen für Bankprodukte Gezielte Weiterbildung und individuelle Förderprogramme in der Genossenschaftlichen FinanzGruppe Flexible Arbeitszeiten und moderne Arbeitsstrukturen Kostenlose Mitgliedschaft im Fitnessstudio und JobRad Show more Show less Seniority level Entry level Employment type Full-time Industries Banking Referrals increase your chances of interviewing at Volksbank eG Überlingen by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d40777d4dcac4323",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktmanager-zahlungsverkehr-m-w-d-%E2%80%93-gestalten-sie-die-zukunft-von-konto-und-payment-at-volksbank-eg-%C3%BCberlingen-4477291971"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Agile Coach / Scrum Master (m/w/d) - Konstanz, Berlin oder remote",
+   "company": "SEITENBAU GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/agile-coach-scrum-master-m-w-d-konstanz-berlin-oder-remote-at-seitenbau-gmbh-4478378946",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "Für dich ist die agile Arbeitsweise die sinnvollste Art ein IT-Projekt zum Erfolg zu führen? Du hast Lust motivierte Teams mit deinen Erfahrungen und deinem umfangreichen agilen Methodenwissen zu unterstützen und zu coachen? Durch dein Engagement ist unser Team in der Lage sich stetig weiterzuentwickeln? Dann bist du bei uns genau richtig! Für die aktive Mitgestaltung unseres Arbeitsalltags suchen wir zum nächstmöglichen Zeitpunkt Unterstützung. Deine Aufgaben Du hast Verantwortung als Agile Coach / Scrum Master für interdisziplinäre Entwicklungsteams. Du bist verantwortlich für die Weiterentwicklung des agilen Mindsets im Team und über die Teamgrenzen hinweg. Du moderierst Workshops und Meetings intern und bei unseren Kund:innen und coachst alle Projektbeteiligten. Du arbeitest eng mit Product Ownern, Project Leads sowie weiteren internen und externen Stakeholdern zusammen. Du beteiligst dich aktiv in der Organisationsentwicklung. Das bringst du mit Erfahrung in der Betreuung selbstorganisierter Teams und in der Anwendung agiler Vorgehensweisen, vorzugsweise im Bereich Softwareentwicklung Sicherheit in der Konzeption und Moderation von Workshops und Meetings remote, hybrid und in Präsenz Sehr guten Umgang in der Kommunikation mit anspruchsvollen Kund:innen Eine schnelle Auffassungsgabe und Einfallsreichtum, sowie ein selbstbewusstes Auftreten und Durchsetzungskraft Fähigkeit, schnell mit Menschen in Kontakt zu treten und eine Vertrauensbasis zu schaffen Reisebereitschaft: Wir treffen uns regelmäßig zu Workshops in Konstanz oder beim Kunden Sehr gute Deutschkenntnisse (C2 oder Muttersprache) Das bieten wir dir Du bist Teil eines spannenden Projekts und kannst dich mit deinen Ideen einbringen. Dein Team arbeitet in enger Kooperation mit der öffentlichen Verwaltung an der Strategie und zukünftigen technischen Ausgestaltung eines modernen digitalen Staates. Als Teil eines selbstorganisierten Teams kannst du dich stetig weiterentwickeln. Du kannst eigenverantwortlich an deinen Aufgaben arbeiten und wachsen. Deine Arbeitszeiten und Urlaube kannst du in Abstimmung mit deinem Team flexibel gestalten. Du kannst eigene Ideen zur Gestaltung des Arbeitsalltags sowie der Weiterentwicklung der Organisation bei SEITENBAU in verschiedenen Boards einbringen. Du hast kurze Entscheidungswege und eine Zugehörigkeit: Bei SEITENBAU arbeitest du im Team. Umfangreiche Benefits runden unser Angebot ab. Kontakt Andre Lämmlen , People & Recruiting Manager karriere@seitenbau.com Jonas Moser , People & Recruiting Manager karriere@seitenbau.com Marie Braun , People & Recruiting Manager karriere@seitenbau.com Über uns SEITENBAU ist ein inhabergeführtes Unternehmen, das es seit 1996 gibt. Bei SEITENBAU arbeiten mehr als 300 kreative Köpfe an verschiedensten Softwarelösungen in Scrum Teams. Offene Kommunikation, vertrauensvolle Zusammenarbeit und eine gesunde Mischung aus Praxisbewährtem und cutting edge - das ist das Credo, nach dem wir erfolgreich und mit Spaß arbeiten. Falls du noch mehr über SEITENBAU erfahren möchtest - und das aus Mitarbeitersicht- besuch doch mal unsere kununu Seite. Show more Show less Seniority level Associate Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at SEITENBAU GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "7f0efbbe474e2226",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/agile-coach-scrum-master-m-w-d-konstanz-berlin-oder-remote-at-seitenbau-gmbh-4478378946"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "CNC-Werker (m/w/d)",
+   "company": "CIRCOR International, Inc.",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/cnc-werker-m-w-d-at-circor-international-inc-4433365695",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "6f3da11115797321",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/cnc-werker-m-w-d-at-circor-international-inc-4433365695"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Quereinsteiger:in für Umschulung zum:zur Maschinenbediener:in Stopftechnik",
+   "company": "Deutsche Bahn",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/quereinsteiger-in-f%C3%BCr-umschulung-zum-zur-maschinenbediener-in-stopftechnik-at-deutsche-bahn-4410353048",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "6d9c3c4b65911dcd",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/quereinsteiger-in-f%C3%BCr-umschulung-zum-zur-maschinenbediener-in-stopftechnik-at-deutsche-bahn-4410353048"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Instandhalter (m/w/d) - Sondermaschinen & Anlagen",
+   "company": "ADVANCED COMPOSITE ENGINEERING LIMITED",
+   "location": "Salem, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/instandhalter-m-w-d-sondermaschinen-anlagen-at-advanced-composite-engineering-limited-4478381658",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "da9731860adc66ba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/instandhalter-m-w-d-sondermaschinen-anlagen-at-advanced-composite-engineering-limited-4478381658"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Senior PLM / Windchill Berater | Windchill Administration | Inhouse / lokal, bis 95.000 € (mwd)",
+   "company": "Vesterling AG",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/senior-plm-windchill-berater-windchill-administration-inhouse-lokal-bis-95-000-%E2%82%AC-mwd-at-vesterling-ag-4373585651",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Senior PLM / Windchill Berater (mwd) Spaß an der Beratungsarbeit für PLM/PDM/CAD-Systeme mit umfangreicher Verantwortung als Projektleiter in einem wachsenden Unternehmen. Standort: Friedrichshafen Vertragsart: Unbefristete Festanstellung durch unseren Klienten Aufgaben Als Senior PLM / Windchill Berater helfen Sie Kunden beim Einsatz von Windchill PDMLink und administrieren Windchill. Dafür werden Sie umfassend eingearbeitet. Die Kunden sind aus der Region, daher sind keine Reisen mit Übernachtung nötig wie überhaupt der Reiseanteil ausgesprochen überschaubar ist. Sie konfigurieren und implementieren das System und fungieren als Projektleiter. Die Anwender werden von Ihnen geschult und betreut. Ihr Profil Umfangreiche Berufserfahrung mit Windchill - Sie können Windchill oder Creo Parametric konfigurieren und administrieren Gute Beratungseigenschaften Gute Deutsch- und Englischkenntnisse Benefits Fragt man die Mitarbeiter dieses Klienten nach herausragenden Eigenschaften des Unternehmens, wird als erstes das tolle Team genannt, in dem hier gearbeitet wird. Hier duzt sich jeder bis zur Geschäftsführung und genießt die großen Gestaltungsspielräume für den eigenen Verantwortungsbereich. Es erwarten Sie: Anspruchsvolle Projekte mit hohem Gestaltungsspielraum eine attraktive Vergütung mit einem Zuschuss zur privaten Altersvorsorge Weiterbildungen, auf die großer Wert gelegt wird eine auf den Einzelnen zugeschnittene Arbeitsplatzausstattung und eine umfassende Einarbeitung regelmäßig ansprechende Mitarbeiterevents Unser Klient berät Unternehmen verschiedener produzierender Branchen zum optimalen Einsatz von Softwareprodukten. Machen Sie Ihren nächsten Karriereschritt und bewerben Sie sich gleich hier oder senden Sie uns Ihre vollständigen Bewerbungsunterlagen mit Angabe der Referenznummer 19228 , Ihrer Gehaltsvorstellungen sowie ggf. Ihrer Reise- und Umzugsbereitschaft (Ein Anschreiben ist nicht erforderlich). Ihre Daten werden von uns niemals ohne Ihre explizite Zustimmung für jeden Einzelfall weitergeleitet. Wir garantieren eine Rückmeldung innerhalb von 2 Arbeitstagen. Vesterling ist seit über 25 Jahren einer der führenden Personaldienstleister im Bereich Technologie. Schwerpunkte der Tätigkeit sind das Recruiting von Experten bis hin zum Executive Search auf Vorstandsebene sowie das Outplacement. Unsere Consultants, selbst erfahrene Informatiker und Ingenieure, beraten Sie in allen Karrierefragen und unterstützen Sie bei der Auswahl geeigneter Positionen. Show more Show less Seniority level Associate Employment type Full-time Industries Business Consulting and Services, Motor Vehicle Manufacturing, and IT Services and IT Consulting Referrals increase your chances of interviewing at Vesterling AG by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "53 applicants"
+   },
+   "id": "36cddfaa57b176da",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/senior-plm-windchill-berater-windchill-administration-inhouse-lokal-bis-95-000-%E2%82%AC-mwd-at-vesterling-ag-4373585651"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Trasse- und Baustellenüberwacher*in",
+   "company": "Energie 360°",
+   "location": "Aadorf, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/trasse-und-baustellen%C3%BCberwacher-in-at-energie-360%C2%B0-4475664922",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "Deine Aufgaben In dieser verantwortungsvollen und vielseitigen Position übernimmst Du eigenständig die regelmäßige Durchführung von Trassen- und Stationskontrollen innerhalb unseres Hochdrucknetzes. Darüber hinaus bist Du für die fachgerechte Überwachung von Baustellen im Bereich des Hochdruck-Gasleitungsnetzes zuständig und stellst die Einhaltung sämtlicher Sicherheits- und Qualitätsstandards sicher. Du kontrollierst unser Erdgashochdrucknetz (Trasse) und Nebenanlagen mittels Begehung, Befahrung und Befliegung Du überwachst und unterstützt eigene und dritte Bautätigkeiten im Bereich unserer Hochdruck-Gasleitungen und Nebenanlagen Du vermisst unser Leitungsnetz mittels GPS und Leitungsortungsgerät Du nimmst an Besprechungen mit Behörden, Grundeigentümern, Pächtern, Bauunternehmern und Kunden vor Ort teil Du sorgst in Zusammenarbeit mit Lieferanten, Dienstleistern und Partnern für einen störungsfreien Betrieb - Hochverfügbarkeit und Sicherheit haben höchste Priorität Du unterstützt im Unterhalt bei Sanierungen der Gasleitung und im Forst bei der Grünpflege des Trasses Dein Profil Du verfügst über eine handwerkliche Grundausbildung, von Vorteil im Tiefbau oder Vermessungsbereich Du bringst Allrounder-Fähigkeiten, Zuverlässigkeit, Flexibilität und Teamgeist mit Du bist motiviert und interessiert, sich produktspezifisch einzuarbeiten, um die Verantwortung für die Trasse- und Baustellenüberwachung zu übernehmen Du hast eine gute Kommunikationsfähigkeit Du schätzt die Arbeit in einem kleinen, agilen Team und siehst Dich als kundenfokussierten Dienstleister Du hast eine gute mündliche und schriftliche Ausdrucksweise in Deutsch Du besitzt einen Führerausweis in der Kategorie B Was wir bieten Es erwartet Dich eine etablierte, sichere Arbeitgeberin in einem öffentlich-rechtlichen Umfeld. Das Gasnetz zählt zu den kritischen Infrastrukturen in der Energiewirtschaft. Du wirst in einem professionellen KMU mit äusserst werteorientierter Kultur, kollegialer Arbeitsatmosphäre und attraktiven Anstellungsbedingungen empfangen. Wenn Du einen spannenden und vielseitigen Tätigkeitsbereich schätzt und über die oben genannten Qualifikationen verfügst, dann freuen wir uns auf Deine vollständigen Bewerbungsunterlagen an folgende E-Mail-Adresse: personal@ganeos.ch Bei Fragen gibt Dir Monika Lionello gerne Auskunft, T +41 44 733 62 28 (Mo./Do./Fr.-Vormittag). Show more Show less Seniority level Not Applicable Employment type Full-time Industries Utilities Referrals increase your chances of interviewing at Energie 360° by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "a4816ee86efad3cf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/trasse-und-baustellen%C3%BCberwacher-in-at-energie-360%C2%B0-4475664922"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Pomočnik pravosodnega policista IV v Zavodu za prestajanje kazni zapora Dob",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/pomo%C4%8Dnik-pravosodnega-policista-iv-v-zavodu-za-prestajanje-kazni-zapora-dob-at-vlada-republike-slovenije-4477273605",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "203ae34a2ae09bbf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/pomo%C4%8Dnik-pravosodnega-policista-iv-v-zavodu-za-prestajanje-kazni-zapora-dob-at-vlada-republike-slovenije-4477273605"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Spezialist*in Trasseunterhalt",
+   "company": "Energie 360°",
+   "location": "Aadorf, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-in-trasseunterhalt-at-energie-360%C2%B0-4475676412",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "Deine Aufgaben In dieser vielseitigen Funktion übernimmst Du unter anderem Aufgaben im Bereich Unterhalt, Instandhaltung und Überwachung unserer Infrastruktur. Du arbeitest selbstständig im Gelände, koordinierst Dich mit verschiedenen Anspruchsgruppen und sorgst dafür, dass Arbeiten fachgerecht, sicher und gemäss den geltenden Vorgaben ausgeführt werden. Ausführen von Unterhaltsarbeiten an der Rohr-leitungsanlage und Nebenanlagen Planen, koordinieren und durchführen des Unterhalts an Aussenverrohrungsanlagen Ausführen von Unterhaltsarbeiten an Sonderobjekten wie Rohrbrücken und in Stollen Ausführen / Überwachen von Grabarbeiten Unterhalt des Umschwungs, Gartenarbeiten, Rasen-mähen, Heckenrückschnitt und Winterdienst Freihalten der Leitungstrassen, ausholzen der benötigten Waldschneisen Kontrolle der Einhaltung der Auflagen der Kontroll-behörden und des Unternehmens Koordination mit Grundeigentümer, Pächtern, Bauunternehmern, Behörden, Kunden, etc. Dokumentation von Leitungssanierungen / Reparaturen gemäss Vorgaben Unterstützung bei Umstellarbeiten Instandhaltung der Infrastruktur in Aadorf Unterstützung bei KKS Messungen und –Kontrollen Dein Profil Du verfügst über eine abgeschlossene handwerkliche Grundausbildung, vorzugsweise im Tiefbau, Rohrleitungsbau, Werkdienst oder Forst Du verfügst idealerweise über Kenntnisse der gesetzlichen und behördlichen Vorschriften Bringst Allrounder-Fähigkeiten, Zuverlässigkeit, Flexibilität und Teamgeist mit Du bist motiviert und interessiert, sich produkt-spezifisch einzuarbeiten Du hast eine gute Kommunikationsfähigkeit Du schätzt die Arbeit in einem kleinen, agilen Team und siehst Dich als kundenfokussierten Dienstleister Bist eine offene, motivierte und teamfähige Persönlichkeit, die gerne Verantwortung übernimmt Bringst Erfahrung im Umgang und Unterhalt von Fahrzeugen, Maschinen und Geräten mit Du hast eine gute mündliche und schriftliche Aus-drucksweise in Deutsch Du bist in Besitz eines Führerausweises in der Kategorie B und BE Was wir bieten Es erwartet Dich eine etablierte, sichere Arbeitgeberin in einem öffentlich-rechtlichen Umfeld. Das Gasnetz zählt zu den kritischen Infrastrukturen in der Energiewirtschaft. Du wirst in einem professionellen KMU mit äusserst werteorientierter Kultur, kollegialer Arbeitsatmosphäre und attraktiven Anstellungsbedingungen empfangen. Wenn Du einen spannenden und vielseitigen Tätigkeitsbereich schätzt und über die oben genannten Qualifikationen verfügst, dann freuen wir uns auf Deine vollständigen Bewerbungsunterlagen an folgende E-Mail-Adresse: personal@ganeos.ch Bei Fragen gibt Dir Monika Lionello gerne Auskunft, T +41 44 733 62 28 (Mo./Do./Fr.-Vormittag). Show more Show less Seniority level Not Applicable Employment type Full-time Industries Utilities Referrals increase your chances of interviewing at Energie 360° by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9cec9f4acef5616c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-trasseunterhalt-at-energie-360%C2%B0-4475676412"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Leiter Instandhaltung & Technik (m/w) 100%",
+   "company": "yellowshark® AG",
+   "location": "Romanshorn, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-instandhaltung-technik-m-w-100%25-at-yellowshark%C2%AE-ag-4475645741",
+   "posted": "2026-10-11",
+   "salary": null,
+   "via": null,
+   "description": "Für unseren Kunden, ein produzierendes Industrieunternehmen mit einem technisch anspruchsvollen Anlagenpark, suchen wir eine erfahrene Persönlichkeit als Leiter Instandhaltung & Technik. In dieser Funktion verbinden Sie operative Instandhaltung mit Führungsverantwortung und technischen Projekten. Sie sorgen gemeinsam mit Ihrem Team für eine hohe Anlagenverfügbarkeit, entwickeln bestehende Prozesse weiter und begleiten technische Investitionen von der Planung bis zur Umsetzung. Aufgaben Fachliche und personelle Führung eines kleinen technischen Teams inklusive Arbeitsorganisation und Einsatzplanung Verantwortung für die vorbeugende und reaktive Instandhaltung von Produktionsanlagen und technischer Infrastruktur Planung und Koordination von Wartungen, Revisionen, Reparaturen sowie technischen Anpassungen Systematische Analyse von Anlagenstörungen und Umsetzung nachhaltiger Massnahmen zur Verbesserung von Verfügbarkeit und Betriebssicherheit Begleitung technischer Investitions- und Optimierungsprojekte von der ersten Planung bis zur Übergabe in den laufenden Betrieb Weiterentwicklung von Arbeitsabläufen und Instandhaltungsprozessen mit Fokus auf Effizienz, Qualität und kontinuierliche Verbesserung Profil Abgeschlossene technische Grundausbildung, beispielsweise in Mechatronik, Elektrotechnik, Automation oder einem verwandten Fachgebiet Erfahrung in der industriellen Instandhaltung und im technischen Produktionsumfeld Weiterbildung auf fachlicher oder höherer Stufe von Vorteil Erfahrung in der Führung oder Koordination von Mitarbeitenden sowie Freude an der Entwicklung eines Teams Gute Kenntnisse in der systematischen Fehleranalyse und ein breites Verständnis für mechanische, elektrische und automatisierte Anlagen Strukturierte, selbstständige und lösungsorientierte Arbeitsweise mit ausgeprägtem Verantwortungsbewusstsein Kommunikationsstarke Persönlichkeit mit Entscheidungsfähigkeit und Freude an technischen Verbesserungsprojekten Fliessende Deutschkenntnisse Wissenswertes Das erwartet dich Verantwortungsvolle Führungsposition mit direktem Einfluss auf die technische Leistungsfähigkeit der Produktion Vielseitige Kombination aus Mitarbeiterführung, operativer Instandhaltung und technischen Projekten Moderner und abwechslungsreicher Maschinen- und Anlagenpark Hoher Gestaltungsspielraum bei der Weiterentwicklung von Instandhaltungsprozessen Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständigen Bewerbungsunterlagen. Dazu gehört ein Lebenslauf, die Arbeitszeugnisse sowie Diplome. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Services Referrals increase your chances of interviewing at yellowshark® AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2dc9b69264d585b7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-instandhaltung-technik-m-w-100%25-at-yellowshark%C2%AE-ag-4475645741"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Kriminalistični inšpektor specialist SKP v Policijski upravi Kranj, Sektorju kriminalistične policije, Oddelku za računalniško preiskovanje - 2 DM",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/kriminalisti%C4%8Dni-in%C5%A1pektor-specialist-skp-v-policijski-upravi-kranj-sektorju-kriminalisti%C4%8Dne-policije-oddelku-za-ra%C4%8Dunalni%C5%A1ko-preiskovanje-2-dm-at-vlada-republike-slovenije-4477289075",
+   "posted": "2026-10-12",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Izbrana kandidata bosta delo na delovnem mestu kriminalistični inšpektor specialist SKP opravljala v nazivu kriminalistični inšpektor specialist SKP III z možnostjo napredovanja v naziv kriminalistični inšpektor specialist SKP II in kriminalistični inšpektor specialist SKP I. Z izbranima kandidatoma bo sklenjeno delovno razmerje za nedoločen čas s polnim delovnim časom in šestmesečnim poskusnim delom. Izhodiščni plačni razred delovnega mesta je 19. plačni razred, ki na dan objave znaša 2.022,81 € bruto mesečno in bo od 1. 7. 2027 znašal 2.153,89 € bruto mesečno, pri čemer kandidat pridobi pravico do izplačila osnovne plače v vrednosti tega plačnega razreda postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju (Uradni list RS, št. 95/24 in 12/26 – ZPPJUFT). Izbrana kandidata bosta delo opravljala v prostorih Policije, Policijske uprave Kranj, Bleiweisova cesta 3, Kranj, oziroma v drugih uradnih prostorih organa. Zahteve za prijavo Kandidat, ki se bo prijavil na prosta delovna mesta, mora izpolnjevati naslednje pogoje: najmanj visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) ali najmanj visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) ali najmanj visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), najmanj 7 mesecev delovnih izkušenj, da ni bi pravnomočno obsojen zaradi naklepnega kaznivega dejanja, za katero se storilec preganja po uradni dolžnosti, in da ni bil pravnomočno obsojen zaradi drugega kaznivega dejanja na nepogojno kazen zapora v trajanju več kot tri mesece, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, za katero se storilec preganja po uradni dolžnosti, da je državljan Republike Slovenije s stalnim prebivališčem v Evropski uniji, da ima vozniško dovoljenje B-kategorije, da nima dvojnega državljanstva; da ni član politične stranke in da o tem poda pisno izjavo, da ima znanje uradnega jezika, da je bil varnostno preverjen v obsegu in na način, kot je določen v Zakonu o organiziranosti in delu v policiji, in da zanj ne obstaja varnostni zadržek, opravljeno obvezno usposabljanje za imenovanje v naziv (če izbrani kandidat usposabljanja še ni opravil, ga mora opraviti v zakonsko določenem roku), opravljen izpit za izvajanje policijskih pooblastil (če izbrani kandidat izpita še ni opravil, ga mora opraviti v zakonsko določenem roku), dovoljenje za dostop do tajnih podatkov stopnje \"zaupno\" (kandidat ga lahko pridobi v okviru izbirnega postopka). Delovne naloge Naloge Delovnega Mesta izvajanje policijskih pooblastil; opravljanje ogledov hujših kaznivih dejanj, hišnih preiskav, zahtevnejših privedb, protibombnih pregledov na območju Republike Slovenije; sodelovanje pri sestavljanju kazenskih ovadb in pripravljanju dokaznega gradiva; sodelovanje v kriminalističnih akcijah in drugih operativnih obdelavah; sodelovanje pri izvajanju tajnih policijskih ukrepov; sodelovanje pri izvajanju preventivnih akcij; sodelovanje pri izobraževanju in usposabljanju; sodelovanje pri načrtovanju in izvedbi kriminalističnih akcij in drugih operativnih nalog pri obravnavi najtežjih kaznivih dejanj; izvajanje nadzora; pripravljanje informacij, poročil in analiz ter predlaganje ukrepov; opravljanje drugih nalog s svojega delovnega področja, ki jih naroči nadrejeni; preprečevanje in odkrivanje kaznivih dejanj in storilcev; sodelovanje pri izvajanju programov izpopolnjevanja in usposabljanja; opravljanje zahtevnejših nalog z delovnega področja oddelka, izvajanje nalog v skladu s 4. členom Zakona o nalogah in pooblastilih Policije. Prednosti pri izbiri Prednosti Pri Izbiri Bodo Imeli Kandidati z relevantnimi delovnimi izkušnjami na področju računalništva in informatike, s poznavanjem področja računalništva ter informacijskega in …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "71b88ee325324584",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kriminalisti%C4%8Dni-in%C5%A1pektor-specialist-skp-v-policijski-upravi-kranj-sektorju-kriminalisti%C4%8Dne-policije-oddelku-za-ra%C4%8Dunalni%C5%A1ko-preiskovanje-2-dm-at-vlada-republike-slovenije-4477289075"
+   },
+   "first_seen": "2026-10-12"
+  },
+  {
+   "title": "Responsable R&amp;D Digital (h/f/d) 80-100%",
+   "company": "Jobup",
+   "location": "8400 Winterthur",
+   "country": "CH",
+   "url": "https://www.jobup.ch/en/jobs/detail/8d54e701-a1d3-4e29-a00c-db654fd0169e/",
+   "posted": "2026-10-10",
+   "salary": null,
+   "via": null,
+   "description": "*  Planifier et coordonner les publications périodiques du logiciel WiDE, incluant les gels de conception et de fonctionnalités, les cycles de revue, les <em>évaluations</em> de préparation et les réunions de lancement.",
+   "extra": {
+    "canton": "ZH",
+    "query": "Evaluation",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "feb5b52d-565a-4782-90f5-99ab71a89451"
+   },
+   "id": "ffb118f1c218cf06",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.jobup.ch/en/jobs/detail/8d54e701-a1d3-4e29-a00c-db654fd0169e/"
+   },
+   "first_seen": "2026-10-12"
+  },
   {
    "title": "Projektkoordination (w/m/d)",
    "company": "Caritas Konstanz",
@@ -38,7 +919,8 @@
    "links": {
     "google_jobs": "https://talents.studysmarter.de/companies/caritas-konstanz/projektkoordination-w-m-d-24900003/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Projektkoordination (Festanstellung/Vollzeit)",
@@ -64,7 +946,8 @@
    "links": {
     "google_jobs": "https://talents.studysmarter.de/companies/corventis-executive-consultants/projektkoordination-festanstellung-vollzeit-10337339/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Bibliothekar/in für die Projektkoordination bszFOLIO - [\\'Vollzeit\\']",
@@ -90,7 +973,8 @@
    "links": {
     "google_jobs": "https://talents.studysmarter.de/companies/bibliotheksservice-zentrum-baden-wuerttemberg-bsz/bibliothekar-in-fuer-die-projektkoordination-bszfolio-vollzeit-10579670/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Bildungsplanung",
@@ -116,7 +1000,8 @@
    "links": {
     "google_jobs": "https://talents.studysmarter.de/companies/stadt-friedrichshafen/bildungsplanung-35073210/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "verkehrsexpertin für stadtentwicklung",
@@ -142,7 +1027,8 @@
    "links": {
     "google_jobs": "https://talents.studysmarter.de/companies/bebeeverkehrslenkung/verkehrsexpertin-fuer-stadtentwicklung-27141817/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Gleichstellungsbeauftragte für das Landratsamt Konstanz",
@@ -168,7 +1054,8 @@
    "links": {
     "google_jobs": "https://talents.studysmarter.de/companies/landratsamt-konstanz/gleichstellungsbeauftragte-fuer-das-landratsamt-konstanz-15883575/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Chemiker/in Produktentwicklung & Analytik / Stv. Laborleitung (m/w/d), 80 - 100%",
@@ -192,7 +1079,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/chemiker-in-produktentwicklung-analytik-stv-laborleitung-m-w-d-80-100%25-at-halag-chemie-ag-4477229340"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Wissenschaftliche:r Mitarbeiter:in im Fachbereich Strategie und Leadership 80–100 %",
@@ -216,7 +1104,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-im-fachbereich-strategie-und-leadership-80%E2%80%93100-%25-at-equal-jobs-4478041341"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Dozent:in für Strafrecht 60 %",
@@ -240,7 +1129,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/dozent-in-f%C3%BCr-strafrecht-60-%25-at-equal-jobs-4478037578"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Berufsbildner:in Gleisbau",
@@ -264,7 +1154,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/berufsbildner-in-gleisbau-at-sbb-cff-ffs-4441207893"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Sanitär 80-100% (m/w)",
@@ -288,7 +1179,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-sanit%C3%A4r-80-100%25-m-w-at-yellowshark%C2%AE-ag-4475612381"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Produktmanager Finanzierung (m/w/d) – Entwickeln Sie Finanzierungslösungen, die Zu",
@@ -312,7 +1204,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/produktmanager-finanzierung-m-w-d-%E2%80%93-entwickeln-sie-finanzierungsl%C3%B6sungen-die-zu-at-volksbank-eg-%C3%BCberlingen-4475609568"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Fachperson Sozialpädagogik HF/FH oder Psychiatrie HF (80-90%)",
@@ -336,7 +1229,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-sozialp%C3%A4dagogik-hf-fh-oder-psychiatrie-hf-80-90%25-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4478069372"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Senior Investment Advisor(in), 60 - 100 %",
@@ -360,7 +1254,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-investment-advisor-in-60-100-%25-at-equal-jobs-4478040473"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Zivilschutzinstruktorin / Zivilschutzinstruktor, 100 %",
@@ -384,7 +1279,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/zivilschutzinstruktorin-zivilschutzinstruktor-100-%25-at-kanton-schaffhausen-4477218566"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Strategic Sourcing Manager - Raw Material & Surface Treatment",
@@ -408,7 +1304,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/strategic-sourcing-manager-raw-material-surface-treatment-at-vat-group-4475612331"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Fachverantwortliche Kinder mit besonderen Bedürfnissen (m/w), 30–50 %, befristet bis 31.12.2026 mit Option auf Festanstellung",
@@ -432,7 +1329,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachverantwortliche-kinder-mit-besonderen-bed%C3%BCrfnissen-m-w-30%E2%80%9350-%25-befristet-bis-31-12-2026-mit-option-auf-festanstellung-at-kanton-schaffhausen-4477212923"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Spezialist/-in Finanz- und Rechnungswesen und Finance Transformation | 80% - 100%",
@@ -456,7 +1354,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-finanz-und-rechnungswesen-und-finance-transformation-80%25-100%25-at-quellenhof-stiftung-4478044518"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Fachspezialistin Digitalisierung (m/w), 100 %, vorerst befristet für 4 Jahre",
@@ -480,7 +1379,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialistin-digitalisierung-m-w-100-%25-vorerst-befristet-f%C3%BCr-4-jahre-at-kanton-schaffhausen-4477204949"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Customer Consultant Bewirtschaftung (m/w/d), Winterthur, 60-100% (Winterthur, Zürich, CH, 8400)",
@@ -504,7 +1404,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/customer-consultant-bewirtschaftung-m-w-d-winterthur-60-100%25-winterthur-z%C3%BCrich-ch-8400-at-wincasa-4383908655"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Montierer (m/w/d)",
@@ -528,7 +1429,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/montierer-m-w-d-at-tempton-group-4475601902"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Produktmanager Zahlungsverkehr (m/w/d) – Zukunft von Konto und Payment gestalten",
@@ -552,7 +1454,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/produktmanager-zahlungsverkehr-m-w-d-%E2%80%93-zukunft-von-konto-und-payment-gestalten-at-volksbank-eg-%C3%BCberlingen-4475615226"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "PLM / CAD Berater Creo Parametric oder Windchill | Inhouse / nur lokale Reise, bis 95.000 € (mwd)",
@@ -576,7 +1479,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/plm-cad-berater-creo-parametric-oder-windchill-inhouse-nur-lokale-reise-bis-95-000-%E2%82%AC-mwd-at-vesterling-ag-4373591512"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "F&B Manager / Leiter Gastronomie (m/w/d)",
@@ -600,7 +1504,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/f-b-manager-leiter-gastronomie-m-w-d-at-strandhotel-l%C3%B6chnerhaus-4475608526"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Niederlassungsleitung (w/m/d)",
@@ -624,7 +1529,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/niederlassungsleitung-w-m-d-at-fielmann-group-4278269912"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Commercial Operations",
@@ -648,7 +1554,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/commercial-operations-at-mediconsult-ag-4477682086"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "CAD/CAM Technician",
@@ -672,7 +1579,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/cad-cam-technician-at-vat-group-4475609510"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Product Manager (m/w/d)",
@@ -696,7 +1604,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/product-manager-m-w-d-at-mf-group-ag-4478095329"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "GMP Services Measuring Technician",
@@ -720,7 +1629,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/gmp-services-measuring-technician-at-particle-measuring-systems-4450258837"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Spezialist Automation / Instandhaltungstechnik 80–100 % (m/w)",
@@ -744,7 +1654,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-automation-instandhaltungstechnik-80%E2%80%93100-%25-m-w-at-yellowshark%C2%AE-ag-4448088634"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Service Coordinator 80 - 100% (f/m/d)",
@@ -768,7 +1679,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/service-coordinator-80-100%25-f-m-d-at-abb-4474964051"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Supply Chain Planner",
@@ -792,7 +1704,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/supply-chain-planner-at-vat-group-4475620026"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Zolldeklarant Thayngen (m/w/d)",
@@ -816,7 +1729,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/zolldeklarant-thayngen-m-w-d-at-dsv-global-transport-and-logistics-4414185436"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Maintenance Specialist",
@@ -840,7 +1754,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/maintenance-specialist-at-vat-group-4475606592"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Sanitärinstallateur bauphysikalisches Labor (a) 100%",
@@ -864,7 +1779,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sanit%C3%A4rinstallateur-bauphysikalisches-labor-a-100%25-at-geberit-schweiz-4458663309"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Sozialpädagogin / Sozialpädagoge im Jugendbereich | 60% - 80%",
@@ -888,7 +1804,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagoge-im-jugendbereich-60%25-80%25-at-quellenhof-stiftung-4478078740"
    },
-   "first_seen": "2026-10-11"
+   "first_seen": "2026-10-11",
+   "carried_over": true
   },
   {
    "title": "Sozialarbeiterin / Sozialpädagogin (m/w/d) Mobile Jugendarbeit",
