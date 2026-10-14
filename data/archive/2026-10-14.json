@@ -1,0 +1,1126 @@
+{
+ "generated_at": "2026-10-14T06:15:51+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 165,
+   "linkedin": 250,
+   "jobroom": 25
+  },
+  "excluded": 338,
+  "unique": 89,
+  "new": 46,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Sozialplanung&location=Kreuzlingen%2C+Thurgau%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=30"
+ },
+ "jobs": [
+  {
+   "title": "Stabsstelle Klimaschutz im Rahmen des Projekts Integriertes Klimaschutzkonzept (m/w/d)",
+   "company": "Pädagogische Hochschule",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003849459-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die Pädagogische Hochschule Weingarten -University of Education- ist eine bildungswissenschaftliche Hochschule mit universitärem Profil und eine der größten staatlichen Hochschulen in Oberschwaben. International ausgerichtet und regional verankert, ermöglichen wir ein breites Spektrum in Lehre, Forschung und Weiterbildung. In der barocken Klosteranlage auf dem Martinsberg finden Sie eine einmalige Atmosphäre, kurze Wege und direkten Kontakt zu Studierenden und Mitarbeitenden.\nZur Mitarbeit in unserem Team suchen wir eine/n Mitarbeiter/in für die\n# Stabsstelle Klimaschutz im Rahmen des Projekts Integriertes Klimaschutzkonzept (m/w/d)\nEingruppierung nach TV-L E 13\nbefristet auf 24 Monate (Verlängerung wird angestrebt)\nVollzeit; Teilzeit ist grundsätzlich möglich\n## Ihre Aufgaben sind:\n- In der Stabsstelle Klimaschutz im Rektorat der PH Weingarten koordinieren Sie die Aktivitätender Hochschule im Bereich Nachhaltigkeit und Klimaschutz.\n- Im Zentrum der Aufgaben steht die Entwicklung eines Integrierten Klimaschutzkonzepts für die Hochschule im Rahmen dieses Projekts der Nationalen Klimaschutzinitiative.\n- Sie sorgen für die Einbeziehung und Vernetzung der relevanten Akteure innerhalb und außerhalb der Hochschule – Studierende, Beschäftigte, andere Hochschulen, Stadt Weingarten, Vermögen und Bau sowie weiteren Einrichtungen. Dazu gehört auch die Koordination der hochschulweiten AG Nachhaltigkeit und Klimaschutz\n- Entwicklung von und Mitwirkung bei konkreten Maßnahmen der Hochschule im Bereich Nachhaltigkeit und Klimaschutz, auch im Kontext des geplanten Klimaschutzzentrums und in Zusammenarbeit mit dem für den Gebäudebetrieb zuständigen Dezernat Liegenschaften\n- Kommunikation der Klimaschutzziele und -maßnahmen der Hochschule in enger Abstimmung mit dem Rektorat und dem Bereich Öffentlichkeitsarbeit und Marketing\n## Sie erfüllen das folgende Anforderungsprofil:\n- Wissenschaftlicher Hochschulabschluss in einer einschlägigen Fachrichtung wie bspw. Umweltwissenschaften oder Sozialwissenschaften mit entsprechender Profilierung.\n- Erfahrungen und Kenntnisse im Projektmanagement sind von Vorteil, insbesondere in klimaschutznahen Projekten.\n- Berufliche Erfahrungen in einer Hochschule sind wünschenswert.\n- Einen eigenverantwortlichen Arbeitsstil, eine sehr gute Organisationsfähigkeit, ausgeprägte Kommunikationsfähigkeit und die Fähigkeit zur Zusammenarbeit in verschiedenen Arbeitsgruppen bringen Sie mit.\n- Gute IT-Anwendungskenntnisse, die Bereitschaft zu digitalen Arbeitsprozessen, sowie sehr gute Deutschkenntnisse runden Ihr Profil ab.\n## Freuen Sie sich auf\n- eine verantwortungsvolle und abwechslungsreiche Tätigkeit im vielseitigen Arbeitsspektrum der PH Weingarten,\n- eine offene und vertrauensvolle Arbeitsatmosphäre in einem kleinen Team,\n- Work-Life-Balance durch sehr flexible Arbeitszeitmodelle und gleitende Arbeitszeit,\n- großzügige Möglichkeiten zu anteiliger Arbeitszeit im Mobilen Arbeiten,\n- die Zusatzversorgung des öffentlichen Dienstes und eine Jahressonderzahlung,\n- zahlreiche Angebote zum Betrieblichen Gesundheitsmanagement, darunter auch die geförderte Mitgliedschaft bei Hansefit,\n- die Förderung Ihrer umweltfreundlichen Mobilität durch das Jobticket BW und das Jobbike,\n- ein abwechslungsreiches Angebot in unserer Cafeteria und Mensa,\n- einen Arbeitsplatz in einer Region mit hohem Freizeitwert, nahe dem Bodensee und den Alpen.\nBei der Einstellung werden die Grundsätze des Allgemeinen Gleichbehandlungsgesetzes (AGG) berücksichtigt. Menschen mit Behinderung haben bei gleicher Eignung Vorrang. Ein Nachweis ist beizufügen.\nBei Fragen zu den Inhalten der Tätigkeit stehen wir Ihnen gerne zur Verfügung:\n**Oliver Kohl-Frey**, E-Mail: oliver.kohl-frey@vw.ph-weingarten.de\nBei Fragen zum Tarifrecht wenden Sie sich bitte an\n**Ute Sterk**, Personalsachbearbeitung,\nTel.: 0751/501-8230, E-Mail: ute.sterk@ph-weingarten.de\nWir freuen uns über Ihre Bewerbung, die Sie uns bitte unter **Angabe der Kennziffer V310 bis zum 15.11.2026** zusenden …",
+   "extra": {
+    "refnr": "10001-1003849459-S",
+    "query": "Sozialwissenschaften",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "133095d10abb6865",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003849459-S"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Mitarbeiter (m/w/d) im Bereich Zollabwicklung",
+   "company": "Customs Support Group",
+   "location": "Bisingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-im-bereich-zollabwicklung-at-customs-support-group-4479257365",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f30235c8dca14f5b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-im-bereich-zollabwicklung-at-customs-support-group-4479257365"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Process Technician mit Berufserfahrung (all gender)",
+   "company": "ALPLA Group",
+   "location": "Markdorf, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/process-technician-mit-berufserfahrung-all-gender-at-alpla-group-4478793301",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b33a856de394eb57",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/process-technician-mit-berufserfahrung-all-gender-at-alpla-group-4478793301"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Drahterodierer (m/w/d) im Muster- und Betriebsmittelbau",
+   "company": "Diehl Defence",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/drahterodierer-m-w-d-im-muster-und-betriebsmittelbau-at-diehl-defence-4476283083",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d06577b6370e7750",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/drahterodierer-m-w-d-im-muster-und-betriebsmittelbau-at-diehl-defence-4476283083"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Bäckermeister oder Bäcker für Großproduktion gesucht #Backliebe (w/m/d)",
+   "company": "Lakefields GmbH",
+   "location": "Gottmadingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/b%C3%A4ckermeister-oder-b%C3%A4cker-f%C3%BCr-gro%C3%9Fproduktion-gesucht-%23backliebe-w-m-d-at-lakefields-gmbh-4476477512",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "de0adc27e4abaa09",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/b%C3%A4ckermeister-oder-b%C3%A4cker-f%C3%BCr-gro%C3%9Fproduktion-gesucht-%23backliebe-w-m-d-at-lakefields-gmbh-4476477512"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Portfolio- & Transformationsmanager (m/w/d) Operations",
+   "company": "Diehl Defence",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/portfolio-transformationsmanager-m-w-d-operations-at-diehl-defence-4478106515",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8949dfdf7e99de41",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/portfolio-transformationsmanager-m-w-d-operations-at-diehl-defence-4478106515"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "JOB Sekretariat",
+   "company": "Planstatt Senner",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/job-sekretariat-at-planstatt-senner-4479227218",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "15c80447c407cd32",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/job-sekretariat-at-planstatt-senner-4479227218"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Chemikant (m/w/d) für die Bulkherstellung",
+   "company": "Dentsply Sirona",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/chemikant-m-w-d-f%C3%BCr-die-bulkherstellung-at-dentsply-sirona-4460261193",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9bb2acd65e9ef66c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/chemikant-m-w-d-f%C3%BCr-die-bulkherstellung-at-dentsply-sirona-4460261193"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Supply Chain Specialist (m/w/d)",
+   "company": "Constellium",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/supply-chain-specialist-m-w-d-at-constellium-4467392905",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "190861addd9aba39",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/supply-chain-specialist-m-w-d-at-constellium-4467392905"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Leiterin / Leiter Pflege und Betreuung 80-100%",
+   "company": "Mach Karriere als Mensch_Faire une carrière empreinte d'humanité_Fai una carriera piena di umanità",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiterin-leiter-pflege-und-betreuung-80-100%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4478171831",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "173487c4eea1379b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiterin-leiter-pflege-und-betreuung-80-100%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4478171831"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Business Application Consultant (Senior)",
+   "company": "Prime21 AG",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/business-application-consultant-senior-at-prime21-ag-4476449199",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7d181eb0c402cafe",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/business-application-consultant-senior-at-prime21-ag-4476449199"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "creativ studio",
+   "company": "StudioDolo",
+   "location": "Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/creativ-studio-4479043480",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "69c4ed21ea438767",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/creativ-studio-4479043480"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Leiter Produktion Motion Control (a)",
+   "company": "Baumer Group",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-produktion-motion-control-a-at-baumer-group-4478181558",
+   "posted": "2026-10-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "616d67f2ffde4f0f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-produktion-motion-control-a-at-baumer-group-4478181558"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Senior Business Development Manager / Client Director Schweiz (m/w/d) 100%",
+   "company": "ellioCX DACH",
+   "location": "Tägerwilen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-business-development-manager-client-director-schweiz-m-w-d-100%25-at-elliocx-dach-4479054974",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4dc7b3e0c684ee4e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-business-development-manager-client-director-schweiz-m-w-d-100%25-at-elliocx-dach-4479054974"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Senior Fachspezialist/in Personal- und Organisationsentwicklung (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-fachspezialist-in-personal-und-organisationsentwicklung-m-w-d-at-kanton-st-gallen-4477978995",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Zur Ergänzung unseres Teams der Personal- und Organisationsentwicklung suchen wir per 1. Januar 2027 oder nach Vereinbarung dich als Ihre Aufgaben Beratung und Begleitung von Führungskräften sowie Konzeption und Leitung von Mandaten in der Team-, Kultur- und Organisationsentwicklung Design und Moderation von Strategie-, Führungs- und Teamworkshops sowie Begleitung von Veränderungs- und Entwicklungsprozessen Konzeption und Durchführung von Trainings und Seminaren zu den Themen Führung, Kultur- und Organisationsentwicklung Weiterentwicklung von Instrumenten und Konzepten für die Personal-, Führungs- und Kulturentwicklung in Zusammenarbeit mit internen und externen Partnerinnen und Partnern Planung und Umsetzung von Talent-Management-Vorhaben sowie Mitarbeit in strategischen Projekten der Personal- und Organisationsentwicklung Leitung oder Mitarbeit in Change- und Digitalisierungsprojekten sowie Mitwirkung in Fachgremien Beratung und Unterstützung von HR Business Partnern sowie HR-Verantwortlichen bei Fragen der Führungs- und Organisationsentwicklung Was Sie auszeichnet Abgeschlossenes Studium in Betriebswirtschaft, Human Resources, Wirtschaftspädagogik, Arbeits- und Organisationspsychologie oder eine vergleichbare Qualifikation Höhere Weiterbildungen in Organisationsentwicklung, Coaching, Change-Management, Projektmanagement oder einer vergleichbaren Fachrichtung Langjährige Erfahrung in der Organisations-, Kultur- und Teamentwicklung sowie in der Begleitung von Transformations- und Change-Prozessen Umfassende Erfahrung in der Konzeption und Moderation von Workshops sowie in der Gestaltung von Lern- und Entwicklungsformaten Ausgeprägte Beratungs-, Moderations- und Kommunikationskompetenzen sowie ein sicheres Auftreten auf allen Führungsebenen Strategisches und vernetztes Denkvermögen mit hoher Umsetzungsstärke sowie Freude daran, Veränderungen aktiv mitzugestalten Hohe Dienstleistungsorientierung sowie ausgeprägte Selbst-, Sozial- und Methodenkompetenzen Unsere Benefits Vielseitige Tätigkeit mit hoher Eigenverantwortung in einem motivierenden, kollegialen Umfeld Ausgezeichnete Möglichkeiten zur fachlichen und persönlichen Weiterentwicklung Zeitgemässe Arbeitsmodelle mit flexibler Arbeitszeitgestaltung und der Möglichkeit von Homeoffice Attraktiver Arbeitsplatz im Zentrum der Stadt St.Gallen Eine offene DU-Kultur, in der deine Meinung zählt und Vertrauen gelebt wird Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b34ee619a416296d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-fachspezialist-in-personal-und-organisationsentwicklung-m-w-d-at-kanton-st-gallen-4477978995"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "People Business Partner (all genders)",
+   "company": "HolidayCheck",
+   "location": "Bottighofen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/people-business-partner-all-genders-at-holidaycheck-4479020556",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "Starte Deine ganz persönliche Reise – mit HolidayCheck! Bei HolidayCheck dreht sich alles darum, gemeinsam Urlaub besser zu machen. Wir ermöglichen nicht nur unseren Reisenden die schönste Zeit des Jahres, sondern schaffen auch für unser Team eine inspirierende Arbeitsatmosphäre in unserem modernen Büro in Bottighofen (Schweiz). Unsere Unternehmenswerte leben wir täglich: Als #TeamHolidayCheck schaffen wir Vertrauen, übernehmen Verantwortung und lieben, was wir tun – für das perfekte Urlaubserlebnis. Du verstehst Menschen genauso gut wie Business und möchtest People-Arbeit aktiv mitgestalten statt HR nach Schema F zu machen? Dann könnte das hier ziemlich gut passen. Als People Business Partner (all genders) berätst du unsere Führungskräfte nicht nur, sondern gestaltest gemeinsam mit ihnen aktiv Veränderungen – und bringst gleichzeitig frische Ideen in die Weiterentwicklung unseres Bereichs Learning & Development ein. Du bist Teil unseres People Teams, in dem wir uns gegenseitig unterstützen, viel Gestaltungsspielraum haben und Strukturen dort schaffen, wo sie wirklich Mehrwert bieten. Deine Aufgaben Beratung und Sparring für Führungskräfte und unterschiedliche Business Units, von alltäglichen People-Fragen bis hin zu strategischen Leadership- und Organisationsthemen Transformations- und Veränderungsprozesse begleiten, neue Perspektiven einbringen und dabei sowohl die Menschen als auch die Anforderungen des Business im Blick behalten Herausforderungen frühzeitig erkennen, die richtigen Fragen stellen und gemeinsam mit Führungskräften pragmatische Lösungen entwickeln, die wirklich etwas bewegen Verantwortung für unser Learning-&-Development-Portfolio übernehmen und es mit Blick auf die Bedürfnisse unserer Menschen und die strategischen Ziele des Unternehmens weiterentwickeln Neue Lernansätze rund um individuelle Entwicklung, Future Skills und AI Literacy gestalten, Bestehendes hinterfragen und neue Ideen ausprobieren Das bringst Du mit Mehrjährige Erfahrung im People/HR Business Partnering oder in einer vergleichbaren Rolle mit enger Zusammenarbeit mit Führungskräften Ein gutes Gespür für unternehmerische Zusammenhänge, idealerweise aus einem digitalen, E-Commerce- oder technologiegetriebenen Umfeld, und den Blick dafür, wie People-Themen zum Unternehmenserfolg beitragen Freude daran, Führungskräfte zu begleiten, unterschiedliche Perspektiven einzubringen, auch mal unbequeme Fragen zu stellen und schwierige Gespräche konstruktiv zu führen Erfahrung in der Begleitung organisatorischer Veränderungen, eine lösungsorientierte Haltung und die nötige Gelassenheit, wenn es dynamisch wird Ein gutes Verständnis für zwischenmenschliche Dynamiken, idealerweise ergänzt durch Erfahrung in Coaching, Leadership Development oder Learning & Development Offenheit für neue Arbeitsweisen, Freude am Experimentieren mit AI-Tools und Interesse daran, wie Technologie unsere People-Arbeit sinnvoll weiterbringen kann Souveräne Kommunikation auf Deutsch und Englisch sowie Bereitschaft, regelmäßig in München und gelegentlich an unseren Standorten in Polen vor Ort zu sein Unser „All Inclusive Package” für Dich Flexibilität & Vertrauen Hybrides Arbeiten mit zwei Büro-Tagen pro Woche für echten Teamspirit und Austausch 20 Tage Workation innerhalb der EU – arbeite, wo andere Urlaub machen Flexible Arbeitszeiten für Deinen individuellen Rhythmus Entwicklung & Kultur Vielfältige Lern- und Trainingsangebote für Deine persönliche Weiterentwicklung Internationale Unternehmenskultur mit über 30 Nationalitäten #TeamHolidayCheck – weil Zusammenhalt bei uns großgeschrieben wird Extras & Wertschätzung Jubiläumsboni, Corporate Benefits & individuelle Hardwareauswahl Zuschüsse für Deine Gesundheit, Fitness & Kinderbetreuung Gesunde & leckere Mahlzeiten im Office – frisch und mit Liebe gemacht Bist du bereit, dich dem HolidayCheck-Abenteuer anzuschließen? Dann schnapp Dir Deinen Koffer voller Talente und schicke uns Deine Bewerbung! About Us Let’s make holidays better – …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "8491fc98009881e2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/people-business-partner-all-genders-at-holidaycheck-4479020556"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Mitarbeiter Grünpflege mit technischem Flair (a)",
+   "company": "Baumer Group",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-gr%C3%BCnpflege-mit-technischem-flair-a-at-baumer-group-4476492676",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "Die Baumer Group ist ein international führender Hersteller von Sensoren und Messinstrumenten für die Fabrik- und Prozessautomation. Diesen Erfolg verdanken wir unseren rund 2'800 Mitarbeitenden weltweit, die mit Leidenschaft, Expertise und Engagement immer auf der Suche nach den besten Lösungen für unsere Kunden sind. Der Hauptsitz in Frauenfeld (Thurgau) gibt den Takt vor für die weltweit gefragten Baumer Sensorlösungen. Rund 700 Mitarbeitende aus Engineering, Produktmanagement, Fertigung, Logistik, Sales und Services arbeiten hier eng zusammen: Ingenieurinnen und Ingenieure entwickeln laufend neue Lösungen, während die Produktions- und Logistikteams dafür sorgen, dass die Sensoren in Baumer Qualität und pünktlich bei den Kunden ankommen. Unser Standort in Frauenfeld ist das Zuhause von rund 700 Mitarbeitenden und der Ausgangspunkt für Sensorlösungen, die weltweit im Einsatz stehen. Damit sich Mitarbeitende, Kunden und Besucher jederzeit willkommen fühlen, braucht es mehr als moderne Gebäude. Es braucht Menschen, die mit Leidenschaft dafür sorgen, dass unsere Umgebung gepflegt, sauber und einladend bleibt. Für mein Team suche ich deshalb eine Persönlichkeit, die gerne draussen arbeitet, Verantwortung übernimmt und Freude an sichtbaren Resultaten hat. Du pflegst unsere Grünanlagen nicht einfach nach Plan, sondern erkennst selbständig, was zu tun ist, und packst mit an. Gleichzeitig unterstützt du uns bei kleineren Unterhaltsarbeiten und bringst dich bei Bedarf flexibel im Hausdienst ein. Ich suche einen Menschen mit Berufsstolz, einer mitdenkenden Art und dem Anspruch, jeden Tag einen Beitrag zu einem gepflegten Gesamtbild zu leisten. Wenn du gerne selbständig arbeitest, gleichzeitig ein Teamplayer bist und Freude an einer vielseitigen Aufgabe hast, freue ich mich darauf, dich kennenzulernen. Daniel Mauch, Leiter Facility Management Das bewege ich Du übernimmst die Pflege und den Unterhalt unserer Grünanlagen und sorgst dafür, dass Rasenflächen, Blumenbeete, Hecken, Sträucher und Bäume jederzeit einen gepflegten Eindruck hinterlassen. Du führst Pflanzarbeiten sowie Ersatz- und Neupflanzungen durch und trägst aktiv zur attraktiven Gestaltung unseres Firmenareals bei. Du übernimmst Schnitt-, Reinigungs- und saisonale Unterhaltsarbeiten wie Unkrautentfernung, Laubräumung, Schädlingsbekämpfung oder Winterdienst. Du führst kleinere Reparatur- und Unterhaltsarbeiten im Innen- und Aussenbereich aus und unterstützt bei Bedarf flexibel im Hausdienst oder Reinigungsteam. Was es dazu braucht Du bringst eine abgeschlossene Ausbildung im Garten- und Landschaftsbau (EBA/EFZ) mit oder verfügst über mehrjährige Berufserfahrung in der professionellen Grünpflege. Du verfügst über Erfahrung im Umgang mit motorisierten Gartengeräten und arbeitest sicher, effizient und qualitätsbewusst. Du arbeitest selbständig, vorausschauend und zuverlässig und erkennst Handlungsbedarf, bevor andere ihn sehen. Du überzeugst mit Freude an der Arbeit, Berufsstolz und Teamgeist und hast den Anspruch, eine gepflegte Umgebung mitzugestalten. Bei uns findet Zusammenarbeit dort statt, wo Ideen entstehen: gemeinsam vor Ort. Wir sind überzeugt, dass gute Führung, Teamgeist und schnelle Entscheidungen am besten funktionieren, wenn man sich persönlich austauschen kann. Darum setzen wir bewusst auf 100% Arbeit im Betrieb - für eine enge Zusammenarbeit, kurze Wege und eine lebendige Unternehmenskultur. In Ausnahmefällen (z.B. Besuch eines Handwerkers, Arzttermin, Behördengang, etc.) ist es natürlich möglich, auch mal von zu Hause aus zu arbeiten. Vorteile Infrastruktur & Ausstattung: Je nach Standort gibt es gratis Parkplätze, Garderoben mit Duschmöglichkeiten, vergünstigte Bekleidung und weitere Vorzüge. Verpflegung: Wir sorgen für eine kostengünstige, gute Verpflegung, besondere Angebote bei Nachtschicht und für das Zwischendurch gibt es Früchte und Mineralwasser. Work Life Balance & Familie: Wir unterstützen Familien und gestalten Arbeitszeiten möglichst flexibel. Und …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "a5068adca85d9b7a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-gr%C3%BCnpflege-mit-technischem-flair-a-at-baumer-group-4476492676"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Leiter:in Lokpersonal (100%)",
+   "company": "Thurbo AG",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-lokpersonal-100%25-at-thurbo-ag-4479004135",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "Wir sind die innovative, kunden- und marktorientierte Regionalbahn der Ostschweiz und Arbeitgeberin von mehr als 500 Mitarbeitenden. Schlanke Strukturen und kurze Entscheidungswege gehören zu unseren Stärken. Unseren Kund:innen bieten wir jederzeit den bestmöglichen Service und deren Anliegen sind eine Chance für Thurbo, um noch besser zu werden. Dafür suchen wir auf den 1. Februar 2027 oder nach Vereinbarung eine:n Leiter:in Lokpersonal 100% In dieser Schlüsselrolle im Bereich Betrieb tragen Sie die Verantwortung für die Führungskräfte des Lokpersonals und deren Teams. Mit Ihrem Engagement leisten Sie einen entscheidenden Beitrag zu einem sicheren, pünktlichen und kundenorientierten Bahnbetrieb. Aufgaben Sie stellen die personelle und fachliche Führung von acht Standortleitern in der Ostschweiz sicher. Sie entwickeln die eigene Organisationseinheit entlang der Strategie und der Ziele weiter. Sie verantworten die Qualitätssicherung, die Betriebssicherheit und ein professionelles Ereignismanagement. Sie schaffen Rahmenbedingungen, klären Verantwortungen und sorgen für Handlungsspielräume für eine vertrauensvolle Zusammenarbeit. Sie gewährleisten eine vorausschauende Personal- und Dienstplanung. Sie wirken in Projekten, Weiterentwicklung von Prozessen sowie Arbeitsmitteln aktiv mit. Sie vertreten das Unternehmen in internen und externen Fachgremien sowie Projekten Voraussetzungen Sie verfügen über fundierte Führungserfahrung und haben sich in leitenden Positionen bewährt, idealerweise in der Bahnbranche oder einer vergleichbaren Umgebung. Sie haben eine Weiterbildung auf Tertiärstufe abgeschlossen (FH, Uni oder Master of Advanced Studies). Sie handeln ergebnisorientiert und verfügen über ein Verständnis für wirtschaftliche Zusammenhänge und Prioritäten. Sie kommunizieren sicher, klar und empathisch – sowohl mündlich als auch schriftlich. Sie sind in der Lage Teams zu motivieren, zu inspirieren und zu entwickeln. Sie setzen die sehr guten MS-Office-Kenntnisse effizient im Arbeitsalltag ein. Wir bieten Bei Thurbo erwartet Sie eine vielseitige und verantwortungsvolle Tätigkeit in einem engagierten und unterstützenden Team. Sie profitieren von einem modernen Arbeitsplatz, attraktiven Anstellungsbedingungen und zahlreichen Möglichkeiten, Ihre Ideen einzubringen und sich persönlich weiterzuentwickeln. Zudem schätzen Sie eine Tätigkeit, die viel Flexibilität bietet und mit Reisetätigkeiten in der Ostschweiz verbunden ist. Klingt das nach Ihrer neuen Herausforderung? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung über folgenden Link : Link Auskünfte erteilen Ihnen: Fachliche Fragen: Martin Thalmann, Bereichsleiter Betrieb, Tel. +41 71 554 00 62 Kontakt Jennifer Meier Bereichsleiterin HRM Thurbo AG Telefon: +41 71 554 01 12 Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Rail Transportation Referrals increase your chances of interviewing at Thurbo AG by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "72cd450aec98b1d5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-lokpersonal-100%25-at-thurbo-ag-4479004135"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Montagemitarbeiter Produktion",
+   "company": "Skysec Defence",
+   "location": "Aadorf, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/montagemitarbeiter-produktion-at-skysec-defence-4479036766",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e0a5bde3676b3380",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/montagemitarbeiter-produktion-at-skysec-defence-4479036766"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Product Owner",
+   "company": "Fust",
+   "location": "Oberbüren, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/product-owner-at-fust-4468768337",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8195edc931a77f92",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/product-owner-at-fust-4468768337"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Mitarbeiterin / Mitarbeiter Service & Support ICT - Berufsbildung",
+   "company": "Psychiatrie St.Gallen",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-service-support-ict-berufsbildung-at-psychiatrie-st-gallen-4477402809",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f9e6adf3ae6ac227",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-service-support-ict-berufsbildung-at-psychiatrie-st-gallen-4477402809"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Market Manager - Go-to-Market",
+   "company": "VAT GROUP",
+   "location": "Sennwald, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/market-manager-go-to-market-at-vat-group-4476408274",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "6eee6a90ea65b8d7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/market-manager-go-to-market-at-vat-group-4476408274"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Technischer Projektmanager (m/w/d)",
+   "company": "Rocken®",
+   "location": "Aadorf, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technischer-projektmanager-m-w-d-at-rocken%C2%AE-4477998498",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "83e2c2d623b84535",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technischer-projektmanager-m-w-d-at-rocken%C2%AE-4477998498"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Meccanico/a di apparecchi di trasmissione",
+   "company": "Bundesverwaltung",
+   "location": "Bronschhofen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/meccanico-a-di-apparecchi-di-trasmissione-at-bundesverwaltung-4477991532",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "83c1ab5a4bc5fed4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/meccanico-a-di-apparecchi-di-trasmissione-at-bundesverwaltung-4477991532"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Kaufmännischer Sachbearbeiter/in, 100 %",
+   "company": "DHL Global Forwarding",
+   "location": "Buchs (SG), St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/kaufm%C3%A4nnischer-sachbearbeiter-in-100-%25-at-dhl-global-forwarding-4479031859",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b7c54093afdc992f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kaufm%C3%A4nnischer-sachbearbeiter-in-100-%25-at-dhl-global-forwarding-4479031859"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Produktionsmitarbeiter/in 100%",
+   "company": "Sika",
+   "location": "Kirchberg, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/produktionsmitarbeiter-in-100%25-at-sika-4476400636",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "15eaf11853166fb8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/produktionsmitarbeiter-in-100%25-at-sika-4476400636"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Einstieg ins Financial Consulting – Unabhängige Vermögensberatung",
+   "company": "VZ VermögensZentrum",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/einstieg-ins-financial-consulting-%E2%80%93-unabh%C3%A4ngige-verm%C3%B6gensberatung-at-vz-verm%C3%B6genszentrum-4478176801",
+   "posted": "2026-10-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9f13c6121938ea06",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/einstieg-ins-financial-consulting-%E2%80%93-unabh%C3%A4ngige-verm%C3%B6gensberatung-at-vz-verm%C3%B6genszentrum-4478176801"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Applikationsmanager/in (m/w/d)",
+   "company": "Spitalverbund Appenzell Ausserrhoden",
+   "location": "Herisau, Appenzell Outer-Rhoden, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/applikationsmanager-in-m-w-d-at-spitalverbund-appenzell-ausserrhoden-4478101261",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1ecc55463d7c263b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/applikationsmanager-in-m-w-d-at-spitalverbund-appenzell-ausserrhoden-4478101261"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Greffier/-ère Cour IV de langue principale française",
+   "company": "Bundesverwaltungsgericht – Federal Administrative Court",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/greffier-%C3%A8re-cour-iv-de-langue-principale-fran%C3%A7aise-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4472886670",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5f9738aee4ec27ce",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/greffier-%C3%A8re-cour-iv-de-langue-principale-fran%C3%A7aise-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4472886670"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Nachwuchsführungskräfte Retail",
+   "company": "Coop",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/nachwuchsf%C3%BChrungskr%C3%A4fte-retail-at-coop-4433221834",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3bc81f76b2d9dfb2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/nachwuchsf%C3%BChrungskr%C3%A4fte-retail-at-coop-4433221834"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Leiter Instandhaltung (m/w/d)",
+   "company": "M&M - Menschen und Möglichkeiten GmbH",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-instandhaltung-m-w-d-at-m-m-menschen-und-m%C3%B6glichkeiten-gmbh-4476400311",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "35e0e13ba41b531d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-instandhaltung-m-w-d-at-m-m-menschen-und-m%C3%B6glichkeiten-gmbh-4476400311"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "SachbearbeiterIn Sozialamt 50%",
+   "company": "Gemeinde Kirchberg SG",
+   "location": "Sankt Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiterin-sozialamt-50%25-at-gemeinde-kirchberg-sg-4479270331",
+   "posted": "2026-10-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e78b38668112426f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiterin-sozialamt-50%25-at-gemeinde-kirchberg-sg-4479270331"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Promoter:in für abwechslungsreiche Nebenjobs gesucht",
+   "company": "Promotion-Tools AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/promoter-in-f%C3%BCr-abwechslungsreiche-nebenjobs-gesucht-at-promotion-tools-ag-4476417216",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "031936e9c3f99470",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/promoter-in-f%C3%BCr-abwechslungsreiche-nebenjobs-gesucht-at-promotion-tools-ag-4476417216"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Technical Lead",
+   "company": "Leica Geosystems",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technical-lead-at-leica-geosystems-4476461844",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1655907622c0fe68",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technical-lead-at-leica-geosystems-4476461844"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Hauswirtschaftskraft Kindergarten Markelfingen (m/w/d)",
+   "company": "Stadt Radolfzell",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/hauswirtschaftskraft-kindergarten-markelfingen-m-w-d-at-stadt-radolfzell-4479020506",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "dc9b406043b2f4ba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/hauswirtschaftskraft-kindergarten-markelfingen-m-w-d-at-stadt-radolfzell-4479020506"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Hauswirtschaftskraft / Quereinsteiger Mobile Dienste (m/w/d)",
+   "company": "Evangelische Heimstiftung GmbH",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/hauswirtschaftskraft-quereinsteiger-mobile-dienste-m-w-d-at-evangelische-heimstiftung-gmbh-4478155254",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "edb6e901a69405a6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/hauswirtschaftskraft-quereinsteiger-mobile-dienste-m-w-d-at-evangelische-heimstiftung-gmbh-4478155254"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Hauswirtschaftskraft / Quereinsteiger Mobile Dienste (m/w/d)",
+   "company": "Diakonie Württemberg",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/hauswirtschaftskraft-quereinsteiger-mobile-dienste-m-w-d-at-diakonie-w%C3%BCrttemberg-4478147266",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "fde393643ece1166",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/hauswirtschaftskraft-quereinsteiger-mobile-dienste-m-w-d-at-diakonie-w%C3%BCrttemberg-4478147266"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Unterrichtsassistenz für Matheclub - im Stundenlohn (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/unterrichtsassistenz-f%C3%BCr-matheclub-im-stundenlohn-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4476332630",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a49c3d19ab246181",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/unterrichtsassistenz-f%C3%BCr-matheclub-im-stundenlohn-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4476332630"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Unterassistent/in 2027",
+   "company": "medicjobs.ch",
+   "location": "Uznach, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/unterassistent-in-2027-at-medicjobs-ch-4478166952",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "862a3dbaa9fd4a4d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/unterassistent-in-2027-at-medicjobs-ch-4478166952"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Mitarbeiter*in Nachtbetreuung 80%",
+   "company": "ORS Service AG",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-nachtbetreuung-80%25-at-ors-service-ag-4479081074",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cffb12ea2b8fa561",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-nachtbetreuung-80%25-at-ors-service-ag-4479081074"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Testassistenz für ca. 1.5 Jahre (überwiegend mittwochs) 20%",
+   "company": "Bildungsdirektion Kanton Zürich",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/testassistenz-f%C3%BCr-ca-1-5-jahre-%C3%BCberwiegend-mittwochs-20%25-at-bildungsdirektion-kanton-z%C3%BCrich-4477997406",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f8e041749f336dfc",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/testassistenz-f%C3%BCr-ca-1-5-jahre-%C3%BCberwiegend-mittwochs-20%25-at-bildungsdirektion-kanton-z%C3%BCrich-4477997406"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Fachfrau/-mann Gesundheit",
+   "company": "Mach Karriere als Mensch_Faire une carrière empreinte d'humanité_Fai una carriera piena di umanità",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachfrau-mann-gesundheit-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4478170890",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "156d14e97084ac30",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachfrau-mann-gesundheit-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4478170890"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Fachleitung Begegnung & Austausch 60-70%",
+   "company": "Pro Senectute Kanton St. Gallen",
+   "location": "Rorschach, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachleitung-begegnung-austausch-60-70%25-at-pro-senectute-kanton-st-gallen-4479021708",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "Pro Senectute setzt sich schweizweit für ein gutes Leben im Alter ein. Als eine der sechs Regionalstellen im Kanton St. Gallen engagieren wir uns in der Region Rorschach & Unterrheintal für die Lebensqualität älterer Menschen. Im Fachbereich Begegnung & Austausch schaffen wir mit Kursen, Gruppenangeboten und Treffpunkten Möglichkeiten für soziale Kontakte und sinnstiftendes Engagement. Im Zuge der Pensionsnachfolge suchen wir per 1. Mai 202 7 oder nach Vereinbarung eine initiative Persönlichkeit für die Fachleitung Begegnung & Austausch 60 -70% Ihre Aufgaben : • Sie entwickeln , begleiten und koordinieren Kurse, Gruppenangebote und Begegnungsmöglichkeiten für ältere Menschen • Gemeinsam mit einem engagierten Freiwilligenteam führen und entwickeln Sie das Café/Restaurant Negropont als lebendigen Begegnungsort weiter • Sie schaffen Möglichkeiten, damit ältere Menschen ihre Talente und Erfahrungen einbringen und sich engagieren können Das bringen Sie mit : • Abschluss in Soziokultureller Animation (FH/HF) oder Sozialer Arbeit (B.A./BSc) • Erfahrung in Projektarbeit , partizipativer Angebotsentwicklung und Sozialraumorientierung • Freude daran, Menschen zu vernetzen und gesellschaftliche Teilhabe zu fördern • Selbstständige, strukturierte Arbeitsweise und lösungsorientiertes Denken • Hohe Sozial -, Kommunikations - und Führungskompetenz • Digitale Affinität sowie Freude und Routine im Erledigen administrativer Aufgaben • Bereitschaft, das Wirtepatent zu erwerben Darauf können Sie sich freuen : • Eine sinnstiftende Tätigkeit mit viel Gestaltungsspielraum • Ein engagiertes Team und administrative Unterstützung • Attraktive Weiterbildungs - und Entwicklungsmöglichkeiten • Zeitgemässe Anstellungsbedingungen Interessiert? Möchten Sie sich für unseren Fachbereich Be gegnung & Austausch engagieren ? Dann freuen wir uns auf Ihre Bewerbung. Bei Fragen zu r Tätigkeit wenden sie sich an: Sylvia Huber (jetzige Stelleninhaberin) oder Dirk Rohweder, Stellenleitung. Ihre Bewerbung mit den üblichen Unterlagen und Angabe Ihrer Lohnvorstellung richten Sie bitte via E-Mail an: rorschach@sg.prosenectute.ch Show more Show less Seniority level Not Applicable Employment type Part-time Industries Individual and Family Services Referrals increase your chances of interviewing at Pro Senectute Kanton St. Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "12f4818266ecc6ec",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachleitung-begegnung-austausch-60-70%25-at-pro-senectute-kanton-st-gallen-4479021708"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Theoretischer Physiker (m/w/d), vorzugsweise mit Promotion, für physikalische Simulation und Modellierung",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/theoretischer-physiker-m-w-d-vorzugsweise-mit-promotion-f%C3%BCr-physikalische-simulation-und-modellierung-at-diehl-defence-4476475932",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "Das Sind Ihre Aufgaben Sie erstellen anwendungsbezogene Simulationssoftware mit physikalischem und mathematischem Hintergrund. Des Weiteren sind Sie für die softwaretechnische Umsetzung von Algorithmen und Modellen zur weiteren Nutzung in Simulationsketten verantwortlich. Die Validierung von Modellen und zugehöriger Software anhand von analytischen Vergleichsrechnungen sowie mittels Messdaten gehört ebenso zu Ihrem Aufgabengebiet. Weiterhin beschäftigen Sie sich mit der physikalischen und mathematischen Modellbildung von Zielobjekten, Umwelt, Atmosphäre und Suchköpfen in verschiedenen Spektralbereichen, insbesondere im Infrarotbereich. Das Bringen Sie Mit Die beste Voraussetzung für diese Position ist Ihr abgeschlossenes Studium mit hervorragenden Leistungen und exzellenten Zeugnissen. Sie begeistern sich für komplexe technische Systeme und können uns zusätzlich mit Ihrem ausgezeichneten analytischen Denkvermögen überzeugen. Darüber hinaus verfügen Sie über gute IT-Kenntnisse (insbesondere Linux) sowie vertiefte Kenntnisse in mindestens einer Programmiersprache (vorzugsweise C++ oder Rust, gerne auch MATLAB oder Python). Sie können bereits Erfahrung im Bereich der numerischen physikalischen Simulation vorweisen. Idealerweise bringen Sie Kenntnisse in der GPU-Programmierung (z. B. CUDA, OpenGL, Vulkan) und der Infrarot-Physik mit. Wir freuen uns über Ihre Bewerbung unter Angabe der Kennziffer Ü 261040. Bitte laden Sie Ihre Bewerbungsunterlagen im Karriere-Portal hoch. Bewerber (m/w/d) mit einer Schwerbehinderung werden bei gleicher Eignung bevorzugt behandelt. Sollten Sie das wünschen, geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Land/Standort Überlingen am Bodensee Funktionsbereich Forschung/Entwicklung/Engineering Einstiegslevel Direkteinstieg - Mit Berufserfahrung Arbeitszeitmodell Vollzeit Arbeitsverhältnis unbefristet Unternehmensbereiche Diehl Defence Start ab sofort Diese Benefits Bieten Wir Ihnen - Und Mehr Individuelle Entwicklungsmöglichkeiten Firmenrad Flexible Arbeitszeiten Familienunternehmen Betriebliches Gesundheitsmanagement Mach bei Diehl, was dir wichtig ist. Diehl Defence GmbH & Co. KG, Überlingen Jenny Kober Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "0a83306c8d03e5b8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/theoretischer-physiker-m-w-d-vorzugsweise-mit-promotion-f%C3%BCr-physikalische-simulation-und-modellierung-at-diehl-defence-4476475932"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Svetovalec (DM 676) v Kontrolnem središču Luka Koper, Inšpekciji za varno hrano, veterinarstvo in varstvo rastlin",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-dm-676-v-kontrolnem-sredi%C5%A1%C4%8Du-luka-koper-in%C5%A1pekciji-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4478104330",
+   "posted": "2026-10-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5075ea3c86a720fd",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-dm-676-v-kontrolnem-sredi%C5%A1%C4%8Du-luka-koper-in%C5%A1pekciji-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4478104330"
+   },
+   "first_seen": "2026-10-14"
+  },
+  {
+   "title": "Mitarbeiter Versichertenberatung Pensionskasse",
+   "company": "Raiffeisen Schweiz",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/3d5a63df-b2dd-44d5-a159-324b6aaeaeb6/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-14",
+   "salary": null,
+   "via": null,
+   "description": "**Wir leben Vielfalt und <em>Chancengleichheit</em>**\nWir fördern die unterschiedlichen Perspektiven, Erfahrungen und Kompetenzen in unseren Teams. Denn diese Vielfalt macht uns besonders und trägt entscheidend zu unserem Erfolg bei.",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "9fd19ad5-a833-4cf8-ab05-77a048348cdf"
+   },
+   "id": "2a7e2e8f50a1575d",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/3d5a63df-b2dd-44d5-a159-324b6aaeaeb6/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-14"
+  }
+ ]
+}
