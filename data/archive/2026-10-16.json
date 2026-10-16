@@ -1,0 +1,839 @@
+{
+ "generated_at": "2026-10-16T05:58:25+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 162,
+   "linkedin": 250,
+   "jobroom": 24
+  },
+  "excluded": 348,
+  "unique": 74,
+  "new": 34,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Sozialplanung&location=St.+Gallen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+ },
+ "jobs": [
+  {
+   "title": "Fremdsprachenlektor*in für Englisch (w/m/d)",
+   "company": "Universität Konstanz",
+   "location": "78464 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-9tsed3xm6h-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# Fremdsprachenlektor*in für Englisch (w/m/d)\n### ### (Vollzeit, E 13 TV-L)\n**Kennziffer 2026/212. Die Stelle ist zum 01.04.2027 unbefristet zu besetzen. Die Stelle ist grundsätzlich teilbar.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nDas **Sprachlehrinstitut (SLI)** ist eine zentrale Einrichtung der Universität und hat vor allem folgende Aufgaben: wissenschaftlich fundierter Fremdsprachenunterricht für Studierende philologischer Fächer, für Studierende aller Fachrichtungen, für internationale und Austauschstudierende sowie für Universitätsangehörige; Konzeptionierung von Kursformaten und Lehr-Lernmaterialien, die an den neuesten Entwicklungen der Sprachlehr- und Lernforschung angelehnt sind, sowie die Förderung der Mehrsprachigkeit.\n## Ihre Aufgaben\n- Universitäre Sprachlehre (19 SWS) überwiegend für Studierende der Anglistik/Amerikanistik (Literatur, Linguistik, Lehramt) und für Hörer*innen aller Fachbereiche (u.a. fachbezogenes Englisch)\n- Beratung und Betreuung von Studierenden in sprachlichen Belangen (inklusive Einstufung und Erstellung von Sprachnachweisen)\n- Entwicklung von Lehr-Lernkonzepten, Lehrmaterialien und Curricula im Bereich der Fremdsprachenausbildung auch unter Berücksichtigung von KI\n## Ihr Profil\n- Sprachkenntnisse in Englisch auf muttersprachlichem Niveau\n- Einschlägige abgeschlossene wissenschaftliche Hochschulausbildung in einer Philologie\n- Lehrerfahrung im universitären Englischunterricht\n- Ausgezeichnete Kenntnisse über die Zielkulturen von Anglistik/Amerikanistik\n- Sehr gute Kenntnisse der deutschen Sprache\n- Teamfähigkeit\n**Erwünscht**:\n- Abschluss in einer Zusatzausbildung‚ Englisch als Fremdsprache\n- Kenntnisse und Erfahrungen mit autonomem Lernen und Sprachlernberatung\n## Wir bieten Ihnen\n- Ein anregendes interdisziplinäres und internationales Umfeld\n- Die Möglichkeit, neue Lehr-Lernformate in der Sprachlehre zu konzipieren und auszuprobieren\n- Die Arbeit in einer schönen Umgebung\n- Zahlreiche Fortbildungsmöglichkeiten\n- Angebote des Hochschulsports\n- Hansefit und Corporate Benefits\n- Familienfreundlichkeit\n- Region mit hohem Freizeitwert\n- Zuschuss zum JobTicket BW, Deutschlandticket\n- Betriebliche Altersvorsorge (VBL)\n- Eingruppierung nach den tariflichen Bestimmungen des TV-L (je nach den persönlichen Voraussetzungen bis Entgeltgruppe 13 TV-L)\nNähere Informationen erhalten Sie über Frau Cristina Fronterotta, .\nWir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum **31.10.2026** über unser .\nDie Universität Konstanz engagiert sich für Gleichstellung, Diversity sowie die Vereinbarkeit von Beruf und Familie. Sie strebt eine Erhöhung des Anteils von Frauen in Forschung und Lehre an und unterstützt Dual Career-Paare (). Menschen mit einer Schwerbehinderung werden bei entsprechender Eignung vorrangig eingestellt (, +49 7531 88-4016).",
+   "extra": {
+    "refnr": "19772-9tsed3xm6h-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "8bb506534123f217",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-9tsed3xm6h-S"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Pflegerische Stationsleitung (w/m/d)",
+   "company": "ZfP Südwürttemberg",
+   "location": "88214 Ravensburg, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19200-yflqsgtutb-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Gute Arbeit. Faire Bezahlung. Tolle Benefits. Verlässlichkeit. Und viel Potenzial zur Weiterentwicklung. Das zeichnet das ZfP Südwürttemberg als Arbeitgeber in Psychiatrie und Psychosomatik aus.\nWir möchten Sie in unserem Team willkommen heißen, und zwar als\n# Pflegerische Stationsleitung (w/m/d)\n### Klinik für Forensische Psychiatrie und Psychotherapie Weissenau\nKennziffer: W107/26\nDiese Stelle ist unbefristet in Vollzeit zum nächstmöglichen Zeitpunkt zu besetzen.\n### Das erwartet Sie\nIn der Forensischen Klinik arbeiten wir in multiprofessionellen Teams auf derzeit zehn differenzierten Behandlungsstationen und einer Forensisch-Psychiatrischen Ambulanz mit dem Ziel der Besserung und Sicherung von psychisch kranken oder persönlichkeitsgestörten Menschen, die im Zustand der Schuldunfähigkeit oder verminderten Schuldfähigkeit eine Straftat begangen haben und aus diesem Grund gerichtlich im Maßregelvollzug untergebracht wurden.\nZu besetzen ist die Leitungsstelle auf der forensischen Aufnahmestation 2071 mit derzeit 24 Behandlungsplätzen. Die Station ist eine von zwei Aufnahme- und Kriseninterventionsstationen des Maßregelvollzugs in Weissenau. Dort werden gerichtlich untergebrachte und/oder vorläufig untergebrachte Frauen und Männer behandelt. Die Station wird in einem Drei-Schicht-Modell betrieben.\n### Ihre Aufgaben\nWir freuen uns auf eine kompetente und engagierte Leitungskraft, die Freude daran hat, anzupacken, die Station im Sinne des Behandlungsauftrages weiterzuentwickeln und das Team in wertschätzender Art und Weise verantwortungsbewusst und professionell zu führen. Auch ist es elementarer Bestandteil der täglichen Arbeit, die erforderlichen Sicherheits- und Sicherungsaspekte zu gewährleisten sowie die Pflegequalität unter fachlichen, wirtschaftlichen und gesetzlichen Aspekten zu sichern und weiterzuentwickeln. In unserer Klinik ist die „duale Führung“ realisiert, d.h. die gemeinsame und gleichberechtigte Leitung der Station durch eine therapeutische und eine pflegerische Stationsleitung.\n### Das bringen Sie mit\n- Eine abgeschlossene dreijährige Ausbildung in der Pflege oder Heilerziehungspflege\n- Forensische Berufserfahrung, vorzugsweise im Bereich des § 63 StGB\n- Eine abgeschlossene Weiterbildung zur Leitung einer Station oder Einheit oder eine vergleichbare Qualifikation bzw. die Aussicht diese zeitnah zu erwerben\n- Möglichst Leitungs- oder Führungserfahrung\n- Innovationsfreude und Offenheit für neue Konzepte und deren Entwicklung und Einführung, insbesondere des Safewards-Konzeptes\n- Die Fähigkeit, flexibel und ruhig mit Herausforderungen umzugehen und konstruktiv auf wechselnde Anforderungen zu reagieren\n### Das bieten wir Ihnen\n- Einen Arbeitsplatz mit einem hohen Grad an Selbstständigkeit und Gestaltungspotential\n- Einbindung in und Unterstützung durch ein motiviertes und kollegiales Leitungsnetzwerk\n- Vielfältige Möglichkeiten der Fort- und Weiterbildung\n- Lebensarbeitszeitmodell ZEITplus\n- ZfP-Jobticket\n- JobRad\n- Voraussichtliche Eingruppierung unter Berücksichtigung der individuellen Erfahrungen und Qualifikationen in **KR 13** **TV-L**\n### Bei Fragen\nBei dieser Stelle handelt es sich um eine Frauenförderstelle. Wir freuen uns besonders über Bewerbungen von Frauen.\n**Nähere Auskünfte erteilen Ihnen gerne Frau Julia König, Pflegerische Klinikleitung, Tel. 0751 7601-2511, E-Mail: .**\nDie gegenseitigen Beziehungen richten sich nach dem TV-L. Unsere angebotenen Vollzeitstellen sind auch in Teilzeit zu besetzen. Chancengleichheit ist fester Bestandteil unserer Personalpolitik. Schwerbehinderte Menschen werden bei entsprechender Eignung bevorzugt berücksichtigt.\nBewerbungsfrist: 25.10.2026\nW107/26\n**beantworten wir Fragen zum Bewerbungsverfahren.**\n## Ihre Vorteile\n#### Zusatzurlaub für Pflegekräfte.\nPflegekräfte im ZfP Südwürttemberg erhalten einen Tag Zusatzurlaub.\n#### Gute Arbeit. Gutes Geld.\nUnsere Tarifverträge (TV-L) sichern ein gutes und faires Einkommen.\n#### Neu hier?\nMit einem Trainéeprogramm Psychiatrie …",
+   "extra": {
+    "refnr": "19200-yflqsgtutb-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "350dd8d202fe01a4",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19200-yflqsgtutb-S"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Projektmanager:in",
+   "company": "Stadt Konstanz",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektmanager-in-at-stadt-konstanz-4478873137",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Die Stadt Konstanz sucht zum nächstmöglichen Zeitpunkt: Projektmanagement und Kommunikation in der Integrationsarbeit (m/w/d) Mit den Aufgabenschwerpunkten: Entwicklung, Steuerung und Evaluation öffentlichkeitswirksamer Integrationsprojekte und Veranstaltungen einschließlich der Fördermittelabwicklung Koordination fachbereichsübergreifender Projekte sowie Aufbau und Pflege von Kooperationen und Netzwerken Entwicklung und Umsetzung zielgruppengerechter Kommunikationsmaßnahmen einschließlich der Pflege und Weiterentwicklung der SKI-Microsite, der Koordination des Newsletters sowie der Erstellung von Texten und Informationsmaterialien Sie verbinden gern Projektarbeit, Vernetzung und Kommunikation mit konkreter Wirkung für das Zusammenleben? Dann ist diese Stelle für Sie richtig! Als Verantwortliche/r für Projektmanagement und Kommunikation Entwickeln und Steuern Sie Projekte, die Teilhabe, Willkommenskultur und gesellschaftlichen Zusammenhalt in Konstanz stärken. Dafür bringen Sie städtische Fachbereiche, Vereine, Initiativen und weitere Partner zusammen und begleiten Veranstaltungen sowie Beteiligungsformate. Sie machen die Arbeit der Stabsstelle sichtbar durch die Gestaltung ihrer Öffentlichkeitsarbeit, ihrer Microsite sowie ihres Newsletters. Das bieten wir: Eine unbefristete Vollzeitstelle (39 Std/Woche) Eine Vergütung bis EG 11 TVöD (4.269,64 € - 6.326,77 €) Eine vielseitige und gesellschaftlich relevante Tätigkeit mit Gestaltungsspielraum Arbeit an der Schnittstelle von Verwaltung, Politik, Zivilgesellschaft und Stadtgesellschaft Zusammenarbeit in einem interdisziplinären und interkulturell ausgerichteten Team Flexible Arbeitszeiten (6:30 - 19:00 Uhr) und ein familienfreundliches Arbeitszeitmodell mit Kontingent für KiTa-Plätze: Wir bieten Ihnen die Möglichkeit, Ihre Arbeit flexibel zu gestalten, um eine optimale Balance zwischen Beruf und Privatleben zu erreichen. Betriebliche Gesundheitsförderung: Ihre Gesundheit liegt uns am Herzen. Daher bieten wir verschiedene Gesundheitsförderungsprogramme an – inklusive Firmenfitness mit Epassi (ehemals Hansefit) Das bringen Sie mit: Abgeschlossenes Hochschulstudium, zum Beispiel in Public Management, Kommunikationswissenschaft, Kulturwissenschaft oder Vergleichbares Sehr gute schriftliche und mündliche Ausdrucksfähigkeit Eine strukturierte, zuverlässige und eigenverantwortliche Arbeitsweise Kenntnisse in der Zusammenarbeit mit Vereinen, Initiativen, sozialen Träger oder Bildungseinrichtungen Erfahrung in Netzwerk-, Community- und Kooperationsarbeit Kenntnisse in Integration, Teilhabe, Diversität und Antidiskriminierung Sicherer Umgang mit digitaler Kommunikation und Öffentlichkeitsarbeit Kontakt: Bei Fragen zum Aufgabengebiet: Dr. David Tchakoura | LinkedIn Stabsstelle Konstanz International 07531 900 2540 Bewerben Sie sich bis zum 01.11.2026 unter Angabe der Kennzahl 1215-2026 . Die Stadtverwaltung Konstanz als Unterzeichnerin der Charta der Vielfalt fördert Gleichstellung und Diversität. Daher laden wir alle qualifizierten Personen ein, sich um die ausgeschriebene Position zu bewerben, unabhängig von Geschlecht, ethnischer und sozialer Herkunft, Religion / Weltanschauung, Behinderung, Alter sowie sexueller Identität. Die Vorstellungsgespräche sind für den 10.11.2026 vorgesehen. Weitere Infos zum Arbeitgeber Stadt Konstanz finden Sie unter konstanz.de/karriere und auf unserer LinkedIn Page. Show more Show less Seniority level Associate Employment type Full-time Industries Public Policy Offices and Community Development and Urban Planning Referrals increase your chances of interviewing at Stadt Konstanz by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2f957ca2336eb490",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-in-at-stadt-konstanz-4478873137"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Sekretar (10212), Sektor za skladnost poslovanja in analitiko",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sekretar-10212-sektor-za-skladnost-poslovanja-in-analitiko-at-vlada-republike-slovenije-4479195678",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv sekretar, uvrstitev v 32. izhodiščni plačni razred naziva, kar znaša 3.163,06 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge priprava najzahtevnejših strokovnih podlag, analiz, mnenj ter sistemskih in razvojnih rešitev na delovnem področju ministrstva, priprava finančnih, ekonomskih in drugih analitičnih podlag, projekcij ter ocen učinkov ukrepov in politik, razvoj metodologij, analitičnih orodij, kazalnikov in podatkovnih zbirk za spremljanje delovanja sistemov v pristojnosti ministrstva, samostojno oblikovanje predlogov ukrepov ter priprava najzahtevnejših strateških, razvojnih in normativnih gradiv, vodenje najzahtevnejših projektov in usklajevanje dela z deležniki, neposredna pomoč pri vodenju strokovnih nalog ter opravljanje drugih najzahtevnejših nalog po navodilu nadrejenega. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 17001 Specialistično izobraževanje po visokošolski strokovni izobrazbi (prejšnje)/specializacija po visokošolski strokovni izobrazbi (prejšnja); 17002 Visokošolsko univerzitetno izobraževanje (prejšnje)/visokošolska univerzitetna izobrazba (prejšnja); 17003 Magistrsko izobraževanje (druga bolonjska stopnja)/magistrska izobrazba (druga bolonjska stopnja), 7 let delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželena Znanja, Osebne Sposobnosti In Veščine poznavanje delovanja javnega sektorja, državne uprave in postopkov priprave sistemskih rešitev, poznavanje področja javnih financ, ekonomskih analiz, priprave projekcij in vrednotenja učinkov ukrepov, poznavanje predpisov in razvojnih usmeritev s področij v pristojnosti ministrstva, sposobnost analitičnega in strateškega razmišljanja ter presojanja kompleksnih problemov, sposobnost priprave zahtevnih strokovnih gradiv, analiz in podlag za odločanje, sposobnost vodenja projektov, koordinacije dela in sodelovanja z različnimi deležniki, visoka stopnja samoiniciativnosti, odgovornosti, natančnosti in organizacijskih sposobnosti, razvite komunikacijske, pogajalske in predstavitvene veščine, sposobnost timskega dela ter učinkovitega sodelovanja v medresorskih delovnih skupinah, …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "7238ebbb710a560f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sekretar-10212-sektor-za-skladnost-poslovanja-in-analitiko-at-vlada-republike-slovenije-4479195678"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Podsekretar (10174), Sektor za pravice iz javnih sredstev",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/podsekretar-10174-sektor-za-pravice-iz-javnih-sredstev-at-vlada-republike-slovenije-4479303172",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv podsekretar, z možnostjo napredovanja v uradniški naziv sekretar, uvrstitev v 28. izhodiščni plačni razred naziva, kar znaša 2810,34 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje in odločanje v upravnih postopkih na drugi stopnji s področja državnih štipendij, priprava strokovnih mnenj, pojasnil in usmeritev za izvajanje predpisov s področja državnih štipendij, spremljanje zakonodaje, sodne prakse in učinkovitosti sistemskih rešitev ter priprava predlogov izboljšav, sodelovanje pri pripravi predpisov, strokovnih podlag, analiz in razvojnih usmeritev na področju državnih štipendij, sodelovanje z izvajalci, centri za socialno delo in drugimi deležniki pri zagotavljanju enotnega izvajanja zakonodaje. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 17001 Specialistično izobraževanje po visokošolski strokovni izobrazbi (prejšnje)/specializacija po visokošolski strokovni izobrazbi (prejšnja) 17002 Visokošolsko univerzitetno izobraževanje (prejšnje)/visokošolska univerzitetna izobrazba (prejšnja) 17003 Magistrsko izobraževanje (druga bolonjska stopnja)/magistrska izobrazba (druga bolonjska stopnja), smer izobrazbe: Pravo (Klasius P-16: 0421), 6 let delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželena Znanja, Osebne Sposobnosti Ter Veščine poznavanje predpisov s področja državnih štipendij, pravic iz javnih sredstev in upravnega postopka, izkušnje z vodenjem upravnih postopkov in pripravo odločitev v zahtevnejših zadevah, izkušnje z reševanjem pritožb oziroma delom na drugi stopnji predstavljajo prednost, sposobnost samostojne priprave strokovnih gradiv, analiz in predlogov sistemskih rešitev, sposobnost analitičnega razmišljanja ter celovite obravnave zahtevnejših strokovnih vprašanj. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "212b1d2c367b1924",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/podsekretar-10174-sektor-za-pravice-iz-javnih-sredstev-at-vlada-republike-slovenije-4479303172"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Podsekretar (10173), Sektor za pravice iz javnih sredstev",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/podsekretar-10173-sektor-za-pravice-iz-javnih-sredstev-at-vlada-republike-slovenije-4479301226",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv podsekretar, z možnostjo napredovanja v uradniški naziv sekretar, uvrstitev v 28. izhodiščni plačni razred naziva, kar znaša 2810,34 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje in odločanje v upravnih postopkih na drugi stopnji s področja državnih štipendij, priprava strokovnih mnenj, pojasnil in usmeritev za izvajanje predpisov s področja državnih štipendij, spremljanje zakonodaje, sodne prakse in učinkovitosti sistemskih rešitev ter priprava predlogov izboljšav, sodelovanje pri pripravi predpisov, strokovnih podlag, analiz in razvojnih usmeritev na področju državnih štipendij, sodelovanje z izvajalci, centri za socialno delo in drugimi deležniki pri zagotavljanju enotnega izvajanja zakonodaje. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 17001 Specialistično izobraževanje po visokošolski strokovni izobrazbi (prejšnje)/specializacija po visokošolski strokovni izobrazbi (prejšnja) 17002 Visokošolsko univerzitetno izobraževanje (prejšnje)/visokošolska univerzitetna izobrazba (prejšnja) 17003 Magistrsko izobraževanje (druga bolonjska stopnja)/magistrska izobrazba (druga bolonjska stopnja), smer izobrazbe: Pravo (Klasius 0421), 6 let delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželena Znanja, Osebne Sposobnosti In Veščine poznavanje predpisov s področja državnih štipendij, pravic iz javnih sredstev in upravnega postopka, izkušnje z vodenjem upravnih postopkov in pripravo odločitev v zahtevnejših zadevah, izkušnje z reševanjem pritožb oziroma delom na drugi stopnji predstavljajo prednost, sposobnost samostojne priprave strokovnih gradiv, analiz in predlogov sistemskih rešitev, sposobnost analitičnega razmišljanja ter celovite obravnave zahtevnejših strokovnih vprašanj, natančnost, odgovornost, samostojnost in proaktivnost pri delu, dobre komunikacijske in organizacijske sposobnosti ter sposobnost sodelovanja z različnimi deležniki. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e67ab830c62f848a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/podsekretar-10173-sektor-za-pravice-iz-javnih-sredstev-at-vlada-republike-slovenije-4479301226"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Podsekretar (958), Sektor za kaznovalno pravo in človekove pravice",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/podsekretar-958-sektor-za-kaznovalno-pravo-in-%C4%8Dlovekove-pravice-at-vlada-republike-slovenije-4479307055",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b5b1a7d76e199c0c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/podsekretar-958-sektor-za-kaznovalno-pravo-in-%C4%8Dlovekove-pravice-at-vlada-republike-slovenije-4479307055"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Svetovalec (1454), Sektor za izvrševanje kazenskih sankcij",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-1454-sektor-za-izvr%C5%A1evanje-kazenskih-sankcij-at-vlada-republike-slovenije-4479189899",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv svetovalec III, z možnostjo napredovanja v uradniški naziv svetovalec II in svetovalec I, uvrstitev v 17. izhodiščni plačni razred naziva, kar znaša 2.012,14 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje kaznovalnih evidenc, sodelovanje pri pripravi osnutkov predpisov z delovnega področja, sodelovanje pri pripravi osnutkov pravnih aktov z delovnega področja. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj 16201 specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja) oziroma najmanj 16202 visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) oziroma najmanj 16203 visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) oziroma najmanj 16204 visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), smer izobrazbe: Pravo (KLASIUS-P-16: 0421) oziroma Interdisciplinarne izobraževalne aktivnosti/izidi, pretežno poslovne in upravne vede, pravo (KLASIUS-P-16: 048) oziroma Varnost, varovanje, zaščita in reševanje (KLASIUS-P-16: 1032), 7 mesecev delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 24. 10. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Izbirni postopek se izvaja v dveh delih. Prvi del izvaja Center za kadre, kjer kandidati opravljajo pisni preizkus osnovnega poznavanja državne ureditve in …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "c9760d958f381adf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-1454-sektor-za-izvr%C5%A1evanje-kazenskih-sankcij-at-vlada-republike-slovenije-4479189899"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Referent UE, Sekretariat, Oddelek za splošne zadeve in odnose z javnostmi",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/referent-ue-sekretariat-oddelek-za-splo%C5%A1ne-zadeve-in-odnose-z-javnostmi-at-vlada-republike-slovenije-4479308047",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost za različne oblike mobilnosti in karierni razvoj, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv Referent UE III, z možnostjo napredovanja v uradniški naziv Referent UE II in Referent UE I, uvrstitev v 8. izhodiščni plačni razred naziva, kar znaša 1.556,02 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge sodelovanje pri materialnem in finančnem poslovanju, spremljanje pogodbenih obveznosti na področju javnih naročil, vodenje in spremljanje evidenc iz delovnega področja (materialno poslovanje s tiskovinami), prenašanje in prevažanje pošte, spisov in drugih gradiv, sodelovanje pri pripravi analiz, informacij in urejanje dokumentacije, obveščanje o stanju naprav, opreme, stavbnega pohištva in potrebe o večjih popravilih, sprejem vlog in posredovanje informacij strankam, vodenje enostavnih upravnih postopkov na prvi stopnji, izdaja odločb na prvi stopnji, sprejem vlog in posredovanje informacij, opravljanje drugih nalog podobne zahtevnosti po nalogu nadrejenega. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: Najmanj: Srednje tehniško in drugo strokovno izobraževanje/srednja strokovna izobrazba, Srednje splošno izobraževanje/srednja splošna izobrazba, 6 mesecev delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka prve stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala e-Uprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala e-Uprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 31. 10. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Izbirni postopek se izvaja v dveh delih. Prvi del izvaja Center za kadre, kjer kandidati opravljajo pisni preizkus osnovnega poznavanja državne ureditve in ureditve lokalne samouprave Republike Slovenije ter presojo temeljnih osebnih sposobnosti in veščin za opravljanje dela. Uspešni kandidati izbirni postopek nadaljujejo pri organu, ki je razpisal javni natečaj. Izbirni postopek pri organu lahko …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5be99a5c334c0129",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/referent-ue-sekretariat-oddelek-za-splo%C5%A1ne-zadeve-in-odnose-z-javnostmi-at-vlada-republike-slovenije-4479308047"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Svetovalec (206), Oddelek za tujce",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-206-oddelek-za-tujce-at-vlada-republike-slovenije-4479300377",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "04e5ce511fd1df42",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-206-oddelek-za-tujce-at-vlada-republike-slovenije-4479300377"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Projektförster/in Waldbiodiversität und Wald-Wild (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektf%C3%B6rster-in-waldbiodiversit%C3%A4t-und-wald-wild-m-w-d-at-kanton-st-gallen-4478876033",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Für die Umsetzung dieser wichtigen Aufgaben sucht die Waldregion 3 per sofort oder nach Vereinbarung, befristet für 4 Jahre, eine/n Ihre Aufgaben Konzeption, Organisation und Administration von Waldbiodiversitätsmassnahmen (Ausscheidung von Waldreservaten und Altholzinseln, Pflege von Waldrändern, Förderung von Biotopbäumen und Totholz, Spezialprojekte usw.) Unterstützung der Waldregionen bzw. Forstreviere bei der Umsetzung der Massnahmen Fachkompetente Beratung der Anspruchsgruppen im Bereich Waldbiodiversität Leitung und Koordination von Projekten Erhebung von Verjüngungsdaten Kontakte mit Waldeigentümern und Jagdvereinen, Initiierung und Umsetzung von Projekten an der Schnittstelle Wald-Wild Was Sie auszeichnet Abschluss als eidgenössisch diplomierte/r Förster/in HF, Forstingenieur/in FH oder vergleichbare Ausbildung Erfahrung und Affinität im Bereich Waldbiodiversität und Wald-Wild Konzeptionelles und vernetztes Denken sowie selbstständige und zielorientierte Arbeitsweise Kommunikationsstarke Persönlichkeit mit sicherem mündlichem und schriftlichem Ausdruck sowie Geschick im Umgang mit Waldeigentümer/innen, Jäger/innen und weiteren Anspruchsgruppen GIS-Kenntnisse von Vorteil Führerschein Kat. B Unsere Benefits Hohe Selbstständigkeit und Eigenverantwortung Interessante, verantwortungsvolle und abwechslungsreiche Tätigkeit Angenehmes Arbeitsklima in einem motivierten und kollegialen Team Flexible Arbeitszeitmodelle und gleitende Arbeitszeiten Umfassendes Angebot an Weiterbildungsmöglichkeiten Show more Show less Seniority level Not Applicable Employment type Part-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "0bf1d4db5cbc95d5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektf%C3%B6rster-in-waldbiodiversit%C3%A4t-und-wald-wild-m-w-d-at-kanton-st-gallen-4478876033"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Sekretar (229), Sektor za gospodarsko pravo",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sekretar-229-sektor-za-gospodarsko-pravo-at-vlada-republike-slovenije-4479305187",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo delo v strokovnem, razvojno naravnanem in sodelovalnem okolju, raznoliko in dinamično delo, ki vključuje tako samostojno kot timsko delo, priložnosti za strokovni in osebni razvoj, fleksibilen delovni čas v skladu z veljavnimi predpisi, sodelovanje v delovnih skupinah Sveta EU, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv sekretar, uvrstitev v 32. izhodiščni plačni razred naziva, kar znaša 3.163,06 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju), možnost nagrajevanja delovne uspešnosti. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge neposredna pomoč pri vodenju strokovnih nalog na področju prava družb in intelektualne lastnine, priprava predlogov predpisov na področju prava družb in intelektualne lastnine, priprava vladnih gradiv za obravnavo na sejah Vlade Republike Slovenije s postopki medresorskega usklajevanja, samostojno oblikovanje rešitev pri najzahtevnejših pravnih vprašanjih, vodenje in sodelovanje v najzahtevnejših projektnih, medresorskih, delovnih in strokovnih skupinah, kot na primer sodelovanje pri izvajanju Akcijskega načrta za izvajanje Nacionalne strategije intelektualne lastnine 2030, vodenje, sodelovanje in izvajanje javnih razpisov, priprava strokovnih mnenj s področja prava družb in intelektualne lastnine, obdelovanje osebnih podatkov, s katerimi se srečuje pri opravljanju svojih nalog, druge naloge po nalogu vodstva. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 17001 specialistično izobraževanje po visokošolski strokovni izobrazbi (prejšnje)/specializacija po visokošolski strokovni izobrazbi (prejšnja) ali 17002 visokošolsko univerzitetno izobraževanje (prejšnje)/visokošolska univerzitetna izobrazba (prejšnja) ali 17003 magistrsko izobraževanje (druga bolonjska stopnja)/magistrska izobrazba (druga bolonjska stopnja), najmanj 7 let delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, znanje uradnega jezika, državljanstvo Republike Slovenije, ne smejo biti pravnomočno obsojeni na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, zoper njih ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželena Znanja, Osebne Sposobnosti In Veščine znanje tujega jezika, poznavanje področja prava družb in intelektualne lastnine, delovne izkušnje povezane s pripravo nacionalne in EU zakonodaje. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 26. 10. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "13071a4eba43d1d8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sekretar-229-sektor-za-gospodarsko-pravo-at-vlada-republike-slovenije-4479305187"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Senior Process Chemist",
+   "company": "FMC Corporation",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-process-chemist-at-fmc-corporation-4479153339",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "About Us At FMC Agricultural Solutions, we provide innovative crop protection solutions to growers around the world. With the commitment of approximately 6,500 employees, we are one of the six largest crop protection manufacturers globally. Opening in early 2027, FMC’s new site in Schaffhausen, Switzerland, will bring together Technical Center and R&D teams to create a global hub for technology, innovation, and collaboration, supported by new laboratories and expanded technical capabilities. As we build this new organization, we are looking for a Senior Process Chemist to play a key role in shaping FMC’s future technical capabilities and business competitiveness. The Schaffhausen Technical Center will support FMC’s manufacturing network worldwide, connecting R&D with commercial manufacturing and providing expertise in technology transfer, scale-up, process optimization, troubleshooting, and continuous improvement. This is a unique opportunity to collaborate with experts across functions and geographies and to see your technical expertise make a tangible impact across FMC’s global operations. Senior Process Chemist You will join our Active Ingredient (AI) Technical Center as a Senior Process Chemist and play a key role in supporting active agrochemical ingredients and intermediates from New Product Introduction (NPI) through their commercial lifecycle. In this role, you will drive step-change process innovations that enhance manufacturing capacity, safety, process robustness, sustainability, and cost competitiveness for both newly launched and established products within FMC's portfolio. The role also contributes to generic defense and intellectual property (IP) protection. While primarily a technical leadership role, you may also provide functional guidance and day-to-day direction to laboratory technicians and less experienced Process Chemists. Hands-on laboratory work may be required on an as-needed basis to support critical experiments, and less experienced team members. What You Will Do With Us Lead process innovation, optimization, and scale-up initiatives that improve manufacturing capacity, yield, safety, robustness, sustainability, product quality, and cost competitiveness for both newly launched and established products within FMC's portfolio. Working alongside R&D, provide technical leadership and support during pilot campaigns, commissioning, start-up, validation, and commercial manufacturing for new production introduction. Support generic defence and intellectual property (IP) protection by developing deep process understanding, creating differentiated manufacturing approaches, and preserving critical process knowledge. Collaborate with R&D, Manufacturing, Engineering, Quality, Regulatory, and EHS teams to ensure successful product commercialization and reliable manufacturing performance for implementation of step-change process innovations. Establish and maintain critical process knowledge, technical standards, and best practices to support long-term operational excellence across FMC's global manufacturing network. Mentor and develop colleagues while promoting technical excellence, scientific rigor, and knowledge sharing across the organization. Key Requirements Master’s degree in chemistry; PhD in organic, mechanistic or process chemistry preferred. 10+ years of industrial process chemistry experience, including process development, optimization, and scale-up of organic intermediates and chemical products within the agrochemical, pharmaceutical, fine chemical, or specialty chemicals industries. Strong understanding of organic, physical-organic, and process chemistry, with proven hands-on laboratory, scale-up, and manufacturing support experience. Deep knowledge of process safety, reactive chemistry, and analytical techniques relevant to process development. Demonstrated ability to solve complex technical challenges, analyze data, and translate scientific findings into practical manufacturing solutions. Proven …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d085cff520f8d0d0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-process-chemist-at-fmc-corporation-4479153339"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Aftermarket Projektmanager (gn)",
+   "company": "ZIM Aircraft Seating Group",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/aftermarket-projektmanager-gn-at-zim-aircraft-seating-group-4477070846",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Das erwartet dich bei uns Als Aftermarket Projektmanager (gn) unterstützt du unser dynamisches Customer Support Team. Gemeinsam verfolgt ihr das Ziel die Wünsche unserer Kunden optimal zu erfüllen, wobei du folgende Verantwortlichkeiten übernimmst. Umsetzen von Aftermarket-Projekten im internationalen Luftfahrtumfeld Steuerung von Kundenprojekten über den gesamten Projektlebenszyklus Koordination interdisziplinärer Teams aus Engineering, Supply Chain, Einkauf, Qualität und Customer Support Verantwortung für Termine, Kosten, Qualität und Projektrisiken Entwicklung und Umsetzung von Service-, Reparatur- und Ersatzteilkonzepten Betreuung internationaler Kunden und Durchführung regelmäßiger Projekt-Reviews Analyse und Optimierung von Aftermarket-Prozessen (MRO, Repair, Spare Parts, Obsolescence Management) Erstellung von Projektplänen, Statusberichten und Management-Präsentationen Deine Skills Dein Geschick und dein hoher Qualitätsstandard zeichnen deine Arbeit aus? Du bist ergebnisorientiert, ein zuverlässige/r Teamplayer/in und bringst noch folgendes mit: Abgeschlossenes Studium im Bereich Luft- und Raumfahrttechnik, Maschinenbau, Wirtschaftsingenieurwesen oder vergleichbar Mehrjährige Berufserfahrung im Projektmanagement, idealerweise im Luftfahrt-Aftermarket oder MRO Kenntnisse der Luftfahrtstandards (z. B. EASA Part 145, Part 21 oder Customer Support) Erfahrung im Umgang mit internationalen Kunden Sicherer Umgang mit MS Project und ERP-System Sehr gute Deutsch- und Englischkenntnisse Reisebereitschaft Weitere wünschenswerte Kenntnisse : PMP-, IPMA- oder PRINCE2-Zertifizierung Kenntnisse im Configuration Management Erfahrung mit Obsolescence Management und Product Lifecycle Management (PLM) Lean Management oder Six Sigma Kenntnisse der Luftfahrtstandards AS9100 Wir bieten Wir sind ein mittelständisches Unternehmen mit internationalem Arbeitsumfeld, multinationalen Teams und abwechslungsreichen Aufgaben. Neben kurzen Entscheidungswegen, unserer Open-Door-Policy und unseren flachen Hierarchien überzeugen wir außerdem durch: Eine durchschnittliche wöchentliche Arbeitszeit von 38 Stunden sowie ein innovatives Zeitmodell, welches uns in einem zweiwöchigen Rhythmus eine 4-Tages-Woche ermöglicht Eine unbefristete Festanstellung mit leistungsgerechter und fairer Bezahlung Individuelle Förderung deiner beruflichen Weiterentwicklung durch bspw. Schulungen, Workshops Förderung deiner Work-Life-Balance durch mobiles Arbeiten, Freistellungen zu besonderen Anlässen und flexibles Arbeitszeitmodell Weitere Benefits, wie bspw. 30 Tage Urlaub, Bezuschussung der betriebliche Altersvorsorge, vermögenswirksame Leistungen, kostenlose Parkplätze auf dem Firmengelände und eine gute Verkehrsanbindung Kontakt Ready for Take-off? Wir freuen uns auf deine Bewerbung. Bei Fragen wende dich gerne an Laura Höß Personalreferentin jobs@zim.aero ZIM Aircraft Seating GmbH | Bürogebäude 9 | Graf-von-Soden-Straße 1 | 88090 Immenstaad a. B. Über uns Entdecke die innovative Welt von ZIM Aircraft Seating GmbH – einem führenden Unternehmen in der Entwicklung und Herstellung erstklassiger Flugzeugsitze für renommierte Airlines weltweit. Unsere maßgeschneiderten Lösungen garantieren maximalen Komfort für Passagiere und optimale Kabinenausstattungen durch intelligentes Design. Seit unserer Gründung im Jahr 2008 haben wir uns kontinuierlich weiterentwickelt. Aktuell zählen wir drei Standorte, da wir neben Markdorf und Immenstaad nun auch einen dritten Standort in Greensboro, Amerika haben. Mit unserem Team von über 230 engagierten Mitarbeitern und unserer mehrheitlichen Zugehörigkeit zur AURELIUS Gruppe, einem europaweit agierenden Asset Manager, setzen wir Standards in der Luftfahrtbranche. Über 40 zufriedene Airline-Kunden vertrauen bereits auf unsere Spitzenqualität und deutsche Handwerkskunst. Jetzt möchten wir auch dich für unsere Mission begeistern. Wenn du eine Leidenschaft für Veränderung und die Zukunft der Mobilität teilst, bist du bei uns genau richtig. Wir …",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "bd7bd41f4e89892f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/aftermarket-projektmanager-gn-at-zim-aircraft-seating-group-4477070846"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Portfolio- und Transformationsmanager (m/w/d) Operations",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/portfolio-und-transformationsmanager-m-w-d-operations-at-diehl-defence-4477336048",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­ar­bei­te­rin­nen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unseren Standort Diehl Defence GmbH & Co. KG in Überlingen am Bodensee suchen wir einen: Portfolio- und Transformationsmanager (m/w/d) Operations Aufgaben In dieser Position schaffen Sie Transparenz über das gesamte Portfolio der Transformations- und Wachstums-Initiativen in den Operations. Durch die Identifikation und Harmonisierung neuer Initiativen zwischen Stand­orten und Tochtergesell­schaften vermeiden Sie Redundanzen und lösen Ziel­konflikte auf. Sie entwickeln strategische Empfehlungen zur Synergie­nutzung und zur bereichs­über­greifenden Prozess­harmonisierung. Mit dem Aufbau eines standardisierten Frameworks sowie der Steuerung über Lenkungskreise stellen Sie ein effizientes Initiativen-Management sicher. Sie unterstützen die Operationsplanung und fördern die enge Zusammen­arbeit bei inhaltlich oder methodisch ähnlichen Projekten. Profil Sie verfügen über ein abgeschlossenes Studium im Bereich Ingenieur­wesen, Naturwissen­schaften, Informatik oder Betriebs­wirt­schaft sowie mehr­jährige Erfahrung im Projekt-, Programm- oder Portfolio-Management für Operations. Sie bringen Erfahrung in der bereichsüber­greifenden Prozess­steuerung und im Management von Trans­formations­programmen mit, um strategische Initiativen erfolgreich umzusetzen. Durch Ihre Expertise in der Analyse und im Bench­marking stellen Sie die effektive Priorisierung komplexer Projekte sicher und etablieren robuste Modelle zur Steuerung und Status­bericht­erstattung. In der Zusammenarbeit mit den verschiedenen Operations­bereichen agieren Sie als proaktiver Gestalter, der durch klare Strukturen und methodisches Vorgehen überzeugt. Eine analytische und strukturierte Arbeitsweise sowie fließende Deutsch- und Englisch­kenntnisse runden Ihr Profil ab. Wir bieten Berufliche & persönliche Weiter­entwicklung Tarifliche Vergütung Flexible Arbeits­zeiten Onboarding-Programm Betrieb­liches Gesund­heits­management Hinweis: Bewerbungen schwerbehinderter Menschen werden bei gleicher Eignung bevorzugt behandelt. Bei Interesse geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2d089ad815e39f4b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/portfolio-und-transformationsmanager-m-w-d-operations-at-diehl-defence-4477336048"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Serviceassistenz",
+   "company": "ernst+könig GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/serviceassistenz-at-ernst%2Bk%C3%B6nig-gmbh-4478838967",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7864ae3a9fcf46c4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/serviceassistenz-at-ernst%2Bk%C3%B6nig-gmbh-4478838967"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Project Quality Manager (m/w/d)",
+   "company": "SII Germany",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/project-quality-manager-m-w-d-at-sii-germany-4479875813",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3a1b56d873d61da6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/project-quality-manager-m-w-d-at-sii-germany-4479875813"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Digital Marketing & Content Manager (80–100%)",
+   "company": "Erich Keller AG",
+   "location": "Sulgen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/digital-marketing-content-manager-80%E2%80%93100%25-at-erich-keller-ag-4479853521",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Als Digital Marketing & Content Manager entwickelst du unsere digitale Präsenz im B2B- Umfeld weiter. Du sorgst dafür, dass Website, LinkedIn, Newsletter und Kampagnen relevante Inhalte vermitteln und qualifizierte Kontakte schaffen. In Sulgen arbeitest du eng mit Verkauf, Produktmanagement, Marketing, Agenturen und dem CEO zusammen – von der Themenplanung bis zur Auswertung. Willkommen in einer Arbeitswelt mit Substanz. Bei Erich Keller arbeiten Menschen, die gestalten, planen, fertigen, montieren, koordinieren und weiterdenken. Gemeinsam schaffen wir Räume, Arbeitsplätze und technische Lösungen, die im Alltag bestehen müssen. Unsere Aufgaben sind vielseitig. Die Anforderungen sind hoch. Dafür siehst du jeden Tag, was deine Arbeit bewirkt. Deine Aufgabe Du übersetzt unsere Produkte, Projekte und Kompetenzen in digitale Inhalte und stärkst damit Sichtbarkeit, Verkauf und die kontinuierliche Weiterentwicklung unserer Kommunikation. Was du bei uns bewegst. Du planst, erstellst und publizierst Inhalte für Website, LinkedIn, Newsletter und weitere digitale Kanäle. Du entwickelst unsere Website im CMS weiter und optimierst mit der Digitalagentur Inhalte, Struktur und Nutzerführung. Du konzipierst B2B-Kampagnen mit Landingpages, Case Studies, Whitepapers, Formularen und Folgeaktivitäten. Du koordinierst Texte, Bilder und Videos mit internen Fachpersonen und externen Partnern bis zur Veröffentlichung. Du optimierst SEO-, SEA- und LinkedIn-Aktivitäten, analysierst relevante Kennzahlen und leitest Verbesserungen ab. Was du mitbringst Du hast eine Ausbildung in Marketing oder Kommunikation, eine kaufmännische Ausbildung mit entsprechender Weiterbildung oder eine vergleichbare Qualifikation. Du bringst Berufserfahrung im Digital Marketing oder Content Management mit; B2B-Erfahrung erleichtert dir den Einstieg. Du bist mit CMS, SEO und SEA, Newsletter-Tools, LinkedIn, Landingpages und Webanalyse vertraut. Du kannst technische Themen verständlich aufbereiten und mehrere Inhalte und Publikationstermine selbstständig koordinieren. Du kommunizierst stilsicher auf Deutsch und kannst Inhalte sowie Abstimmungen auch auf Englisch bearbeiten. Was du bei uns erwarten kannst Attraktives Salär und Erfolgsbeteiligung Wir bieten ein faires Grundsalär und beteiligen Mitarbeitende am gemeinsamen Erfolg, wenn die Geschäftsentwicklung es erlaubt. Ferien und Überzeit nach Wahl Du hast mindestens 25 Ferientage und arbeitest mit gleitenden Arbeitszeiten. Überzeit kannst du nach Absprache kompensieren oder auszahlen lassen. Weiterkommen ist möglich Wir unterstützen fachliche Weiterbildungen und interne Entwicklungsschritte – vom Handwerk über AVOR und Projektleitung bis zu technischen oder organisatorischen Funktionen. Direkter Austausch Wir arbeiten mit kurzen Wegen, offenen Informationen und direkter Kommunikation. Man weiss, woran man ist – und woran man gemeinsam arbeitet. Lernen wir uns kennen Passt die Aufgabe zu dir? Dann freuen wir uns darauf, dich kennenzulernen. Bewirb dich direkt über unser Onlineformular. Mehr über deine Arbeit, unsere Berufswelten und die Benefits bei Erich Keller erfährst du unter erichkeller.com/karriere Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Erich Keller AG by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "bed3158c19eb6e43",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/digital-marketing-content-manager-80%E2%80%93100%25-at-erich-keller-ag-4479853521"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Projektleiter:in Strategie und Business Development – 9565 Bussnang 9565 Bussnang",
+   "company": "Stadler",
+   "location": "Bussnang, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-strategie-und-business-development-%E2%80%93-9565-bussnang-9565-bussnang-at-stadler-4479116757",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f98ea346c7353be9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-strategie-und-business-development-%E2%80%93-9565-bussnang-9565-bussnang-at-stadler-4479116757"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Operativer Leiter Inbetriebsetzung Reparatur & Refitprojekte – Frauenfeld",
+   "company": "Stadler",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/operativer-leiter-inbetriebsetzung-reparatur-refitprojekte-%E2%80%93-frauenfeld-at-stadler-4478849896",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "DEINE AUFGABENBEREICHE Personelle und operative Gesamtverantwortung für die Inbetriebsetzung Führung, Förderung und Weiterentwicklung der Mitarbeitenden sowie Aufbau der erforderlichen Kompetenzen Verantwortung für die Ressourcen-, Einsatz- und Kapazitätsplanung über sämtliche -Projekte hinweg Sicherstellung einer termingerechten, qualitativ hochwertigen und sicheren Durchführung aller Inbetriebsetzungsaktivitäten im In- und Ausland Unterstützung der Projekte bei operativen Herausforderungen, Priorisierungen und Ressourcenkonflikten Weiterentwicklung von Organisation, Prozessen und Schnittstellen zu Engineering, Produktion, Qualität, Service und Typentest Ansprechpartner für interne und externe Stakeholder in operativen und personellen Fragestellungen Mitwirkung an der strategischen Weiterentwicklung der Inbetriebsetzungs- und Typentestorganisation DEINE BERUFLICHEN ERFAHRUNGEN Abgeschlossene Berufsausbildung als Automatiker EFZ oder vergleichbare technische Ausbildung Mehrjährige Erfahrung in der Inbetriebsetzung, Diagnose und Fehlersuche von elektrischen und elektromechanischen Systemen Fundierte Kenntnisse im Lesen von Elektroschemas sowie ausgeprägtes technisches Verständnis und hohe Problemlösungskompetenz Erfahrung im Schienenfahrzeugbereich sowie in der Einsatz- und Ressourcenplanung von Vorteil Erste Führungserfahrung oder Motivation, Führungsverantwortung zu übernehmen, kombiniert mit hoher Sozialkompetenz Selbstständige, strukturierte und qualitätsbewusste Arbeitsweise sowie Durchsetzungsvermögen in einem dynamischen Projektumfeld Gute Deutschkenntnisse, Englischkenntnisse von Vorteil Reisebereitschaft für Einsätze im In- und Ausland Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "4e29aa968056c1a7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/operativer-leiter-inbetriebsetzung-reparatur-refitprojekte-%E2%80%93-frauenfeld-at-stadler-4478849896"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Berufsbildner/-in Pflege Drogenentzug & Therapie",
+   "company": "Psychiatrische Dienste Thurgau",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/berufsbildner-in-pflege-drogenentzug-therapie-at-psychiatrische-dienste-thurgau-4468147310",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "50aa5ca413e78fc0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/berufsbildner-in-pflege-drogenentzug-therapie-at-psychiatrische-dienste-thurgau-4468147310"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Projektleiter Prozess- und Anlagenautomation (m/w/d)",
+   "company": "Rocken®",
+   "location": "Münchwilen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-prozess-und-anlagenautomation-m-w-d-at-rocken%C2%AE-4479145760",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "96e512836e87c524",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-prozess-und-anlagenautomation-m-w-d-at-rocken%C2%AE-4479145760"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Application Manager Finnova Kundenstamm 80-100%",
+   "company": "Inventx AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/application-manager-finnova-kundenstamm-80-100%25-at-inventx-ag-4479150216",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Application Manager Kundenstamm & Geldwäscherei 80 - 100% Du wählst - arbeite an unseren Standorten in Chur, The Circle/Zürich, St. Gallen, Bern oder im Home-Office, dabei stehen dir attraktive und flexible Voll- und Teilzeitmodelle offen. Mit Drive und Leidenschaft unterstützen wir die Organisation und ihr Wachstum. Bei Inventx gestaltest du den digitalen Wandel in der Finanz- und Versicherungsindustrie mit. An der Schnittstelle zwischen IT und Banking oder Insurance sorgst du mit uns dafür, dass sich unsere Kunden rund um die Uhr auf ihre moderne Plattformen verlassen können und zu digitaler Innovation befähigt werden. Du verstehst das Kundendatenmanagement einer Bank, liebst es komplexe Zusammenhänge zu erkennen und daraus wertvolle Erkenntnisse zu ziehen? Du bist ein:e Problemlöser:in und findest mit Leidenschaft gemeinsam mit unseren Kunden Lösungen für Ihre Bedürfnisse? Dann bist du bei uns genau richtig! Als zusätzliche Verstärkung des Teams AWB & Basedata lernst du Schritt für Schritt unsere IT-Lösungen kennen und übernimmst gemeinsam mit erfahrenen Mitarbeitenden deren Betreuung und Weiterentwicklung. Mit deiner Arbeit ermöglichst du damit den reibungslosen Betrieb und die strategische Weiterentwicklung des Kundendatenmanagement unserer Kunden. Was ist dein Gestaltungsspielraum? Du bist mitverantwortlich für den Betrieb und die Weiterentwicklung der Finnova Module & Umsysteme im Themenbereich Kundenstamm, Advisor Workbench (AWB), Geldwäscherei, KYC und Schalterapplikation. Du planst selbstständig die Umsetzung von Change Requests und Incidents. Du arbeitest in spannenden Projekten mit - von der Anpassung eines Datenfeldes bis zum Onboarding von neuen Kunden. Du unterstützt durch deine zeitgerechte Parametrierung und das lückenlose Testing das Releasemanagement. Du arbeitest eng mit unseren Kunden und Lieferanten zusammen. Du denkst mit und identifizierst so Möglichkeiten der Automatisierung und setzt diese direkt um. Was bringst du mit? Ausgewiesenes Banking-Knowhow und/oder eine abgeschlossene Ausbildung als Informatiker oder Ähnliches Finnova-Erfahrung sowie idealerweise SQL Kenntnisse Kenntnisse in den Bereichen Kundendatenmanagement, Advisor Workbench oder Geldwäscherei Kenntnisse in Requirements Engineering sind von Vorteil Kommunikationsstarke Persönlichkeit & verhandlungssicher in deutscher Sprache Wieso Inventx? Unsere Unternehmenskultur baut auf unseren Werten Innovation, Interaktion und Swissness sowie einem einzigartigen Teamspirit mit tollen Benefits : Flexible Arbeitszeitmodelle inkl. Kompensation von Überstunden und Home-Office Learning Points & Unterstützung bei Aus- und Weiterbildungen Bis zu 33 Tage Ferien Zahlreiche Mitarbeitenden- und Teamevents EventX Mitarbeitendenverein & ix.Innovation Lab Lass dir das von unseren beiden Unternehmensgründern bestätigen und besuch unseren Unternehmens-Blog . Interessiert? Dann gib’ Deiner Karriere einen Schub! Wir freuen uns auf Deine Bewerbung Manuel Stadler manuel.stadler@inventx.ch Bewerbungen über Stellenvermittler werden nicht berücksichtigt. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Inventx AG by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "821577e8eb9361d4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/application-manager-finnova-kundenstamm-80-100%25-at-inventx-ag-4479150216"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Professional Services Specialist",
+   "company": "Frontify",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/professional-services-specialist-at-frontify-4470164682",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Frontify is the brand platform behind some of the world's leading organizations, including Microsoft, Telefónica, Bosch, Mercedes-Benz, and Kia. We help every team bring brands to life — with governance in one place, seamless workflows across the tools people already use, and a foundation that's ready for AI. We're driven by collaboration, curiosity, and the belief that great work can happen anywhere. What began in St. Gallen has grown to London, New York, and beyond. Wherever you join us, you'll take ownership from day one, shape work that reaches global brands, and help redefine how brands work in the age of AI. Frontify is the brand platform behind some of the world's leading organizations, including Microsoft, Telefónica, Bosch, Mercedes-Benz, and Kia. We help every team bring brands to life — with governance in one place, seamless workflows across the tools people already use, and a foundation that's ready for AI. We're driven by collaboration, curiosity, and the belief that great work can happen anywhere. What began in St. Gallen has grown to London, New York, and beyond. Wherever you join us, you'll take ownership from day one, shape work that reaches global brands, and help redefine how brands work in the age of AI. What You’ll Shape As a Professional Services Specialist , you’ll drive Customer Delivery through hands-on execution, automation, and design. You'll deliver compelling Frontify POCs (Proof-of-Concepts), either building them directly using customer brand assets or guiding agency partners through clear briefing and quality control. Beyond POCs, you’ll support asset migration services by helping clients transition their existing media libraries and metadata seamlessly into Frontify. You’ll dedicate time to refining internal tooling, automation, and strategic technical initiatives. We’re looking for a natural problem-solver who enjoys experimenting with AI, optimizing processes, and building scalable solutions. You thrive in dynamic environments, balancing strategic, planned initiatives with agile responses to time-sensitive business needs. What You’ll Do Support the creation of Proofs of Concept (POCs) for prospective customers. Ensure visual consistency, accuracy, and quality across POCs. Review content and layouts to identify inconsistencies or missing elements. Contribute to improving internal POC templates, guidelines, and best practices. Maintaining and enhancing internal tools, demo environments, and enablement resources. Deliver high-quality support for asset migration projects, including client enablement and process improvements. Lead end-to-end asset migration projects for clients in collaboration with implementation managers - direct metadata mapping, ingestion workflows, QA protocols, and client enablement to deliver smooth transitions to Frontify Help the team work smarter by identifying opportunities to simplify, streamline, and improve how we operate. Support for emerging technical projects and strategic initiatives across the department. What You Bring Strong curiosity and enthusiasm for learning new technologies and tools. Interest in automation, AI, and process improvement. Passion for working with brands, visuals, layouts, and digital experiences, even if you don’t come from a traditional design background. Experience with tools such as Figma, Adobe Creative Cloud, Claude, ChatGPT, or similar is helpful, but not required. We care more about your ability and willingness to learn. Comfort working with data, spreadsheets, and technical systems. Ability to learn and troubleshoot technical workflows with support from the team. Experience with automation tools such as n8n, Zapier, Make, or similar platforms is a strong plus. Exposure to migration, implementation, or operational support work is nice to have. Strong attention to detail and quality - you’re comfortable reviewing work, giving constructive feedback, and making sure the finished result meets expectations. Proactivity and eagerness to …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "53 applicants"
+   },
+   "id": "aefe83cc42ea7c0e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/professional-services-specialist-at-frontify-4470164682"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Fachperson Schliessanlagen und Zutrittssysteme",
+   "company": "Psychiatrie St.Gallen",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachperson-schliessanlagen-und-zutrittssysteme-at-psychiatrie-st-gallen-4478773832",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "Deine Aufgaben Du betreust selbständig unsere mechanischen und elektronischen Schliessanlagen und Zutrittssysteme, montierst und ersetzt Schliesskomponenten und behebst kleinere Störungen. Die HLKS Anlagen in deinem Fachgebiet betreust, kontrollierst und unterhältst du und führst Service, Wartungs und Reparaturarbeiten sowie kleinere technische Anpassungen selbständig aus. Du erkennst und beurteilst Störungen, leitest die notwendigen Massnahmen ein und verwaltest Schlüssel, Badges, Schliesszylinder sowie Zutrittsberechtigungen inklusive Eintritten, Austritten, Funktionswechseln, Änderungen, Rückgaben und Verlustmeldungen. Schliesspläne, Systemübersichten und zugehörige Dokumentationen hältst du aktuell, dokumentierst ausgeführte Arbeiten und unterstützt bei Erweiterungen, Umbauten und Anpassungen bestehender Systeme. In enger Zusammenarbeit mit internen Stellen koordinierst und begleitest du externe Fachfirmen und nimmst gemäss Einsatzplanung am Pikettdienst teil. Dein Profil Du hast eine handwerkliche oder technische Berufslehre abgeschlossen, zum Beispiel als Heizungsinstallateurin oder Heizungsinstallateur EFZ, Lüftungsanlagenbauerin oder Lüftungsanlagenbauer EFZ, Sanitärinstallateurin oder Sanitärinstallateur EFZ oder in einem vergleichbaren Beruf. Praktische Kenntnisse in mindestens einem HLKS Fachgebiet bringst du mit und interessierst dich auch für die übrigen technischen Anlagen, wobei keine Ausbildung in allen vier Bereichen vorausgesetzt wird. Erfahrung mit mechanischen und elektronischen Schliessanlagen und Zutrittssystemen sowie handwerkliches Geschick und ein gutes technisches Verständnis zeichnen dich aus, wobei Kenntnisse von dormakaba oder KABA Systemen von Vorteil sind. Du gehst sicher mit digitalen Arbeitsmitteln um, arbeitest selbständig, zuverlässig und sorgfältig und bringst ein hohes Verantwortungsbewusstsein sowie die nötige Diskretion mit. Mit deiner teamorientierten und dienstleistungsbewussten Art begegnest du Patientinnen, Patienten und Mitarbeitenden respektvoll und verantwortungsbewusst und bist bereit, am Pikettdienst teilzunehmen. Family und Work-Life-Balance Gleitzeit Bandbreitenmodelle Teilzeitarbeit Jobsharing, Topsharing Mutter-, Vaterschaftsurlaub Vergünstigung Kinderbetreuung (Wil, Pfäfers) Berufliche Qualifikation Ausbildungen Fortbildungen Weiterbildungen Interne Schulungen Geschenke zu persönlichen Anlässen Eintritt Hochzeit Geburt Jubiläum Austritt Pensionierung Verpflegung am Arbeitsplatz Vergünstigung Mittagsmenu Obst, Wasser, Kaffee Mobilität Ökobonus Firmenparkplätze Mobiltelefone Personalzimmer Monetäre Leistungen Leistungsprämien Treueprämien Vermittlungsprämien Spesenentschädigung Mitarbeiterförderung Mitarbeitendengespräch Komepenzportfolio Karriere-und Laufbahnförderung Team- und Kulturbildung Personalfest Weihnachtsessen Teamtag Wohlbefinden Yoga Wanderungen Fitnessraum Gesundheit Gesundheits App Grippe- und Zeckenimpfung Dein Lohn Die genaue Lohnhöhe richtet sich nach deiner Ausbildung und Berufserfahrung. Im Verlauf des Auswahlverfahrens werden wir deinen Lohn aufgrund der kantonalen Lohnrichtlinien festlegen. Bewerberinnen und Bewerber, die noch nicht über die erforderlichen Kenntnisse oder Erfahrungen verfügen, können im Einzelfall auch unterhalb der Lohnbandbreite eingestuft werden. Die weitere Lohnentwicklung richtet sich nach deinen Leistungen und findet jeweils im Rahmen der Lohnrunde per 1. Januar unter Berücksichtigung des freigegebenen Budgets statt. Deine Kontaktpersonen Benjamin Brög Leiter Technik und Bau Wil +41 58 178 16 81 benjamin.broeg@psychiatrie-sg.ch Lydia Inauen HR Business Partner +41 58 178 11 85 lydia.inauen@psychiatrie-sg.ch Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Mental Health Care Referrals increase your chances of interviewing at Psychiatrie St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "3e6552c6124bbde0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-schliessanlagen-und-zutrittssysteme-at-psychiatrie-st-gallen-4478773832"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Business Application Specialist (m/f/d)",
+   "company": "BRUSA HyPower",
+   "location": "Buchs (SG), St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/business-application-specialist-m-f-d-at-brusa-hypower-4479788188",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9e06da0a4f29c64b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/business-application-specialist-m-f-d-at-brusa-hypower-4479788188"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Senior Consultant Advisory (all genders)",
+   "company": "adesso Schweiz AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-consultant-advisory-all-genders-at-adesso-schweiz-ag-4462186216",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "701e566864d4c838",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-consultant-advisory-all-genders-at-adesso-schweiz-ag-4462186216"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Grafikdesigner:in",
+   "company": "Fust",
+   "location": "Oberbüren, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/grafikdesigner-in-at-fust-4479195800",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e15758ba3f9f1c68",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/grafikdesigner-in-at-fust-4479195800"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Manager New Product Development",
+   "company": "icotec",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/manager-new-product-development-at-icotec-4479812879",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "20003683a0016eff",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/manager-new-product-development-at-icotec-4479812879"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Solution Consultant Projektverwaltung / ABEA (a)",
+   "company": "OBT AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/solution-consultant-projektverwaltung-abea-a-at-obt-ag-4474975031",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "0d33da69bd42ae64",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/solution-consultant-projektverwaltung-abea-a-at-obt-ag-4474975031"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Junior Tax & Transfer Pricing Manager",
+   "company": "BGP AG",
+   "location": "Rheintal, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/junior-tax-transfer-pricing-manager-at-bgp-ag-4479851087",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a90b8349e89cf736",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/junior-tax-transfer-pricing-manager-at-bgp-ag-4479851087"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "CNC Technician - Dreher",
+   "company": "VAT GROUP",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/cnc-technician-dreher-at-vat-group-4479844478",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "41ea014aca2e7f9c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/cnc-technician-dreher-at-vat-group-4479844478"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "SPS-Programmierer Sondermaschinen (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sps-programmierer-sondermaschinen-m-w-d-at-rocken%C2%AE-4479103579",
+   "posted": "2026-10-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "001797829608a3d2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sps-programmierer-sondermaschinen-m-w-d-at-rocken%C2%AE-4479103579"
+   },
+   "first_seen": "2026-10-16"
+  },
+  {
+   "title": "Leiterin / Leiter Soziale Dienste",
+   "company": "Personaldienste der Stadt St.Gallen",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/e307c701-3bf7-48b8-852c-b59aa5456bc1/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "<em>Chancengleichheit</em> wird bei uns grossgeschrieben und unsere Rahmenbedingungen unterstützen die Vereinbarkeit von Beruf und weitere Lebensbereiche.",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "0083f750-e983-464f-85e4-061b747d0206"
+   },
+   "id": "bb6c4f24ffdcc8fb",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/e307c701-3bf7-48b8-852c-b59aa5456bc1/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-16"
+  }
+ ]
+}
