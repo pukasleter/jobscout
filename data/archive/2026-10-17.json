@@ -1,0 +1,768 @@
+{
+ "generated_at": "2026-10-17T05:40:57+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 168,
+   "linkedin": 250,
+   "jobroom": 27
+  },
+  "excluded": 349,
+  "unique": 80,
+  "new": 31,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Diversity&location=St.+Gallen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+ },
+ "jobs": [
+  {
+   "title": "Müllwerkerin (m/w/d)",
+   "company": "Stadtverwaltung Konstanz",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003868592-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die Entsorgungsbetriebe Konstanz sind für den Abfall und das Abwasser der Stadt verantwortlich. Für die zuverlässige Sammlung des Abfalls betreiben wir die Müllabfuhr und vier Wertstoffhöfe.\nFür das Team der Müllabfuhr suchen wir Unterstützung! Ein Müllwerker/eine Müllwerkerin leert Mülltonnen, sammelt Gelbe Säcke und unterstützt den Fahrer/die Fahrerin im Straßenverkehr. Außerdem fährt die Person hinten auf dem Trittbrett der Müllfahrzeuge mit.\nDie EBK Müllabfuhr arbeitet in einem starken Team. Dieses Team freut sich auf Ihre Bewerbung.\n**DIE STADT KONSTANZ SUCHT ZUM NÄCHSTMÖGLICHEN ZEITPUNKT:**\nMüllwerkerin (m/w/d)\n### Das bieten wir:\n- Eine auf 2 Jahre befristete Vollzeitstelle (39 Std./Woche) mit regelmäßigen Arbeitstagen Montag bis Freitag\n- Eine Vergütung nach Entgeltgruppe 3 TVöD (2.953,13 € bis 3.421,10 €)\n- Eine abwechslungsreiche Tätigkeit\n- Jahressonderzahlung und Leistungsentgelt\n- **Betriebliche Gesundheitsförderung:**\nIhre Gesundheit liegt uns am Herzen. Daher bieten wir verschiedene Gesundheitsförderungsprogramme an – inklusive Firmenfitness mit Epassi (ehemals Hansefit)\n- **Mobilitätszuschuss:**\nJobticket-Zuschuss zum ÖPNV\n### Mit den Aufgabenschwerpunkten:\n- Beladen und Entladen von Müllfahrzeugen\n- Unterstützung des Fahrers/der Fahrerin im Straßenverkehr\n- Ordnungsgemäße Abfallentsorgung\n### Das bringen Sie mit:\n- Zuverlässigkeit, Kundenfreundlichkeit, Einsatzfreude,\nTeamfähigkeit\n- Kenntnisse der deutschen Sprache\n- Körperliche Belastbarkeit insbesondere bei Tätigkeiten, die mit Heben und Tragen verbunden sind, setzen wir voraus\n**KONTAKT:**\nJörg Zimmermann\nAbfallwirtschaft und Fuhrwesen\n07531 996 179\n**BEWERBUNG & WEITERE INFOS:**\nDie Vorstellungsgespräche sind für den 02.12.2026 vorgesehen.\nBewerben Sie sich bis zum **08.11.2026** unter Angabe der **Kennzahl 216-2026**.\nDie Stadtverwaltung Konstanz als Unterzeichnerin der Charta der Vielfalt fördert Gleichstellung und Diversität. Daher laden wir alle qualifizierten Personen ein, sich um die ausgeschriebene Position zu bewerben, unabhängig von Geschlecht, ethnischer und sozialer Herkunft, Religion / Weltanschauung, Behinderung, Alter sowie sexueller Identität.\nWeitere Infos zum Arbeitgeber Stadt Konstanz finden Sie unter [konstanz.de/karriere](https://www.konstanz.de/karriere/).\nDas Stellenangebot mit der Möglichkeit zur direkten Online-Bewerbung finden Sie unter [Müllwerkerin (m/w/d) | Bewerbungsportal](https://konstanz.bewerbung.dvvbw.de/2721-muellwerkerin-m-w-d/de/job.html)",
+   "extra": {
+    "refnr": "10001-1003868592-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "422622137a326ce7",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003868592-S"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Sachgebietsleitung Rechnungswesen (w/m/d)",
+   "company": "Universität Konstanz",
+   "location": "78464 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-vqkiudomny-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# Sachgebietsleitung Rechnungswesen (w/m/d)\n### ### (Vollzeit, bis E 13 TV-L)\n## ## **Kennziffer 2026/210. Die Stelle ist ab sofort unbefristet zu besetzen.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\nDie Position ist in der **Abteilung Finanzen** verortet.\n## Ihre Aufgaben\n- **Abschlüsse und Bilanzierung**: Verantwortung für die ordnungsgemäße Erstellung von Jahresabschlüssen (nach HGB)\n- **Sicherstellung des Tagesgeschäfts**\n- Bearbeitung von Grundsatzangelegenheiten\n- **Qualitätssicherung**\n- **Fachliche Weiterentwicklung:** Anpassung von Arbeitsabläufen an neue Gesetze, Richtlinien, Urteile oder technologische Neuerungen\n- Prüfung und Erstellung von Rückstellungs-, Anlagen- und Eigenkapitalspiegel\n- Zusammenarbeit und Abstimmung mit Wirtschaftsprüfern und Steuerberatern\n- Leitung des Sachgebietes mit 14 Mitarbeiter*innen\n- Optimierung von Arbeitsabläufen\n- Projektarbeit, insbesondere Digitalisierungsprojekte\n- Perspektivisch Übernahme der Vertretung der Abteilungsleitung\n## Ihr Profil\n- Abgeschlossenes betriebswirtschaftliches wissenschaftliches Hochschulstudium mit dem Schwerpunkt Rechnungswesen oder eine abgeschlossene kaufmännische Ausbildung mit Zusatzqualifikation Bilanzbuchhalter*in\n- Mehrjährige Berufserfahrung in der Rechnungslegung nach HGB, vorzugsweise im Hochschulsektor gemäß den Standards staatlicher Doppik\n- Sicherer Umgang mit MS Excel und ERP-Systemen (z. B. HIS-FSV, HIS-KBS, SAP)\n- Analytisches Zahlenverständnis und guter Überblick über betriebswirtschaftliche Zusammenhänge\n- Ausgeprägte Kommunikationsfähigkeiten sowie sehr gute mündliche und schriftliche Ausdrucksweise\n- Team- und Kooperationsfähigkeit\n- Sorgfältige, selbständige und ergebnisorientierte Arbeitsweise\n## Wir bieten Ihnen\n- Interessante und abwechslungsreiche Tätigkeit in einem offenen und motivierten Team\n- Sehr gute Arbeitsatmosphäre\n- Gute Einarbeitung\n- Flexible Arbeitszeitmöglichkeiten (z. B. Home-Office, Jahresarbeitszeitkonto)\n- Fortbildungsangebote und Angebote der Gesundheits- und Familienförderung\n- Zuschuss zum JobTicket BW, Deutschlandticket\n- Betriebliche Altersvorsorge (VBL)\n- Eingruppierung nach den tariflichen Bestimmungen des TV-L (je nach persönlichen Voraussetzungen bis Entgeltgruppe 13 TV-L)\n[](https://www.uni-konstanz.de/personalabteilung/stellenangebote-1/die-universitaet-konstanz-als-arbeitgeberin/)\nInformationen erhalten Sie über Herrn Kasprik, <carsten.kasprik@uni-konstanz.de>.\nWir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum **06.11.2026** über unser [Online-Bewerbungsportal](https://stellen.uni-konstanz.de/de/jobposting/5998689a5d0f3b323431d186dbf40eab99d8fe4a0/apply).\nDie Universität Konstanz engagiert sich für Gleichstellung, Diversity sowie die Vereinbarkeit von Beruf und Familie. Sie strebt eine Erhöhung des Anteils von Frauen im ausgeschriebenen Bereich an ([uni.kn/chancengleichheit](https://www.uni-konstanz.de/gleichstellungsreferat/chancengleichheit-im-wissenschaftsunterstuetzenden-bereich/)). Menschen mit einer Schwerbehinderung werden bei entsprechender Eignung vorrangig eingestellt (<sbv@uni-konstanz.de>, +49 7531 88-4016).",
+   "extra": {
+    "refnr": "19772-vqkiudomny-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "bada74d4cf37112f",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-vqkiudomny-S"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Projektleiter magnetische Messtechnik (m/w/d)",
+   "company": "Rolls-Royce Deutschland Ltd & Co. KG",
+   "location": "88045 Friedrichshafen",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003869357-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "**Aufgaben - Das können Sie von uns erwarten:**\n- Planung und Koordination von Projekten und Versuchen zur magnetischen Vermessung von Baugruppen\n- Zentraler Planungsexperte für die Organisation, Durchführung und Bewertung von Versuchen im Bereich der magnetischen Vermessung\n- Beratung und Abstimmung mit Lieferanten, Kunden und internen Bereichen bezüglich erreichbarer magnetischer Signaturen.\n- Gestaltung von Prozessen und Abläufen bezüglich Erstellung und Handhabung magnetisch behandelten Produkten sowie die Beschaffung von notwendigem Equipment\n- Mitarbeit bei der Weiterentwicklung der Messtechnik und Behandlungstechnik im Bereich Magnetismus.\n**Qualifikation und Fähigkeiten - Was wir benötigen:**\n- Erfolgreich abgeschlossenes Studium im Bereich Physik, Elektrotechnik, Messtechnik oder vergleichbare Qualifizierung\n- Solide Berufserfahrung im Bereich der magnetischen Messtechnik\n- Hands on Mentalität\n- Analytisches Denkvermögen sowie selbständige und strukturierte Arbeitsweise\n- Zielorientierung, pragmatische Herangehensweise\n- Teamfähigkeit und Durchsetzungs-/ Überzeugungsvermögen\n- Kenntnisse im Projektmanagement\n- IT- und Technikaffinität\n- Sehr gute Deutsch- und Englischkenntnisse\n**Warum Rolls-Royce Power Systems – Das bieten wir Ihnen:**\n- Gesunde und faire Arbeitsbedingungen durch Tarifbindung (Metall- und Elektroindustrie)\n- Betriebseigene Krankenkasse BKK MTU für unsere Mitarbeitenden und Familienangehörigen\n- Umfangreiches betriebliches Gesundheitsmanagement inklusive Firmenfitnessprogramm (EGYM Wellpass)\n- Attraktive betriebliche Altersvorsorge – Mit uns für das Alter sparen!\n- Berufsunfähigkeitsversicherung – Absicherung für alle Fälle!\n- Mobilitätsunterstützung im Alltag – JobTicket und Jobrad\n- Corporate Benefits Programm – Attraktive Mitarbeiterrabatte auf zahlreiche starke Marken\nWir sind ein Arbeitgeber, der sich für Chancengleichheit einsetzt. Wir setzen uns für die Entwicklung einer vielfältigen Belegschaft und eines integrativen Arbeitsumfelds ein. Wir glauben, dass Menschen mit unterschiedlichen Hintergründen und Kulturen uns unterschiedliche Perspektiven geben. Und je mehr Perspektiven wir haben, desto erfolgreicher werden wir sein. Durch den Aufbau einer Kultur des Respekts und der Wertschätzung geben wir jedem, der hier arbeitet, die Möglichkeit, sein volles Potenzial auszuschöpfen.\n**Ihr Ansprechpartner**\nAna Maria De Los Rios\ncareers@ps.rolls-royce.com\n**Hinweis:** Bitte bewerben Sie sich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. auch E-Mail) können nicht berücksichtigt werden.",
+   "extra": {
+    "refnr": "10001-1003869357-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "c2d313ea81ca60b2",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003869357-S"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Sachbearbeiter Klimawandelanpassung (m/w/d)",
+   "company": "Landratsamt Bodenseekreis",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-klimawandelanpassung-m-w-d-at-landratsamt-bodenseekreis-4480582429",
+   "posted": "2026-10-17",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d5dfe1cf4dacdcf6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-klimawandelanpassung-m-w-d-at-landratsamt-bodenseekreis-4480582429"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Wissenschaftliche Assistenz / Doktorat im Steuerrecht – Ihr Sprungbrett in Wissenschaft (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/wissenschaftliche-assistenz-doktorat-im-steuerrecht-%E2%80%93-ihr-sprungbrett-in-wissenschaft-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4480363333",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "6bcd03d3782f0fce",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-assistenz-doktorat-im-steuerrecht-%E2%80%93-ihr-sprungbrett-in-wissenschaft-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4480363333"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "PhD Position on Nanozyme-based coating for antimicrobial implants",
+   "company": "Empa",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/phd-position-on-nanozyme-based-coating-for-antimicrobial-implants-at-empa-4462852275",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Materials science and technology are our passion. With our cutting-edge research, Empa's around 1,100 employees make essential contributions to the well-being of society for a future worth living. Empa is a research institution of the ETH Domain. The Nanomaterials in Health Lab is a truly interdisciplinary environment that conducts pioneered investigations on particle bio-functionalization, particles uptake, accumulation, translocation across biological barriers and their bio-responses. With this we provide key contributions to novel personalized strategies of particles de-sign for drug delivery, imaging or diagnosis. This PhD project will develop stimuli-responsive nanozyme coatings for personalized medical implants. Nanozymes are nanomaterials capable of mimicking the catalytic activity of natural enzymes and can be engineered to generate reactive oxygen species (ROS) locally and in a controlled manner. The position is within the Marie Skłodowska-Curie Doctoral Network Implant-to-Market (i2M), providing an international and interdisciplinary training environment connecting materials science, biology, medical devices and regulatory science. Your tasks Design and synthesize nanozymes: Develop nanozymes, and optimize their physicochemical and catalytic properties. Develop functional implant coatings: Establish reproducible strategies for integrating nanozymes onto implant surfaces and investigate their compatibility with different implant architectures and surface modifications. Evaluate antimicrobial activity: Investigate the ability of nanozyme-coated surfaces to inhibit bacterial growth and biofilm formation while reducing reliance on conventional antibiotics. Investigate nano–bio interactions: Study cellular responses to nanozyme-coated implants, including cytocompatibility, macrophage activation, cytokine production and parameters related to osteointe-gration. Study stability, ageing and biodegradation: Investigate the transformation of low-dimensional nanozyme coatings in biologically relevant fluids. Your profile Motivation and Commitments to dive into an interdisciplinary challenge Completed Master’s degree in biomaterials, chemistry, nanotechnology, or biomedical engineering. Experience in nanomaterial synthesis and characterization. Familiarity with cell culture and in vitro assays. Experience in catalysis, programming and large data analysis is a plus. Excellent communication skills and fluency in English (written and oral). Our offer The project is planned for 3 years and will be carried out as a PhD thesis. It is supported by Empa under the supervision of Dr. Giacomo Reina. The candidate will perform research at Empa in St. Gallen with joint affilia-tion to ETH Zürich (D-HEST, Prof. Peter Wick). Desired starting date is upon mutual agreement. We live a culture of inclusion and respect. We welcome all people who are interested in innovative, sustainable and meaningful activities - that's what counts. We look forward to receiving your complete online application including a letter of motivation, CV, certificates, diplomas and contact details of two reference persons. Please submit these exclusively via our job portal. Applications by e-mail and by post will not be considered. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Research Services Referrals increase your chances of interviewing at Empa by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "82 applicants"
+   },
+   "id": "1fb1290100909e58",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/phd-position-on-nanozyme-based-coating-for-antimicrobial-implants-at-empa-4462852275"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Assembly, Integration & Test Manager (m/f/d) for a Laser-Interferometric Instrument",
+   "company": "SpaceTech GmbH",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/assembly-integration-test-manager-m-f-d-for-a-laser-interferometric-instrument-at-spacetech-gmbh-4477375460",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "db119e0801dbbab6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/assembly-integration-test-manager-m-f-d-for-a-laser-interferometric-instrument-at-spacetech-gmbh-4477375460"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Anwendungsspezialist Industriesensorik & Schulung (m/w/d)",
+   "company": "ep group",
+   "location": "Tettnang, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/anwendungsspezialist-industriesensorik-schulung-m-w-d-at-ep-group-4480800066",
+   "posted": "2026-10-17",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "55ac3644c1d5f09c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/anwendungsspezialist-industriesensorik-schulung-m-w-d-at-ep-group-4480800066"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Technical Manager (m/f/d) Instrument Units",
+   "company": "SpaceTech GmbH",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/technical-manager-m-f-d-instrument-units-at-spacetech-gmbh-4477376428",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f512eac8fc644ba9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/technical-manager-m-f-d-instrument-units-at-spacetech-gmbh-4477376428"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Project Quality Manager",
+   "company": "V-ZUG",
+   "location": "Sulgen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/project-quality-manager-at-v-zug-4463324203",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "bde0b9be924a0922",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/project-quality-manager-at-v-zug-4463324203"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "AI Solution Designer – Bussnang",
+   "company": "Stadler",
+   "location": "Bussnang, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/ai-solution-designer-%E2%80%93-bussnang-at-stadler-4479341506",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "DEINE AUFGABENBEREICHE Konzeption und Gestaltung von AI-bezogenen Lösungen für Anwendungen, Projekte und Produkte in enger Zusammenarbeit mit Fachbereichen und Technologie-Teams Analyse und Konkretisierung von Business-Anforderungen, funktionalen Anforderungen, Rahmenbedingungen und Erfolgskriterien als Grundlage für tragfähige Lösungsdesigns Erstellung von Architekturkonzepten, Zielbildern, Integrationsdesigns sowie nachvollziehbarer Dokumentationen von Architekturentscheidungen Sicherstellung von Architekturqualität, Business-Fit, Skalierbarkeit, Wartbarkeit, Sicherheit, Compliance und operativer Umsetzbarkeit der entwickelten Lösungen Enge Zusammenarbeit mit Business Stakeholdern, Product Ownern, Architekten, Entwicklern sowie Experten aus Cybersecurity, Datenschutz und Plattformmanagement Unterstützung bei der Auswahl geeigneter Technologien, Plattformen, AI-Services, Integrationsmuster und wiederverwendbarer Komponenten Mitarbeit bei AI-Pilotprojekten, Architektur- und Governance-Reviews sowie bei der Weiterentwicklung von Standards, Methoden und Best Practices im Bereich AI Solution Architecture DEINE BERUFLICHEN ERFAHRUNGEN Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik, Informationstechnologie, Ingenieurwissenschaften oder eine vergleichbare Qualifikation Mindestens drei Jahre Berufserfahrung in der Solution Architecture, Applikationsentwicklung, Produktentwicklung, Business Analyse, Projektumsetzung oder einem vergleichbaren Umfeld Nachweisliche Fähigkeit, Geschäftsanforderungen in Lösungen zu übersetzen, die Business-Nutzen, technische Machbarkeit, Benutzerfreundlichkeit, Sicherheit und Skalierbarkeit vereinen Fundiertes Verständnis von GenAI- und LLM-Technologien sowie Kenntnisse zu agentischen AI-Ansätzen, Multi-Agenten-Orchestrierung und Responsible AI Analytische Denkweise sowie ein gutes Verständnis von Geschäftsprozessen, modernen Technologien, Cloud-Plattformen und Integrationsarchitekturen Kommunikationsstarke Persönlichkeit mit Erfahrung in der Zusammenarbeit mit interdisziplinären Teams und unterschiedlichen Anspruchsgruppen Verhandlungssichere Englisch- und Deutschkenntnisse in Wort und Schrift Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "4baf804ffab17371",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/ai-solution-designer-%E2%80%93-bussnang-at-stadler-4479341506"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Projektleiter 80% - 100% (m/w/d) Raum Bern-Basel",
+   "company": "dormakaba Schweiz AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-80%25-100%25-m-w-d-raum-bern-basel-at-dormakaba-schweiz-ag-4470001637",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Werden Sie Teil unseres Teams Als weltweit agierendes Unternehmen, das ganz klare Wachstumsziele verfolgt, benötigen wir Mitarbeitende, die sich und die Firma weiterbringen möchten. Für den Bereich Automatische Türsysteme und Personenvereinzelungsanlagen suchen wir dich per sofort oder nach Vereinbarung als Projektleiter (w/m/d) | Raum Bern-Basel, 80–100%. In dieser vielseitigen Funktion übernimmst du die Verantwortung für die gesamte Abwicklung komplexer Projekte in der Region Ostschweiz. Du koordinierst technische Details mit Kunden und Lieferanten, stellst eine qualitativ hochwertige Dokumentation sicher und begleitest die Projekte bis zur erfolgreichen Abnahme und Übergabe an den Servicebereich. Deine Aufgaben Gesamte Abwicklung komplexer Projekte in der Rolle als Generalunternehmer gemäss Auftragsbestätigung und Leistungsbeschrieb. Abklärung aller relevanten technischen Details mit Kunden und Lieferanten. Sicherstellung einer qualitativ hochwertigen technischen Dokumentation gemäss Vorgaben. Abnahme der Anlagen gemeinsam mit dem Kunden und Sicherstellung einer hohen Kundenzufriedenheit. Akquisition zusätzlicher Projekte und Nachaufträge. Übergabe der abgeschlossenen Projekte an den Servicebereich. Dein Profil Technische Grundausbildung. Idealerweise eine HF-Weiterbildung im Bereich Elektro oder Metallbau. Erfahrung als Projektleiter sowie Grundkenntnisse in Betriebswirtschaft. Erfahrung in einer oder mehreren unserer Branchen, beispielsweise Bau, automatische Türen, Gebäudesicherheit oder Brandschutz. Erfahrung im Umgang mit CAD. Sehr gute Deutschkenntnisse in Wort und Schrift; Englisch- sowie Italienischkenntnisse sind von Vorteil. Reisebereitschaft in der gesamten Deutschschweiz sowie gültiger Führerausweis. Was wir bieten Beste Perspektiven in einem international erfolgreichen Unternehmen mit familiärer Unternehmenskultur. Gut mit dem öffentlichen Verkehr erschlossene Arbeitsstandorte sowie Homeoffice-Möglichkeiten. Attraktives Gehaltspaket. Transparente und klar definierte Weiterentwicklungsmöglichkeiten. Unterstützung von Milizarbeit und gemeinnützigen Projekten auch während der Arbeitszeit. Wer wir sind For every place that matters. Von automatischen Türen bis hin zu cloudbasiertem Zutrittsmanagement – als ein weltweit führender Anbieter auf dem Markt für Zutrittslösungen für Schulen, Banken, Flughäfen, Krankenhäuser, Hotels und viele weitere ermöglichen wir es, sichere und nachhaltige Orte zu schaffen, an denen sich Menschen nahtlos bewegen können. Mit über 160 Jahren Erfahrung und einem klaren Fokus auf Exzellenz und Innovation bieten wir spannende Möglichkeiten zur Weiterentwicklung in einem Umfeld, in dem Sie wirklich etwas bewirken können. Bei dormakaba werden Sie ermutigt, Eigeninitiative zu zeigen, Ihre Fähigkeiten auszubauen und Ihre Karriere gemeinsam mit 16.000 Expertinnen und Experten weltweit zu gestalten, die täglich neue Massstäbe in der Branche setzen. Show more Show less Seniority level Associate Employment type Full-time Industries Wholesale Building Materials Referrals increase your chances of interviewing at dormakaba Schweiz AG by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "4f23841267251cfe",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-80%25-100%25-m-w-d-raum-bern-basel-at-dormakaba-schweiz-ag-4470001637"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Technischer Sachbearbeiter Services 80% - 100% (m/w/d)",
+   "company": "dormakaba Schweiz AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technischer-sachbearbeiter-services-80%25-100%25-m-w-d-at-dormakaba-schweiz-ag-4470039741",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cf0ada1eca541aa9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technischer-sachbearbeiter-services-80%25-100%25-m-w-d-at-dormakaba-schweiz-ag-4470039741"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Operations Processes Specialist",
+   "company": "VAT GROUP",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/operations-processes-specialist-at-vat-group-4480397343",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "269784a9b93d31ca",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/operations-processes-specialist-at-vat-group-4480397343"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Solution Owner AI & Analytics (m/f/x)",
+   "company": "Hilti Group",
+   "location": "Buchs (SG), St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/solution-owner-ai-analytics-m-f-x-at-hilti-group-4470135231",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Shape the Future and Create the Value That Matters with AI The AI & Analytics Solution Owner team is part of the Analytics Center of Excellence at Hilti and plays a key role in unlocking the value of AI, Analytics and Automation for Hilti and our customers. Working closely together with business functions, we help shape the vision and roadmap and solutions across different business areas with strong partnerships and actively develop the solution portfolio at Hilti. As a Solution Owner, you will get the opportunity to work on AI, analytics and automation driven impactful use cases in a large organization that is leading the digital transformation in the construction sector. This full-time position is available as soon as possible. No travel is required. What You'll Do Defining the vision and driving delivery of AI & analytics solutions Ensuring that data insights, AI, analytics and automation capabilities are translated into scalable, value-driven solutions for the business by partnership. (Co)-owning the backlog, shaping product vision, and enabling cross-functional collaboration across data, platform and engineering teams Driving change management actively and ensuring adoption, optimizing well-defined KPIs through continuous improvement and success measurement. Prioritization and delivery planning and coordination Stakeholder management What You’ll Bring Master's degree in Information Technology, Computer Science, Data Science, or Information Systems; a PhD’s degree is a plus 8-10 years of total working experience, with good understanding of business process and digital product design and development. Ability to bridge the gap between business needs and technological solutions in AI, Analytics and Automation space. Solid understanding of the full lifecycle of data and AI solutions and knowledge of data platforms, automation, practical knowledge of AI (incl. Gen AI and Agentic AI) and Machine Learning. Excellent communication and stakeholder management skill with strong ability to partner with business What’s In It for You Responsibilities At Hilti, you'll join a family-owned company that thinks long term, invests in its people, and empowers individuals to make a real difference. From day one, you'll take on meaningful responsibilities, contribute to business growth, and have the opportunity to shape your own development through structured career paths and strategic growth opportunities. Some of the benefits of building your career with us include: Diverse global headquarters community of over 2,100 colleagues from 70 nationalities. Early responsibility and the opportunity to make a visible impact on business success. Long-term career growth supported by transparent development framework and career opportunities across functions, regions, and roles. Flexible and trust-based working model including remote work, workation, and sabbaticals. Relocation and family support including childcare services and integration assistance. Opportunities to contribute to social impact initiatives both locally and globally. Inclusive culture supported by more than 60 employee-led activity networks. Modern campus with onsite gym, restaurants, mobility benefits, and outdoor activities. Why Hilti Hilti is a global leader in construction innovation, with more than 34,000 team members across 120 countries. Guided by our purpose, Making Construction Better, we’re driven to keep learning, growing, and finding new ways to make a lasting impact. Here, you’ll be empowered to use your strengths, work with a global and inclusive team, and take on meaningful challenges. At Hilti, you’ll have the chance to make your ideas, achievements, and growth real through purpose, passion, and teamwork. Commitment to Inclusion At Hilti, inclusion is a key focus in how we work, lead, and grow together. We are committed to embracing diversity of thought and creating an environment that is inclusive of everyone, everywhere. We continuously strive to ensure every voice is …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "154 applicants"
+   },
+   "id": "522c06d46e4b8ea0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/solution-owner-ai-analytics-m-f-x-at-hilti-group-4470135231"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Leitung strategischer Projekte der Staatsanwaltschaft (Stabsstelle) (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leitung-strategischer-projekte-der-staatsanwaltschaft-stabsstelle-m-w-d-at-kanton-st-gallen-4470093614",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ecfa553fcdc8a43e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leitung-strategischer-projekte-der-staatsanwaltschaft-stabsstelle-m-w-d-at-kanton-st-gallen-4470093614"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Abacus Berater:in BPE, REST & AbaReport 80–100 %",
+   "company": "Abraxas Informatik AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/abacus-berater-in-bpe-rest-abareport-80%E2%80%93100-%25-at-abraxas-informatik-ag-4480597862",
+   "posted": "2026-10-17",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "53977ba8ee707fc6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/abacus-berater-in-bpe-rest-abareport-80%E2%80%93100-%25-at-abraxas-informatik-ag-4480597862"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Microsoft Power Platform Spezialist (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/microsoft-power-platform-spezialist-m-w-d-at-rocken%C2%AE-4479349850",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "Wie lassen sich Geschäftsprozesse durch intelligente IT-Lösungen wirklich transformieren? Unser Rocken Partner ist ein etablierter IT-Dienstleister, der mit Beratung, massgeschneiderten Softwarelösungen und technologischer Expertise anspruchsvolle Digitalisierungsprojekte umsetzt. Von Datenarchitekturen über Cloud-Infrastrukturen bis hin zu KI-gestützten Anwendungen – das Spektrum ist breit, die Projekte komplex. Die Teams arbeiten branchenübergreifend und setzen auf intensive Zusammenarbeit mit Kunden, um nachhaltige Lösungen zu entwickeln. Hier zählen technisches Know-how, Gestaltungswille und eine pragmatische Herangehensweise. Flache Hierarchien und Raum für Eigenverantwortung prägen den Alltag. Bereit, digitale Transformation aktiv mitzugestalten? Dann freuen wir uns auf deine Bewerbung für eine Rolle bei unserem Rocken Partner. Verantwortung Konzeption und Realisierung moderner Automatisierungs- und Anwendungslösungen auf Basis der Microsoft Power Platform zur Unterstützung digitaler Geschäftsprozesse Technische Begleitung des Consulting-Teams bei der Entwicklung kundenspezifischer Architekturen und der Umsetzung integrierter Business-Lösungen Programmierung, Implementierung und Wartung von Low-Code-Anwendungen sowie Optimierung bestehender Workflows und Anbindungen an externe Systeme Teilnahme an Kundenworkshops und Unterstützung bei der technischen Bewertung von Anforderungen sowie der Entwicklung praxistauglicher Lösungsvorschläge Qualifikationen Fundierte Kenntnisse in JavaScript, TypeScript, .NET, HTML, CSS und JSON sowie Erfahrung mit APIs, Swagger und Frontend-Technologien wie React oder Angular Grundlegendes Know-how in der Microsoft Power Platform sowie erste Kenntnisse in Power Fx, Prozessautomatisierung, Virtual Agents und anwendungsspezifischem Customizing Verständnis für Schnittstellen zu Drittsystemen wie SAP sowie Fähigkeit zur Umsetzung von ALM, Lösungsarchitekturen und strukturierten Deploymentprozessen Selbstständige und lösungsorientierte Persönlichkeit mit ausgeprägtem technischem Verständnis sowie sehr guten Deutsch- und guten Englischkenntnissen Benefits Beteiligung oder Übernahme beim Handy und Notebook: Beteiligung an Kosten für das Mobiltelefon Flexible Arbeitszeitgestaltung: 40 h/Woche, flexibles Arbeitszeitkonto Homeoffice: Nach vorgängiger Absprache mit dem Team- oder Projektverantwortlichen Kostenlose Früchte und Getränke: Kostenlos Mineralwasser, Kaffee, Tee und Früchte an sämtlichen Standorten Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten: Aus- und Weiterbildungsangebot mit Schulungskatalog ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "974256773cf443d2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/microsoft-power-platform-spezialist-m-w-d-at-rocken%C2%AE-4479349850"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Intern – Data & AI Product Owner (m/f/x)",
+   "company": "Hilti Group",
+   "location": "Buchs (SG), St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-product-owner-m-f-x-at-hilti-group-4470128732",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e899ec43c8f611ab",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-product-owner-m-f-x-at-hilti-group-4470128732"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Mécatronicien/ne de chars sur véhicules à chenilles lourds",
+   "company": "Bundesverwaltung",
+   "location": "Bronschhofen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/m%C3%A9catronicien-ne-de-chars-sur-v%C3%A9hicules-%C3%A0-chenilles-lourds-at-bundesverwaltung-4479349439",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cf3a36eb2860b2fc",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/m%C3%A9catronicien-ne-de-chars-sur-v%C3%A9hicules-%C3%A0-chenilles-lourds-at-bundesverwaltung-4479349439"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Applikations-Manager:in / Product Owner:in im Fachbereich Energieverrechnung",
+   "company": "SAK (St.Gallisch-Appenzellische Kraftwerke AG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/applikations-manager-in-product-owner-in-im-fachbereich-energieverrechnung-at-sak-st-gallisch-appenzellische-kraftwerke-ag-4480329911",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9b219fa68060e78a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/applikations-manager-in-product-owner-in-im-fachbereich-energieverrechnung-at-sak-st-gallisch-appenzellische-kraftwerke-ag-4480329911"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Senior Marketing & Innovation Manager (m/w/d)",
+   "company": "Romer's Hausbäckerei AG",
+   "location": "Benken, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-marketing-innovation-manager-m-w-d-at-romer-s-hausb%C3%A4ckerei-ag-4480338100",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "79eea621a9c43983",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-marketing-innovation-manager-m-w-d-at-romer-s-hausb%C3%A4ckerei-ag-4480338100"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Zerspanungsmitarbeiter/in (Stangendrehen) (m/f/d)",
+   "company": "SFS Group",
+   "location": "Heerbrugg, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/zerspanungsmitarbeiter-in-stangendrehen-m-f-d-at-sfs-group-4479357063",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e84feaeb5839e70d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/zerspanungsmitarbeiter-in-stangendrehen-m-f-d-at-sfs-group-4479357063"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Diagnostiker Bauschadstoffe 80-100% (w/m/d)",
+   "company": "CSD ENGINEERS",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/diagnostiker-bauschadstoffe-80-100%25-w-m-d-at-csd-engineers-4359424350",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "813ee9e9335bb69e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/diagnostiker-bauschadstoffe-80-100%25-w-m-d-at-csd-engineers-4359424350"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Manager Produktentwicklung",
+   "company": "Europa Group International",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/manager-produktentwicklung-at-europa-group-international-4479374982",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "564d078a86a9b23b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/manager-produktentwicklung-at-europa-group-international-4479374982"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Power Platform Consultant (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/power-platform-consultant-m-w-d-at-rocken%C2%AE-4479365286",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "0d9632f89bec5df3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/power-platform-consultant-m-w-d-at-rocken%C2%AE-4479365286"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Stagista universitario/a Informazione e comunicazione",
+   "company": "Federal Roads Office FEDRO",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/stagista-universitario-a-informazione-e-comunicazione-at-federal-roads-office-fedro-4479347603",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3d5b40db077923ed",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/stagista-universitario-a-informazione-e-comunicazione-at-federal-roads-office-fedro-4479347603"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Business Prozess Manager:in Unfall",
+   "company": "AXA",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/business-prozess-manager-in-unfall-at-axa-4480358404",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "195e7341ee1601c4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/business-prozess-manager-in-unfall-at-axa-4480358404"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Business Prozess Manager:in Unfall",
+   "company": "AXA Switzerland",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/business-prozess-manager-in-unfall-at-axa-switzerland-4480330799",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8de90ddadba4d0a8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/business-prozess-manager-in-unfall-at-axa-switzerland-4480330799"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Intern Trade Marketing Assets (100%)",
+   "company": "IWC Schaffhausen",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/intern-trade-marketing-assets-100%25-at-iwc-schaffhausen-4470302523",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9ac1d2394a51e7eb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/intern-trade-marketing-assets-100%25-at-iwc-schaffhausen-4470302523"
+   },
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Fachspezialist/in Energie und Luftreinhaltung",
+   "company": "Personaldienste der Stadt St.Gallen",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/37ecdea6-27ef-448f-b3f2-c75e6ff77e41/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-17",
+   "salary": null,
+   "via": null,
+   "description": "<em>Chancengleichheit</em> und eine gute Zusammenarbeit sind wichtige Werte für uns. Deshalb begegnen wir einander mit Wertschätzung, Respekt und Vertrauen. \\*\\*Das bieten wir\\*\\* Wir bieten Ihnen ein vielseitiges und sinnstiftendes Aufgabengebiet, in welchem Sie selbständig wirken können.",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "70-80 %",
+    "permanent": true,
+    "jobroom_id": "db5ed49a-84d9-48bc-9b08-ade76d0c9438"
+   },
+   "id": "a81e9b29e88396b3",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/37ecdea6-27ef-448f-b3f2-c75e6ff77e41/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-17"
+  }
+ ]
+}
