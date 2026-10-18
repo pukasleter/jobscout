@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-17T05:40:57+00:00",
+ "generated_at": "2026-10-18T06:03:05+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 168,
-   "linkedin": 250,
-   "jobroom": 27
+   "arbeitsagentur": 167,
+   "jobroom": 25
   },
-  "excluded": 349,
-  "unique": 80,
-  "new": 31,
-  "carried_over": 0
+  "excluded": 131,
+  "unique": 45,
+  "new": 0,
+  "carried_over": 31
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Diversity&location=St.+Gallen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Stadtentwicklung&location=Winterthur%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15",
+  "linkedin": "Apify HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
  },
  "jobs": [
   {
@@ -38,7 +38,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003868592-S"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Sachgebietsleitung Rechnungswesen (w/m/d)",
@@ -63,7 +64,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-vqkiudomny-S"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Projektleiter magnetische Messtechnik (m/w/d)",
@@ -88,7 +90,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003869357-S"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter Klimawandelanpassung (m/w/d)",
@@ -112,7 +115,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-klimawandelanpassung-m-w-d-at-landratsamt-bodenseekreis-4480582429"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Wissenschaftliche Assistenz / Doktorat im Steuerrecht – Ihr Sprungbrett in Wissenschaft (m/w/d)",
@@ -136,7 +140,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-assistenz-doktorat-im-steuerrecht-%E2%80%93-ihr-sprungbrett-in-wissenschaft-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4480363333"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "PhD Position on Nanozyme-based coating for antimicrobial implants",
@@ -160,7 +165,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/phd-position-on-nanozyme-based-coating-for-antimicrobial-implants-at-empa-4462852275"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Assembly, Integration & Test Manager (m/f/d) for a Laser-Interferometric Instrument",
@@ -184,7 +190,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/assembly-integration-test-manager-m-f-d-for-a-laser-interferometric-instrument-at-spacetech-gmbh-4477375460"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Anwendungsspezialist Industriesensorik & Schulung (m/w/d)",
@@ -208,7 +215,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/anwendungsspezialist-industriesensorik-schulung-m-w-d-at-ep-group-4480800066"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Technical Manager (m/f/d) Instrument Units",
@@ -232,7 +240,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/technical-manager-m-f-d-instrument-units-at-spacetech-gmbh-4477376428"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Project Quality Manager",
@@ -256,7 +265,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/project-quality-manager-at-v-zug-4463324203"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "AI Solution Designer – Bussnang",
@@ -280,7 +290,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/ai-solution-designer-%E2%80%93-bussnang-at-stadler-4479341506"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Projektleiter 80% - 100% (m/w/d) Raum Bern-Basel",
@@ -304,7 +315,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-80%25-100%25-m-w-d-raum-bern-basel-at-dormakaba-schweiz-ag-4470001637"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Technischer Sachbearbeiter Services 80% - 100% (m/w/d)",
@@ -328,7 +340,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/technischer-sachbearbeiter-services-80%25-100%25-m-w-d-at-dormakaba-schweiz-ag-4470039741"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Operations Processes Specialist",
@@ -352,7 +365,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/operations-processes-specialist-at-vat-group-4480397343"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Solution Owner AI & Analytics (m/f/x)",
@@ -376,7 +390,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/solution-owner-ai-analytics-m-f-x-at-hilti-group-4470135231"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Leitung strategischer Projekte der Staatsanwaltschaft (Stabsstelle) (m/w/d)",
@@ -400,7 +415,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leitung-strategischer-projekte-der-staatsanwaltschaft-stabsstelle-m-w-d-at-kanton-st-gallen-4470093614"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Abacus Berater:in BPE, REST & AbaReport 80–100 %",
@@ -424,7 +440,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/abacus-berater-in-bpe-rest-abareport-80%E2%80%93100-%25-at-abraxas-informatik-ag-4480597862"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Microsoft Power Platform Spezialist (m/w/d)",
@@ -448,7 +465,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/microsoft-power-platform-spezialist-m-w-d-at-rocken%C2%AE-4479349850"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Intern – Data & AI Product Owner (m/f/x)",
@@ -472,7 +490,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-product-owner-m-f-x-at-hilti-group-4470128732"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Mécatronicien/ne de chars sur véhicules à chenilles lourds",
@@ -496,7 +515,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/m%C3%A9catronicien-ne-de-chars-sur-v%C3%A9hicules-%C3%A0-chenilles-lourds-at-bundesverwaltung-4479349439"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Applikations-Manager:in / Product Owner:in im Fachbereich Energieverrechnung",
@@ -520,7 +540,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/applikations-manager-in-product-owner-in-im-fachbereich-energieverrechnung-at-sak-st-gallisch-appenzellische-kraftwerke-ag-4480329911"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Senior Marketing & Innovation Manager (m/w/d)",
@@ -544,7 +565,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-marketing-innovation-manager-m-w-d-at-romer-s-hausb%C3%A4ckerei-ag-4480338100"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Zerspanungsmitarbeiter/in (Stangendrehen) (m/f/d)",
@@ -568,7 +590,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/zerspanungsmitarbeiter-in-stangendrehen-m-f-d-at-sfs-group-4479357063"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Diagnostiker Bauschadstoffe 80-100% (w/m/d)",
@@ -592,7 +615,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/diagnostiker-bauschadstoffe-80-100%25-w-m-d-at-csd-engineers-4359424350"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Manager Produktentwicklung",
@@ -616,7 +640,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/manager-produktentwicklung-at-europa-group-international-4479374982"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Power Platform Consultant (m/w/d)",
@@ -640,7 +665,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/power-platform-consultant-m-w-d-at-rocken%C2%AE-4479365286"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Stagista universitario/a Informazione e comunicazione",
@@ -664,7 +690,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/stagista-universitario-a-informazione-e-comunicazione-at-federal-roads-office-fedro-4479347603"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Business Prozess Manager:in Unfall",
@@ -688,7 +715,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/business-prozess-manager-in-unfall-at-axa-4480358404"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Business Prozess Manager:in Unfall",
@@ -712,7 +740,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/business-prozess-manager-in-unfall-at-axa-switzerland-4480330799"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Intern Trade Marketing Assets (100%)",
@@ -736,7 +765,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/intern-trade-marketing-assets-100%25-at-iwc-schaffhausen-4470302523"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   },
   {
    "title": "Fachspezialist/in Energie und Luftreinhaltung",
@@ -762,7 +792,8 @@
    "links": {
     "jobroom": "www.jobs.ch/de/stellenangebote/detail/37ecdea6-27ef-448f-b3f2-c75e6ff77e41/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
    },
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-17",
+   "carried_over": true
   }
  ]
 }
