@@ -1,20 +1,360 @@
 {
- "generated_at": "2026-10-18T06:03:05+00:00",
+ "generated_at": "2026-10-19T06:21:05+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 167,
-   "jobroom": 25
+   "arbeitsagentur": 164,
+   "linkedin": 173,
+   "jobroom": 23
   },
-  "excluded": 131,
-  "unique": 45,
-  "new": 0,
+  "excluded": 280,
+  "unique": 63,
+  "new": 14,
   "carried_over": 31
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Stadtentwicklung&location=Winterthur%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15",
-  "linkedin": "Apify HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Fachstelle+Integration&location=Winterthur%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
  },
  "jobs": [
+  {
+   "title": "Junior Projektmanager (Technik) m/w/d",
+   "company": "HOHNER Musikinstrumente GmbH",
+   "location": "Trossingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/junior-projektmanager-technik-m-w-d-at-hohner-musikinstrumente-gmbh-4478240033",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "Seit über 160 Jahren öffnet HOHNER unzähligen Menschen weltweit die Türe zur Welt der Musik. Unsere Mundharmonikas, Akkordeons, Melodicas und Flöten haben Musikgeschichte geschrieben und die Entwicklung von Blues, Folk und Jazz entscheidend geprägt. Wir leben und lieben Musik und bringen die Welt zum Klingen. Trifft das auch bei Dir den richtigen Ton? Dann freuen wir uns auf Deine Bewerbung, inklusive Deiner Gehaltsvorstellung und dem frühestmöglichen Eintrittstermin. Aufgaben Neues auf den Weg und erfolgreich ins Ziel bringen: Du unterstützt aktiv in der Projektleitung von technischen Projekten von der Idee bis zum Serienprodukt Die Dinge im Auge behalten Du überwachst und verfolgst konsequent die Projektziele bzgl. Terminen, Qualität und Kosten, führst die Projektdokumentation und bist fürs Reporting verantwortlich Nie den Überblick verlieren: Du hast alle Aufgaben und Meilensteine immer im Blick, hast einen Riecher für Probleme und leitest bei Abweichungen in Absprache gezielt Maßnahmen ein Zusammenbringen und verbinden: Du bist die Schnittstelle zu allen internen und externen Stellen im Team, kurbelst die Kommunikation an und hältst sie am Laufen Verantwortung tragen: Mit dem Produktmanager als Partner verantwortet ihr die Projekte in vollem Umfang Qualifikation Erfolgreich abgeschlossenes Studium (Master/Diplom/Bachelor) im Bereich Wirtschaftsingenieurwesen, Maschinenbau oder einem ähnlichen Studiengang Erste praktische Berufserfahrung im Projektmanagement von Entwicklungsprojekten in interdisziplinären Teams Gute Kenntnisse klassischer und agiler Projektmanagementmethoden inkl. betriebswirtschaftlicher Erfahrungen Sehr gute Kenntnisse in MS Office-Anwendungen und Projektmanagement-Tools Kreativität, Initiative, Kontaktfreude Engagierte, proaktive, strukturierte, analytische und eigenverantwortliche Arbeitsweise Innovationsfreude, schnelle Auffassungsgabe und Problemlösungskompetenz Musikalisches Verständnis/Vorbildung und Spielen eines Instruments Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Benefits Individuelle Einarbeitung mit Patensystem Möglichkeiten zur Aus- und Weiterbildung Flexibles Arbeitszeitmodel Kantine mit Hofmann Menü Job Rad Hansefit Betriebliche Altersvorsorge die Möglichkeit ein Instrument im firmeninternen Musikkurs zu erlernen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Manufacturing Referrals increase your chances of interviewing at HOHNER Musikinstrumente GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "f1928b1a91c72e44",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/junior-projektmanager-technik-m-w-d-at-hohner-musikinstrumente-gmbh-4478240033"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Testmanager (m/w/d) für safety Steuerungen",
+   "company": "ifm",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/testmanager-m-w-d-f%C3%BCr-safety-steuerungen-at-ifm-4416156926",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "Kennziffer: 792 Die Aufgabe In der Rolle des Testmanagers (m/w/d) gestaltest du aktiv unsere Testlandschaft, entwickelst zukunftsfähige Teststrategien für sicherheitsrelevante Systeme und führst cross-funktionale Teams sowie Partner souverän durch alle Testphasen. Dabei Übernimmst Du Folgende Tätigkeiten Definition, Planung und Auswahl der durchzuführenden, übergeordneten Testruns im Projekt (inkl. Testfallspezifikation und -strukturierung) Entwicklung und kontinuierliche Weiterentwicklung der Teststrategie unter Berücksichtigung der SIL2‑Anforderungen Fachliche Abstimmung, Koordination und Steuerung sämtlicher Testaktivitäten im Projekt Mitwirkung bei der Spezifikation, Review und Absicherung von System Requirements im sicherheitsrelevanten Kontext Erstellung, Implementierung und Durchführung von Testfällen in C/C++ (inkl. automatisierter Tests) Fachliche Führung, Anleitung und Qualitätssicherung des internen Testteams Steuerung, Koordination und fachliche Führung externer Testdienstleister Sicherstellung der Einhaltung normativer Anforderungen (z. B. IEC 61508, ISO 26262) im Testprozess Das Profil Du überzeugst durch eine lösungsorientierte Denkweise, übernimmst gerne Verantwortung und triffst fundierte Entscheidungen auch in komplexen Situationen. Mit deiner starken Kommunikations- und Vernetzungsfähigkeit bringst du Teams, Stakeholder und Partner effektiv zusammen und steuerst gemeinsame Ziele souverän. Fachlich Überzeugst Du Durch Erfolgreich abgeschlossenes technisches Studium oder vergleichbare Qualifikation Fundierte Berufserfahrung in einer vergleichbaren Position Sichere Kenntnisse in Testmanagementtools, Entwickung von Testfällen sowie der Weiterentwicklung von Teststrategien Fließende Deutschkenntnisse sowie sichere Englischkenntnisse in Wort und Schrift Wir Bieten Unterstützung Ihrer Work-Life-Balance mit flexiblen Arbeitszeiten (Gleitzeit) anteilig Homeoffice 30 Tage Urlaub eine unbefristete Festanstellung eine sehr gute Betreuung und Einarbeitung - von Anfang an eine betriebliche Altersvorsorge Angebote zur Berufsunfähigkeitsversicherung ein betriebliches Gesundheitsmanagement ein modernes Betriebsrestaurant mit Außenterrasse und vergünstigten Angeboten die hauseigene ifmLernfabrik zur fachlichen und persönlichen Weiterbildung Beteiligung am Unternehmenserfolg in Form von Erfolgsprämien eine offene, familiäre Unternehmenskultur mit kurzen Kommunikationswegen und flachen Hierarchien gemeinsame Events wie Firmenfeiern, Sportveranstaltungen u.v.m. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Automation Machinery Manufacturing Referrals increase your chances of interviewing at ifm by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "101 applicants"
+   },
+   "id": "c656e611fcced48e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/testmanager-m-w-d-f%C3%BCr-safety-steuerungen-at-ifm-4416156926"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Steuerungsprogrammierer (m/w/d)",
+   "company": "ETO GRUPPE",
+   "location": "Stockach, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/steuerungsprogrammierer-m-w-d-at-eto-gruppe-4452998258",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "Zur weiteren Verstärkung unseres Teams im Bereich Industrial Engineering suchen wir Sie zum nächstmöglichen Zeitpunkt. Your tasks Projektierung, Programmierung und Inbetriebnahme von Maschinen-Steuerungen und der zugehörigen Visualisierung für den Sondermaschinenbau Schnittstellenprogrammierung zu überlagerten Systemen, Einbindung von Robotern, Handhabungssystemen, Prüftechnik und Peripheriegeräten Aufbau und Weiterentwicklung modularer Softwarestrukturen, Dokumentation von Softwaremodulen Inbetriebnahme von Maschinen-Steuerungen, Robotern und Automatisierungssystemen Unterstützung externer Anlagenlieferanten bei der Hardware- und Software-Konzeptionierung, Softwareabnahme extern erstellter Anlagen Anlaufbetreuung und Schulung von Bedien- und Instandhaltungspersonal Your profile Abgeschlossene technische Ausbildung oder Studium mit Schwerpunkt Automatisierungstechnik sowie Erfahrung in der SPS-Programmierung Kenntnisse in der Inbetriebnahme von Maschinen und Anlagen Programmierkenntnisse in einer Hochsprache z. B. C++ sowie TiA Portal und Beckhoff TwinCAT 2 und 3 ergänzt durch Kenntnisse in Datenbanksystemen sind wünschenswert Strukturierte, selbstständige und lösungsorientierte Arbeitsweise sowie Teamfähigkeit Flexibilität und internationale Reisebereitschaft ca. 20% We offer Vergünstigtes Essen in der Betriebskantine Ausreichend Parkplätze vorhanden Wasserspender Mitarbeiterrabatte für viele Produkte und Freizeitangebote Geförderte Betriebliche Altersvorsorge Stark unterstützte Vermögenswirksame Leistungen Viele Gesundheits- und Sportangebote über HANSEFIT Gesundheitsvorsorge und medizinische Beratung durch Betriebsarzt Individuelle Weiterbildungsangebote Have we sparked your interest? Bewerben Sie sich direkt über unser Bewerberportal. Ihre Ansprechpartnerin ist Frau Melissa Scholl (+49 7771 809-1571). Informationen zu unserem Datenschutz finden Sie auf unserer Karriereseite. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Automotive Referrals increase your chances of interviewing at ETO GRUPPE by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "40 applicants"
+   },
+   "id": "f63f326b872c8f14",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/steuerungsprogrammierer-m-w-d-at-eto-gruppe-4452998258"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Global Logistics Coordinator (d/m/w)",
+   "company": "HOLY FASHION GROUP",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/global-logistics-coordinator-d-m-w-at-holy-fashion-group-4414087870",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3808f8de171f3d56",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/global-logistics-coordinator-d-m-w-at-holy-fashion-group-4414087870"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Technischer Sachbearbeiter AVOR (m/w/d)",
+   "company": "Rocken®",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technischer-sachbearbeiter-avor-m-w-d-at-rocken%C2%AE-4479925653",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "Unser Rocken Partner ist in der industriellen Metallverarbeitung tätig und fertigt Komponenten für unterschiedliche technische Einsatzgebiete. Das Unternehmen bearbeitet verschiedene Werkstoffe nach kundenspezifischen Vorgaben und legt Wert auf eine gleichbleibende Fertigungsqualität sowie die Einhaltung technischer Anforderungen. Die Arbeitsabläufe umfassen die Herstellung, Bearbeitung und Prüfung von Metallteilen. Ein praxisorientiertes Arbeitsumfeld und die enge Zusammenarbeit innerhalb des Teams prägen den Betrieb. Rolle Für unseren ROCKEN-Partner bist du in der Arbeitsvorbereitung eines mechanischen Fertigungsbetriebs tätig. Der Schwerpunkt liegt auf der Auftragsplanung und der Pflege der Produktionsdaten. Verantwortung Technische Kalkulationen erstellen und Offerten für Kundenanfragen vorbereiten Werkstattkapazitäten einplanen und Aufträge termingerecht für die Produktion freigeben Fertigungsabläufe analysieren und Verbesserungen umsetzen Materialbedarf ermitteln und Bestände mit Lager und Einkauf abgleichen Arbeitsgänge, Materialstrukturen und Artikeldaten im ERP anlegen und nachführen Fertigungsdokumente zusammenstellen und aktuell halten Bestellungen im Tagesgeschäft unterstützen, Rücksprache mit Qualitätssicherung bei Abweichungen Qualifikationen Technische Grundbildung, abgeschlossen oder mit laufender Weiterbildung im Prozessbereich Praxis in der Zerspanung und sicherer Umgang mit Zeichnungen und Stücklisten Kenntnisse in ERP-Systemen und MS Office Selbständige, strukturierte Arbeitsweise mit Blick auf Termine und Kapazitäten Klare Kommunikation und Durchsetzungsvermögen gegenüber Werkstatt und Lieferanten Bewusstsein für Qualität und Kosten ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "01d26a5cd67c2d81",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technischer-sachbearbeiter-avor-m-w-d-at-rocken%C2%AE-4479925653"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Sachbearbeiter/in Export 80-100%",
+   "company": "yellowshark® AG",
+   "location": "Gossau, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-export-80-100%25-at-yellowshark%C2%AE-ag-4461183255",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1b7fccc49bebed5d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-export-80-100%25-at-yellowshark%C2%AE-ag-4461183255"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Fachperson Altlasten (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachperson-altlasten-m-w-d-at-kanton-st-gallen-4461983896",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3542b605fea5d508",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-altlasten-m-w-d-at-kanton-st-gallen-4461983896"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Internship Marketing & Events - Die Casting",
+   "company": "Bühler Group",
+   "location": "Uzwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/internship-marketing-events-die-casting-at-b%C3%BChler-group-4479946518",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "03ac8f0e38277106",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/internship-marketing-events-die-casting-at-b%C3%BChler-group-4479946518"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Projektleiter Hochbau (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-hochbau-m-w-d-at-rocken%C2%AE-4479936333",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "78fe5fe429bbad61",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-hochbau-m-w-d-at-rocken%C2%AE-4479936333"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Sachbearbeiter/in Auftragsabwicklung und Export 100% (m/w/d)",
+   "company": "Rocken®",
+   "location": "Flawil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-auftragsabwicklung-und-export-100%25-m-w-d-at-rocken%C2%AE-4479928536",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "897724a3be92207f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-auftragsabwicklung-und-export-100%25-m-w-d-at-rocken%C2%AE-4479928536"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Consultant Finance Microsoft Dynamics 365 F&SCM",
+   "company": "HSO",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/consultant-finance-microsoft-dynamics-365-f-scm-at-hso-4332558949",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "Mit innovativen und digitalen Microsoft Technologien realisert HSO regional sowie international aufgestellten Kunden aus Einzelhandel, Grosshandel/Distribution, Fertigung und Dienstleistungen mit Digitalen Projekten. Dabei nutzt HSO die Cloud-Plattform Microsoft Dynamics 365, die CRM, ERP, Office 365 und BI-Standardsoftware umfasst. HSO bietet den erforderlichen Service, um eine optimale Implementierung, Optimierung und Verwaltung dieser führenden Cloud-Lösung sicherzustellen. Wir suchen eine engagierte und strukturierte Persönlichkeit als Consultant Finance Microsoft Dynamics D365 zur Unterstützung unseres Finanzmanagements in spannenden Kundenprojekten. In dieser Rolle arbeitest du eng mit der Bereichsleitung und den Projektteams zusammen, um den Kick Off Form Testreibungslosen Ablauf unserer Finanzprojekte sicherzustellen. Consultant Finance Microsoft Dynamics 365 F&SCM Deine neue Herausforderung Verantwortlich für den zu implementierenden Fachbereich Finance & Controlling Erarbeitung von Lösungskonzepten, basierend auf den Geschäftsprozess des Kunden und Koordination der Zusammenarbeit der verschiedenen Schnittstellen Durchführen von Analysen, Konfigurationen und Tests für die Einführung von Microsoft Dynamics 365 F&SCM Erarbeitung von Funktionalen Anforderungsspezifikationen Konfiguration, Parametrisierung und Kundenschulungen im Fachbereich mit der Business Applikation Microsoft Dynamics 365 F&SCM Aktives Managen der Kundenbeziehungen Dein Background Mindestens 3-5 Jahre Berufserfahrung mit Microsoft Dynamics 365 F&SCM 3-5 Jahre Projekterfahrung in Implementierungsprojekten als Berater im Bereich Finance und der Einführung von Gesamtlösungen Du verfügst über ein betriebswirtschaftliches Studium (Master/Bachelor/BA-Studium) oder eine entsprechende Ausbildung im IT- oder Projektumfeld Selbstständige und kundenorientierte Arbeitsweise Gute Kommunikationsfähigkeit und Präsentationssicherheit Engagement, idealerweise im internationalen Umfeld Du verfügst über sehr gute Deutsch– und gute Englischkenntnisse Reise Bereitschaft zu Kundenterminen Auf das darfst du dich freuen Eine moderne und flexible Art zu arbeiten, steht bei uns im Fokus. Dein Arbeitsplatz ist im Team bei Kundenprojekten, im Office, mit Microsoft Teams, im Homeoffice. Flexibel heisst für uns auch, alle Möglichkeiten der modernen digitalen Arbeitsumgebungen effizient zu nutzen. Das Wohl und die Zufriedenheit unserer Mitarbeiter liegen uns am Herzen. Dadurch haben wir eine Menge zu bieten: Begeisterung durch Einsatz modernster Business Technologien und Tools, interne Akademie, attraktives Vergütungsmodell inkl. Vorsorge, flache Hierarchien, kurze Entscheidungswege, eine Du- Kultur, fortschrittliche Personalpolitik, langfristiges Engagement, kollegiales Umfeld, motiviertes Team und spannende Events. Wachse mit uns! Das klingt genau nach dir? Wir stehen für deine Fragen gerne zur Verfügung und freuen uns auf deine vollständige Bewerbung recruitment-ch@hso.com Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Construction, Software Development, and IT Services and IT Consulting Referrals increase your chances of interviewing at HSO by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "51 applicants"
+   },
+   "id": "1febca6d6874c223",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/consultant-finance-microsoft-dynamics-365-f-scm-at-hso-4332558949"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Personalberater/in RAV Rapperswil-Jona (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "Rapperswil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/personalberater-in-rav-rapperswil-jona-m-w-d-at-kanton-st-gallen-4461973918",
+   "posted": "2026-10-18",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "03d65693179c9fa3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/personalberater-in-rav-rapperswil-jona-m-w-d-at-kanton-st-gallen-4461973918"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Strassenbau Polier - Der Organisator",
+   "company": "Workmanagement AG",
+   "location": "7320 Sargans",
+   "country": "CH",
+   "url": "https://www.workmanagement.ch/jobs/61732-strassenbau-polier-der-organisator?cHash=6ff936041355992fc319200a361f900c",
+   "posted": "2026-10-16",
+   "salary": null,
+   "via": null,
+   "description": "reibungslosen Ablauf auf der Baustelle\n *  Selbständige Organisation und Leitung von Baustellen\n *  Erstellen von Rapports, Ausmessen der Leistungen und Koordination der Materialbeschaffung\n *  Führung und Einsatzplanung von Mitarbeitenden vor Ort\n *  Mitarbeit bei der Arbeitsvorbereitung (AVOR) und <em>Projektkoordination</em>",
+   "extra": {
+    "canton": "SG",
+    "query": "Projektkoordination",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "933b0e38-3007-4351-8a66-f187636c793c"
+   },
+   "id": "aed10eb478eddd60",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.workmanagement.ch/jobs/61732-strassenbau-polier-der-organisator?cHash=6ff936041355992fc319200a361f900c"
+   },
+   "first_seen": "2026-10-19"
+  },
+  {
+   "title": "Subcontracts Administrator",
+   "company": "ENKA Investment AG",
+   "location": "8212 Neuhausen am Rheinfall",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/5763c51b-8b14-4386-8f29-cd5acd63c5d2/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "formation, administration and closeout, in accordance with the project’s Subcontract Management procedures\n* Subcontract formation: review service requisitions for completeness, prepare bidder lists, compile and issue ITB packages, process all ITB correspondence, complete commercial and combined bid <em>evaluations</em>",
+   "extra": {
+    "canton": "SH",
+    "query": "Evaluation",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "6a543c32-ca70-49d6-b2ed-1c1b537fcb57"
+   },
+   "id": "7b2e5b9ae790377c",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/5763c51b-8b14-4386-8f29-cd5acd63c5d2/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-19"
+  },
   {
    "title": "Müllwerkerin (m/w/d)",
    "company": "Stadtverwaltung Konstanz",
