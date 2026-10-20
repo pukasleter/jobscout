@@ -1,0 +1,573 @@
+{
+ "generated_at": "2026-10-20T06:10:23+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 166,
+   "linkedin": 189,
+   "jobroom": 19
+  },
+  "excluded": 294,
+  "unique": 64,
+  "new": 23,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Bildungsplanung&location=Schaffhausen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+ },
+ "jobs": [
+  {
+   "title": "Lehrer*innen für Grund- & Werkrealschule: a) Klasse 1-3, b) Klasse 4-6",
+   "company": "DIE UNTERSEE – Freie Aktive Schule & Kindergarten Radolfzell",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/lehrer-innen-f%C3%BCr-grund-werkrealschule-a-klasse-1-3-b-klasse-4-6-at-die-untersee-%E2%80%93-freie-aktive-schule-kindergarten-radolfzell-4478291356",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "Dein Herz schlägt für die ganzheitliche Potenzialentfaltung von Kindern und Jugendlichen. Dabei möchtest Du mehr als \"nur“ Wissen vermitteln, sondern in aktiver Beziehung mit den Schüler*innen stehen und einen pädagogisch wie emotional sicheren Entfaltungsrahmen schaffen. Du weißt um die Reife- und Entwicklungsdynamiken, welche die Heranwachsenden in den einzelnen Altersstufen beschäftigen. Neben der klassischen Pädagogik schaust Du immer wieder über den Tellerrand und lässt Gelerntes und Erfahrenes gern durch Erkenntnisse aus anderen Disziplinen (wie bspw. Gehirn-, Bindungs-, Motivations- und Entwicklungsforschung etc.) erweitern. Du willst, dass Kinder nicht nur rational für das Leben gerüstet werden, sondern zu sozialkompetenten, reflektierten, kreativen und ökologisch wie ökonomisch verantwortungsbewussten Persönlichkeiten heranreifen. Bei allem hohen (Eigen-)Anspruch weißt Du, dass Authentizität und Herz wichtiger sind als Perfektion. Und so trägst Du auch im pädagogischen Alltagstrubel immer eine gewisse Gelassenheit in Dir und findest Zeit – ob allein oder im entspannten Rahmen mit Deinen Kolleg*innen – über Vergangenes zu reflektieren, auszutauschen und gemeinsam neue Ideen und Wege auszuhecken – und klar, auch gern auch mal auf gemeinsame Erfolge anzustoßen. Für und auf die aktiven Gesellschaftsgestalter*innen von morgen. Für diese prägende Aufgabe suchen wir offene und kompetente Herzen. Über uns: Als Bildungshaus vereint die UNTERSEE eine Spielgruppe nach Emmi Pikler, einen Aktiven Kindergarten und eine Aktive Schule unter einem Dach. In der UNTERSEE haben die Kinder somit die Möglichkeit, von Anfang an bis zu ihrem Schulabschluss gemeinsam zu lernen, zu spielen, sich zu entfalten, sich Herausforderungen zu stellen, sich an Geschafftem zu erfreuen, kurz: in einem großen Miteinander als Gesellschaftsgestalter*innen von Morgen heranzuwachsen. Dies geschieht in der UNTERSEE ohne Orts- und Einrichtungswechsel, getragen durch feste Bindungen zu den Lernbegleitenden in Kindergarten und Schule, in vertrauter Umgebung, mit Freunden, vertrauten Kindergruppen, die Halt, Kontinuität und Geborgenheit schenken. Unsere pädagogische Ausrichtung zieht sich wie ein roter Faden von der Spielgruppe nach Pikler bis hin zur Abschlussklasse unserer Schule. Die UNTERSEE will Familien und ihren Kinder eine Bildungsheimat sein. Wir leben Gemeinschaft im Sinne einer Erziehungspatenschaft mit den Eltern, die ein gemeinsames Begleiten der Kinder auf ihrem Weg von Klein bis Groß gelingend ermöglichen kann. Aufgaben Generell besteht die Aufgabe unserer Lernbegleiter*innen darin, beobachtend und beratend an der Seite der Schüler*innen zu stehen und ein förderndes wie forderndes Angebot zu schaffen, das dem Entwicklungsstand der einzelnen Kinder gerecht wird. Die Kinder wählen anhand ihrer Interessen und aktuellen Entwicklungsstufen Material aus unserer vorbereiteten Lernumgebung. Die Schulzeit gliedert sich in Freiarbeitszeiten und Projektzeiten. In den Freiarbeitszeiten wählen die Schüler*innen ihre Themen im Rahmen eines bestehenden Angebots frei und interessensbasiert. Die Projektzeiten werden von den Pädagog*innen definiert und entsprechendes Material vorbereitet. Wesentlicher Aufgabenbereich der Lernbegleiter*innen ist daher, das unterschiedliche Materialspektrum zu kennen, die vorbereitete Lernumgebung zu pflegen und neue Impulse mit einzubringen. Dafür treffen wir uns als Team an zwei Nachmittagen pro Woche. a) Klasse 1-3 (P1) – insgesamt ca. 30 Schüler*innen Lernbegleiter*in (50-80%) für unsere jahrgangsübergreifende Primaria 1 Mentor*in von 10 Kindern Begleitung der Freiarbeitszeiten Begleitung & Gestaltung der Projektzeiten, zusammen mit den Kolleg*innen b) Klasse 4-6 (P2) – insgesamt ca. 30 Schüler*innen Lernbegleiter*in (60-80%) für unsere jahrgangsübergreifende Primaria 2 Mentor*in von ca. 10 Kindern Begleitung der Freiarbeitszeiten Begleitung & Gestaltung der Projektzeiten, zusammen mit den Kolleg*innen optional/wünschenswert: …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "27a6762be78c268c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/lehrer-innen-f%C3%BCr-grund-werkrealschule-a-klasse-1-3-b-klasse-4-6-at-die-untersee-%E2%80%93-freie-aktive-schule-kindergarten-radolfzell-4478291356"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "SPECIALIST HR TRAINING & DEVELOPEMENT (a) 100%",
+   "company": "General Dynamics European Land Systems",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/specialist-hr-training-developement-a-100%25-at-general-dynamics-european-land-systems-4478293715",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "Das sind ihre Aufgaben Planung, Organisation und Durchführung von internen und externen Aus- und Weiterbildungsmaßnahmen Entwicklung moderner Lern- und Trainingskonzepte für unterschiedliche ZielgruppenBeratung von Führungskräften und Mitarbeitenden in Entwicklungs- und WeiterbildungsthemenAnalyse von Trainingsbedarfen sowie Evaluation der Wirksamkeit von Schulungsmaßnahmen Mitarbeit bei Talent Management-, Nachfolgeplanungs- und EntwicklungsprozessenKoordination standortübergreifender HR Development-Initiativen Unterstützung bei der Weiterentwicklung digitaler Lernplattformen und Lerntechnologien Mitarbeit in Projekten zur Digitalisierung und Weiterentwicklung der Personalentwicklung Das bringen Sie mit Abgeschlossenes Studium mit Schwerpunkt HR, Psychologie, Wirtschaftspsychologie, Pädagogik oder vergleichbarer Ausbildung Erste Berufserfahrung im Bereich Learning & Development, Talent Management oder HR Development Interesse an Personalentwicklung, Talentförderung und Organisationsentwicklung Affinität zu modernen Lernmethoden, digitalen Lernformaten und HR-SystemenSelbstständige, strukturierte und proaktive ArbeitsweiseAusgeprägte Kommunikations-, Moderations- und OrganisationsfähigkeitenTeamorientierte Persönlichkeit mit hoher Lernbereitschaft Sehr gute Deutsch- und gute Englischkenntnisse Das bieten wir Ihnen Raum für Eigeninitiative und Mitgestaltungsmöglichkeiten, sowie Unterstützung durch ein dynamisches Team Moderne und top ausgerüstete Arbeitsplätze Attraktive Anstellungsbedingungen wie z.B. Übernahme des Arbeitnehmeranteils zur Nichtberufsunfall- und Krankentaggeldversicherung, vergünstigter Treibstoffbezug, Beteiligung an ÖV-Abonnements uvm. Zeitgerechtes Entlohnungssystem Spannende Zukunftsaussichten und Karrieremöglichkeiten Vielfältiges Weiterbildungsprogramm und Talentförderprogramme Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at General Dynamics European Land Systems by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "4df9dea1669a6b73",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/specialist-hr-training-developement-a-100%25-at-general-dynamics-european-land-systems-4478293715"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "SPECIALIST HR TRAINING & DEVELOPEMENT (a) 100% 1",
+   "company": "General Dynamics European Land Systems",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/specialist-hr-training-developement-a-100%25-1-at-general-dynamics-european-land-systems-4478293714",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "Das sind Ihre Aufgaben Planung und Koordination interner und externer Personalentwicklungsmaßnahmen Auswahl und Evaluation geeigneter Trainingsanbieter Beratung und Unterstützung von Mitarbeitenden und Führungskräften in Entwicklungsfragen Erstellung und Optimierung von Schulungsunterlagen und -konzepten Durchführung von Schulungen und Moderation von Trainings Konzeption und Umsetzung des jährlichen Personalentwicklungsprogramms Mitarbeit an HR-Projekten und- Konzepten im Bereich Personalentwicklung Das bringen Sie mit Kaufmännische Grundausbildung mit abgeschlossener Weiterbildung im HR (z. B. HR-Fachausweis) Mehrjährige Berufserfahrung in einer vergleichbaren HR-Funktion Sehr gute MS-Office-Kenntnisse sowie fundierte Erfahrung mit SAP (SuccessFactors) von Vorteil Strukturierte, zuverlässige und exakte Arbeitsweise mit ausgeprägtem Organisationstalent Dienstleistungsorientierte Persönlichkeit mit hohem Qualitätsbewusstsein Das bieten wir Ihnen Raum für Eigeninitiative und Mitgestaltungsmöglichkeiten sowie Unterstützung durch ein dynamisches Team Moderne und top ausgerüstete Arbeitsplätze Attraktive Anstellungsbedingungen wie z.B. Übernahme des Arbeitnehmeranteils zur Nichtberufsunfall- und Krankentaggeldversicherung, Vergünstigter Treibstoffbezug und Ladestation, Beteiligung an ÖV-Abonnements uvm. Flexible Arbeitsmodelle und Spannende Zukunftsaussichten Vielfältiges Weiterbildungsprogramm und Talentförderprogramme Kollegiale Unternehmenskultur mit offener Kommunikation, Teamgeist und kurzen Entscheidungswegen Aktives Gesundheits‑ und Sicherheitsmanagement sowie Fokus auf Wohlbefinden und Diversität Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at General Dynamics European Land Systems by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "95e11a2e28f684a5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/specialist-hr-training-developement-a-100%25-1-at-general-dynamics-european-land-systems-4478293714"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Fachperson Sozialpädagogik HF / FH",
+   "company": "Faire une carrière empreinte d'humanité",
+   "location": "Bazenheid, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachperson-sozialp%C3%A4dagogik-hf-fh-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4481204536",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b6fe6953d45340d8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-sozialp%C3%A4dagogik-hf-fh-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4481204536"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Student Assistant - Custom Programmes ES HSG (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/student-assistant-custom-programmes-es-hsg-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4477890305",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c0fb0f119f57ce8f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/student-assistant-custom-programmes-es-hsg-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4477890305"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Projektleiter:in Umweltplanung / Umweltbaubegleitung (60%-100%)",
+   "company": "Basler & Hofmann",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-umweltplanung-umweltbaubegleitung-60%25-100%25-at-basler-hofmann-4470857591",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b9b1effc117d0f73",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-umweltplanung-umweltbaubegleitung-60%25-100%25-at-basler-hofmann-4470857591"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Dipl. Aktivierungsfachfrau / Aktivierungsfachmann HF 40-80%",
+   "company": "Mach Karriere als Mensch_Faire une carrière empreinte d'humanité_Fai una carriera piena di umanità",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/dipl-aktivierungsfachfrau-aktivierungsfachmann-hf-40-80%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4480290605",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1e8e009ff7224b30",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/dipl-aktivierungsfachfrau-aktivierungsfachmann-hf-40-80%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4480290605"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "M365 Digital Product Owner – Information Protection & Copilot Readiness (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/m365-digital-product-owner-%E2%80%93-information-protection-copilot-readiness-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4480964568",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a7716b342d630bed",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/m365-digital-product-owner-%E2%80%93-information-protection-copilot-readiness-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4480964568"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Projektleitung Verkehrsplanung (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleitung-verkehrsplanung-m-w-d-at-kanton-st-gallen-4435468445",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "68073d17b2824e84",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleitung-verkehrsplanung-m-w-d-at-kanton-st-gallen-4435468445"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Leitung Pflegeentwicklung",
+   "company": "Mach Karriere als Mensch_Faire une carrière empreinte d'humanité_Fai una carriera piena di umanità",
+   "location": "Mels, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leitung-pflegeentwicklung-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4479996427",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d27e32b674e12896",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leitung-pflegeentwicklung-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4479996427"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Projektleiterin/Projektleiter Raumplanung (80–100 %)",
+   "company": "EspaceSuisse",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiterin-projektleiter-raumplanung-80%E2%80%93100-%25-at-espacesuisse-4480408053",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "412768ff60acb06b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiterin-projektleiter-raumplanung-80%E2%80%93100-%25-at-espacesuisse-4480408053"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Leitung Pflegeentwicklung",
+   "company": "Faire une carrière empreinte d'humanité",
+   "location": "Mels, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leitung-pflegeentwicklung-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4481204537",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "917a8f9421b81911",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leitung-pflegeentwicklung-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4481204537"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Mitarbeiter/in Schulsekretariat",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-schulsekretariat-at-kanton-thurgau-4476586349",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a426df22488aad87",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-schulsekretariat-at-kanton-thurgau-4476586349"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "ServiceNow Digital Product Owner – Workflow & Agentic Automation (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/servicenow-digital-product-owner-%E2%80%93-workflow-agentic-automation-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4480962720",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9abc3b5fb1ce4526",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/servicenow-digital-product-owner-%E2%80%93-workflow-agentic-automation-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4480962720"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Technischer Systemplaner HKLS (m/w/d) Friedrichshafen - Jobbird.com",
+   "company": "Jobster",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/technischer-systemplaner-hkls-m-w-d-friedrichshafen-jobbird-com-at-jobster-4480205692",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7917c0305743ec29",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/technischer-systemplaner-hkls-m-w-d-friedrichshafen-jobbird-com-at-jobster-4480205692"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Sozialarbeiterin / Sozialarbeiter",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sozialarbeiterin-sozialarbeiter-at-kanton-thurgau-4480243147",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "Die Jugendanwaltschaft sucht aufgrund der Pensionierung eines langjährigen Mitarbeiters per 1. April 2027 oder nach Vereinbarung eine / einen Sozialarbeiterin / Sozialarbeiter 80–100% Die Staatsanwaltschaft ist die unabhängige Untersuchungs-, Sanktions-, und Anklagebehörde für den Kanton Thurgau im Straf- und Nebenstrafrecht. Diese gliedert sich in die Abteilungen Generalstaatsanwaltschaft, Staatsanwaltschaft für Wirtschaftsstraffälle und Organisierte Kriminalität, die regionalen Staatsanwaltschaften Bischofszell, Frauenfeld und Kreuzlingen und die Jugendanwaltschaft, die als einzige Abteilung auch für den Vollzug zuständig ist. Die Jugendanwaltschaft ist für die Strafverfolgung bei Kindern und Jugendlichen im Alter von 10 bis 18 Jahren mit gesetzlichem Wohnsitz im Kanton Thurgau sowie den Straf- und Massnahmenvollzug zuständig. Sie setzt sich aus fünf Jugendanwälten und Jugendanwältinnen, drei Sozialarbeitenden und fünf Sachbearbeiterinnen zusammen. Ihre Aufgaben Abklärungen der persönlichen Verhältnisse der Jugendlichen im Hinblick auf allfällig notwendige Schutzmassnahmen Erarbeitung von Empfehlungen und Interventionsstrategien im Hinblick auf allfällig notwendige Schutzmassnahmen Organisation, Begleitung und Überprüfung der Schutzmassnahmen Begleitung der Jugendlichen während der Probezeit enge, interdisziplinäre Zusammenarbeit mit Jugendanwälten, Institutionen und Behörden Ihr Profil Abschluss in Sozialer Arbeit einer Fachhochschule oder Höheren Fachschule Berufserfahrung in der gesetzlichen Soziarbeit oder in einer stationären Einrichtung Organisatorische und administrative Fähigkeiten Integre, kommunikative, team- und konfliktfähige Persönlichkeit ausgeprägtes Interesse an interdisziplinärer Zusammenarbeit Interesse an juristischen Fragen Bereitschaft sich aktiv ins Team einzubringen Unser Angebot Es erwartet Sie eine abwechslungsreiche, interessante und verantwortungsvolle Tätigkeit mit viel Eigenverantwortung und hoher Selbstständigkeit. In unserem kleinen und engagierten Team pflegen wir eine familiäre Atmosphäre und leben eine interdisziplinäre Zusammenarbeit. Wir bieten Ihnen einen modernen Arbeitsplatz inmitten der Stadt Frauenfeld. Sie profitieren von einer Jahresarbeitszeitregelung mit flexibler Arbeitsgestaltung, Weiterbildungsmöglichkeiten sowie attraktiven Anstellungsbedingungen mit speziellen Leistungen und Vergünstigungen. Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung. Ihr Kontakt Jonas Bruderer, Leitender Jugendanwalt, Jugendanwaltschaft, jonas.bruderer@tg.ch,­ 058 345 19 40 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "beaaccc665105a08",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sozialarbeiterin-sozialarbeiter-at-kanton-thurgau-4480243147"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Fachmann/-frau Betreuung Fachbereich Kinder",
+   "company": "Spital Thurgau AG",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachmann-frau-betreuung-fachbereich-kinder-at-spital-thurgau-ag-4480975453",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "Zur Ergänzung unseres Kita-Teams suchen wir per 1. Februar 2027 oder nach Vereinbarung eine motivierte, flexible und herzliche Fachkraft Fachmann/-frau Betreuung Fachbereich Kinder 80% Empathisch, humorvoll, lösungsorientiert und offen kennzeichnen die Werte in unserem Team. Trifft das auch auf Sie zu? Dann freuen wir uns auf Ihre Bewerbung. Sie übernehmen Liebevolle und professionelle Betreuung und Förderung der Kinder Unterstützung der Gruppenleitung im pädagogischen und organisatorischen Alltag Mitgestaltung eines strukturierten, kindgerechten Tagesablaufs Kooperative und transparente Zusammenarbeit im Team sowie mit den Eltern Aktive Mitwirkung und Förderung der gruppendurchmischten Zusammenarbeit und unserer positiven Teamkultur Sicherstellung der Umsetzung unserer Konzepte Sie bringen mit Pädagogisches Fachdiplom als Fachfrau / Fachmann Betreuung, Bereich Kinder Selbständiges, verantwortungsvolles Arbeiten und Freude am Beruf Respektvoller und wertschätzender Umgang mit grossen und kleinen Menschen Teamplayer, Konfliktfähigkeit und Kooperatives Denken Flexibilität, Belastbarkeit, Eigeninitiative und Motivation Darauf dürfen Sie sich freuen Ein vielseitiges Aufgabengebiet mit viel Eigenverantwortung und Fokus auf Teamwork wartet. Wir sind ein modernes, erfolgreiches und zukunftsorientiertes Unternehmen - auf Wunsch mit Parkplatz, sehr guter ÖV-Anbindung, firmeneigener Kita und gutem Personalrestaurant. Ihre Kontaktperson «Ich freue mich darauf, Sie kennenzulernen und Ihnen mehr über die Stelle und unser Team zu erzählen. Melden Sie sich gerne bei mir.» Deborah Oertle Standortleiterin 058 144 8019 Die Spital Thurgau AG stellt sich vor Zum erfolgreichen Unternehmen Spital Thurgau AG gehören die Kantonsspitäler in Frauenfeld und Münsterlingen, die Psychiatrischen Dienste Thurgau in Münsterlingen und Weinfelden sowie die Klink St. Katharinental für Rehabilitation und Langzeitpflege in Diessenhofen. Ebenfalls betreiben wir zentrale medizinische und administrative Dienste und Institute. Wir bieten ein umfassendes Leistungsangebot und investieren stetig in die hochwertige Infrastruktur. Unseren rund 4'100 Mitarbeitenden bieten wir attraktive Arbeitsumgebungen, interdisziplinäre Zusammenarbeit und gezielte Entwicklungsmöglichkeiten. Werden auch Sie Teil unserer Erfolgsgeschichte! Wir bevorzugen Direktbewerbungen, Stellenvermittler verzichten bitte auf eine Kontaktaufnahme. ALLE UNSERE OFFENEN STELLEN Show more Show less Seniority level Not Applicable Employment type Part-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Spital Thurgau AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d97784f3a317b6e0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachmann-frau-betreuung-fachbereich-kinder-at-spital-thurgau-ag-4480975453"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "2027 Internship – Marketing & Thought Leadership Events – Ermatingen",
+   "company": "UBS",
+   "location": "Ermatingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/2027-internship-%E2%80%93-marketing-thought-leadership-events-%E2%80%93-ermatingen-at-ubs-4472705391",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "Your role Interested in working in finance, and passionate about bringing ideas to life, but not sure where to start? Do you want to work for a firm with a truly global footprint? We're looking for ambitious students to join our 2027 Internship Program within our Group Real Estate and Supply Chain. This role offers unique visibility into UBS’s leadership landscape, with regular exposure to senior executives and key stakeholders through high-level events, including interactions with top management. You’ll Get To actively support the Marketing & Business Development team in strategic positioning and external marketing as well as in the development and implementation of projects for UBS and Wolfsberg, and in the active implementation of AI initiatives support the program managers in defining topics and in the concept, organization, delivery and follow-up of the \"Wolfsberg Dialogue\" events, in the areas of economics, politics and society plan and realize social media content on LinkedIn process and analyze guest surveys create PowerPoint presentations and concepts, and research background information on topics and speakers Your team You’ll be working in Group Real Estate and Supply Chain in our Ermatingen offices. Our team provides a wide variety of services globally to deliver a seamless work experience and optimal commercial opportunities for our firm. You will work in the Marketing & Business Development team at the Wolfsberg, UBS Conference center for Education and Dialogue in Ermatingen, Thurgau. The modern seminar center meets the highest standards in implementing conferences, seminars and events. It has a pronounced client focus, making an important contribution to the implementation of UBS's strategic goals. In addition, we organize around 30 exclusive Thought Leadership events on relevant topics every year as part of the \"Wolfsberg Dialogue\". Your expertise We Are Looking For a Candidate Who has completed at least 4 semesters of a bachelor's degree, and graduated no longer than 12 months ago (bachelor's or master's degree) has a competitive minimum GPA of 4.5 according to the Swiss grading system has values that align with ours: hard-working, trustworthy, dedicated and collaborative is a strategic thinker with strong communication skills is motivated to work in a business with high demands and tight deadlines can evidence how experimental and responsible use of AI can improve outcomes and efficiency has excellent German and English skills is flexible, open and has a cooperative personality has good communication skills and is confidence in dealing with colleagues from all levels works in a structured, self-confident and independent manner has extensive experience with MS Office and AI Tools Start date: 1 February 2027 We’re looking for someone who’s curious and wants to thrive in a business that never stops moving. We welcome all majors, but it’s important to have an interest in the financial industry. We want to see what makes you unique and discover what you can bring to our team. Perhaps you’ve organized a fundraising event or taken part in team sports? Or stepped out of your comfort zone to learn about a subject you found challenging? Let us know how your achievements match the skills we’re after. Your program This paid internship will last 6 months. You’ll work with our experts and learn about the industry, our clients and our firm. You’ll be right at the heart of our business, learning from your colleagues, taking part in day-to-day operations. You'll be given mentors along the way and will have the chance to get to know some of the most senior members of our teams. You’ll have plenty of opportunities to develop new skills and make contacts along the way. If you like challenges, enjoy learning and want to work where no two days are the same, this program is for you. If you have a successful internship, you may get an offer to return for our Graduate Talent Program after you've completed your studies. About Us UBS …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Volunteer",
+    "applicants": "66 applicants"
+   },
+   "id": "29e1c5ddc542ffe2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/2027-internship-%E2%80%93-marketing-thought-leadership-events-%E2%80%93-ermatingen-at-ubs-4472705391"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Safety, Health & Environment Support (d/w/m)",
+   "company": "Unilever",
+   "location": "Thayngen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/safety-health-environment-support-d-w-m-at-unilever-4480405919",
+   "posted": "2026-10-20",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "377278fea42238f1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/safety-health-environment-support-d-w-m-at-unilever-4480405919"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Bauleitung (m/w/d) im SF-Bau am Standort Singen",
+   "company": "ZÜBLIN",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/bauleitung-m-w-d-im-sf-bau-am-standort-singen-at-z%C3%BCblin-4481254761",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "eeeb767366c345ab",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/bauleitung-m-w-d-im-sf-bau-am-standort-singen-at-z%C3%BCblin-4481254761"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "DC Projektleiter PV Freiland- und Dachanlagen (m/w/d)",
+   "company": "Solarcomplex AG",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/dc-projektleiter-pv-freiland-und-dachanlagen-m-w-d-at-solarcomplex-ag-4478283868",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f0acd4ad87cf5bee",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/dc-projektleiter-pv-freiland-und-dachanlagen-m-w-d-at-solarcomplex-ag-4478283868"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Leiter/-in Schätzung",
+   "company": "Kanton St.Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-sch%C3%A4tzung-at-kanton-st-gallen-4471338836",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Aufgrund der Pensionierung des bisherigen Stelleninhabers suchen wir per März 2027 oder nach Vereinbarung eine/-n Ihre Aufgaben Fachliche, personelle und organisatorische Führung der Abteilung mit zwei internen Mitarbeitenden und 45 nebenberuflichen Fachschätzerinnen und Fachschätzern Sicherstellung eines rechtssicheren, konsistenten und effizienten Schätzungswesens Analyse und Aufbereitung von Daten als Grundlage für Rechtsmittelentscheide Gewinnung, Einarbeitung und fachliche Weiterentwicklung unserer Fachschätzerinnen und Fachschätzer Beobachtung von Entwicklungen im Schätzungs- und Immobilienbereich sowie Sicherstellung eines wirksamen Wissens- und Qualitätsmanagements Verantwortung für Betrieb und Weiterentwicklung der Schätzungsapplikation Vertretung der GVSG in Fachgremien und Mitgestaltung der Weiterentwicklung des Schätzungswesens Was Sie auszeichnet Bautechnische Grundausbildung mit Weiterbildung als Architekt/-in, Bauleiter/-in oder vergleichbare Qualifikation Mehrjährige Ausführungserfahrung in der Bau- und Projektleitung sowie Baukostenermittlung Fundierte Schätzungserfahrung mit entsprechender Weiterbildung (z.B. FA oder CAS Immobilienbewertung) Führungserfahrung mit fachlicher und personeller Verantwortung Strukturierte, effiziente und lösungsorientierte Arbeitsweise Souveränes Auftreten, verhandlungssicher und durchsetzungsstark Belastbar, entscheidungsfreudig und auch unter Druck jederzeit handlungssicher Unsere Benefits Wir bieten eine verantwortungsvolle Führungsfunktion mit kantonsweiter Wirkung an der Schnittstelle von Bauwesen, Immobilien und Versicherung. In dieser vielseitigen Aufgabe gestaltest du die Weiterentwicklung von Prozessen, Instrumenten und Fachwissen aktiv mit und arbeitest eng mit einem engagierten Team sowie einem breiten Netzwerk von Fachschätzerinnen und Fachschätzern zusammen. Dich erwartet ein moderner Arbeitsplatz in Bahnhofsnähe in St.Gallen, die Möglichkeit für teilweises Homeoffice sowie eine Beteiligung an den Kosten des öffentlichen Verkehrs. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "965c1726828a97da",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-sch%C3%A4tzung-at-kanton-st-gallen-4471338836"
+   },
+   "first_seen": "2026-10-20"
+  },
+  {
+   "title": "Promotor/Promotorin  - St. Gallen",
+   "company": "bofrost suisse AG",
+   "location": "9015 St. Gallen",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/bbe3ed18-103d-4c00-93c7-8c12470495af/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-19",
+   "salary": null,
+   "via": null,
+   "description": "**<em>Diversity</em> \\& Inclusion**\n*bofrost\\*suisse fördert die Chancengleichheit und ermutigt Individuen jedes Hintergrunds sich für alle Stellen und Karriereprogramme zu bewerben.",
+   "extra": {
+    "canton": "SG",
+    "query": "Diversity",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "e81f3dde-faf3-4f5f-ac6d-8ac7c8955af4"
+   },
+   "id": "b5fafbf7d172bc4f",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/bbe3ed18-103d-4c00-93c7-8c12470495af/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-20"
+  }
+ ]
+}
