@@ -1,102 +1,102 @@
 {
- "generated_at": "2026-10-21T06:10:28+00:00",
+ "generated_at": "2026-10-22T06:14:20+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 171,
-   "linkedin": 109,
-   "jobroom": 19
+   "arbeitsagentur": 172,
+   "linkedin": 177,
+   "jobroom": 21
   },
-  "excluded": 219,
-  "unique": 61,
-  "new": 20,
+  "excluded": 292,
+  "unique": 59,
+  "new": 18,
   "carried_over": 0
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Projektkoordination&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Chancengleichheit&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
  },
  "jobs": [
   {
-   "title": "FACHKRAFT (M/W/D) FÜR GRÜNPFLEGE",
+   "title": "Kanalwärterin (m/w/d) mit LKW-Führerschein",
    "company": "Stadtverwaltung Konstanz",
    "location": "Konstanz",
    "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003883278-S",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003888832-S",
    "posted": null,
    "salary": null,
    "via": null,
-   "description": "Die Technischen Betriebe Stadt Konstanz pflegen und unterhalten die Freianlagen im öffentlichen Raum der Stadt Konstanz. Zu den betrieblichen Aufgaben gehören die Bereiche Garten- und Landschaftsbau, Blumen- und Zierpflanzenbau, Straßenunterhalt, Stadtreinigung, Winterdienst, die Ausführung von Schreinerarbeiten und der Betrieb der städtischen Friedhöfe.\nDer Betriebszweig Grünpflege/Gärtnerei mit ca. 37 Beschäftigten pflegt und unterhält mit aktueller Geräte- und Maschinentechnik ca. 177ha Grün in Konstanz.\nZur Verstärkung unseres Teams suchen wir eine Fachkraft im Bereich Grünpflegearbeiten. Sie erwartet ein sicherer Arbeitsplatz im öffentlichen Dienst, ein wertschätzendes Miteinander und die Chance, die Stadt am Bodensee aktiv mitzugestalten. Mit modernen Arbeitsbedingungen, Weiterbildungsmöglichkeiten und attraktiven Benefits bieten wir Ihnen mehr als nur einen Job – wir bieten Ihnen Sinn, Sicherheit und Entwicklung.\nKlingt interessant für Sie? Dann freuen wir uns auf Ihre Bewerbung.\nDIE TBK SUCHEN ZUM NÄCHSTMÖGLICHEN ZEITPUNKT:\n**FACHKRAFT (M/W/D) FÜR GRÜNPFLEGE**\n**Mit den Aufgabenschwerpunkten:**\nDurchführung von Grünpflegearbeiten (Mäharbeiten) und landschaftsgärtnerischen Arbeiten mit der Option auf die Leitung einer Arbeitsgruppe\n**DAS BIETEN WIR:**\n- Eine unbefristete Vollzeitstelle (39 Std./Woche)\n- Eine Vergütung bis EG 6 TVöD (3.240 € - 3.926 €) möglich – abhängig von der Qualifikation\n- Eine verantwortungsvolle und abwechslungsreiche Tätigkeit in einem engagierten Team\n- Jahressonderzahlung und Leistungsentgelt\n- Betriebliche Altersvorsorge\n- **Mobilitätszuschuss:**\nJobticket-Zuschuss zum ÖPNV\n- **Betriebliche Gesundheitsförderung:**\nIhre Gesundheit liegt uns am Herzen. Daher bieten wir verschiedene Gesundheitsförderungsprogramme an – inklusive Firmenfitness mit Epassi (ehemals Hansefit)\n- Fachliche Weiterbildungsmöglichkeiten\n- Lebensarbeitszeitkonto\n**DAS BRINGEN SIE MIT:**\n- Abschluss einer Aus- oder Fortbildung im gärtnerischen Bereich, z. B. im Garten- und Landschaftsbau bzw. vergleichbare Ausbildung/Fortbildung von Vorteil\n- Gute Fachkenntnisse in der Grün- und Landschaftspflege sowie Fachkenntnisse im Landschaftsbau durch Arbeitspraxis\n- Besitz der Fahrerlaubnisklasse B ist erforderlich, C1E oder CE wären förderlich und sind ggf. im Nachgang zu den betrieblichen Bedingungen zu erwerben\n- Körperliche Belastbarkeit bei handwerklichen Tätigkeiten mit Heben und Tragen, überwiegend unter freiem Himmel\n- Übernahme von Verantwortung\n- Bereitschaft zur Weiterqualifizierung\n- Fähigkeit zum Führen und Warten von berufstypischen Baumaschinen und Geräten\n- Zuverlässigkeit und Leistungsbereitschaft sowie Teamfähigkeit, Erfahrungen in der Leitung eines gewerblichen Arbeitsteams sind förderlich\n- Genaues, sorgfältiges und termingerechtes Arbeiten\n- Allgemeines Technikverständnis und Arbeitsflexibilität\n- Mitwirkung im Winterdienst\n**KONTAKT:**\nBei Fragen zum Aufgabengebiet:\nAndreas Baumann\nTechnische Betriebe Konstanz\n07531 997 279\n**BEWERBUNG & WEITERE INFOS:**\nBewerben Sie sich bis zum **31.01.2027** unter Angabe der **Kennzahl 512-2026**.\nDie Stadtverwaltung Konstanz als Unterzeichnerin der Charta der Vielfalt fördert Gleichstellung und Diversität. Daher laden wir alle qualifizierten Personen ein, sich um die ausgeschriebene Position zu bewerben, unabhängig von Geschlecht, ethnischer und sozialer Herkunft, Religion / Weltanschauung, Behinderung, Alter sowie sexueller Identität.\nWeitere Infos zum Arbeitgeber Stadt Konstanz finden Sie unter [konstanz.de/karriere](https://www.konstanz.de/karriere/).\nDas Stellenangebot mit der Möglichkeit zur direkten Online-Bewerbung finden Sie unter [Fachkraft (m/w/d) für Grünpflege | Bewerbungsportal](https://konstanz.bewerbung.dvvbw.de/2730-fachkraft-m-w-d-fuer-gruenpflege/de/job.html).",
+   "description": "Die Entsorgungsbetriebe sind ein Eigenbetrieb der Stadt Konstanz.\nWir betreiben die größte Kläranlage am Bodensee und sind verantwortlich für das 293 km lange Kanalnetz mit Regenwasserbehandlungsanlagen, Pumpwerken und weiteren Bauwerken.\nFür unser Team Kanalbetrieb suchen wir Verstärkung: Um dieses Kanalnetz zu kontrollieren, zu reinigen und kleinere Reparaturen durchzuführen, sind täglich mit modernsten Fahrzeugen im Stadtgebiet Konstanz und den Ortsteilen unterwegs.\nSie erwartet eine verantwortungsvolle und abwechslungsreiche Tätigkeit mit sehr netten Kollegen.\n**DIE STADT KONSTANZ SUCHT ZUM NÄCHSTMÖGLICHEN ZEITPUNKT:**\n**Kanalwärterin (m/w/d) mit LKW-Führerschein**\n### Das bieten wir:\n- Eine unbefristete Vollzeitstelle (39 Std./Woche)\n- Eine Vergütung abhängig von der Qualifikation bis Entgeltgruppe 5 TVÖD (3.124,08 € bis 3.716,70 €)\n- Die Mitarbeit in einem kleinen, sehr engagierten Team\n- Möglichkeiten der fachlichen Unterstützung, Qualifizierung und Fortbildung\n- Jahressonderzahlung und Leistungsentgelt\n- Betriebliche Altersvorsorge über die Zusatzversorgungskasse\n- **Betriebliche Gesundheitsförderung:**\nIhre Gesundheit liegt uns am Herzen. Daher bieten wir verschiedene Gesundheitsförderungsprogramme an – inklusive Firmenfitness mit Epassi (ehemals Hansefit)\n- **Mobilitätszuschuss:**\nJobticket-Zuschuss zum ÖPNV\n### Mit den Aufgabenschwerpunkten:\n- Bauliche Unterhaltung und Reinigung des Kanalnetzes und der abwassertechnischen Anlagen der Stadt Konstanz\n- Schädlingsbekämpfung\n- Ersatzfahrer Spülfahrzeug (LKW Klasse C)\n### Das bringen Sie mit:\n- Abgeschlossene Berufsausbildung zur Fachkraft für Rohr-, Kanal- und Industrieservice, Straßenbauer/in oder Maurer/in ist von Vorteil oder entsprechende Berufserfahrung in der Kanalunterhaltung\n- Besitz der Fahrerlaubnisklasse C\n- Gesundheitliche Eignung zum Tragen von Atemschutzgeräten (G 26 III) muss gegeben sein\n- Körperliche Belastbarkeit bei Tätigkeiten wie Heben und Tragen, Arbeiten im Freien,\n- Höhentauglichkeit und Schwindelfreiheit (bspw. Besteigen von Leitern) sowie Bereitschaft zur Arbeit in feuchten, engen und umschlossenen Räumen abwassertechnischer Anlagen\n- Bereitschaft zur Teamarbeit\n- Kenntnisse der deutschen Sprache\n**KONTAKT:**\nStefan Sinnwell\nLeiter Kanalbetrieb\n07531/996-135\n**BEWERBUNG & WEITERE INFOS:**\nDie Vorstellungsgespräche sind für den 03.12.2026 vorgesehen.\nBewerben Sie sich bis zum 15\\*\\*.11.2026\\*\\* unter Angabe der **Kennzahl 217-2026**.\nDie Stadtverwaltung Konstanz als Unterzeichnerin der Charta der Vielfalt fördert Gleichstellung und Diversität. Daher laden wir alle qualifizierten Personen ein, sich um die ausgeschriebene Position zu bewerben, unabhängig von Geschlecht, ethnischer und sozialer Herkunft, Religion / Weltanschauung, Behinderung, Alter sowie sexueller Identität.\nWeitere Infos zum Arbeitgeber Stadt Konstanz finden Sie unter [konstanz.de/karriere](https://www.konstanz.de/karriere/).\nDas Stellenangebot mit der Möglichkeit zur direkten Online-Bewerbung finden Sie unter [Kanalwärterin (m/w/d) mit LKW-Führerschein | Bewerbungsportal](https://konstanz.bewerbung.dvvbw.de/2733-kanalwaerterin-m-w-d-mit-lkw-fuehrerschein/de/job.html)",
    "extra": {
-    "refnr": "10001-1003883278-S",
+    "refnr": "10001-1003888832-S",
     "query": "Gleichstellung",
     "befristung": null,
     "arbeitszeit": null
    },
-   "id": "a5f956419b856e0e",
+   "id": "cc87d30644db85e9",
    "sources": [
     "arbeitsagentur"
    ],
    "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003883278-S"
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003888832-S"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   },
   {
-   "title": "Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalco...",
-   "company": "Universität Konstanz",
-   "location": "78464 Konstanz",
+   "title": "Hörakustik-Meister (m/w/d) in Radolfzell",
+   "company": "Amplifon Deutschland GmbH",
+   "location": "78315 Radolfzell am Bodensee",
    "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-wp51whhrrl-S",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003892811-S",
    "posted": null,
    "salary": null,
    "via": null,
-   "description": "# Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalcontrolling (w/m/d)\n### ### (Vollzeit, bis E 9b TV-L)\n**Kennziffer 2026/217. Die Stelle ist ab sofort für 2 Jahre als Elternzeitvertretung befristet zu besetzen. Eine Verlängerung wird angestrebt. Die Stelle ist grundsätzlich teilbar.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\nDie **Personalabteilung** der zentralen Verwaltung der Universität Konstanz betreut alle Beschäftigte in Wissenschaft, Technik, Bibliothek und Verwaltung.\n## Ihre Aufgaben\n**Personalbudget vorausschauend steuern**:\nSie wirken aktiv bei der Verwaltung, Mittelbewirtschaftung, Prognose und Rechnungslegung des Personalbudgets mit.\n**Effizienz &amp; Personalausgaben optimieren**:\nSie identifizieren Potenziale zur Optimierung der Personalausgaben und setzen diese zielgerichtet um.\n**Daten in Kennzahlen verwandeln**:\nSie übernehmen eigenverantwortlich das Auswerten und Controlling relevanter Personal- und Finanzdaten.\n**Finanz- und Haushaltsplanung mitgestalten**:\nSie unterstützen sicher bei der Vorbereitung künftiger Haushaltsjahre sowie bei strategischen Finanzplanungen.\n**Rechtssicher agieren**:\nSie wenden haushaltsrechtliche Bestimmungen souverän im Tagesgeschäft an.\n**Entscheidungen vorbereiten**:\nSie erstellen eigenständig fundierte Sitzungsunterlagen für Gremien und Führungskräfte.\n## Das bringen Sie mit\n**Ausbildung &amp; Erfahrung:**\nBachelor (z. B. Personal, Wirtschaft, gehobener Verwaltungsdienst) oder eine kaufmännische/verwaltungstechnische Ausbildung mit mehrjähriger Erfahrung im Personalcontrolling.\nErste Praxis im Haushalts- und Personalwesen (idealerweise im Universitäts- oder Hochschulumfeld) wünschenswert.\n**Fachwissen &amp; Skills:**\nSichere EDV-Kenntnisse sowie Deutschkenntnisse auf muttersprachlichem Niveau (in Wort und Schrift).\nGute Englischkenntnisse.\n**Arbeitsweise &amp; Persönlichkeit:**\nSelbstständiges, zielorientiertes Arbeiten sowie starker Teamfähigkeit.\nHohes Engagement, Kommunikationsstärke und eine kundenorientierte Haltung.\n## Wir bieten Ihnen\n**Flexibilität &amp; Work-Life-Balance:**\nFlexible Arbeitszeiten &amp; Home-Office: Gestalten Sie Ihren Alltag passend zu Ihrem Leben.\nFamilienfreundliches Umfeld: Gute Vereinbarkeit von Beruf und Privatleben.\nAttraktive Region: Arbeiten, wo andere Urlaub machen – Hoher Freizeitwert garantiert.\n**Vergütung &amp; Vorsorge:**\nFaire Vergütung nach TV-L: Je nach Voraussetzung bis E9b TV-L.\nBetriebliche Altersvorsorge (VBL): Für Ihre finanzielle Absicherung im Ruhestand.\nMobilitätszuschuss: Unterstützung beim Deutschlandticket / JobTicket BW.\n**Gesundheit, Benefits &amp; Entwicklung:**\nCorporate Benefits &amp; Hansefit: Rabatte, Fitness- und Wellnessangebote sowie Hochschulsport.\nStrukturierte Einarbeitung und vielfältige Fortbildungsmöglichkeiten.\nStarkes Miteinander: Ein wertschätzendes Team und ein sehr gutes Arbeitsklima.\n[](https://www.uni-konstanz.de/personalabteilung/stellenangebote-1/die-universitaet-konstanz-als-arbeitgeberin/)\nFür Rückfragen steht Ihnen die Leiterin der Personalabteilung, Frau Pfeifer, Tel. +49 7531- 88-2366 oder <renate.pfeifer@uni-konstanz.de> zur Verfügung.\nWir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum **02.11.2026** über unser [Online-Bewerbungsportal](https://stellen.uni-konstanz.de/de/jobposting/7a313190206861d29b249667464c6688603ed01e0/apply).\nDie Universität Konstanz …",
+   "description": "*Möchtest du Menschen helfen, die Emotionen der Klänge wiederzuentdecken?*\n*Dann verstärke unser Team bei Amplifon als* **Hörakustikmeister (m/w/d) in Radolfzell!**\nDie Amplifon Deutschland GmbH mit Sitz in Hamburg ist Teil der Amplifon Gruppe, dem weltweit führenden Anbieter von Hörlösungen. Seit 2005 sind wir in Deutschland aktiv und verfolgen gemeinsam mit über 600 Fachgeschäften und rund 2.000 Mitarbeitenden das Ziel: Menschen die Emotionen der Klänge wiederentdecken zu lassen - mit höchster Servicequalität und echter Kundennähe.\n**Dein Beitrag zum gemeinsamen Erfolg:**\n- **Führung und Weiterentwicklung:** Deines Fachgeschäfts mit klarer Kommunikation und gezielter Teamentwicklung\n- **Verantwortung für Zielerreichung**: Du überwachst kontinuierlich betriebswirtschaftliche Kennzahlen\n- **Individuelle Kundenberatung**: Du bietest serviceorientierte Beratungs- und Verkaufsgespräche sowie maßgeschneiderte Hörlösungen an\n- **Umsetzung von Verkaufsroutinen:** Du stellst optimale Prozesse sicher für ein außergewöhnliches Kundenerlebnis\n- **Fachgeschäftsentwicklung**: Du bist Ansprechpartner (m/w/d) für HNO-Ärzte, organisierst lokale Maßnahmen und entwickelst dein Fachgeschäft nachhaltig weiter\n**Das bringst du mit:**\n- Erfolgreich abgeschlossene **Meisterausbildung in der Hörakustik**\n- **Kunden- und Serviceorientierung** mit Freude an Beratung und Verkauf\n- **Kommunikationsstärke und Empathie** im Umgang mit Kundinnen und Kunden\n- **Teamorientierte Arbeitsweise** und Engagement für gemeinsame Ziele\n- **Organisationsgeschick und Verantwortungsbewusstsein** sowie Flexibilität\n**Darauf kannst du dich freuen:**\n- **Attraktive Vergütung** inkl. monatlicher Umsatzbeteiligung; Quartalsbonus\n- **Große Auswahl an Herstellern** für individuelle Anpassungen\n- **Corporate Benefits** – Rabatte auf Reisen, Events, Shopping & mehr\n- **JobRad** – fit bleiben & umweltfreundlich unterwegs sein\n- **Mitarbeiter werben Mitarbeiter** – sichere dir bis zu **5.000 € Prämie**\n- **Deutschlandweites Mobilitätsprogramm** – raus aus der Comfort Zone, rein ins Abenteuer!\nBei Amplifon bedeutet Arbeiten auch, Verantwortung zu übernehmen – im Team und je nach Standort auch eigenständig im Fachgeschäft. Eigene Ideen sind jederzeit willkommen, Entwicklung wird aktiv gefördert und jeder kann täglich spürbar dazu beitragen, Kundinnen und Kunden zu begeistern – und die eigene Karriere selbst gestalten.\n***#AmpUpYourCareer*** *- bewirb dich jetzt über unser Karriereportal!*\n**Hast du Rückfragen? Unser Recruiting Team steht dir gerne zur Verfügung!**\n**E-Mail:** de-bewerbungen@amplifon.com\n**WhatsApp:**  01520 5219380\nAmplifon Deutschland GmbH\nZirkusweg 4-6, 20359 Hamburg\n20359 Hamburg\n[www.careers.amplifon.com/deutschland](http://www.careers.amplifon.com/deutschland)\n*Wir bei Amplifon fördern Chancengleichheit und Vielfalt. Bewerbungen sind bei uns unabhängig von Geschlecht, Alter, Herkunft, Beeinträchtigung, Religion oder sexueller Identität willkommen*",
    "extra": {
-    "refnr": "19772-wp51whhrrl-S",
-    "query": "Gleichstellung",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "1eb1855c4b1e99ff",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-wp51whhrrl-S"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Export Control Manager (m/w/d)",
-   "company": "Rolls-Royce Deutschland Ltd & Co. KG",
-   "location": "88045 Friedrichshafen",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003881607-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "**Aufgaben - Das erwartet Sie bei uns:**\n- Fachliche Bewertung von Warenklassifizierungen und Bestätigung des Kontrollstatus (z. B. für Bankerklärungen)\n- Fachliche Freigaben und Entscheidungen im Kontext von Sanktionen und Exportkontrolle\n-  Verantwortung für die korrekte Anwendung und Pflege exportkontrollrelevanter Systeme und Daten (z. B. SAP GTS, interne Klassifizierungsdatenbanken)\n- Zentrale fachliche Ansprechperson für Einkauf, Vertrieb, Logistik, Zoll, Finance und internationale Tochtergesellschaften bei exportkontrollrechtlichen Fragestellungen\n- Unterstützung und fachliche Begleitung von Due-Diligence-Prüfungen sowie Sanktionsscreenings in Zusammenarbeit mit relevanten Stakeholdern\n- Koordination und fachliche Betreuung angrenzender Themenbereiche (z. B. Zoll Team, Lieferantenklassifizierungen, Integrationsaktivitäten internationaler Einheiten)\n- Aktive Mitwirkung an der Weiterentwicklung lokaler und konzernweiter Exportkontrollprozesse\n- Identifikation von Risiken, Schwachstellen und Optimierungspotenzialen sowie Ableitung konkreter Handlungsempfehlungen\n- Aktive Teilnahme an internen Besprechungen und Projekten als Exportkontroll-Experte\n- Entwicklung und Durchführung von Schulungs- und Kommunikationsmaßnahmen zur Exportkontrolle für relevante Zielgruppen\n**Qualifikationen - Was wir uns wünschen:**\n- Mehrjährige (i. d. R. mindestens 5 Jahre) einschlägige Berufserfahrung im Bereich Exportkontrolle / Sanktionen\n- Fundierte Kenntnisse des EU- und nationalen Exportkontroll- und Sanktionsrechts sowie Erfahrung mit internationalen Regimen wie US-EAR, ITAR und einschlägigen Sanktionsvorschriften.\n- Erfolgreich abgeschlossenes Studium der Rechtswissenschaften (Volljurist/in, Wirtschaftsjurist/in, LL.B./LL.M.) oder vergleichbare rechtliche Ausbildung\n- Fähigkeit, komplexe regulatorische Anforderungen selbstständig zu bewerten und\nin praktikable Lösungen zu überführen\n- Strukturierte, eigenverantwortliche Arbeitsweise sowie ausgeprägte Kommunikations- und Beratungskompetenz\n- Fließende Deutsch- und Englischkenntnisse\n**Warum Rolls-Royce Power Systems – Das bieten wir Ihnen:**\n- Gesunde und faire Arbeitsbedingungen durch Tarifbindung\n- Betriebseigene Krankenkasse BKK MTU für unsere Mitarbeitenden und Familienangehörigen\n- Umfangreiches betriebliches Gesundheitsmanagement inklusive Firmenfitnessprogramm (EGYM Wellpass)\n- Attraktive betriebliche Altersvorsorge – Mit uns für das Alter sparen!\n- Berufsunfähigkeitsversicherung – Absicherung für alle Fälle!\n- Mobilitätsunterstützung im Alltag – JobTicket und Jobrad\n- Corporate Benefits Programm – Attraktive Mitarbeiterrabatte auf zahlreiche starke Marken\nWir sind ein Arbeitgeber, der sich für Chancengleichheit einsetzt. Wir setzen uns für die Entwicklung einer vielfältigen Belegschaft und eines integrativen Arbeitsumfelds ein. Wir glauben, dass Menschen mit unterschiedlichen Hintergründen und Kulturen uns unterschiedliche Perspektiven geben. Und je mehr Perspektiven wir haben, desto erfolgreicher werden wir sein. Durch den Aufbau einer Kultur des Respekts und der Wertschätzung geben wir jedem, der hier arbeitet, die Möglichkeit, sein volles Potenzial auszuschöpfen.",
-   "extra": {
-    "refnr": "10001-1003881607-S",
+    "refnr": "10001-1003892811-S",
     "query": "Chancengleichheit",
     "befristung": null,
     "arbeitszeit": null
    },
-   "id": "843906b4068a1de5",
+   "id": "68d1d1d68b82d0a1",
    "sources": [
     "arbeitsagentur"
    ],
    "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003881607-S"
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003892811-S"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   },
   {
-   "title": "Leitung des Bereichs Audiovisuelle Medien der Wissenschaftlichen Werkstätten (w/m/d)",
-   "company": "Studentenwerk Konstanz",
-   "location": "Constance, Baden-Württemberg, Germany",
+   "title": "Feuerwehrmann/-frau Werkfeuerwehr (d/m/w) - Befristet",
+   "company": "Airbus Defence and Space GmbH",
+   "location": "88090 Immenstaad am Bodensee",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/leitung-des-bereichs-audiovisuelle-medien-der-wissenschaftlichen-werkst%C3%A4tten-w-m-d-at-studentenwerk-konstanz-4478936407",
-   "posted": "2026-10-20",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-978232589-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "#### Über uns\nAirbus ist Pionier einer nachhaltigen Luft- und Raumfahrt für eine sichere und vereinte Welt. Das Unternehmen arbeitet ständig an Innovationen für effiziente und technologisch fortschrittliche Lösungen in den Bereichen Luft- und Raumfahrt, Verteidigung sowie vernetzte Dienstleistungen. Airbus bietet moderne und treibstoffeffiziente Verkehrsflugzeuge sowie dazugehörige Dienstleistungen an. Airbus ist auch führend in Europa im Bereich Verteidigung und Sicherheit und eines der größten Raumfahrtunternehmen der Welt. Im Bereich Hubschrauber stellt Airbus die weltweit effizientesten Lösungen und Dienstleistungen für zivile und militärische Hubschrauber bereit.\n#### Tätigkeitsbeschreibung\nZur Unterstützung der Werkfeuerwehr Friedrichshafen sucht Airbus Defence and Space einen hauptberuflichen\n**Feuerwehrmann/-frau (d/m/w) - Befristet**\n**Jobbeginn:** 01.01.2027\n**Befristung:** Bis zum 31.12.2028\n**Dein Standort**\nAm Airbus-Standort in Immenstaad am Bodensee arbeitest du dort, wo die Zukunft von Connected Intelligence, Space und Air Power entsteht. In einer Umgebung, die Weitblick bietet, gestaltest du technologische Innovationen über Domänen hinweg.\nUnser Standort lebt vom Dialog: Auf dem Campus triffst du auf ein einzigartiges Netzwerk aus Experten für Satellitentechnik, militärische Luftfahrt, Cyber-Security, Künstliche Intelligenz sowie Combat Cloud und Ground Support von morgen. Auch unsere Zusammenarbeit ist geprägt von Dynamik – in agilen Teams widmen wir uns den komplexesten Fragestellungen, von KI-gestützter Erdbeobachtung bis zur sicheren Cloud-Architektur. Wer technologische Exzellenz und interdisziplinäre Zusammenarbeit sucht, findet hier das ideale Umfeld.\n**Unsere Benefits für dich**\n- **Faire Vergütung &amp; Extras:** Attraktive Vergütung und individuelle Zusatzleistungen, z. B. betriebliche Vorsorgemodelle, Mobilitätsangebote (bspw. Fahrradleasing) oder Mitarbeitervorteile bei kooperierenden Unternehmen gemäß unseren jeweils gültigen Richtlinien.\n- **Weiterkommen leicht gemacht:** Ausgezeichnete Weiterbildungsmöglichkeiten und internationale, konzernweite Entwicklungsperspektiven\n- **Wohlfühlen am Arbeitsplatz:** Betriebsarzt; umfassendes Gesundheitsangebot (Sportkurse, Präventionsangebote, uvm.), Kantine und Cafeteria, Kindertagesstätte am Standort\n- **Vielfalt verbindet:** Arbeiten in einem diversen Umfeld, mit mehr als 140 Nationalitäten, in dem Austausch, Unterstützung und Vielfalt gelebt wird\n**Deine Aufgaben und Verantwortlichkeiten**\n- Einsatzdienst im abwehrenden Brandschutz und bei der technischen Hilfeleistung\n- Schnelles und zielgerichtetes Handeln bei Bränden, Unfällen und Notfällen zur Gefahrenabwehr\n- Mitarbeit in den unterschiedlichen Sachgebieten\n- Wartungs- und Pflegearbeiten im vorbeugenden Brandschutz (Brandschutzeinrichtungen, Atemschutzgeräte, etc...)\n- Technische Dokumentation\n- Aktive Teilnahme an regelmäßigen Einsatzübungen und kontinuierlichen Fachschulungen\n- Vorbereitung und Ausführung von regelmäßigen Übungen für den Haupt- und Nebenberuf\n**Erforderliche Kenntnisse und Qualifikationen**\n- Ausbildung B2 (oder höher) oder Ausbildung zum/zur Werkfeuerwehrmann/-frau, alternativ Ausbildung bei der freiwilligen Feuerwehr mit zusätzlicher handwerklicher Ausbildung\n- Führerschein Klasse B, wünschenswert Klasse C\n- Gültige Untersuchung G26.3 und Feuerwehrtauglichkeit\n- Bereitschaft zur Schichtarbeit\n- Fließende Deutschkenntnisse\nKeine 100%ige Übereinstimmung? Kein Grund zur Sorge! Airbus unterstützt deine persönliche Entwicklung mit maßgeschneiderten Entwicklungslösungen.\n**Bring deine Karriere auf ein neues Level und bewirb dich jetzt** [**online**](https://www.airbus.com/en/careers)**!**\n #MYCYM\nThis job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth\nBy submitting your CV or application you are consenting to Airbus using and storing information about you for …",
+   "extra": {
+    "refnr": "16947-978232589-S",
+    "query": "Diversity",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "3ea37fea29f51dc2",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-978232589-S"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Fachspezialist:in Datenmanagement für Rankings & Akkreditierungen (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachspezialist-in-datenmanagement-f%C3%BCr-rankings-akkreditierungen-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4464649302",
+   "posted": "2026-10-21",
    "salary": null,
    "via": null,
    "description": "",
@@ -105,334 +105,70 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "d08bbccce95e2f14",
+   "id": "450806c14d2d3ae7",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/leitung-des-bereichs-audiovisuelle-medien-der-wissenschaftlichen-werkst%C3%A4tten-w-m-d-at-studentenwerk-konstanz-4478936407"
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialist-in-datenmanagement-f%C3%BCr-rankings-akkreditierungen-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4464649302"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   },
   {
-   "title": "Communications & Content Manager (m/w/d)",
-   "company": "INNOSYSTEC GmbH",
-   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/communications-content-manager-m-w-d-at-innosystec-gmbh-4478942192",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "BE YOU! Denn hier geht es um dich, deinen Job und deine Leidenschaft. Individuelle Entwicklung und maximale Flexibilität für dich und deine Arbeitsweise sind bei INNO keine Floskeln - und das inmitten eines hochspannenden Arbeitsumfeldes. Mit unserer All-Source-Analytics-Software SCOPE hilft unsere 100-köpfige #innocrew unseren Kunden täglich dabei, die Welt ein Stück sicherer zu machen. Gute Kommunikation, kreative Inhalte und digitale Ideen, die etwas bewegen sind genau dein Ding? Ob Social Media, Website, Employer Branding oder Events – als Communications & Content Manager (m/w/d) prägst du unsere digitale und interne Präsenz aktiv mit. Befristete Position (Elternzeitvertretung) I Teilzeit möglich (mind. 30 Std./Woche) Aufgaben Du entwickelst und sicherst die Einhaltung unserer Corporate-Identity-Standards in allen Kommunikationskanälen. Kreative Inhalte für Website, Social Media und weitere Kanäle planst und erstellst du in enger Zusammenarbeit mit dem Produktmarketing und internen Schnittstellen. Du gestaltest unsere digitale Präsenz durch Website-Pflege, SEO- und GEO-Optimierung und analysierst kontinuierlich relevante Kennzahlen (KPIs). Gemeinsam mit unserem Recruiting-Team setzt du Employer-Branding-Maßnahmen und Kampagnen um und machst unsere Arbeitgebermarke erlebbar. Du planst unsere interne Kommunikation und setzt diese eigenständig um. Bei internen Veranstaltungen, Unternehmensevents und Karrieremessen bringst du deine Ideen ein und kümmerst dich um die Organisation und Umsetzung. Externe Dienstleister und Agenturen koordinierst du zuverlässig und stimmst dich mit verschiedenen Fachbereichen ab. Mit Reportings, Budgetkontrolle und einem Blick für digitale Trends unterstützt du die Optimierung unserer Marketingaktivitäten und achtest auf die Einhaltung relevanter rechtlicher Vorgaben. Profil Du hast ein abgeschlossenes Bachelorstudium im Bereich Wirtschaft, Marketing, Kommunikation, Medien oder eine vergleichbare Qualifikation. Du bringst Erfahrungen (2-3 Jahre) im digitalen Marketing, Content Marketing oder in der Unternehmenskommunikation mit. Du hast nachgewiesene Fähigkeiten in der Erstellung zielgruppengerechter Inhalte (LinkedIn-Posts, Social Media Content, Website-Pflege). Sicherer Umgang mit Analytics- und Reporting-Tools (z.B. Google Analytcs, Meta Insights). Konzeptionsstärke, Kreativität und ein gutes Gespür für Sprache, Gestaltung und zielgruppengerechte Kommunikation zeichnen dich aus. Eine strukturierte, selbstständige Arbeitsweise hilft dir dabei, Aufgaben und Projekte zuverlässig zu koordinieren. Im Austausch mit unterschiedlichen Teams und externen Partnern überzeugst du durch deine offene und kommunikative Art. Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab. Wir bieten Eine offene Unternehmenskultur mit flachen Hierarchien, bei der sich alle mit „Du“ begegnen. Du gestaltest deinen Arbeitstag: Bei uns erwarten dich flexible Arbeitszeiten ohne Kernzeit und eine großzügige Remote Work Vereinbarung. Denn Work-Life-Balance schreiben wir bei INNO groß. Wir leben unser Motto BE YOU und lassen dir den Freiraum du selbst zu sein. Bei uns erhältst du die Flexibilität, die du benötigst. Entwickle dich fachlich und persönlich. Wir schätzen dich und deine individuellen Fähigkeiten wert. Deswegen erarbeiten wir gemeinsam einen Plan für deinen Weg bei INNO. Gemeinsamer Erfolg bei INNO zahlt sich für dich aus. Wir bieten eine attraktive Bonusregelung an, die dich freuen wird. Auf dich warten viele weitere Benefits – sei gespannt. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at INNOSYSTEC GmbH by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "93c3ad95221997de",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/communications-content-manager-m-w-d-at-innosystec-gmbh-4478942192"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalcontrolling (w/m/d)",
-   "company": "University of Konstanz",
-   "location": "Constance, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-im-gehobenen-verwaltungsdienst-im-personalcontrolling-w-m-d-at-university-of-konstanz-4481762490",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "### (Vollzeit, bis E 9b TV-L) Kennziffer 2026/217. Die Stelle ist ab sofort für 2 Jahre als Elternzeitvertretung befristet zu besetzen. Eine Verlängerung wird angestrebt. Die Stelle ist grundsätzlich teilbar. Die Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert. Mit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung. Die Personalabteilung der zentralen Verwaltung der Universität Konstanz betreut alle Beschäftigte in Wissenschaft, Technik, Bibliothek und Verwaltung. Ihre Aufgaben Personalbudget vorausschauend steuern : Sie wirken aktiv bei der Verwaltung, Mittelbewirtschaftung, Prognose und Rechnungslegung des Personalbudgets mit. Effizienz & Personalausgaben optimieren : Sie identifizieren Potenziale zur Optimierung der Personalausgaben und setzen diese zielgerichtet um. Daten in Kennzahlen verwandeln : Sie übernehmen eigenverantwortlich das Auswerten und Controlling relevanter Personal- und Finanzdaten. Finanz- und Haushaltsplanung mitgestalten : Sie unterstützen sicher bei der Vorbereitung künftiger Haushaltsjahre sowie bei strategischen Finanzplanungen. Rechtssicher agieren : Sie wenden haushaltsrechtliche Bestimmungen souverän im Tagesgeschäft an. Entscheidungen vorbereiten : Sie erstellen eigenständig fundierte Sitzungsunterlagen für Gremien und Führungskräfte. Das bringen Sie mit Ausbildung & Erfahrung: Bachelor (z. B. Personal, Wirtschaft, gehobener Verwaltungsdienst) oder eine kaufmännische/verwaltungstechnische Ausbildung mit mehrjähriger Erfahrung im Personalcontrolling. Erste Praxis im Haushalts- und Personalwesen (idealerweise im Universitäts- oder Hochschulumfeld) wünschenswert. Fachwissen & Skills: Sichere EDV-Kenntnisse sowie Deutschkenntnisse auf muttersprachlichem Niveau (in Wort und Schrift). Gute Englischkenntnisse. Arbeitsweise & Persönlichkeit: Selbstständiges, zielorientiertes Arbeiten sowie starker Teamfähigkeit. Hohes Engagement, Kommunikationsstärke und eine kundenorientierte Haltung. Wir bieten Ihnen Flexibilität & Work-Life-Balance: Flexible Arbeitszeiten & Home-Office: Gestalten Sie Ihren Alltag passend zu Ihrem Leben. Familienfreundliches Umfeld: Gute Vereinbarkeit von Beruf und Privatleben. Attraktive Region: Arbeiten, wo andere Urlaub machen – Hoher Freizeitwert garantiert. Vergütung & Vorsorge: Faire Vergütung nach TV-L: Je nach Voraussetzung bis E9b TV-L. Betriebliche Altersvorsorge (VBL): Für Ihre finanzielle Absicherung im Ruhestand. Mobilitätszuschuss: Unterstützung beim Deutschlandticket / JobTicket BW. Gesundheit, Benefits & Entwicklung: Corporate Benefits & Hansefit: Rabatte, Fitness- und Wellnessangebote sowie Hochschulsport. Strukturierte Einarbeitung und vielfältige Fortbildungsmöglichkeiten. Starkes Miteinander: Ein wertschätzendes Team und ein sehr gutes Arbeitsklima. Für Rückfragen steht Ihnen die Leiterin der Personalabteilung, Frau Pfeifer, Tel. +49 7531- 88-2366 oder renate.pfeifer@uni-konstanz.de zur Verfügung. Wir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum 02.11.2026 über unser Online-Bewerbungsportal Die Universität Konstanz engagiert sich für Gleichstellung, Diversity sowie die Vereinbarkeit von Beruf und Familie. Darüber hinaus unterstützt sie Dual Career-Paare ( uni.kn/dcc ). Menschen mit einer Schwerbehinderung werden bei entsprechender Eignung vorrangig eingestellt (sbv@uni-konstanz.de , +49 7531 88-4016). Show more Show less Seniority level Not Applicable Employment type Full-time Industries Internet Publishing …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "c48bbc7cf51933a7",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-im-gehobenen-verwaltungsdienst-im-personalcontrolling-w-m-d-at-university-of-konstanz-4481762490"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Training & Adoption Specialist OCM – Bussnang",
-   "company": "Stadler",
-   "location": "Bussnang, Thurgau, Switzerland",
+   "title": "Leitung Alterszentrum Kirchhofplatz (100 %)",
+   "company": "Stadt Schaffhausen",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/training-adoption-specialist-ocm-%E2%80%93-bussnang-at-stadler-4480447615",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "DEINE AUFGABENBEREICHE Planung, Organisation und Koordination von über 100 Schulungen inklusive Terminplanung, Trainerkoordination, Teilnehmermanagement sowie Raum- und Ressourcenplanung Weiterentwicklung und Sicherstellung einer effizienten Trainingsorganisation in enger Zusammenarbeit mit Stream Leads, Key Usern, IT und SAP CoE Erstellung, Überarbeitung und Qualitätssicherung von Schulungsunterlagen, Lernmaterialien, Anleitungen und Übungen in Deutsch und Englisch Administration und Pflege der Lernangebote im Learning Management System (LMS) sowie Nachverfolgung von Schulungsteilnahmen und Lernfortschritten.Unterstützung von Fachexperten bei der Entwicklung zielgruppengerechter Lernangebote sowie Durchführung von Train-the-Trainer-Massnahmen Analyse von Trainingsfeedbacks, Identifikation von Optimierungspotenzialen und kontinuierliche Verbesserung der Lernangebote Mitarbeit bei der Einführung neuer Prozesse und Systeme sowie Unterstützung der Mitarbeitenden bei der nachhaltigen Anwendung des Gelernten DEINE BERUFLICHEN ERFAHRUNGEN Abgeschlossene Aus- oder Weiterbildung im Bereich Erwachsenenbildung, Learning & Development, HR Development, Didaktik oder eine vergleichbare Qualifikation Zwei bis drei Jahre Berufserfahrung in der Trainingskoordination, Personalentwicklung, Erwachsenenbildung oder einem vergleichbaren Umfeld Erfahrung in der Organisation und Umsetzung von Schulungsprogrammen für unterschiedliche Zielgruppen, von Mitarbeitenden bis Führungskräften Kenntnisse in der didaktischen Aufbereitung von Lerninhalten sowie Interesse an modernen Lern- und Trainingsmethoden Erfahrung im Umgang mit Learning Management Systemen (LMS); Kenntnisse von SAP, SAP LMS oder E-Learning-Autorentools sind von Vorteil Sehr gute Deutsch- sowie gute Englischkenntnisse in Wort und Schrift Strukturierte, selbstständige und zuverlässige Arbeitsweise gepaart mit hoher Kommunikationsstärke und Freude an der Zusammenarbeit mit verschiedenen Anspruchsgruppen Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "b5576310ae2f2dfd",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/training-adoption-specialist-ocm-%E2%80%93-bussnang-at-stadler-4480447615"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Bildungsverantwortlicher HF Pflege in der Grundbildung 80-100%",
-   "company": "Tertianum",
-   "location": "Berlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/bildungsverantwortlicher-hf-pflege-in-der-grundbildung-80-100%25-at-tertianum-4481568484",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "Die Tertianum Gruppe steht für Wohnen und Leben im Alter auf hohem Niveau. Als Schweizer Marktführerin haben wir den Anspruch, das Leben von Seniorinnen und Senioren mit unseren 7000 Mitarbeitenden jeden Tag lebenswert zu machen, um ihnen Lebensfreude zu ermöglichen. Mit unseren individuell zugeschnittenen Leistungen schaffen wir so über alle Lebensphasen im Alter an 100 Standorten ein neues Zuhause, das ein sicheres und selbstbestimmtes Leben bietet. Was uns dabei jeden Tag antreibt, ist unser Respekt und unser Verantwortungsgefühl für ältere Menschen. Ihr Herz schlägt für ältere Menschen? Ist der Pflegeberuf Ihre Berufung? Sehen Sie Möglichkeiten, Ihre Fähigkeiten und Erfahrungen sinnstiftend bei uns einzubringen, um einen positiven Einfluss auf das Leben unserer Kundinnen und Kunden zu haben? Dann passen Sie perfekt zu uns! Für das Haus Neutal in Berlingen suchen wir per sofort oder nach Vereinbarung eine/einen Dipl. Pflegefachfrau / Pflegefachmann HF als Berufsbildnerin / Berufsbildner HF Pflege und Bildungsverantwortliche / Bildungsverantwortlicher in der Grundbildung 80-100% Ihre Aufgaben Verantwortlich für die Organisation, Planung und Durchführung der Lernbegleitungen auf den Stationen Verantwortung für die Rekrutierung und Selektion von Lernenden AGS und FaGe sowie Studierenden HF Pflege Zentrale Ansprechperson für Lernende AGS und FaGe sowie Studierende HF Pflege in sämtlichen ausbildungsrelevanten Fragen Sicherstellung der organisatorischen, fachlichen und personellen Voraussetzungen für eine qualitativ hochwertige Ausbildung Verantwortung für die Umsetzung der betrieblichen Ausbildungskonzepte sowie der Vorgaben der zuständigen Bildungsanbieter Sicherstellung und kontinuierliche Weiterentwicklung der Ausbildungsqualität im Betrieb Fachliche und pädagogische Verantwortung für die Gestaltung und Begleitung der betrieblichen Lernprozesse Förderung der Kompetenzentwicklung und des Theorie-Praxis-Transfers der Lernenden und Studierenden Ganzheitliche, ressourcenorientierte Pflege und Betreuung unserer Gäste gemäss Pflegeleitbild und Pflegeprozess Ansprechperson für Erziehungsberechtigte sowie deren Einbezug bei ausbildungsrelevanten Fragestellungen und Entwicklungsgesprächen. Verantwortung für die Planung, Durchführung, Beurteilung und Dokumentation der betrieblichen Pflichtelemente gemäss den jeweiligen Bildungsvorgaben (z. B. Bildungsberichte, Kompetenznachweise und Lerndokumentationen). Sicherstellung einer fachgerechten und vollständigen elektronischen Pflegedokumentation mittels CareCoach Ihr Profil Abgeschlossene Ausbildung zur/zum Dipl. Pflegefachfrau/Pflegefachmann HF Abgeschlossener Berufsbildnerkurs und SVEB 1 oder Bereitschaft diese zu absolvieren Berufserfahrung in der Langzeitpflege erwünscht Eine herzliche und humorvolle Grundeinstellung mit Passion für die Bildung Freude an vielseitigen Herausforderungen Sichere Kommunikation in der deutschen Sprache in Wort und Schrift Warum Tertianum? Benefits Uns ist wichtig, dass unsere Mitarbeitenden Beruf und Privatleben gut miteinander vereinbaren können. Dazu gehört ein vielfältiges Angebot an unterschiedlichen Benefits, z.B.: Interne und externe Weiterbildungsmöglichkeiten Zusätzlicher freier Tag im Geburtstagsmonat Tägliches Mittagessen für CHF 10 Vergünstigte Mobile- und Internet-Abos bei Sunrise Rabatte auf ausgewählte Krankenkassen-Zusatzversicherungen SBB-Halbtaxabonnement Diverse Flottenrabatte Weitere Benefits finden Sie auf unserer Website. Sind Sie interessiert? Wir bieten Ihnen eine spannende Perspektive: Bei uns können Sie Ihre Fähigkeiten und Ihr Fachwissen in einem motivierten und flexiblen Team einsetzen. Sie übernehmen Verantwortung und helfen mit, die Zukunft von Tertianum zu gestalten. Bewerben Sie sich jetzt und werden Sie Teil unseres Teams. Wir freuen uns auf Ihre vollständige Online-Bewerbung über unser Bewerbungs-Tool. Klicken Sie auf «Jetzt bewerben» und erstellen Sie Ihr persönliches Konto. Show more Show less Seniority level Not …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "5e181c5eac91da72",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/bildungsverantwortlicher-hf-pflege-in-der-grundbildung-80-100%25-at-tertianum-4481568484"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Bildungsverantwortlicher HF Pflege in der Grundbildung 80-100%",
-   "company": "Faire une carrière empreinte d'humanité",
-   "location": "Berlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/bildungsverantwortlicher-hf-pflege-in-der-grundbildung-80-100%25-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4481706364",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "Die Tertianum Gruppe steht für Wohnen und Leben im Alter auf hohem Niveau. Als Schweizer Marktführerin haben wir den Anspruch, das Leben von Seniorinnen und Senioren mit unseren 7000 Mitarbeitenden jeden Tag lebenswert zu machen, um ihnen Lebensfreude zu ermöglichen. Mit unseren individuell zugeschnittenen Leistungen schaffen wir so über alle Lebensphasen im Alter an 100 Standorten ein neues Zuhause, das ein sicheres und selbstbestimmtes Leben bietet. Was uns dabei jeden Tag antreibt, ist unser Respekt und unser Verantwortungsgefühl für ältere Menschen. Bildungsverantwortlicher HF Pflege in der Grundbildung 80-100% Ihr Herz schlägt für ältere Menschen? Ist der Pflegeberuf Ihre Berufung? Sehen Sie Möglichkeiten, Ihre Fähigkeiten und Erfahrungen sinnstiftend bei uns einzubringen, um einen positiven Einfluss auf das Leben unserer Kundinnen und Kunden zu haben? Dann passen Sie perfekt zu uns! Für das Haus Neutal in Berlingen suchen wir per sofort oder nach Vereinbarung eine/einen Dipl. Pflegefachfrau / Pflegefachmann HF als Berufsbildnerin / Berufsbildner HF Pflege und Bildungsverantwortliche / Bildungsverantwortlicher in der Grundbildung 80-100% Ihre Aufgaben Verantwortlich für die Organisation, Planung und Durchführung der Lernbegleitungen auf den Stationen Verantwortung für die Rekrutierung und Selektion von Lernenden AGS und FaGe sowie Studierenden HF Pflege Zentrale Ansprechperson für Lernende AGS und FaGe sowie Studierende HF Pflege in sämtlichen ausbildungsrelevanten Fragen Sicherstellung der organisatorischen, fachlichen und personellen Voraussetzungen für eine qualitativ hochwertige Ausbildung Verantwortung für die Umsetzung der betrieblichen Ausbildungskonzepte sowie der Vorgaben der zuständigen Bildungsanbieter Sicherstellung und kontinuierliche Weiterentwicklung der Ausbildungsqualität im Betrieb Fachliche und pädagogische Verantwortung für die Gestaltung und Begleitung der betrieblichen Lernprozesse Förderung der Kompetenzentwicklung und des Theorie-Praxis-Transfers der Lernenden und Studierenden Ganzheitliche, ressourcenorientierte Pflege und Betreuung unserer Gäste gemäss Pflegeleitbild und Pflegeprozess Ansprechperson für Erziehungsberechtigte sowie deren Einbezug bei ausbildungsrelevanten Fragestellungen und Entwicklungsgesprächen. Verantwortung für die Planung, Durchführung, Beurteilung und Dokumentation der betrieblichen Pflichtelemente gemäss den jeweiligen Bildungsvorgaben (z. B. Bildungsberichte, Kompetenznachweise und Lerndokumentationen). Sicherstellung einer fachgerechten und vollständigen elektronischen Pflegedokumentation mittels CareCoach Ihr Profil Abgeschlossene Ausbildung zur/zum Dipl. Pflegefachfrau/Pflegefachmann HF Abgeschlossener Berufsbildnerkurs und SVEB 1 oder Bereitschaft diese zu absolvieren Berufserfahrung in der Langzeitpflege erwünscht Eine herzliche und humorvolle Grundeinstellung mit Passion für die Bildung Freude an vielseitigen Herausforderungen Sichere Kommunikation in der deutschen Sprache in Wort und Schrift Warum Tertianum? Benefits Uns ist wichtig, dass unsere Mitarbeitenden Beruf und Privatleben gut miteinander vereinbaren können. Dazu gehört ein vielfältiges Angebot an unterschiedlichen Benefits, z.B.: Interne und externe Weiterbildungsmöglichkeiten Zusätzlicher freier Tag im Geburtstagsmonat Tägliches Mittagessen für CHF 10 Vergünstigte Mobile- und Internet-Abos bei Sunrise Rabatte auf ausgewählte Krankenkassen-Zusatzversicherungen SBB-Halbtaxabonnement Diverse Flottenrabatte Weitere Benefits finden Sie auf unserer Website. Sind Sie interessiert? Wir bieten Ihnen eine spannende Perspektive: Bei uns können Sie Ihre Fähigkeiten und Ihr Fachwissen in einem motivierten und flexiblen Team einsetzen. Sie übernehmen Verantwortung und helfen mit, die Zukunft von Tertianum zu gestalten. Bewerben Sie sich jetzt und werden Sie Teil unseres Teams. Wir freuen uns auf Ihre vollständige Online-Bewerbung über unser Bewerbungs-Tool. Klicken Sie auf «Jetzt bewerben» und erstellen Sie Ihr …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "c1a3e8da54dcaa00",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/bildungsverantwortlicher-hf-pflege-in-der-grundbildung-80-100%25-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4481706364"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Bildungsverantwortlicher HF Pflege in der Grundbildung 80-100%",
-   "company": "Mach Karriere als Mensch_Faire une carrière empreinte d'humanité_Fai una carriera piena di umanità",
-   "location": "Berlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/bildungsverantwortlicher-hf-pflege-in-der-grundbildung-80-100%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4480747040",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "Die Tertianum Gruppe steht für Wohnen und Leben im Alter auf hohem Niveau. Als Schweizer Marktführerin haben wir den Anspruch, das Leben von Seniorinnen und Senioren mit unseren 7000 Mitarbeitenden jeden Tag lebenswert zu machen, um ihnen Lebensfreude zu ermöglichen. Mit unseren individuell zugeschnittenen Leistungen schaffen wir so über alle Lebensphasen im Alter an 100 Standorten ein neues Zuhause, das ein sicheres und selbstbestimmtes Leben bietet. Was uns dabei jeden Tag antreibt, ist unser Respekt und unser Verantwortungsgefühl für ältere Menschen. Bildungsverantwortlicher HF Pflege in der Grundbildung 80-100% Ihr Herz schlägt für ältere Menschen? Ist der Pflegeberuf Ihre Berufung? Sehen Sie Möglichkeiten, Ihre Fähigkeiten und Erfahrungen sinnstiftend bei uns einzubringen, um einen positiven Einfluss auf das Leben unserer Kundinnen und Kunden zu haben? Dann passen Sie perfekt zu uns! Für das Haus Neutal in Berlingen suchen wir per sofort oder nach Vereinbarung eine/einen Dipl. Pflegefachfrau / Pflegefachmann HF als Berufsbildnerin / Berufsbildner HF Pflege und Bildungsverantwortliche / Bildungsverantwortlicher in der Grundbildung 80-100% Ihre Aufgaben Verantwortlich für die Organisation, Planung und Durchführung der Lernbegleitungen auf den Stationen Verantwortung für die Rekrutierung und Selektion von Lernenden AGS und FaGe sowie Studierenden HF Pflege Zentrale Ansprechperson für Lernende AGS und FaGe sowie Studierende HF Pflege in sämtlichen ausbildungsrelevanten Fragen Sicherstellung der organisatorischen, fachlichen und personellen Voraussetzungen für eine qualitativ hochwertige Ausbildung Verantwortung für die Umsetzung der betrieblichen Ausbildungskonzepte sowie der Vorgaben der zuständigen Bildungsanbieter Sicherstellung und kontinuierliche Weiterentwicklung der Ausbildungsqualität im Betrieb Fachliche und pädagogische Verantwortung für die Gestaltung und Begleitung der betrieblichen Lernprozesse Förderung der Kompetenzentwicklung und des Theorie-Praxis-Transfers der Lernenden und Studierenden Ganzheitliche, ressourcenorientierte Pflege und Betreuung unserer Gäste gemäss Pflegeleitbild und Pflegeprozess Ansprechperson für Erziehungsberechtigte sowie deren Einbezug bei ausbildungsrelevanten Fragestellungen und Entwicklungsgesprächen. Verantwortung für die Planung, Durchführung, Beurteilung und Dokumentation der betrieblichen Pflichtelemente gemäss den jeweiligen Bildungsvorgaben (z. B. Bildungsberichte, Kompetenznachweise und Lerndokumentationen). Sicherstellung einer fachgerechten und vollständigen elektronischen Pflegedokumentation mittels CareCoach Ihr Profil Abgeschlossene Ausbildung zur/zum Dipl. Pflegefachfrau/Pflegefachmann HF Abgeschlossener Berufsbildnerkurs und SVEB 1 oder Bereitschaft diese zu absolvieren Berufserfahrung in der Langzeitpflege erwünscht Eine herzliche und humorvolle Grundeinstellung mit Passion für die Bildung Freude an vielseitigen Herausforderungen Sichere Kommunikation in der deutschen Sprache in Wort und Schrift Warum Tertianum? Uns Ist Wichtig, Dass Unsere Mitarbeitenden Beruf Und Privatleben Gut Miteinander Vereinbaren Können. Dazu Gehört Ein Vielfältiges Angebot An Unterschiedlichen Benefits, Z.B.: Interne und externe Weiterbildungsmöglichkeiten Zusätzlicher freier Tag im Geburtstagsmonat Tägliches Mittagessen für CHF 10 Vergünstigte Mobile- und Internet-Abos bei Sunrise Rabatte auf ausgewählte Krankenkassen-Zusatzversicherungen SBB-Halbtaxabonnement Diverse Flottenrabatte Weitere Benefits finden Sie auf unserer Website. Sind Sie interessiert? Wir bieten Ihnen eine spannende Perspektive: Bei uns können Sie Ihre Fähigkeiten und Ihr Fachwissen in einem motivierten und flexiblen Team einsetzen. Sie übernehmen Verantwortung und helfen mit, die Zukunft von Tertianum zu gestalten. Bewerben Sie sich jetzt und werden Sie Teil unseres Teams. Wir freuen uns auf Ihre vollständige Online-Bewerbung über unser Bewerbungs-Tool. Klicken Sie auf «Jetzt bewerben» und erstellen Sie Ihr persönliches …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "0ce33ca92d4f9a31",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/bildungsverantwortlicher-hf-pflege-in-der-grundbildung-80-100%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4480747040"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Experte in eigener Sache",
-   "company": "mensch-zuerst schweiz (people first)",
-   "location": "Rorschach, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/experte-in-eigener-sache-at-mensch-zuerst-schweiz-people-first-4481581122",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "Mitarbeiter:in • mensch zuerst schweiz Wir suchen eine Person, die mit uns arbeitet, mitdenkt und eigene Ideen hat. Wir arbeiten auf Augenhöhe: Alle Menschen sind gleich wichtig. Wir hören einander zu und entscheiden gemeinsam. Wir arbeiten mit Menschen, nicht einfach für sie. Das ist uns wichtig Du begegnest Menschen mit Respekt und auf Augenhöhe. Du kennst Peer-to-Peer: Menschen mit ähnlichen Erfahrungen lernen voneinander und unterstützen sich. Du kennst Selbstvertretung: Menschen sprechen für sich selbst und bestimmen mit. Du setzt dich für Inklusion ein: Alle sollen dabei sein und mitmachen können. Du kennst die UN-Behindertenrechtskonvention (UN-BRK) oder möchtest mehr darüber lernen. Du hast keine Berührungsängste gegenüber Menschen mit Beeinträchtigung. Du bist offen, freundlich, belastbar und flexibel. Das kannst du Du kannst am Computer arbeiten: mit Word, Excel, PowerPoint und Outlook. Du kannst frei vor Menschen sprechen und Referate an Grundschulen und Hochschulen halten. Du kannst Kurse in der Erwachsenenbildung bei Mensch zuerst leiten. Deine Aufgaben Du gestaltest unsere Angebote und Projekte mit. Du arbeitest in einem Kursleiter-Team. Du leitest Kurse und hältst Vorträge. Du sprichst mit Schulen, Hochschulen, dem Kanton, Ämtern und anderen Organisationen. Du unterstützt unsere Arbeit zu Peer-to-Peer, Inklusion und Selbstvertretung. Deine Ideen sind willkommen. Das bieten wir dir Eine Arbeit mit Sinn und Mitbestimmung. Zusammenarbeit auf Augenhöhe. Keinen festen 9-bis-5-Tag: Wir arbeiten nach Terminen und sprechen die Arbeitszeiten ab. Ein Team, in dem du mitgestalten kannst. Die Stelle. Arbeitsort: Rorschach und viele Termine ausser Haus. Pensum: 70-80 % Beginn: nach Vereinbarung Anstellung: Festanstellung mit Probezeit. mensch zuerst schweiz Pestalozzi-Strasse 11 9400 Rorschach Wir freuen uns auf deine Bewerbung! Bitte sende uns deine vollständigen Unterlagen per E-Mail: brechbuehl@mensch-zuerst.ch Show more Show less Seniority level Mid-Senior level Employment type Part-time Industries Professional Training and Coaching Referrals increase your chances of interviewing at mensch-zuerst schweiz (people first) by 2x See who you know",
-   "extra": {
-    "seniority": "Mid-Senior level",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "50a88c8be952df74",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/experte-in-eigener-sache-at-mensch-zuerst-schweiz-people-first-4481581122"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Stellvertretende Stationsleitung Pflege / Sozialpädagogik HF/FH ATJ 80%-100%",
-   "company": "Klinik Sonnenhof",
-   "location": "Bütschwil, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/stellvertretende-stationsleitung-pflege-sozialp%C3%A4dagogik-hf-fh-atj-80%25-100%25-at-klinik-sonnenhof-4481596756",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "Home Arbeiten im Sonnenhof Offene Stellen Stellvertretende Stationsleitung Pflege / Sozialpädagogik HF/FH ATJ 80%-100% Die Kinder- Und Jugendpsychiatrischen Dienste (KJPD) St.Gallen Sind Zuständig Für Die Ambulante Psychiatrische Behandlung Von Kindern, Jugendlichen Und Ihren Familien In Den Kantonen St.Gallen, Appenzell Innerrhoden Und Ausserrhoden. Die Klinik Sonnenhof – Kinder- Und Jugendpsychiatrisches Zentrum (KJPZ) – Ist Ein Fachärztlich Geleitetes Kinder- Und Jugendpsychiatrisches Zentrum. Als Versorgungsklinik Im Bereich Der Teilstationären Und Stationären Kinder- Und Jugendpsychiatrie Des Kantons St.Gallen Hat Sie Leistungsvereinbarungen Mit Den Kantonen Zürich, Schaffhausen, Schwyz, Glarus Und Appenzell Ausserrhoden. Mit Dem Entscheid, Unsere Ambulanten Und Stationären Einrichtungen Zusammenzuführen, Entsteht Ein Modernes, Integriertes Versorgungszentrum. Zur Ergänzung Unseres Teams Suchen Wir Eine Engagierte Und Qualifizierte Persönlichkeit Als Stellvertretende Stationsleitung Pflege / Sozialpädagogik HF/FH ATJ 80%-100% Auf der Abklärungs- und Therapiestation begleiten und behandeln wir Jugendliche rund um die Uhr im Alter von 14 bis 18 Jahren, die sich in unterschiedlichen psychischen und psychosozialen Belastungssituationen befinden. Unser Angebot umfasst sowohl psychiatrische Abklärungen als auch längerfristige Therapieaufenthalte über mehrere Monate. Die Arbeit mit Jugendlichen und ihren Bezugssystemen ist abwechslungsreich und anspruchsvoll zugleich. Sie erfordert Flexibilität, Einfühlungsvermögen und die Fähigkeit auch in herausfordernden Situationen den Überblick zu bewahren und mit Ruhe und Klarheit zu handeln. Dabei legen wir grossen Wert auf eine enge interprofessionelle Zusammenarbeit, einen respektvollen Umgang und eine ressourcenorientierte Begleitung. Ihre Aufgaben Enge Zusammenarbeit mit der Stationsleitung sowie der ärztlich therapeutischen Leitung Mitverantwortung für die personelle Führung von ca. 25 Mitarbeitenden und die Teamentwicklung Mitverantwortung für die Sicherstellung einer ganzheitlichen, individuellen und ressourcenorientierten Behandlung Organisation, Planung und Koordination der Arbeitsabläufe Eine abwechslungsreiche Arbeit mit den Jugendlichen und ihren Bezugssystemen, welche geprägt ist von schnellwechselnden Situationen Analysieren von Ressourcen und Problemen in pflegerischen und sozialpädagogischen Themen Erarbeiten von Zielen und Interventionen zusammen mit den Jugendlichen und Eltern Enge interdisziplinäre Zusammenarbeit mit den Bereichen Therapie, Ärzte und Klinikschule Ihre Kompetenzen Abgeschlossene Fachausbildung FH/FH Pflege oder Sozialpädagogik Führungserfahrung oder Bereitschaft, sich das Wissen anzueignen Interesse am Fachbereich Kinder- und Jugendpsychiatrie Persönlichkeit mit hoher Sozialkompetenz und Empathie, Team- und Reflexionsfähigkeit Freude an raschen Veränderungen Gute Deutsch- und Sprachkenntnisse Bereitschaft zu unregelmässigen Arbeitszeiten in Stationsdiensten sowie zu Bürotagen Das bieten wir Ihnen Spannende und herausfordernde Aufgabe mit viel Raum für persönliche und berufliche Entwicklungsmöglichkeiten Mitglied des Kaderteams Fortschrittliche Anstellungsbedingungen mit sehr guten Sozialleistungen Regelmässige Coachings mit der Stationsleitung und Bereichsleitung Supervisionen und Teamsitzungen alle zwei Wochen Breite Fort- und Weiterbildungsmöglichkeiten Gut erreichbare Klinik und gratis Parkplätze Bewerbung Haben wir Ihr Interesse geweckt? Wir freuen uns, Sie kennenzulernen. Mehr Informationen erhalten Sie gerne von unserer Personalleiterin Eugenia Licata unter der Telefonnummer 071 243 46 71. Bitte laden Sie ihre Bewerbung auf unserer Homepage hoch. Wir freuen uns auf Sie! Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Health and Human Services Referrals increase your chances of interviewing at Klinik Sonnenhof by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "418a61488c7e3e42",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/stellvertretende-stationsleitung-pflege-sozialp%C3%A4dagogik-hf-fh-atj-80%25-100%25-at-klinik-sonnenhof-4481596756"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Lehrperson im Fachbereich Berufsvorbereitungsjahr (m/w/d)",
-   "company": "Kanton St.Gallen",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/lehrperson-im-fachbereich-berufsvorbereitungsjahr-m-w-d-at-kanton-st-gallen-4480744989",
+   "url": "https://ch.linkedin.com/jobs/view/leitung-alterszentrum-kirchhofplatz-100-%25-at-stadt-schaffhausen-4482181048",
    "posted": "2026-10-21",
    "salary": null,
    "via": null,
-   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Für die Abteilung Brückenangebote suchen wir per 1. Februar 2027 eine Ihre Aufgaben Deutsch, Englisch, Französisch, Themenunterricht, Wahlfachangebot Im Basisunterricht begleiten Sie die Lernenden im Rahmen des selbstorganisierten Lernens (SOL) in unseren Lernumgebungen Sie übernehmen Aufgaben als Lerncoach und unterrichten gleichzeitig als Lehrperson im klassischen Unterrichtssetting Erfüllung des Berufsauftrages für Lehrpersonen an Berufsfachschulen Aktive Mitarbeit im Fachbereich, in der Abteilung und in der Schule Was Sie auszeichnet Kommunikative Persönlichkeit mit ausgeprägter Sozialkompetenz Initiativ und belastbar Flexibel und offen für neue Entwicklungen Ausbildung als Oberstufenstufenlehrperson oder Heilpädagogin/Heilpädagoge Sicheres und fundiertes Agieren als Lerncoach und Lehrperson sowie Unterrichtserfahrung auf der Oberstufe Erfahrung im selbstorganisierten Lernen (SOL) oder die Bereitschaft, eine entsprechende Weiterbildung zu absolvieren Vorbildliches Auftreten und Freude am Umgang mit Lernenden sowie am Unterrichten Unsere Benefits Wir bieten Ihnen eine interessante und herausfordernde Tätigkeit in einem motivierten Umfeld. Die Anstellung erfolgt im Rahmen der Ergänzenden Verordnung über das Dienstverhältnis der Lehrpersonen an Berufs- und Weiterbildungszentren. I nteressiert und motiviert? Wir freuen uns auf Ihre vollständigen Bewerbungsunterlagen. Bitte reichen Sie Ihr digitales Dossier bis 5. November 2026 via untenstehendem Link ein Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "description": "Sind Sie bereit, die Zukunft der Stadt Schaffhausen mitzugestalten? Das Alterszentrum Kirchhofplatz im Herzen von Schaffhausen bietet pflegebedürftigen Menschen ein sicheres und liebevolles Zuhause. Unsere über 170 Mitarbeitenden sorgen mit grossem Engagement für eine individuelle und qualitativ hochstehende Betreuung – rund um die Uhr, 365 Tage im Jahr. Eintrittstermin: Per sofort oder nach Vereinbarung In diesem spannenden Job übernehmen Sie die betriebswirtschaftliche, operative und personelle Gesamtverantwortung für das Alterszentrum Kirchhofplatz stellen Sie die kontinuierliche Weiterentwicklung eines qualitativ hochstehenden Angebots sicher, das sich konsequent an den Bedürfnissen der Bewohnenden orientiert richten Sie das Dienstleistungsangebot strategisch an der städtischen Altersstrategie aus und setzen diese wirkungsvoll um führen Sie das Alterszentrum nach den einheitlichen Grundsätzen und Richtlinien der städtischen Alterszentren und bewahren dabei seinen individuellen Charakter leiten Sie interdisziplinäre Projekte im Bereich Stationäre Versorgung und bringen innovative Impulse ein sind Sie für Bewohnende, Angehörige und Mitarbeitende nahbar und präsent vertreten Sie das Alterszentrum Kirchhofplatz nach innen und aussen und pflegen tragfähige Netzwerke mit relevanten Anspruchsgruppen Sie sind hier erfolgreich mit Ihrer abgeschlossenen Weiterbildung im Bereich Management von sozialen oder sozialmedizinischen Organisationen wenn Sie ein starkes betriebswirtschaftliches Fundament mitbringen wenn Sie mit Ihrem sozialen und kulturellen Verständnis das Alterszentrum als einen lebendigen, von Wertschätzung geprägten Ort für Bewohnende und Mitarbeitende gestalten dank Ihrer mehrjährigen Berufserfahrung in einer vergleichbaren Führungs- oder Leitungsfunktion, idealerweise im Alters- oder Gesundheitsbereich mit Ihrer Erfahrung im Transformations- und Changemanagement mit Ihrem Verständnis für politische Prozesse und die Rahmenbedingungen im Alters- und Gesundheitsbereich aufgrund Ihres strategischen Denkens, Ihrer lösungsorientierten Arbeitsweise und Ihrem Blick für Qualität und Effizienz dank Ihrer hohen Sozialkompetenz, Ihrer Kommunikationsstärke und Ihres souveränen Auftretens wenn Sie eine Kultur des Vertrauens sowie der Weiterentwicklung motiviert und aktiv vorleben Das bieten wir dir Wir fördern dich Entdecke unser internes Kursprogramm mit über 130 Angeboten und geniesse grosszügige Unterstützung bei externen Weiterbildungen. Mehr Zeit für dich Bei uns kannst du deinen 13. Monatslohn in zusätzliche Ferien umzuwandeln. Wo immer möglich, bieten wir zudem Home-Office und Jahresarbeitszeit an. Für deine Zukunft Wir übernehmen bis zu 60% deiner Pensionskassenbeiträge und bieten viele weitere attraktive Vorsorgeleistungen. Deine Vorteile im Überblick So geht's weiter Deine Bewerbung Erste Kontaktaufnahme per E-Mail Persönliches Kennenlernen Willkommen an Bord! Fragen oder Anliegen? Sehr gerne! Wir freuen uns auf den Kontakt. Nina Suter HR Partnerin +41 52 632 59 12 Für alle fachlichen Fragen: Freya Munroe Bereichsleiterin Stationäre Versorgung +41 52 632 53 38 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Stadt Schaffhausen by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "eb440632992e9177",
+   "id": "c22339569fcd612d",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/lehrperson-im-fachbereich-berufsvorbereitungsjahr-m-w-d-at-kanton-st-gallen-4480744989"
+    "linkedin": "https://ch.linkedin.com/jobs/view/leitung-alterszentrum-kirchhofplatz-100-%25-at-stadt-schaffhausen-4482181048"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   },
   {
-   "title": "Fachperson Sucht (m/w/d)",
-   "company": "Kanton St.Gallen",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/fachperson-sucht-m-w-d-at-kanton-st-gallen-4480442944",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Für diese vielseitige Fach- und Koordinationsaufgabe suchen wir infolge Pensionierung per 1. Februar 2027 oder nach Vereinbarung eine Ihre Aufgaben Mitgestaltung und Weiterentwicklung der kantonalen Suchthilfe und Suchtbehandlung auf Grundlage der gesetzlichen Vorgaben Fachliche Beratung des Gesundheitsdepartementes in suchtpolitischen Fragestellungen und Erteilung von Fachauskünften Bearbeitung von parlamentarischen Vorstössen und Erarbeitung von Entscheidungsgrundlagen Planung und Umsetzung von Projekten Koordination der interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) Administrative und finanzielle Bewirtschaftung des Alkoholzehntels und der Geldspielsuchtabgabe Verhandlung von Leistungsvereinbarungen mit Institutionen der Suchthilfe Was Sie auszeichnet Master in Sozialwissenschaften, Psychologie oder Gesundheitswissenschaften Mehrjährige Berufserfahrung in den Bereichen Suchthilfe und Suchtbehandlung Fundierte Kenntnisse im Projektmanagement Interesse an gesundheitspolitischen Prozessen und an Public Health Sicheres und kommunikatives Auftreten Stilsichere mündliche und schriftliche Ausdrucksweise Fremdsprachenkenntnisse (Englisch, Französisch) von Vorteil Unsere Benefits Selbständige und anspruchsvolle Tätigkeit in einem spannenden und politischen Umfeld Gute Einarbeitung und Unterstützung Flexible Arbeitszeitmodelle Zeitgemässe Anstellungsbedingungen und die Möglichkeit zur fachlichen Weiterbildung Show more Show less Seniority level Not Applicable Employment type Part-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "ca35093d4f9d757a",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-sucht-m-w-d-at-kanton-st-gallen-4480442944"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "HR Specialist",
-   "company": "Zimmer Biomet",
-   "location": "Winterthur, Zurich, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/hr-specialist-at-zimmer-biomet-4471549238",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "At Zimmer Biomet, we believe in pushing the boundaries of innovation and driving our mission forward. As a global medical technology leader for nearly 100 years, a patient’s mobility is enhanced by a Zimmer Biomet product or technology every 8 seconds. As a Zimmer Biomet team member, you will share in our commitment to providing mobility and renewed life to people around the world. To support our talent team, we focus on development opportunities, robust employee resource groups (ERGs), a flexible working environment, location specific competitive total rewards, wellness incentives and a culture of recognition and performance awards. We are committed to creating an environment where every team member feels included, respected, empowered and recognised. What You Can Expect In this role you will work closely with the Human Resources Manager in personnel administration, recruitment, development and management, as well as further training and development and project work. The role requires meticulous work in accordance with established processes and task areas. You will ensure the optimal running of personnel administration in compliance with the defined quality requirements in terms of human resources procedures, current regional legislation (Swiss Civil Code, Code of Obligations and Employment Law) and applicable international laws. You will work confidentially in compliance with data protection aspects and requirements (Data Protection Act/DPA). How You'll Create Impact You will be assisting and supporting the HR team in all administrative work; being responsible for correct filing You will be acting as the main point of information for administrative queries from subordinates and colleagues You will be helping to deal with new members of staff or those who are leaving You will be managing the workforce within the SAP HR module (new staff, leavers, keeping database up to date, including time-management system) You will be issuing interim performance reports, leaver references and employment certificates as instructed by the manager You will be delping with the organisation of staff events You will be managing personnel files and keeping them up to date (SAP), general diary management, managing holidays and absences You will be assisting with a range of human resources projects You will be obtaining and renewing work permits for foreign employees, maintaining contacts with relevant offices and authorities What Makes You Stand Out Ideally you have experience working in an HR administration department in an international environment Ideally you have good knowledge of the SAP HR module You are proactive and have good communication skills Your Background You completed commercial vocational training You are trained as ‘Human Resources Assistant’ You are adept in the use of MS Office tools including Excel Very good spoken and written English and German Travel Expectations No travel required EOE/M/F/Vet/Disability Show more Show less Seniority level Not Applicable Employment type Part-time Industries Medical Equipment Manufacturing Referrals increase your chances of interviewing at Zimmer Biomet by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Part-time",
-    "applicants": "117 applicants"
-   },
-   "id": "4e863955452c615f",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/hr-specialist-at-zimmer-biomet-4471549238"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Leiter (m/w/d) Technical Publications Missile & Equipments",
-   "company": "Diehl Defence",
+   "title": "Sozialpädagoge (w/m/d) für die Mobile Jugendarbeit in Überlingen, 50%, ab sofort",
+   "company": "Der Paritätische Baden-Württemberg",
    "location": "Überlingen, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/leiter-m-w-d-technical-publications-missile-equipments-at-diehl-defence-4480482035",
-   "posted": "2026-10-20",
+   "url": "https://de.linkedin.com/jobs/view/sozialp%C3%A4dagoge-w-m-d-f%C3%BCr-die-mobile-jugendarbeit-in-%C3%BCberlingen-50%25-ab-sofort-at-der-parit%C3%A4tische-baden-w%C3%BCrttemberg-4481174997",
+   "posted": "2026-10-22",
    "salary": null,
    "via": null,
-   "description": "Das sind Ihre Aufgaben: Sie übernehmen die fachliche sowie die disziplinarische Führung des Fachteams Technical Publications Missile & Equipments. Hierfür steuern Sie eigenverantwortlich die Personal- und Ressourcenplanung - inklusive Dienstleister - hinsichtlich der beschreibenden technischen Dokumentation sowie der Ersatzteilkatalogerstellung (extern wie intern). Mit hoher Eigeninitiative beteiligen Sie sich an der Weiterentwicklung der methodischen Fähigkeiten zum Ausbau der Systemhauskompetenz, entwickeln und bewerten innovative Lösungen. Ihr Fachbereich unterstützt die Optimierung der technischen Dokumentation und bezieht dabei technologische Weiterentwicklung sowie Erfahrungen aus der Nutzung aktiv mit ein. Die Sicherstellung der Einhaltung von Qualität-, Kosten- und Leistungsvorgaben verantworten Sie übergeordnet für Ihr Fachteam. Das bringen Sie mit: Ein abgeschlossenes technisches Studium, vorzugsweise mit Schwerpunkten im Bereich der technischen Dokumentation, bildet die optimale Voraussetzung für diese Position. Sie konnten bereits fundierte Erfahrungen bezüglich der beschreibenden technischen Dokumentation sowie der Erstellung von Ersatzteilkatalogen unter Anwendung der einschlägigen Standards wie z. B. ASD S1000D, ASD S2000M, ATA SPEC, Gesetze und Richtlinien zur Produkthaftung (z. B. Maschinenrichtlinie) sammeln. In der Rolle als Führungskraft sind Sie Vorbild für Ihre Mitarbeiter, bleiben authentischer Teamplayer, suchen Lösungen und wirken motivierend. Dabei liegt Ihnen die Weiterentwicklung Ihrer Mitarbeiter besonders am Herzen. Ihre sehr guten Englischkenntnisse, Ihr Kommunikationsgeschick und Ihre Freude am Mitgestalten einer modernen Unternehmenskultur runden Ihr Profil ab. Hinweis: Bewerber (m/w/d) mit einer Schwerbehinderung werden bei gleicher Eignung bevorzugt behandelt. Sollten Sie das wünschen, geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Land/Standort Überlingen am Bodensee Funktionsbereich Vertrieb/Kundenservice Einstiegslevel Direkteinstieg - Mit Berufserfahrung Arbeitsmodus vor Ort Arbeitszeitmodell Vollzeit Arbeitsverhältnis unbefristet Unternehmensbereiche Diehl Defence Start 01.01.2027 Diese Benefits bieten wir Ihnen - und mehr: Individuelle Entwicklungsmöglichkeiten Flexible Arbeitszeiten Familienunternehmen Interne Weiterbildungsprogramme Betriebliches Gesundheitsmanagement Mach bei Diehl, was dir wichtig ist. Diehl Defence GmbH & Co. KG Sarah Stengele-Prüser Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "description": "Eintrittsdatum Dezember 2026 Bewerbungsfrist Mo., 30.11.2026 - 12:00 Umfang 50 % E-Mail bewerbung@linzgau-kjh.de Webseite Website besuchen Adresse Linzgau Kinder- und Jugendhilfe e. V. Wiestorstraße 4 88662 Überlingen Deutschland Allgemeine Infos zum Unternehmen Lust auf arbeiten am See? Der Linzgau – Kinder- und Jugendhilfe e.V. sucht ab sofort eine pädagogische Fachkraft mit Kenntnissen und Vorerfahrungen im Arbeitsfeld zur geschlechterparitätischen Ergänzung des Teams für den Schwerpunkt Mädchenarbeit in der Mobilen Jugendarbeit in Überlingen. Der Linzgau Kinder- und Jugendhilfe e.V. ist eine sozialpädagogische Facheinrichtung am Bodensee. Seit 1965 stehen wir jungen Menschen und ihren Familien mit vielen Angeboten zur Seite, darunter dezentrale Wohngruppen in Konstanz, dem gesamten Bodenseekreis, Pfullendorf und in Lindau, ein sonderpädagogisches Bildungs- und Beratungszentrum (SBBZ), Vorqualifizierungsmaßnahmen, inklusive Bildung und ambulante Hilfen sowie präventive Angebote. Ihre Aufgaben Niedrigschwellige, aufsuchende Arbeit im Überlinger Stadtgebiet mit der o.g. Zielgruppe, die von bestehenden Angeboten nicht erreicht wird und z.T. durch riskantes Verhalten auffällt Streetwork; Einzelfallhilfe; Gruppen- und Gemeinwesenarbeit Aktionen und Projekte mit den Schwerpunkten: Beteiligung, Demokratiebildung, Schaffung von Wohn- und Arbeitsmöglichkeiten, Begleitung in Alltagsherausforderungen Ihr Profil Erfahrung im Bereich Gruppen-, Gemeinwesen -, und Einzelfallhilfe bzw. Freizeit –und Erlebnispädagogik Kenntnisse und Erfahrungen in der Arbeit mit jungen Menschen, auch mit Migrations- und/oder Fluchthintergrund Interkulturelle Kompetenz Organisationstalent und Zuverlässigkeit Offenheit, Authentizität, Neugierde und Humor Was wir bieten Eine interessante und abwechslungsreiche Arbeit Eine leistungsgerechte Entlohnung mit Jahressonderzahlung. Die Bezahlung ist angelehnt an den TVöD; Abhängig von Qualifikation und Berufserfahrung reicht die Spanne deiner Vergütungsstufe von 3.578,87 € und 5.190,90 €. Wir leisten freiwillige Sonderzahlungen und auch die Kinderbetreuung bezuschussen wir mit bis zu 70 Euro im Monat Wir arbeiten dich gründlich ein und bieten dir interne sowie individuelle Fort- und Weiterbildungsmöglichkeiten Es gibt eine rein betrieblich finanzierte Altersvorsorge, vermögenswirksame Leistungen und ein betriebliches Gesundheitsmanagement: bei uns kannst du Yoga machen, Bogen schießen oder gemeinsam werkeln. Wir bieten außerdem Wellpass, E-Bike Leasing, Segeln für Mitarbeitende und vieles mehr … Anhang Sozialpaedagoge__m_w_d__fuer_die_Mobile_Jugendarbeit_in_Ueberlingen__ab_sofort__50___befristet_als_Elternzeitvertretung.pdf (1.45 MB) Show more Show less Seniority level Not Applicable Employment type Full-time Industries Individual and Family Services Referrals increase your chances of interviewing at Der Paritätische Baden-Württemberg by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "eeb9b7c4945c6f89",
+   "id": "0c70c573e56c302e",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/leiter-m-w-d-technical-publications-missile-equipments-at-diehl-defence-4480482035"
+    "linkedin": "https://de.linkedin.com/jobs/view/sozialp%C3%A4dagoge-w-m-d-f%C3%BCr-die-mobile-jugendarbeit-in-%C3%BCberlingen-50%25-ab-sofort-at-der-parit%C3%A4tische-baden-w%C3%BCrttemberg-4481174997"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   },
   {
-   "title": "Junior Projektleiter Operations (w/m/d)",
-   "company": "Galenica",
-   "location": "Oensingen, Solothurn, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/junior-projektleiter-operations-w-m-d-at-galenica-4481581277",
-   "posted": "2026-10-20",
-   "salary": null,
-   "via": null,
-   "description": "Medifilm AG Das kannst du bewirken Du planst und realisierst kleinere Projekte sowie Teilprojekte im Bereich Operations und unterstützt deren erfolgreiche Umsetzung. Du begleitest die Einführung neuer Anlagen, Technologien und Arbeitsabläufe und trägst zu effizienten Prozessen bei. Du analysierst bestehende Produktionsabläufe und entwickelst gemeinsam mit den Fachbereichen nachhaltige Verbesserungsvorschläge. Du koordinierst Projektaufgaben zwischen Produktion, Entblisterung, Technik, Qualitätsmanagement und externen Partnern. Du erstellst und pflegst Projektpläne, Terminübersichten und Massnahmenlisten und sorgst für Transparenz über den Projektfortschritt. Du unterstützt bei Projektdokumentationen, Change-Control-Verfahren sowie der Aufbereitung von Kennzahlen und Entscheidungsgrundlagen für den Leiter Operations. Das bringst du mit Du verfügst über eine abgeschlossene technische, pharmazeutische oder kaufmännische Ausbildung und idealerweise über eine Weiterbildung im Projekt- oder Prozessmanagement. Du konntest bereits erste Erfahrungen in der Projektarbeit oder in einem Produktionsumfeld sammeln. Du interessierst dich für technische Abläufe und die kontinuierliche Verbesserung von Prozessen. Du arbeitest strukturiert, zuverlässig und selbstständig und behältst auch bei mehreren Themen den Überblick. Du schätzt die Zusammenarbeit mit unterschiedlichen Fachbereichen und kommunizierst adressatengerecht. Du beherrschst MS Office, insbesondere Excel, und verfügst über gute Deutsch- sowie Englischkenntnisse für die Zusammenarbeit mit internationalen Partnern; GMP-Kenntnisse sind von Vorteil. Kontakt Deine Bewerbung wird bearbeitet durch: Galenica Elena Efimova Recruiting Specialist Tel. +41 58 852 84 68 Fachliche Auskünfte erteilt dir gerne: Show more Show less Seniority level Not Applicable Employment type Full-time Industries Medical Equipment Manufacturing and Pharmaceutical Manufacturing Referrals increase your chances of interviewing at Galenica by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "3c77ead641447dd7",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/junior-projektleiter-operations-w-m-d-at-galenica-4481581277"
-   },
-   "first_seen": "2026-10-21"
-  },
-  {
-   "title": "Senior Expert HR Analytics & Data Science (w/m/d) Teilzeit/Vollzeit",
-   "company": "Helvetia Schweiz",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/senior-expert-hr-analytics-data-science-w-m-d-teilzeit-vollzeit-at-helvetia-schweiz-4481748797",
-   "posted": "2026-10-20",
+   "title": "Lehrkraft mit Lehrbefähigung Sek1 50-80% (m/w/d)",
+   "company": "DIE UNTERSEE – Freie Aktive Schule & Kindergarten Radolfzell",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/lehrkraft-mit-lehrbef%C3%A4higung-sek1-50-80%25-m-w-d-at-die-untersee-%E2%80%93-freie-aktive-schule-kindergarten-radolfzell-4479427681",
+   "posted": "2026-10-21",
    "salary": null,
    "via": null,
    "description": "",
@@ -441,66 +177,280 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "8d617a12ff5ab020",
+   "id": "40125b3d077dc33c",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/senior-expert-hr-analytics-data-science-w-m-d-teilzeit-vollzeit-at-helvetia-schweiz-4481748797"
+    "linkedin": "https://de.linkedin.com/jobs/view/lehrkraft-mit-lehrbef%C3%A4higung-sek1-50-80%25-m-w-d-at-die-untersee-%E2%80%93-freie-aktive-schule-kindergarten-radolfzell-4479427681"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   },
   {
-   "title": "Leitung Forschungsgruppe Smart Farming & Digitale Technologien",
-   "company": "Agroscope",
-   "location": "8356 Ettenhausen TG",
+   "title": "Projektleiter/in Fuss- und Veloverkehr / Verkehrssicherheit",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
    "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/27d09e61-f0cd-45a6-b82d-12ec42756c48/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-fuss-und-veloverkehr-verkehrssicherheit-at-kanton-thurgau-4480797480",
    "posted": "2026-10-21",
    "salary": null,
    "via": null,
-   "description": ".\n*  **Gelebte Vielfalt** Dank <em>Chancengleichheit</em> entfalten wir unsere Kompetenzen und bringen unterschiedliche Perspektiven ein.\n*  **Gesund am Arbeitsplatz** Wir unterstützen und beraten unsere Mitarbeitenden im Bereich der physischen und psychischen Gesundheit.",
+   "description": "Sie möchten mit Ihrer Arbeit zur Sicherheit der vielfältigen Nutzer von Verkehrsinfrastrukturen beitragen? Das kantonale Tiefbauamt betreut rund 740 km Kantonsstrassen – und Sie sorgen mit gezielten Massnahmen für einen freien Bewegungsradius von Velofahrer/-innen sowie Fussgänger/-innen. An Bushaltestellen kümmern Sie sich um hindernisfreie Zugänge. In jedem Fall achten Sie auf die Verkehrssicherheit aller Strassenbenutzer/-innen. Für unsere Abteilung Projekt Management Verkehr suchen wir eine selbständige Persönlichkeit, die ihr Fachwissen gezielt in diesem vielseitigen Aufgabengebiet einbringen will. Projektleiter/in Fuss- und Veloverkehr / Verkehrssicherheit 80–100% Ihre Aufgaben Leiten und koordinieren von Strassenbauprojekten im Bereich Fuss- und Veloverkehr sowie hindernisfreier Bushaltestellen und Verkehrssicherheit von der Studie bis zur Auflage oder der Übergabe an die ausführende Abteilung Erarbeiten von Studien und Durchführen von Vorabklärungen zur Evaluation und Priorisierung von neuen Projekten Durchführen von Planeraufträgen mit Delegation von Aufgaben an die beauftragten Planerinnen und Planer Verhandeln mit den betroffenen Gemeinden und Grundeigentümern zur Sicherstellung der Machbarkeit der Projekte Das bringen Sie mit Eine abgeschlossene Fachhochschulausbildung in den Bereichen Bau- und Verkehrsingenieurwesen oder eine vergleichbare Qualifikation sowie Weiterbildung im Bereich Projektmanagement einige Jahre Erfahrung in der Bau- und Verkehrsplanung gute Fachkenntnisse in den Bereichen Strassenbau, Verkehrssicherheit und Fuss- / Veloverkehr adressatengerechter Umgang mit den Anspruchsgruppen vernetztes, analytisches Denken und zielorientiertes Arbeiten zur Entwicklung von innovativen Lösungen gewandt im mündlichen und schriftlichen Ausdruck Darauf können Sie sich freuen Eine strukturierte und sorgfältige Einführung in Ihr Aufgabengebiet Weiterbildungsmöglichkeiten und Entwicklungsperspektiven Ein modernes Arbeitsumfeld mit attraktiven Anstellungsbedingungen Ihr Kontakt Peter Imbach, Abteilungsleiter Projekt Management Verkehr, T 058 345 79 47 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
    "extra": {
-    "canton": "TG",
-    "query": "Chancengleichheit",
-    "workload": "100-100 %",
-    "permanent": true,
-    "jobroom_id": "fad71ed1-5f93-4288-b2cd-25a4147058c9"
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
    },
-   "id": "5a6580e466312038",
+   "id": "43d819ad0a5dd61f",
    "sources": [
-    "jobroom"
+    "linkedin"
    ],
    "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/27d09e61-f0cd-45a6-b82d-12ec42756c48/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-fuss-und-veloverkehr-verkehrssicherheit-at-kanton-thurgau-4480797480"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   },
   {
-   "title": "Responsable du groupe de recherche Smart Farming et technologies numériques",
-   "company": "Agroscope",
-   "location": "8356 Ettenhausen TG",
+   "title": "Site Support Specialist",
+   "company": "Kanadevia Inova",
+   "location": "Buchs (SG), St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://www.jobup.ch/fr/emplois/detail/d68b94ee-80e1-4ab9-9bbd-244d34846578/?utm_source=job-room.ch&utm_medium=affiliate&utm_campaign=wb:jobup|tg:b2c|cn:ch|lg:fr|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "url": "https://ch.linkedin.com/jobs/view/site-support-specialist-at-kanadevia-inova-4459355553",
    "posted": "2026-10-21",
    "salary": null,
    "via": null,
-   "description": "Outre la compréhension des processus de production agricole, la \\<\\<computer vision\\>\\>, l'<em>évaluation</em> exigeante des données et la modélisation font partie des compétences clés du groupe.",
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cb5446d3edf1a41a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/site-support-specialist-at-kanadevia-inova-4459355553"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Flächen- und Nutzungsmanagerin/-manager",
+   "company": "Kantonsspital Winterthur",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fl%C3%A4chen-und-nutzungsmanagerin-manager-at-kantonsspital-winterthur-4480786995",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "Für unseren Bereich Technik und Bau mit rund 47 Mitarbeiterinnen und Mitarbeitern suchen wir per sofort oder nach Vereinbarung eine engagierte Persönlichkeit als Flächen- und Nutzungsmanagerin/-manager für unser Team Umzugs- und Flächenmanagement. Wir bieten dir eine verantwortungsvolle und abwechslungsreiche Tätigkeit, bei der du deine Erfahrung und Fachkompetenz gezielt einbringen und weiterentwickeln kannst. Dich erwartet ein moderner Arbeitsplatz in einem lebhaften Umfeld, ein kollegiales und motiviertes Team sowie zeitgemässe Anstellungsbedingungen mit geregelten Arbeitszeiten. Als Teil unseres interdisziplinären Technik und Bau Teams übernimmst du Verantwortung und gestaltest aktiv mit. So sind wir gemeinschaftlich persönlich & fair einzigartig fortschrittlich Deine Aufgaben Flächenbedarfsplanung (kurz- / mittelfristig), in Zusammenarbeit mit Unternehmensentwicklung, Controlling und den Nutzervertreterinnen und Nutzungsvertreter der Bereiche Erarbeiten und visualisieren einer optimalen Flächenbelegung, unter Einhaltung der strategischen Vorgaben, mit Einbezug der Unternehmensentwicklung sowie Nutzervertreter: innen der Bereiche Koordinieren und kommunizieren von Raumzuteilungen und Raumumnutzungen; Kontrolle der Umsetzung durch die entsprechenden Projektleiter und das Umzugsmanagement Flächenanalyse und -controlling sowie Pflege der Raum- und Belegungsdaten im CAFM-/IWM-System \"Planon\" ; Bereitstellen der Grundlagen fürs strategische Flächenmanagement Formulieren von Anforderungen an das CAFM-/IWM-System \"Planon\", bzgl. Arbeits-, Nutzflächen- und Real-Estate Management ; Teilprojektleitung in entsprechenden Digitalisierungsprojekten Pflege und Aktualisierung der Architektur- und CAFM-Pläne, sowie Verwaltung der elektronischen und physischen Plandaten Erstellung aller relevanten Immobiliendaten und Berichten, Auswertungen, Übersichten z.Hd. verschiedener Anspruchsgruppen Dein Profil Kaufmännische oder technische Grundausbildung mit betriebswirtschaftlicher Weiterbildung Stufe HF Mehrere Jahre Berufserfahrung im CREM oder Arbeitsumgebungs- und Flächenmanagement eines Unternehmens mit vergleichbarem, sehr heterogenen, Immobilienportfolio Du arbeitest sicher in interdisziplinären Teams und verfügst über entsprechende Kommunikations-, Koordinations- und Verhandlungsfähigkeiten sowie Durchsetzungsvermögen gegenüber verschiedenen Nutzergruppen Hohe IT-Affinität und Erfahrung im Umgang mit Datenbanken und/oder CAFM-/IWM-Systemen, sowie Grund-Anwenderkenntnisse CAD, von Vorteil Du kommunizierst sicher auf Deutsch in Wort und Schrift Berufserfahrung im Spitalwesen von Vorteil Hast du noch Fragen? Gerne Kannst Du Dich Bei Mir Melden Urs Holzer Leiter Technik und Bau Tel. 052 266 22 13 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Kantonsspital Winterthur by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "a2619b82b9be89aa",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fl%C3%A4chen-und-nutzungsmanagerin-manager-at-kantonsspital-winterthur-4480786995"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Ergotherapie, die im Alltag etwas bewegt, mobil in der Region Winterthur 50-80%",
+   "company": "reha@home",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/ergotherapie-die-im-alltag-etwas-bewegt-mobil-in-der-region-winterthur-50-80%25-at-reha%40home-4478996756",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "Selbstständig eine Mahlzeit zubereiten, sich wieder ohne Unterstützung ankleiden oder die eigene Wohnung sicher nutzen: Was für viele selbstverständlich ist, kann nach einer Erkrankung oder einem Unfall zur Herausforderung werden. Genau hier kommst du ins Spiel. Bei der reha at home AG begleitest du Menschen auf ihrem Weg zurück zu mehr Selbstständigkeit. Du entwickelst individuelle Lösungen, stärkst vorhandene Fähigkeiten und gestaltest Therapien, die sich an den tatsächlichen Bedürfnissen deiner Klientinnen und Klienten orientieren. Dein Arbeitsplatz? Das Zuhause der Menschen. Dein Ziel? Mehr Selbstbestimmung im Alltag. Deine Aufgaben, vielseitig, alltagsnah und eigenverantwortlich Alltagstraining mit echtem Mehrwert: Du unterstützt Erwachsene dabei, alltägliche Aktivitäten wie Körperpflege, Ankleiden, Kochen und Haushaltsführung wieder möglichst selbstständig auszuführen. Individuelle Rehabilitation gestalten: Du begleitest Menschen nach Schlaganfällen, Stürzen, Handverletzungen, Operationen und Spitalaustritten. Ressourcen erkennen und fördern: Du analysierst Fähigkeiten, identifizierst Herausforderungen und entwickelst gemeinsam mit deinen Klientinnen und Klienten realistische Therapieziele. Wohnräume sinnvoll gestalten: Du beurteilst das häusliche Umfeld, empfiehlst geeignete Hilfsmittel und findest praktische Lösungen für mehr Sicherheit und Selbstständigkeit. Fachkompetenz gezielt einsetzen: Du integrierst Handtherapie, Feinmotoriktraining und kognitive Förderung in deine individuelle Therapieplanung. Im Team vernetzt arbeiten: Du tauschst dich mit Fachpersonen aus Physiotherapie, Logopädie und Pflege aus und bindest Angehörige bedarfsgerecht ein. Das bringst du mit: Ein FH-Diplom in Ergotherapie oder einen gleichwertigen, in der Schweiz anerkannten Abschluss Erfahrung in der Behandlung von Erwachsenen; Kenntnisse in Neurologie, Geriatrie oder Phototherapie sind von Vorteil Einen Führerausweis der Kategorie B – dein Geschäftsauto steht dir inklusive Privatnutzung ab dem ersten Tag zur Verfügung Freude an selbstständiger Arbeitsorganisation, individueller Therapieplanung und eigenverantwortlichem Arbeiten Kreativität, Flexibilität und die Fähigkeit, auch mit einfachen Mitteln wirkungsvolle Lösungen zu finden Interesse an interdisziplinärer Zusammenarbeit und fachlichem Austausch Du gehst gerne neue Wege, statt dich auf Standardlösungen zu verlassen? Dann passt du zu uns. Deine Vorteile, Freiraum, Flexibilität und Wertschätzung Mobil unterwegs, flexibel bleiben: Du erhältst ein Geschäftsauto zur beruflichen und privaten Nutzung inklusive Tankkarte. Arbeiten, wie es zu deinem Leben passt: Dein Pensum liegt zwischen 60 und 80 %. Gemeinsam finden wir ein Teilzeitmodell, das zu deiner persönlichen Situation passt. Flexibilität auch ausserhalb der Therapie: Planung, Administration und Dokumentation erledigst du bequem im Homeoffice. Planbare Arbeitszeiten: Du arbeitest von Montag bis Freitag – ohne Schichtbetrieb und ohne Nachtdienste. Deine Entwicklung zählt: Wir unterstützen deine fachliche Weiterbildung zeitlich und finanziell, beispielsweise in Neurorehabilitation, Handtherapie oder Hilfsmittelversorgung. Mehr Zeit für dich: Fünf Wochen Ferien, eine Gesundheitsprämie und bis zu zwei zusätzliche Ferientage pro Jahr sorgen für zusätzliche Freiräume. Bereit, Ergotherapie neu zu erleben? Du möchtest deine fachlichen Fähigkeiten gezielt einsetzen, selbstständig arbeiten und Therapie gestalten, die im Alltag wirklich ankommt? Dann freuen wir uns darauf, dich kennenzulernen. Bring dein Wissen ein. Entdecke neue Wege. Ermögliche mehr Selbstständigkeit. Werde Teil der reha at home AG und gestalte mit uns die Zukunft der mobilen Ergotherapie in der Region Winterthur. Show more Show less Seniority level Not Applicable Employment type Part-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at reha@home by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "c71553af7136e680",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/ergotherapie-die-im-alltag-etwas-bewegt-mobil-in-der-region-winterthur-50-80%25-at-reha%40home-4478996756"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Projektleiter Bau (m/w/d)",
+   "company": "Rocken®",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-bau-m-w-d-at-rocken%C2%AE-4481154000",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF75'000 - 90'000 Unser Kunde ist ein erfahrenes Unternehmen im Bereich Metallbau und realisiert anspruchsvolle Bauprojekte für Kundschaft aus Architektur, Planung und Bauwesen. Als traditionsreicher Arbeitgeber in der Schweiz überzeugt das Unternehmen mit fundiertem Fachwissen, einer wertschätzenden Unternehmenskultur und spannenden Projekten im Bauhauptgewerbe. Verantwortung Planung und Steuerung von anspruchsvollen Metallbau-Projekten von der Konzeption bis zur Fertigstellung Führung und Motivation des Projektteams Koordination der internen und externen Schnittstellen Erstellung von Bauplänen, Stücklisten und Materialbeschaffung Überwachung der Qualität und Einhaltung von Terminen und Kosten Sicherstellung der Einhaltung von Normen und Standards Beratung und Betreuung von Kunden und Architekten Mitwirkung bei der Akquisition von neuen Projekten Qualifikationen Abgeschlossene Ausbildung als Metallbaukonstrukteur oder Metallbauer EFZ Mehrjährige Berufserfahrung im Metallbau, idealerweise als Projektleiter Kenntnisse in der Konstruktion und Fertigung von Metallbau-Elementen Erfahrung in der Führung von Mitarbeitenden und im Projektmanagement Ausgeprägtes technisches Verständnis und eine hohe Lösungskompetenz Stilsichere Deutschkenntnisse ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9122d57f77b4f27c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-bau-m-w-d-at-rocken%C2%AE-4481154000"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Belagspolier Strassen- / Tiefbau (m/w/d)",
+   "company": "WALO Bertschinger",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/belagspolier-strassen-tiefbau-m-w-d-at-walo-bertschinger-4482400001",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7134bb9619d157df",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/belagspolier-strassen-tiefbau-m-w-d-at-walo-bertschinger-4482400001"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Mitarbeiter:in Bau und Administration",
+   "company": "LARAG AG",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-bau-und-administration-at-larag-ag-4480388545",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f24b5ad349166d77",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-bau-und-administration-at-larag-ag-4480388545"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Werkstoffprüfer (m/w/d)",
+   "company": "Constellium",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/werkstoffpr%C3%BCfer-m-w-d-at-constellium-4445943974",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "Bei Constellium walzen, pressen und bearbeiten wir hunderte Tonnen Aluminium – rund um die Uhr, seit Jahrzehnten. Dafür suchen wir helfende Hände und helle Köpfe. In Singen, Gottmadingen und in Zukunft. Aluminium ist nämlich unendlich recyclebar und schon heute unersetzlich in vielen Branchen. Wir suchen für das Walzwerk in Singen im Bereich Qualitätsprüfung eine/n Werkstoffprüfer (m/w/d) Ihre Herausforderung: Durchführen verschiedenster Freigabeprüfungen gemäß öffentlicher Normen, interner Vorgaben und kundenspezifischer Forderungen (z.B. Zugversuche, r- & n-Wert Ermittlung, Rauheitsmessungen, Biegeversuche, Zipfelprüfungen, visuelle Freigabeprüfungen usw.) Bedienen von sensiblen und komplexen Mess- und Prüfsystemen Vorbereiten von Proben für die verschiedenen Prüfungen inkl. Ablauforganisation, Probenverwaltung, Rückhaltemuster usw. Dokumentation und Lieferfreigabe im CAQ bzw. SAP-System Enge Zusammenarbeit mit Produktion, Logistik, Vertrieb und Prozessentwicklung Koordinieren und Auswerten von Versuchsreihen und Zusammenfassen der Messergebnisse in einem Prüfbericht Ihr Profil: Erfolgreich abgeschlossene Berufsausbildung in einem technischen Bereich Erfahrungen mit Herstellprozessen und Aluminium-Walzhalbzeug (Verschlussbleche, Automobilbänder, AutoDeco usw.) wären von Vorteil Bereitschaft zu Schichtarbeit und ausgeprägte Teamfähigkeit Hohe Eigenverantwortung und Organisationsfähigkeit Gewissenhafte und zuverlässige Arbeitsweise sind unabdingbar Englischkenntnisse in Wort und Schrift Gültiger Führerschein der Klasse B ist zwingend erforderlich Sichere Beherrschung von MS Office Software mindestens Outlook und Excel Erfahrungen mit CAQ bzw. SAP–Anwendungen wären wünschenswert Körperliche Eignung zur Durchführung bzw. Ausführung von Prüftätigkeiten z.B. visuellen Prüfungen Wir bieten: > Sichere Arbeitsplätze > Betriebliche Altersvorsorge > Tarifliche Vergütung > Vielzahl an Weiterbildung- und Entwicklungsmöglichkeiten > Kantine und bezuschusste Verpflegungsmöglichkeiten vor Ort > Beratungssystem zur Unterstützung in jeder Lebenslage > Gesundheitskurse und Kooperation mit verschiedenen Sport- und Gesundheitsanbietern, u.a. Hansefit > Attraktive Rabatte für Mitarbeitende > Arbeiten in einer der schönsten Regionen in Deutschland ___________________ Wir schaffen ein Arbeitsumfeld in dem sich alle willkommen fühlen – unabhängig von Alter, Geschlecht, ethnischer und sozialer Herkunft, Religion und Weltanschauung, Behinderung, sexuellen Orientierung und Identität. Bitte bewerben Sie sich per E-Mail an whr@constellium.com oder online über unser Stellenportal auf www.constellium.com . Constellium Rolled Products Singen GmbH & Co. KG Abt. WHR/Thomas Kamenzin Alusingen-Platz 1, 78224 Singen www.constellium.com Show more Show less Seniority level Not Applicable Employment type Full-time Industries Fabricated Metal Products Referrals increase your chances of interviewing at Constellium by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "45 applicants"
+   },
+   "id": "97d18fa8773b164c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/werkstoffpr%C3%BCfer-m-w-d-at-constellium-4445943974"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Laborant Molekularbiologie (w/m/d)",
+   "company": "Takeda",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/laborant-molekularbiologie-w-m-d-at-takeda-4473594986",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge. Job Description: Du bist auf der Suche nach einem patientenorientierten, innovationsgetriebenen Unternehmen, das dich inspiriert und deine Karriere fördert? Dann nimm deine Zukunft in die Hand und werde Teil von Takeda als Laborant Molekularbiologie (w/m/d): befristet bis 31.10.2028 Wir suchen eine*n motivierte*n Laborant*in für unser Molekularbiologie-Team, der mit seiner Expertise in molekularbiologischen Verfahren die Herstellung des Dengue-Impfstoffs unterstützt und aktiv an der Weiterentwicklung und Optimierung von Qualitätskontrollprozessen mitwirkt. Was du beitragen wirst: Durchführung aller molekularbiologischen Prüfungen im Rahmen der Herstellung des Dengue-Impfstoffs Transfer und Validierung von neuen Methoden Qualifizierung von Prüfmitteln Erstellung von GMP-Dokumenten wie z.B. SOPs und Testanweisungen Sicherstellung der Durchführung von Prüfmittelüberwachungsmaßnahmen Mitarbeit bei der Einführung von Standards und effizienten Prozessen innerhalb der Qualitätskontrolle In dieser Position berichtest du an den Laboratory Supervisor. Was du zu Takeda mitbringst : Abgeschlossene Berufsausbildung in Biologie, Biotechnologie, Chemie Ordentliche und gewissenhafte Arbeitsweise Erfahrung in der Durchführung molekularbiologischer Methoden wie z.B. qPCR, dPCR, ELISA oder NGS Erfahrung in der Erstellung technischer Dokumente Organisatorische Fähigkeiten für eine effiziente Planung und Priorisierung auch unter Zeitdruck Ausgeprägte Teamfähigkeit Sicherer Umgang mit MS-Office-Anwendungen Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse Was wir dir bieten: Attraktive Vergütung nach Tarifvertrag Aufgeschlossenes und modernes Arbeitsumfeld Fort- und Weiterbildungen Fahrtkostenzuschuss für den ÖPNV Großzügiges Umzugspaket inklusive Maklergebühren Subventionierte Kantine Bezuschusste Gesundheits- und Sportprogramme Berufsunfähigkeitsversicherung Pflegezusatzversicherung Mitarbeiterrabatte Aktienprogramm Mitarbeiterempfehlungsprogramm Entgeltumwandlungsmöglichkeiten für Altersvorsorge Zukunftsbetrag Globales Wellbeing-Programm Interaktive Online-Kurse für Kinder von Mitarbeitenden Mitarbeiteranerkennungsprogramm Über Uns: Takeda fokussiert sich darauf, eine bessere Gesundheit für die Menschen und eine bessere Zukunft für die Welt zu schaffen. Unser Ziel ist es, lebensverändernde Therapien in unseren therapeutischen und geschäftlichen Kernbereichen zu entdecken und bereitzustellen, darunter Magen-Darm- und Entzündungskrankheiten, seltene Krankheiten, aus Plasma gewonnene Therapien, Onkologie, Neurowissenschaften und Impfstoffe. In Singen sind rund 1.200 Mitarbeitende auf die Fertigung flüssiger und halbfester sowie gefriergetrockneter Arzneimittel spezialisiert. Singen ist der einzige Produktionsstandort im globalen Takeda-Netzwerk für die Herstellung unseres neuen Impfstoffes gegen das Dengue-Fieber. Takeda Singen ist ein regional bedeutsamer Arbeitgeber und mehrere Jahre in Folge mit dem unabhängigen Top Employer-Zertifikat ausgezeichnet. Der Standort zeichnet sich durch seine hohe Diversität (u.a. mehr als 55 Nationalitäten und über 40%-Frauen-Anteil bei den Führungskräften), seine langen Betriebszugehörigkeiten und seine exzellenten Weiterentwicklungsmöglichkeiten aus. Die Stadt Singen (Hohentwiel) liegt am wunderschönen Bodensee in Baden-Württemberg mit Blick auf die Alpen und Nähe zu Frankreich, Liechtenstein, Österreich und der Schweiz. Wie wir dich unterstützen werden: Takeda ist stolz auf seine Verpflichtung, eine vielfältige Belegschaft zu schaffen und allen Mitarbeitenden und Bewerber*innen gleiche Beschäftigungschancen zu bieten, ungeachtet ihrer ethnischen Zugehörigkeit, …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "102 applicants"
+   },
+   "id": "e61d45f56eee466b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/laborant-molekularbiologie-w-m-d-at-takeda-4473594986"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Manager Editorial Operations (m/w/d)",
+   "company": "SÜDKURIER GmbH Medienhaus",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/manager-editorial-operations-m-w-d-at-s%C3%BCdkurier-gmbh-medienhaus-4482080115",
+   "posted": "2026-10-21",
+   "salary": null,
+   "via": null,
+   "description": "Deine Aufgaben Du unterstützt die SÜDKURIER-Chefredaktion im operativen Tagesgeschäft, steuerst redaktionelle Projekte und verantwortest zentrale administrative Prozesse – insbesondere das Budget für freie Mitarbeitende, Honorare, Rechnungswesen, Personalthemen sowie die Begleitung rechtlicher Vorgänge. Gemeinsam mit dem Managing Editor auf Gruppenebene sicherst Du den effizienten Einsatz von Personal, Budget und Technik und unterstützt so die Erreichung publizistischer und wirtschaftlicher Ziele. Als Workflow-Manager am Standort Konstanz verantwortest Du die operative Produktionssteuerung und das termingerechte Erscheinen der Zeitung in Print und Digital. Du optimierst redaktionelle Workflows kontinuierlich und steuerst das Digital- und Print-Management inklusive Blattplanung und Zusammenarbeit mit der Druckerei. Du koordinierst die operative Zusammenarbeit innerhalb der Mediengruppe, insbesondere mit pd.Digital und IT, sowie Regionalkooperationen mit Partnerverlagen. Du führst die Teamleitungen Redaktionsassistenz und Print-Management und koordinierst die Support-Bereiche Redaktionstechnik und Archiv. In Deinen Verantwortungsbereich fallen die Qualitätssicherung, Datenanalyse und das Reporting. Dabei schulst Du Nutzerinnen und Nutzer und entwickelst Maßnahmen zur Verbesserung der Redaktionsperformance. Du bist Keyuser für Kordiam und CUE und unterstützt die Redaktion bei der Anwendung der Systeme. Dein Profil Du verfügst über eine journalistische Ausbildung, ein entsprechendes Studium oder mehrjährige Berufserfahrung in der Medienbranche. Du bringst Erfahrung im Prozess- und Projektmanagement mit. Mit Content-Management-Systemen kennst Du Dich aus und hast Kenntnisse in Nutzungsforschung sowie Datenanalyse. Du hast Erfahrung in der Führung von Mitarbeitenden. Deine Arbeitsweise ist strukturiert und lösungsorientiert, sodass Du auch bei vielfältigen operativen Themen den Überblick behältst. Du kommunizierst souverän mit unterschiedlichen Schnittstellen – von Redaktion und Chefredaktion über Technik und IT bis hin zu kaufmännischen Bereichen. Wir bieten Dir Bei uns arbeitest Du in einem motivierten und offenen Team aus Redakteuren, Content-Strategen und Digital-Experten, das Dich unterstützt und gemeinsam mit Dir neue Ideen vorantreibt. Damit Du flexibel arbeiten kannst, erhältst Du eine moderne technische Ausstattung mit Laptop und Smartphone, das Du auch privat nutzen kannst. Wir unterstützen die Vereinbarkeit von Beruf und Privatleben mit flexiblen und planbaren Arbeitszeiten, mobilem Arbeiten sowie individuellen Arbeitsmodellen, die zu Deiner aktuellen Lebenssituation passen. Auch beim Wiedereinstieg nach der Elternzeit begleiten wir Dich. Dich erwartet ein attraktives Vergütungspaket mit 30 Tagen Urlaub sowie einer arbeitgeberfinanzierten Unterstützung Deiner Altersvorsorge über das Presseversorgungswerk (5 % Zuschuss auf Dein Brutto-Monatsgehalt). Deine fachliche und persönliche Weiterentwicklung fördern wir durch Schulungen, Workshops, digitale Lernangebote und individuelle Begleitung durch unser Editorial Development Team. Deine Gesundheit liegt uns am Herzen: Nutze Hansefit für Fitness-, Schwimm- und Sportangebote deutschlandweit, lease ein JobRad oder profitiere von Zuschüssen, beispielsweise für eine Bildschirmarbeitsplatzbrille. Über unsere Corporate-Benefits-Plattform erhältst Du attraktive Rabatte und Vergünstigungen bei zahlreichen Anbietern. Wenn Du für die Stelle in unsere Region ziehst, unterstützen wir Dich mit einer Beteiligung an den Umzugskosten und weiteren Hilfen bei der Wohnungssuche. Teamgeist wird bei uns gelebt: Regelmäßige Team-Events und gemeinsame Aktivitäten sorgen dafür, dass auch der Spaß nicht zu kurz kommt. Du wirst Teil eines verantwortungsvollen Medienunternehmens mit über 80 Jahren Erfahrung, das die digitale Transformation aktiv gestaltet und hochwertigen Journalismus in den Mittelpunkt stellt. Für uns zählt der Mensch, nicht das Geschlecht! Wir sind überzeugt, dass Vielfalt eine …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2478e5d9953e0279",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/manager-editorial-operations-m-w-d-at-s%C3%BCdkurier-gmbh-medienhaus-4482080115"
+   },
+   "first_seen": "2026-10-22"
+  },
+  {
+   "title": "Advanced Practice Nurse (APN) – Master of Science in Pflege 80-100% in Sirnach und Umgebung gesucht",
+   "company": "MediPersonal",
+   "location": "8370 Sirnach",
+   "country": "CH",
+   "url": "https://med-ipersonal.ch/jobs/advanced-practice-nurse-apn-master-of-science-in-pflege-80-100-in-sirnach-und-umgebung-gesucht/",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "**Ihre Aufgaben – Wissenschaftlich fundierte Pflege auf höchstem Niveau**\n- Eigenständige Durchführung und Steuerung komplexer Pflegeinterventionen basierend auf aktuellen wissenschaftlichen Erkenntnissen\n- Entwicklung, Implementierung und <em>Evaluation</em> innovativer Pflegekonzepte zur Verbesserung der",
    "extra": {
     "canton": "TG",
     "query": "Evaluation",
     "workload": "100-100 %",
     "permanent": true,
-    "jobroom_id": "b6a944b4-4c51-47f4-a793-bf14382c7f32"
+    "jobroom_id": "9034472b-c8f9-44cf-934c-faf72b71a4b5"
    },
-   "id": "dc429b915200c9f2",
+   "id": "60b97ca4a7b1f5e5",
    "sources": [
     "jobroom"
    ],
    "links": {
-    "jobroom": "https://www.jobup.ch/fr/emplois/detail/d68b94ee-80e1-4ab9-9bbd-244d34846578/?utm_source=job-room.ch&utm_medium=affiliate&utm_campaign=wb:jobup|tg:b2c|cn:ch|lg:fr|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+    "jobroom": "https://med-ipersonal.ch/jobs/advanced-practice-nurse-apn-master-of-science-in-pflege-80-100-in-sirnach-und-umgebung-gesucht/"
    },
-   "first_seen": "2026-10-21"
+   "first_seen": "2026-10-22"
   }
  ]
 }
