@@ -1,0 +1,697 @@
+{
+ "generated_at": "2026-10-23T06:09:26+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 169,
+   "linkedin": 238,
+   "jobroom": 25
+  },
+  "excluded": 339,
+  "unique": 77,
+  "new": 28,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Integrationsmanagement&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
+ },
+ "jobs": [
+  {
+   "title": "Akademische*r Mitarbeiter*in (w/m/d) in Vollzeit",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003897517-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nZum nächstmöglichen Zeitpunkt ist an der\n**Fakultät Technologie und Management folgende Stelle zu besetzen:**\n# Akademische\\*r Mitarbeiter\\*in (w/m/d) in Vollzeit\n**Bewerbungsfrist: 22.11.2026**\nStellen-Nr: 29/2026\nEingruppierung: E 11 TV-L (Tarifvertrag der Länder)\n## Ihr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Fachliche, didaktische und organisatorische Betreuung sowie Weiterentwicklung von Planspielen, Lehrlaboren, Übungen und Tutorien in den Bachelorstudiengängen im Bereich BWL, Wirtschaftspsychologie und Wirtschaftsingenieurwesen\n- Eigenständige, Ausarbeitung, Erprobung und Aktualisierung von Übungs-, Labor-, Tutoriums- und Planspielinhalten auf Grundlage abgestimmter Lernziele und curricularen Rahmenbedingungen\n- Fachlich-didaktische Unterstützung von Professorinnen und Professoren bei der Vorbereitung und Durchführung von Lehrveranstaltungen. Dieses umfasst auch insbesondere die Durchführung von Planspielen, Lehrlaboren, Übungen und Tutorien\n- Flankierende Beschaffungs- und Verwaltungsaufgaben im Zusammenhang mit den Dienstaufgaben\n## Ihr Profil:\n- Studium mit dem Abschluss Bachelor oder Diplom (FH) in den Fächern BWL, Wirtschaftsingenieurwesen, Wirtschaftsinformatik oder in einem vergleichbaren Studiengang\n- Erforderlich: fundierte Kenntnisse in den für die betreuten Lehrangebote einschlägigen Fachgebieten sowie die Fähigkeit, anwendungsorientierte Aufgaben und Materialien eigenständig fachlich und didaktisch aufzubereiten\n- Wünschenswert: Erfahrung mit Planspielen (z.B. Topsim), Lehrlaboren oder studentischen Projekten und Kenntnisse einschlägiger Analyse-, ERP- oder CRM-Software, beispielsweise R, SAP oder Salesforce\n- Teamfähigkeit\n- Freude in der Arbeit mit Studierenden\nDie RWU ist als familiengerechte Hochschule zertifiziert und fördert die Gleichstellung aller Geschlechter, bietet Ihnen flexible und familiengerechte Arbeitsbedingungen, zahlreiche Angebote zum Betrieblichen Gesundheitsmanagement, ein vergünstigtes Job Ticket, die Sozialleistungen des öffentlichen Dienstes wie z. B. betriebliche Altersvorsorge, und vieles mehr. Bei entsprechender Eignung werden schwerbehinderte Menschen bevorzugt berücksichtigt (bitte Nachweis beifügen).\n**Inhaltliche Fragen beantwortet Ihnen gerne:**\nDekan Prof. Dr. Nils Hagen, E-Mail: nils.hagen[@rwu.de](https://mailto:nayan.kadam@rwu.de); Telefon: [0751 501-92](https://tel:07515019283)64\nWir freuen uns auf Ihre Bewerbung mit aussagekräftigen Unterlagen über unser Online-Bewerbungsportal bis spätestens **22.11.2026**.",
+   "extra": {
+    "refnr": "10001-1003897517-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "292f7bd21f00eb92",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003897517-S"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Akademische*r Mitarbeiter*in für die Fahrzeug-Lehrplattform RollingLab (w/m/d) in Teilzeit (bis 50%)",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003895236-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nZum 01.12.2026 oder 01.01.2027 ist an der\n**Fakultät Elektrotechnik und Informatik folgende Stelle zu besetzen:**\n# Akademische\\*r Mitarbeiter\\*in für die Fahrzeug-Lehrplattform RollingLab (w/m/d) in Teilzeit (bis 50%)\n**Bewerbungsfrist: 08.11.2026**\nStellen-Nr:\n30/2026\nEingruppierung: E 13 TV-L (Tarifvertrag der Länder)\nDie Einstellung erfolgt befristet für die Dauer von 3 Jahren. Die Entgeltzahlung erfolgt nach dem Tarifvertrag der Länder (TV-L) bei Vorliegen der persönlichen Voraussetzungen bis Entgeltgruppe 13.\n## Ihr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Entwicklung und Aufbau eines elektrifizierten Versuchsfahrzeugs auf Basis eines Formula-Student-Chassis zur Lehrplattform für Antriebstechnik, Embedded Systems, KI/Sensorik und Elektronik\n- Konzeption, Auslegung/Auswahl, Inbetriebnahme und Validierung von Antriebsstrang, Batteriesystem, Leistungselektronik, Sensorik und Fahrzeugkommunikation (CAN, Automotive Ethernet, ROS2) einschließlich Sicherheitskonzept\n- Entwicklung von Lehr- und Experimentiermodulen am Fahrzeug und Konzeption der neuen Lehrveranstaltung \"Antriebsstrang von E-Fahrzeugen\"\n- Eigenständige Laborpraktika und Übungen, Prüfungstätigkeit, Betreuung von Bachelor-, Master- und Projektarbeiten\n- Integration der Beiträge der beteiligten Institute, Systemdokumentation und Berichte an den Fakultätsrat; Möglichkeit zur kooperativen Promotion\n## Ihr Profil:\n- Abgeschlossenes wissenschaftliches Hochschulstudium (Master oder Universitätsdiplom) in Elektrotechnik, Elektromobilität, Mechatronik, Fahrzeugtechnik oder einer vergleichbaren Fachrichtung\n- Kenntnisse in elektrischen Antrieben, Leistungselektronik und Batteriesystemen; Erfahrung mit Embedded-Systems und Fahrzeugbussen, idealerweise ROS2; mehrjährige Berufserfahrung in der Entwicklung elektrischer Antriebs- oder Fahrzeugsysteme wünschenswert, Promotion von Vorteil\n- Sicherer Umgang mit elektrischer Messtechnik; MATLAB/Simulink, Python; Qualifikation Stufe 2 nach DGUV Information 209-093 wünschenswert (kann bei uns erworben werden)\n- Freude an Lehre und Betreuung von Studierenden; sehr gute Deutsch- und gute Englischkenntnisse\n- Selbstständige, strukturierte und sicherheitsbewusste Arbeitsweise, Teamfähigkeit\nDie RWU ist als familiengerechte Hochschule zertifiziert und fördert die Gleichstellung aller Geschlechter, bietet Ihnen flexible und familiengerechte Arbeitsbedingungen, zahlreiche Angebote zum Betrieblichen Gesundheitsmanagement, ein vergünstigtes Job Ticket, die Sozialleistungen des öffentlichen Dienstes wie z. B. betriebliche Altersvorsorge, und vieles mehr. Bei entsprechender Eignung werden schwerbehinderte Menschen bevorzugt berücksichtigt (bitte Nachweis beifügen).\n**Inhaltliche Fragen beantwortet Ihnen gerne:**\nProf. Dr.-Ing. Christoph Ellenrieder, Tel. 0751/501-9656, E-Mail: [christoph.ellenrieder@rwu.de](https://mailto:christoph.ellenrieder@rwu.de)\nDie RWU hat sich das strategische Ziel gesetzt, den Anteil von Frauen in Forschung und Lehre deutlich zu erhöhen und ermutigt Frauen, sich zu bewerben.\nWir freuen uns auf Ihre Bewerbung mit aussagekräftigen Unterlagen über unser Online-Bewerbungsportal bis spätestens **08.11.2026**.",
+   "extra": {
+    "refnr": "10001-1003895236-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "685569d01fa82ed1",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003895236-S"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalcontrolling (w/m/d)",
+   "company": "Singener Wochenblatt GmbH & Co. KG Verlag",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-im-gehobenen-verwaltungsdienst-im-personalcontrolling-w-m-d-at-singener-wochenblatt-gmbh-co-kg-verlag-4482490595",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Jobs Bildung / Soziales HR / Personalwesen Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalcontrolling (w/m/d) Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalcontrolling (w/m/d) Top Job Universität Konstanz location 78 Konstanz, Deutschland Veröffentlicht Veröffentlicht: 21.10.2026 (Vollzeit, bis E 9b TV-L) Kennziffer 2026/217. Die Stelle ist ab sofort für 2 Jahre als Elternzeitvertretung befristet zu besetzen. Eine Verlängerung wird angestrebt. Die Stelle ist grundsätzlich teilbar. Die Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert. Mit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung. Die Personalabteilung der zentralen Verwaltung der Universität Konstanz betreut alle Beschäftigten in Wissenschaft, Technik, Bibliothek und Verwaltung. Ihre Aufgaben Personalbudget Vorausschauend Steuern : Sie wirken aktiv bei der Verwaltung, Mittelbewirtschaftung, Prognose und Rechnungslegung des Personalbudgets mit. Effizienz & Personalausgaben Optimieren : Sie identifizieren Potenziale zur Optimierung der Personalausgaben und setzen diese zielgerichtet um. Daten In Kennzahlen Verwandeln : Sie übernehmen eigenverantwortlich das Auswerten und Controlling relevanter Personal- und Finanzdaten. Finanz- Und Haushaltsplanung Mitgestalten : Sie unterstützen sicher bei der Vorbereitung künftiger Haushaltsjahre sowie bei strategischen Finanzplanungen. Rechtssicher Agieren : Sie wenden haushaltsrechtliche Bestimmungen souverän im Tagesgeschäft an. Entscheidungen Vorbereiten : Sie erstellen eigenständig fundierte Sitzungsunterlagen für Gremien und Führungskräfte. Das bringen Sie mit Ausbildung & Erfahrung: Bachelor (z. B. Personal, Wirtschaft, gehobener Verwaltungsdienst) oder eine kaufmännische/verwaltungstechnische Ausbildung mit mehrjähriger Erfahrung im Personalcontrolling. Erste Praxis im Haushalts- und Personalwesen (idealerweise im Universitäts- oder Hochschulumfeld) wünschenswert. Fachwissen & Skills: Sichere EDV-Kenntnisse sowie Deutschkenntnisse auf muttersprachlichem Niveau (in Wort und Schrift). Gute Englischkenntnisse. Arbeitsweise & Persönlichkeit: Selbstständiges, zielorientiertes Arbeiten sowie starke Teamfähigkeit. Hohes Engagement, Kommunikationsstärke und eine kundenorientierte Haltung. Wir bieten Ihnen Flexibilität & Work-Life-Balance: Flexible Arbeitszeiten & Home-Office: Gestalten Sie Ihren Alltag passend zu Ihrem Leben. Familienfreundliches Umfeld: Gute Vereinbarkeit von Beruf und Privatleben. Attraktive Region: Arbeiten, wo andere Urlaub machen – Hoher Freizeitwert garantiert. Vergütung & Vorsorge: Faire Vergütung nach TV-L: Je nach Voraussetzung bis E 9b TV-L. Betriebliche Altersvorsorge (VBL): Für Ihre finanzielle Absicherung im Ruhestand. Mobilitätszuschuss: Unterstützung beim Deutschlandticket / JobTicket BW. Gesundheit, Benefits & Entwicklung: Corporate Benefits & Hansefit: Rabatte, Fitness- und Wellnessangebote sowie Hochschulsport. Strukturierte Einarbeitung und vielfältige Fortbildungsmöglichkeiten. Starkes Miteinander: Ein wertschätzendes Team und ein sehr gutes Arbeitsklima. Alle Benefits der Uni Konstanz auf einen Blick. Für Rückfragen steht Ihnen die Leiterin der Personalabteilung, Frau Pfeifer, Tel. +49 7531 88-2366 oder renate.pfeifer@uni-konstanz.de zur Verfügung. Wir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum 02.11.2026 über unser Online-Bewerbungsportal . Die Universität Konstanz engagiert sich für Gleichstellung, Diversity …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "8cd9d97952674289",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-im-gehobenen-verwaltungsdienst-im-personalcontrolling-w-m-d-at-singener-wochenblatt-gmbh-co-kg-verlag-4482490595"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Gemeinwesenarbeiter",
+   "company": "HeyJobs",
+   "location": "Owingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/gemeinwesenarbeiter-at-heyjobs-4481311297",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Firma: Stiftung Liebenau - Gemeinwesenarbeiter (m/w/d) Gemeinwesenarbeiter (m/w/d) Owingen Quartiersarbeit Stiftung Liebenau Start: Ab sofort Teilzeit | 12 Stunden / Woche Unbefristeter Vertrag Dein Profil Abgeschlossene pädagogische Ausbildung als Sozialarbeiter oder Sozialpädagoge (m/w/d) oder Studium der Sozialarbeit/-pädagogik bzw. einer sozialwissenschaftlichen Fachrichtung oder eine vergleichbare Qualifikation Kenntnisse in der Begleitung und Führung einer Organisation Freude am Arbeiten im Team Fähigkeit Bestehendes weiterzuentwickeln und Neues mitzugestalten Motivation und Interesse zur Fort- und Weiterbildung Deine Aufgaben Gemeinwesenarbeit in der Gemeinde, Förderung von Nachbarschaftshilfe, Beteiligung und bürgerschaftlichen Engagement Aufbau und Pflege lokaler Netzwerke sowie Zusammenarbeit mit der Kommune Organisation von Angeboten im Servicezentrum als Treffpunkt im Quartier Gewinnung und Begleitung von Ehrenamtlichen Öffentlichkeitsarbeit und Förderung der Kommunikation im Quartier Organisation- und Verwaltungsaufgaben (u. a. Mitwirkung bei der sozial orientierten Wohnungsvergabe) Unser Angebot an dich Attraktive finanzielle und soziale Rahmenbedingungen (u.a. Caritas-Tarif AVR, Jahressonderzahlung, betriebliche Altersvorsorge, …) Qualifizierte Fort- und Weiterbildungsangebote, auch in unserer hauseigenen Akademie Vielfältige Angebote im betrieblichen Gesundheitsmanagement (u.a. hochwertig ausgestatteter Gesundheitsraum) sowie die Möglichkeit eines JobRads Verantwortungsvolle Tätigkeit in einem zukunftsorientierten Sozialunternehmen Arbeiten inmitten der Gemeinde Wir konnten dein Interesse wecken? Dann bewirb dich jetzt in nur 2 Minuten! Internal Reference: 2026-0095 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Think Tanks Referrals increase your chances of interviewing at HeyJobs by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ffa397e5550ccea4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/gemeinwesenarbeiter-at-heyjobs-4481311297"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Diplomat 2. ranga v Sektorju za mednarodne razvojne in humanitarne politike",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/diplomat-2-ranga-v-sektorju-za-mednarodne-razvojne-in-humanitarne-politike-at-vlada-republike-slovenije-4481346835",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Ministrstvo za zunanje in evropske zadeve bo opravilo izbiro kandidata po predmetni objavi in z izbranim kandidatom za zasedbo prostega delovnega mesta DIPLOMAT 2. RANGA v Sektorju za mednarodne razvojne in humanitarne politike (šifra DM 30439), sklenilo delovno razmerje s polnim delovnim časom za določen čas, za čas nadomeščanja začasno odsotne javne uslužbenke (predvidoma do 25. 6. 2027). Izbrani kandidat bo delo opravljal na diplomatskem delovnem mestu diplomat 2. ranga, brez imenovanja v naziv. Pravice oz. obveznosti iz delovnega razmerja se mu bodo skladno z 81. členom ZJU-1 določile glede na diplomatski naziv svetovalec. Zahteve za prijavo Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: končano visokošolsko univerzitetno izobraževanje (prejšnje)/visokošolska univerzitetna izobrazba (prejšnja) ali magistrsko izobraževanje (druga bolonjska stopnja)/magistrska izobrazba (druga bolonjska stopnja); pridobljenih najmanj 3 leta in 4 mesece delovnih izkušenj na področju zunanjih zadev; državljanstvo Republike Slovenije; znanje uradnega jezika; dovoljenje za dostop do tajnih podatkov nacionalno in EU stopnje »ZAUPNO« (kandidat ga lahko pridobi v okviru izbirnega postopka). Delovne naloge Opis Delovnih Nalog opravljanje zahtevnih strokovnih opravil s področja zunanjih zadev in s področij, ki sodijo med zunanje zadeve, oblikovanje zahtevnih gradiv in predlogov ukrepov s področja zunanjih zadev, sodelovanje v projektnih skupinah, druge naloge podobne stopnje zahtevnosti po navodilih vodje. Prednosti pri izbiri Postopek prijave Kandidati vložijo prijavo v elektronski obliki na priloženem obrazcu z označbo \" Diplomat 2. ranga v ZRH (šifra DM 30439)\" v roku 8 dni po objavi na enotnem spletnem portalu državne uprave GOV.SI in Zavodu RS za zaposlovanje in sicer na elektronski naslov Ministrstva za zunanje in evropske zadeve: gp.mzez@gov.si , pri čemer veljavnost prijave ni pogojena z varnim elektronskim podpisom. Šteje se, da prijava kandidata, ki ni bila oddana na ta način, ni bila vložena. Besedilo in prijavni obrazec objava 30439 (docx, 37 KB) vloga 30439 (doc, 164 KB) Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Vlada Republike Slovenije by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "6a5077eb58202ff8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/diplomat-2-ranga-v-sektorju-za-mednarodne-razvojne-in-humanitarne-politike-at-vlada-republike-slovenije-4481346835"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Svetovalec (174), Sektor za prostor in kmetijstvo",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-174-sektor-za-prostor-in-kmetijstvo-at-vlada-republike-slovenije-4481628553",
+   "posted": "2026-10-23",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b3b19f064fe187cc",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-174-sektor-za-prostor-in-kmetijstvo-at-vlada-republike-slovenije-4481628553"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Mitarbeiter:in Produktionsplanung – Bussnang TG",
+   "company": "Stadler",
+   "location": "Bussnang, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-produktionsplanung-%E2%80%93-bussnang-tg-at-stadler-4481358601",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "DEINE AUFGABENBEREICHE Planung, Steuerung und Weiterentwicklung der Detailplanung Mitarbeit in der Gesamt- und Kapazitätsplanung sowie Unterstützung des Teams bei der täglichen Abstimmung Vorbereitung, Durchführung und Nachbereitung neuer Produktionsplänen sowie Auswertung der Ergebnisse Enge Zusammenarbeit und Abstimmung mit Produktion, Inbetriebsetzung, Logistik und weiteren relevanten Schnittstellen DEINE BERUFLICHEN ERFAHRUNGEN Abgeschlossene technische oder kaufmännische Ausbildung mit Weiterbildung im Bereich Planung, Produktion oder Supply Chain Management Berufserfahrung in der Produktions-, Montage- oder Kapazitätsplanung von Vorteil Sehr gute Excel-Kenntnisse; Erfahrungen mit Power BI, VBA oder anderen Programmiersprachen von Vorteil Ausgeprägtes analytisches Denkvermögen sowie eine strukturierte, selbstständige Arbeitsweise Fähigkeit, komplexe Planungsdaten verständlich aufzubereiten und daraus fundierte Entscheidungen abzuleiten Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2da5d53d85668cb4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-produktionsplanung-%E2%80%93-bussnang-tg-at-stadler-4481358601"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Prorektorin/Prorektor Grundbildung",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/prorektorin-prorektor-grundbildung-at-kanton-thurgau-4481372309",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Auf das Schuljahr 2027/28 (1. August 2027) oder nach Vereinbarung suchen wir eine/einen Prorektorin/Prorektor Grundbildung 100% Das Bildungszentrum für Gesundheit und Soziales (BfGS) ist ein zentraler Bildungsort für Gesundheits- und Sozialberufe im Kanton Thurgau. Rund 1'300 Lernende und Studierende absolvieren bei uns ihre Ausbildung. Unser Angebot umfasst die Grundbildungen Fachfrau/ Fachmann Gesundheit (FaGe), Assistentin/Assistent Gesundheit und Soziales (AGS) und Fachfrau/Fachmann Betreuung (FaBe), die Höhere Fachschule Pflege sowie eine Weiterbildungsabteilung mit berufsorientierten Angeboten. Was uns verbindet: Wir gestalten Bildung praxisnah, begleiten Menschen in ihrer Entwicklung und entwickeln die Gesundheits- und Sozialberufe gemeinsam mit unseren Partnern weiter. Für unser Schulleitungsteam suchen wir eine Persönlichkeit, die Verantwortung für die Grundbildung am BfGS übernimmt und diesen Bereich mit Weitblick, Führungsstärke und Freude an der Berufsbildung gestaltet. Ihre Aufgaben Sie übernehmen die Verantwortung für die Grundbildung und gestalten deren pädagogische, organisatorische und qualitätsorientierte Weiterentwicklung. Sie führen und begleiten Lehrpersonen und schaffen gemeinsam mit ihnen gute Rahmenbedingungen für erfolgreiches Lehren und Lernen. Sie verantworten die Organisation des Schulbetriebs und koordinieren die übergeordnete Stunden-, Raum- und Ressourcenplanung. Sie initiieren und begleiten Entwicklungs- und Qualitätsprojekte und bringen neue Ideen in die Weiterentwicklung unserer Schule ein. Sie tragen Verantwortung für das Prüfungswesen und die Qualifikationsverfahren. Sie pflegen die Zusammenarbeit mit Lehrbetrieben, der OdA Gesundheit und Soziales Thurgau, den überbetrieblichen Kursen sowie weiteren Partnern der Berufsbildung. Als Mitglied des Schulleitungsteams gestalten Sie die Entwicklung des gesamten BfGS mit, unterstützen die Rektorin und übernehmen Stellvertretungsaufgaben. Mit einer Unterrichtstätigkeit in einem kleinen Pensum bleiben Sie nahe am Schulalltag und an unseren Lernenden. Ihr Profil Sie kennen die Berufsbildung und bringen idealerweise einen Bezug zum Gesundheits- oder Sozialbereich mit. Sie verfügen über Unterrichtserfahrung und die entsprechende Lehrbefähigung für die Sekundarstufe II. Sie bringen Führungserfahrung mit und haben Freude daran, Mitarbeitende zu begleiten, zu fördern und gemeinsam Ziele zu erreichen. Eine Schulleitungsausbildung haben Sie bereits abgeschlossen oder sind bereit, diese zu absolvieren. Sie denken vernetzt, organisieren vorausschauend und behalten auch in einem lebendigen Schulalltag den Überblick. Sie kommunizieren klar und wertschätzend, bringen unterschiedliche Perspektiven zusammen und treffen Entscheidungen mit Augenmass. Sie sind digital versiert und haben Freude daran, zeitgemässe Arbeits-, Lehr- und Lernformen weiterzuentwickeln. Sie bringen Eigeninitiative, Teamgeist und die Bereitschaft mit, Verantwortung für das BfGS als Ganzes zu übernehmen. Unser Angebot Bei uns erwartet Sie eine vielseitige Führungsaufgabe mit Verantwortung und Gestaltungsspielraum. Sie können die Grundbildung aktiv prägen und die Entwicklung des BfGS gemeinsam mit einem engagierten Schulleitungsteam und unseren Mitarbeitenden voranbringen. Sie arbeiten in einem praxisnahen Umfeld und profitieren von einem starken Netzwerk im Bildungs-, Gesundheits- und Sozialwesen. Die Anstellung erfolgt nach den kantonalen Bestimmungen. Sie möchten Verantwortung übernehmen und die Grundbildung am BfGS mit uns weiterentwickeln? Dann freuen wir uns darauf, Sie kennenzulernen. Ihr Kontakt Eva Vogelsanger, Rektorin, Bildungszentrum für Gesundheit und Soziales, eva.vogelsanger@bfgs-tg.ch, 058 345 77 11 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "1a57c6cf02343dae",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/prorektorin-prorektor-grundbildung-at-kanton-thurgau-4481372309"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Svetovalec v Oddelku za okolje in prostor",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-v-oddelku-za-okolje-in-prostor-at-vlada-republike-slovenije-4481635448",
+   "posted": "2026-10-23",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Z izbranim kandidatom bo sklenjeno delovno razmerje za določen čas dveh let (24 mesecev) s polnim delovnim časom in štirimesečnim poskusnim delom. Izbrani kandidat bo delo opravljal v prostorih Upravne enote Trebnje, Goliev trg 5, Trebnje. Pravice in dolžnosti javnega uslužbenca bodo določene glede na uradniški naziv svetovalec III. Izhodiščni plačni razred delovnega mesta je 17. plačni razred. Javni uslužbenec pridobi pravico do izplačila osnovne plače postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju (Uradni list RS, št. 95/24). Zahteve za prijavo Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: končano najmanj specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnje), ali najmanj visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja), najmanj visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja), ali najmanj visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/ visokošolska univerzitetna izobrazba (prva bolonjska stopnja); najmanj sedem (7) mesecev delovnih izkušenj; opravljen strokovni izpit iz upravnega postopka druge stopnje (če ga kandidat nima, ga lahko opravi naknadno); znanje uradnega jezika; državljanstvo Republike Slovenije; ne smejo biti pravnomočno obsojeni zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in ne smejo biti obsojeni na nepogojno kazen zapora v trajanju več kot šest mesecev; zoper njih ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Delovne naloge Naloge Delovnega Mesta vodenje in odločanje v zahtevnih upravnih postopkih na prvi stopnji; zbiranje, urejanje in priprava podatkov za oblikovanje zahtevnejših gradiv samostojno oblikovanje manj zahtevnih gradiv s predlogi ukrepov; pomoč pri pripravi osnutkov predpisov in drugih zahtevnejših gradiv opravljanje drugih upravnih nalog podobne zahtevnosti. Izbrani kandidat bo opravljal naloge na delovnem področju okolja in prostora. Postopek prijave Prijava Mora Vsebovati pisno izjavo kandidata o izpolnjevanju pogoja glede zahtevane izobrazbe, iz katere mora biti razvidna stopnja in smer izobrazbe ter datum (dan, mesec, leto) zaključka izobraževanja in ustanova, na kateri je bila izobrazba pridobljena; pisno izjavo kandidata o vseh dosedanjih zaposlitvah, iz katere je razvidno izpolnjevanje pogoja glede zahtevanih delovnih izkušenj. V izjavi kandidat navede datum sklenitve in datum prekinitve delovnega razmerja pri posameznem delodajalcu, ter kratko opiše delo, ki ga je opravljal pri tem delodajalcu ter navede stopnjo zahtevnosti delovnega mesta; pisno izjavo kandidata, da: je državljan Republike Slovenije, ni bil pravnomočno obsojen zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in da ni bil obsojen na nepogojno kazen zapora v trajanju več kot šest mesecev, zoper njega ni bila vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, pisno izjavo, da za namen tega postopka dovoljuje Upravni enoti Trebnje pridobitev podatkov iz uradnih evidenc. V primeru, da kandidat s tem ne soglaša, bo moral sam predložiti ustrezna dokazila; pisno izjavo kandidata, da je seznanjen in dovoljuje, da bo Upravna enota Trebnje podatke, ki jih je kandidat navedel v prijavi za prosto delovno mesto, obdelovala za namen izvedbe javne objave. Kontaktna oseba za dodatne informacije Marta Lavrič vodja Oddelek za splošne zadeve 07 348 22 59 marta.lavric@gov.si Besedilo in prijavni obrazec UE Trebnje besedilo svetovalec 23 10 2026 (docx, 2 MB) UE Trebnje obrazec svetovalec 23.10.2026 (doc, 138 KB) Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b4f945c52d890078",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-v-oddelku-za-okolje-in-prostor-at-vlada-republike-slovenije-4481635448"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Prüfer/in",
+   "company": "Stadt Friedrichshafen",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/pr%C3%BCfer-in-at-stadt-friedrichshafen-4480018529",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Friedrichshafen sucht Sie! Eine dynamische Stadt mit vielen Möglichkeiten – Friedrichshafen ist das wirtschaftliche Zentrum einer attraktiven Region direkt am Bodensee. Wir sind eine moderne Stadtverwaltung, die gesellschaftliche Vielfalt im Alltag lebt und eine Unternehmenskultur der gegenseitigen Wertschätzung pflegt. Rund 1.600 Mitarbeiterinnen und Mitarbeiter unserer Stadtverwaltung sorgen täglich für die Lebensqualität von rund 62.000 Einwohnern. Unterstützen Sie uns dabei. Wir haben im Rechnungsprüfungsamt zum nächstmöglichen Zeitpunkt folgende Stelle (m/w/d) zu besetzen: Prüfer/in Die örtliche Prüfung übernimmt Aufgaben der inneren Revision der Stadtverwaltung. Unseren Ansatz verstehen wir begleitend und unterstützend auf dem Weg der rechtskonformen und wirtschaftlichen Aufgabenerfüllung. Aufgaben Umsetzung interner Digitalisierungprozesse und Projektbegleitung bei Digitalisierungsprojekten der Gesamtverwaltung EDV-Anwendungsprüfung sowie Prüfungen im Bereich von Informationstechnik und Digitalisierung Prüfung von Personalausgaben und -prozessen von Stadt, Zeppelin-Stiftung, Eigenbetrieb Stadtentwässerung und Karl-Olga-Haus Prüfungsleitung im Bereich Stadtkasse und Zahlstellen Prüfung insbesondere im Amt für Stadtmarketing und Tourismus sowie im Amt für Bürgerservice, Sicherheit und Ordnung Durchführung von Schwerpunktsprüfungen in weiteren Aufgabenbereichen der Verwaltung sowie Sonderprüfungen Eine Anpassung des Aufgabengebiets behalten wir uns vor. Profil Ein abgeschlossenes Studium im gehobenen nichttechnischen Verwaltungsdienst (Diplom-Verwaltungswirt/in oder B.A. Public Management) oder vergleichbar Alternativ eine abgeschlossene Weiterbildung zur/zum Verwaltungsfachwirt/in Fundierte Kenntnisse in den Bereichen IT-Infrastruktur und -Abläufen, KI in der Verwaltung oder im Bereich Personalrecht Kenntnisse in SAP und den Abläufen in einer Kommunalverwaltung sind von Vorteil Ausgeprägte strukturierte und analytische Arbeitsweise sowie ein gutes Zeit- und Prioritätenmanagement Sehr gutes Ausdrucksvermögen in Wort und Schrift sowie ausgeprägte Kommunikationsfähigkeit Hohes Maß an Verantwortungsbereitschaft, Diskretion sowie Konfliktfähigkeit Empathisches, freundliches und verbindliches Auftreten – auch im telefonischen Kontakt Wir bieten Einen (krisen-)sicheren modernen Arbeitsplatz mit einer unbefristeten Tätigkeit in Vollzeit Eine leistungsgerechte Vergütung bei Vorliegen der persönlichen und tariflichen Voraussetzungen bis Entgeltgruppe 10 TVöD inklusive Zusatzrente (ZVK), Leistungsentgelt, Vermögenswirksame Leistungen und Jahressonderzahlung. Letztere kann auf Wunsch in bis zu drei freie Tage umgewandelt werden Bei Vorliegen der persönlichen Voraussetzungen eine Anstellung im Beamtenverhältnis bis Besoldungsgruppe A 11 LBesGBW Eine Einbindung in ein leistungsstarkes Team und ein freundliches Arbeitsklima Flexible Arbeitszeiten, Vereinbarkeit von Beruf und Familie durch Gleitzeit sowie nach Absprache Möglichkeit zur Arbeit im Homeoffice Möglichkeiten für bezahlte Freistellungen zur Ermöglichung einer persönlichen Auszeit, Jubiläumszuwendungen, Heiligabend und Silvester dienstfrei Fahrtkostenzuschüsse für den ÖPNV Angebote zur Gesundheitsförderung u.a. eine finanziell geförderte Firmenfitness-Mitgliedschaft Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Stadt Friedrichshafen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "84e8c81231adf2bf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/pr%C3%BCfer-in-at-stadt-friedrichshafen-4480018529"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Projektleitung (m/w/d) ganzheitliches Datenmanagement im Corporate Real Estate Management",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleitung-m-w-d-ganzheitliches-datenmanagement-im-corporate-real-estate-management-at-diehl-defence-4480016372",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­ar­bei­te­rin­nen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unseren Standort Diehl Defence GmbH & Co. KG in Überlingen am Bodensee oder Röthenbach a. d. Pegnitz suchen wir eine: Projektleitung (m/w/d) ganzheitliches Datenmanagement im Corporate Real Estate Management Aufgaben In dieser Position führen Sie die Umset­zung eines inte­grier­ten Daten­manage­ment­sys­tems zur Unter­stützung des Cor­po­rate-Real-Estate-Manage­ments ein, um eine Pro­fessio­nali­sierung und Stan­dardi­sierung der Infra­struktur­maß­nahmen zu erreichen. Dazu konzipieren und implemen­tieren Sie effi­ziente Daten- und Doku­menten­manage­ment­lösungen, die den Anfor­derungen der stra­te­gischen Immo­bilien­ent­wick­lung gerecht werden. Im Rahmen der Implemen­tierung des Daten­manage­ments leisten Sie einen Bei­trag zur Rechts­sicher­heit (z. B. Wah­rung von Fristen und Auf­lagen) und schaffen eine Daten­grund­lage zur Ana­lyse und Bewer­tung von Immo­bilien­poten­zialen. Als Projektleitung arbeiten Sie eng mit inter­nen Abtei­lungen wie IT, Recht, Finan­zen sowie den Ge­sell­schaften inner­halb des Teil­kon­zerns zu­sammen, um eine naht­lose Pro­jekt­umset­zung zu gewähr­leisten. Sie erstellen regelmäßig Berichte für die Leitung der stra­te­gischen Orga­nisations­ent­wick­lung bis hin zur Ge­schäfts­leitung zur Dar­stellung des Pro­jekt­fort­schritts und der erziel­ten Ergeb­nisse im Bereich des Daten­manage­ments. Profil Ein erfolgreich abgeschlos­senes Studium im Be­reich Wirt­schafts­wissen­schaften, Data Manage­ment, Immo­bilien­wirt­schaft oder ver­gleich­bar bildet die ideale Voraus­setzung für diese Position. Darüber hinaus verfügen Sie über Erfah­rungen hin­sicht­lich Corporate Real Estate Manage­ment und Bau­wesen (z. B. Ge­nehmi­gungen und Anträge) sowie der Im­plemen­tierung von Daten- und Doku­menten­manage­ment­sys­temen, idealer­weise in einem großen Unter­nehmens­kontext. Sie haben eine hohe methodische Sicher­heit in der Daten­ana­lyse und -‍inter­preta­tion sowie ein ausge­prägtes Ver­ständnis für recht­liche Rahmen­be­dingungen und Kon­se­quenzen im Bereich Immo­bilien­ent­wick­lung und Facility Management. Fließende Deutsch- und gute Eng­lisch­kennt­nisse in Wort und Schrift zählen dabei eben­so zu Ihren Stärken wie über­durch­schnitt­liche Kommu­nikations­stärke, ins­be­sondere beim Präsen­tieren kom­plexer Inhalte für diverse Stake­holder. Teamorientierung und exzellente Koor­di­nations­fähig­keiten für die effek­tive Arbeit in inter­diszi­plinären Teams und im Pro­jekt­umfeld runden Ihr Profil ab. Wir bieten Tarifliche Vergütung Flexible Arbeits­zeiten Onboarding-Programm Interne Weiter­bildungs­programme Mitarbeiter­events Wir freuen uns auf Ihre Bewerbung. Bewer­bungen schwer­behin­derter Men­schen werden bei gleicher Eig­nung bevor­zugt be­handelt. Bei Inte­resse geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewer­bung an. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "66342bea085d000b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleitung-m-w-d-ganzheitliches-datenmanagement-im-corporate-real-estate-management-at-diehl-defence-4480016372"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Sozialpädagogin / Sozialpädagoge Kinder- und Jugendheim (70–80 %)",
+   "company": "Stadt Schaffhausen",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagoge-kinder-und-jugendheim-70%E2%80%9380-%25-at-stadt-schaffhausen-4466308767",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Bist du bereit die Zukunft der Stadt Schaffhausen mitzugestalten? Als städtisches Kinder- und Jugendheim bieten wir bis zu sieben jungen Menschen von der Kindergarten bis zur Berufsbildungsstufe ein liebevolles Zuhause auf Zeit. Bei uns finden die jungen Menschen nebst einer Wohnmöglichkeit und Betreuung rund um die Uhr auch ein Ort, an dem sie sich sicher fühlen und entfalten können. Die Kinder und Jugendlichen besuchen alle die öffentliche Schule oder ihren Lehrbetrieb und werden von uns stationär begleitet. Mit unserem pädagogischen Fachwissen unterstützen wir die jungen Menschen dabei ihre sozialen Kompetenzen zu entwickeln, Herausforderungen zu meistern und Schritt für Schritt selbständiger zu werden. Gestalte auch du mit uns einen Ort, an dem Kinder und Jugendliche wachsen, lachen und neue Perspektiven finden können! Eintrittstermin: 1. Januar 2027 In diesem spannenden Job betreust, förderst und begleitest du die Kinder und Jugendlichen ausserhalb der Schul- und Lehrzeit. unterstützt du bei Hausaufgaben und kannst dein Schulwissen gezielt einbringen. gestaltest du eine abwechslungsreiche Freizeit der Kinder und Jugendlichen und motivierst zu verschiedenen Aktivitäten. nimmst du aktiv an Lagern, Wochenendausflügen und besonderen Anlässen teil. wirkst du bei Standortbestimmungen und Entwicklungsplanung der Kinder und Jugendlichen mit. begleitest du ein bis zwei Kinder oder Jugendliche als fallführende Bezugsperson. arbeitest du eng mit verschiedenen Anspruchsgruppen wie Erziehungsberechtigten, Lehrpersonen und Mandatsträgern zusammen. führst du Rapporte und Berichte. unterstützt du das Team bei haushälterischen Aufgaben und trägst zu einem gepflegten und wohnlichen Zuhause bei. Du bist hier erfolgreich aufgrund deiner abgeschlossenen Ausbildung in Sozialpädagogik HF/FH oder einer gleichwertigen Qualifikation. da du Freude an der Arbeit mit Kindern und Jugendlichen von der Kindergarten- bis zur Lehrzeit hast und diese auf ihrem Weg begleiteten möchtest. weil du mit deiner empathischen Persönlichkeit einen sicheren Rahmen schaffst. aufgrund deiner Bereitschaft und Flexibilität für unregelmässige Arbeitszeiten mit Nachtdienst und Wochenenddienst. weil du gerne aktiv bei Lagern, Wochenendausflügen oder speziellen Anlässen dabei bist. wenn du gerne Teamprozesse mitgestaltest und Freude daran hast, das Kinder- und Jugendheim Schaffhausen aktiv weiterzuentwickeln. Das bieten wir dir Wir fördern dich Entdecke unser internes Kursprogramm mit über 130 Angeboten und geniesse grosszügige Unterstützung bei externen Weiterbildungen. Mehr Zeit für dich Bei uns kannst du deinen 13. Monatslohn in zusätzliche Ferien umzuwandeln. Wo immer möglich, bieten wir zudem Home-Office und Jahresarbeitszeit an. Für deine Zukunft Wir übernehmen bis zu 60% deiner Pensionskassenbeiträge und bieten viele weitere attraktive Vorsorgeleistungen. Deine Vorteile im Überblick So geht's weiter Deine Bewerbung Erste Kontaktaufnahme per Telefon Persönliches Kennenlernen Schnuppertag Willkommen an Bord! Hier arbeitest du Kirchhofplatz 15 Schaffhausen zu Google Maps Fragen oder Anliegen? Sehr gerne! Wir freuen uns auf den Kontakt. Nathalie Bonamassa HR Partnerin +41 52 632 68 10 Für alle fachlichen Fragen: Alex Bichsel +41 52 632 37 10 Show more Show less Seniority level Not Applicable Employment type Part-time Industries Government Administration Referrals increase your chances of interviewing at Stadt Schaffhausen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b062d9aecbbd8837",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagoge-kinder-und-jugendheim-70%E2%80%9380-%25-at-stadt-schaffhausen-4466308767"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Rektorin / Rektor",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/rektorin-rektor-at-kanton-thurgau-4481364593",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Bildungszentrum für Wirtschaft Weinfelden sucht aufgrund der Pensionierung der jetzigen Stelleninhaberin per 1. August 2027 oder nach Vereinbarung eine/ einen Rektorin / Rektor 100% Das Bildungszentrum für Wirtschaft in Weinfelden (BZW) ist das Kompetenzzentrum des Kantons Thurgau für kaufmännische Ausbildungen inkl. BM und bietet auch entsprechende Weiterbildungen an. Die Schule befindet sich an zentraler Lage direkt am Bahnhof Weinfelden. Ihre Aufgaben Zukunfts- und zielorientierte Führung des BZW Pädagogische Weiterentwicklung des Bildungszentrums und Förderung der Unterrichtsqualität Führung der Mitarbeiterinnen und Mitarbeiter gemäss Führungsrichtlinien des Kantons Thurgau Pflege der Zusammenarbeit mit den beiden weiteren Berufsfachschulen am Standort Weinfelden, dem zuständigen Amt, der Berufsfachschulkommission BZW und weiteren Kommissionen, den Lehrbetrieben, Berufsverbänden sowie den übrigen Schulen der Sekundarstufe II im Kanton. Ihr Profil Ausgewiesene Führungs- und Berufserfahrungen vorzugsweise in vergleichbaren komplexen und verantwortungsvollen Positionen Hochschulabschluss oder gleichwertige Ausbildung, vorzugsweise im Bereich Wirtschaft sowie Lehrbefähigung für die Sekundarstufe II Unternehmerisch denkend in einem politischen Umfeld Gute Vernetzung, Innovationskraft und Einsatzbereitschaft Begeisterungsfähig und kommunikationsstark Belastbar und verantwortungsbewusst Hohe Leistungsbereitschaft Team- und konfliktfähig Ein abgeschlossener CAS Schulleitung ist wünschenswert Unser Angebot Wir bieten Ihnen eine vielseitige und interessante Tätigkeit mit Verantwortung und Entwicklungsmöglichkeiten. Sie werden Teil eines engagierten Teams und profitieren von einem modernen Arbeitsumfeld, attraktiven Anstellungsbedingungen sowie zeitgemässen Sozialleistungen und Vergünstigungen. Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung. Ihr Kontakt Marcel Volkart, Amtschef, Amt für Berufsbildung und Berufsberatung (ABB), 058 345 59 33 oder marcel.volkart@tg.ch Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d3dc733f6336899b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/rektorin-rektor-at-kanton-thurgau-4481364593"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Svetovalec (117), Oddelek za javne listine in promet",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-117-oddelek-za-javne-listine-in-promet-at-vlada-republike-slovenije-4481619810",
+   "posted": "2026-10-23",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv svetovalec III, z možnostjo napredovanja v uradniški naziv svetovalec II in svetovalec I, uvrstitev v 17. izhodiščni plačni razred naziva, kar znaša 2.030,25 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge samostojno vodenje upravnih postopkov s področja matičnih zadev, prometa, prijave prebivališč, osebnih dokumentov in druge upravne naloge podobne zahtevnosti, neposredna komunikacija s strankami, svetovanje, sprejemanje vlog ter reševanje zadev v skladu z veljavno zakonodajo. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: Najmanj: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja) 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 7 mesecev delovnih izkušenj, Obvezno usposabljanje za imenovanje v naziv, Strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Pri kandidatih so zaželena naslednja znanja in osebnostne sposobnosti: natančnost, zanesljivost, odgovornost, komunikativnost, samostojnost in organiziranost pri delu, sposobnost dela v timu, računalniška pismenost in pripravljenost za uporabo informacijskih sistemov, ki se uporabljajo pri upravnem poslovanju in postopkih s področja upravno notranjih zadev. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 7. 11. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "bdb5425ae9626578",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-117-oddelek-za-javne-listine-in-promet-at-vlada-republike-slovenije-4481619810"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Projektleiter Bauherrenvertretung (m/w/d)",
+   "company": "Rocken®",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-bauherrenvertretung-m-w-d-at-rocken%C2%AE-4481399112",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3cad6e42dbeae084",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-bauherrenvertretung-m-w-d-at-rocken%C2%AE-4481399112"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Senior Projektleiter Hochbau (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-projektleiter-hochbau-m-w-d-at-rocken%C2%AE-4481361175",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "91667b1d79e0e74a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-projektleiter-hochbau-m-w-d-at-rocken%C2%AE-4481361175"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Bauprojektmanager (m/w/d)",
+   "company": "Rocken®",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/bauprojektmanager-m-w-d-at-rocken%C2%AE-4481387641",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "edce258ccee015c8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/bauprojektmanager-m-w-d-at-rocken%C2%AE-4481387641"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Baukostenplaner (m/w/d)",
+   "company": "Rocken®",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/baukostenplaner-m-w-d-at-rocken%C2%AE-4481393400",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "212c8b6a9228e489",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/baukostenplaner-m-w-d-at-rocken%C2%AE-4481393400"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Portfolio Manager/in (m/w/d)",
+   "company": "Rocken®",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/portfolio-manager-in-m-w-d-at-rocken%C2%AE-4481349561",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "0c4f34711729ebfb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/portfolio-manager-in-m-w-d-at-rocken%C2%AE-4481349561"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Kaufmann für Vertragsrecht (m/w/d)",
+   "company": "KNDS Deutschland",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/kaufmann-f%C3%BCr-vertragsrecht-m-w-d-at-knds-deutschland-4482705512",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "Unternehmensbeschreibung KNDS Deutschland Mission Electronics GmbH ist ein IT-Systemhaus im Sicherheits- und Verteidigungsumfeld. Als Tochterunternehmen der KNDS Deutschland GmbH & Co KG entwickelt der Elektronikspezialist vom Bodensee seit mehr als vier Jahrzehnten komplexe und gehärtete IT-Systeme in Hardware und Software in enger Zusammenarbeit mit den Kunden. Als langjähriger Partner der Bundeswehr bilden die Lösungen aus dem Konstanzer Systemhaus das digitale Rückgrat der Kampffahrzeuge des Heeres. Was Sie erwartet Vertragsprüfung, -erstellung Prüfen von Verträgen und kaufmännische Unterstützung des Vertriebs bei der Angebotserstellung und bei Vertragsverhandlungen Prüfung aller für die Preisfindung und Vertragsgestaltung erforderlichen (auch preisrechtlichen) Bedingungen Ermittlung und Überwachung von Preisgleitklauseln Unterstützung des Einkaufs bei Vertragsverhandlungen Ausarbeiten und Erstellen von Verträgen in Zusammenarbeit mit der Abteilung Vertrieb Mitwirkung bei der Preisfindung unter Berücksichtigung des öffentlichen Preisrechts Begleitung des Angebotserstellungsprozesses Abstimmung mit der Konzernmutter Öffentliches Preisrecht gemäß VOPR 30/53 Durchführen von Preisprüfungen mit den Preisprüfungsstellen und öffentlichen Auftraggebern Mitarbeit bei der Erstellung des Jahresabschlusses Erstellen und Prüfen rechtlicher Vereinbarungen AGBs, Lizenzverträge, Geheimhaltungsvereinbarungen, Rahmenverträge, etc. Ansprechpartner für Vertragsangelegenheiten und Rechtsfragen Sonderaufgaben im kaufmännischen Bereich Was Sie mitbringen Abgeschlossenes Studium mit der Fachrichtung Wirtschaftsrecht oder Betriebswirtschaftslehre Mehrjährige Berufserfahrung wünschenswert, idealerweise Erfahrungen im öffentl. Preisrecht Verhandlungssichere Deutsch- und Englischkenntnisse in Wort und Schrift Eigenverantwortliche und systematische Arbeitsweise, analytisches Denken, Qualitätsbewusstsein, Kreativität und Teamfähigkeit Leistungen Sicherer Arbeitgeber Attraktive Bezahlung nach IG-Metall-Tarifvertrag Weihnachts- und Urlaubsgeld Entwicklungsmöglichkeiten 30 Tage Urlaub verkehrsgünstige Lage, gute Erreichbarkeit Verkehrsmitteln Betriebliche Altersvorsorge Kantine Flexible Gleitzeitregelungen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at KNDS Deutschland by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b594888794f4221f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/kaufmann-f%C3%BCr-vertragsrecht-m-w-d-at-knds-deutschland-4482705512"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Spezialist Datenmanagement (m/w/d) mit Schwerpunkt Datenqualität und Meldewesen",
+   "company": "Volksbank eG Überlingen",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/spezialist-datenmanagement-m-w-d-mit-schwerpunkt-datenqualit%C3%A4t-und-meldewesen-at-volksbank-eg-%C3%BCberlingen-4480025231",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3d513a257081a4d2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/spezialist-datenmanagement-m-w-d-mit-schwerpunkt-datenqualit%C3%A4t-und-meldewesen-at-volksbank-eg-%C3%BCberlingen-4480025231"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Mitarbeitende Gießerei (m/w/d) - Abschlagband HWS",
+   "company": "CIRCOR International, Inc.",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeitende-gie%C3%9Ferei-m-w-d-abschlagband-hws-at-circor-international-inc-4428891895",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a85f0e3cabfa2d4f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeitende-gie%C3%9Ferei-m-w-d-abschlagband-hws-at-circor-international-inc-4428891895"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "System Architect",
+   "company": "Hamilton Barnes 🌳",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/system-architect-at-hamilton-barnes-%F0%9F%8C%B3-4469730264",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2f2825bcf596479d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/system-architect-at-hamilton-barnes-%F0%9F%8C%B3-4469730264"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Fachkraft für Maschinentechnik (m/w/d)",
+   "company": "Zweckverband Bodensee-Wasserversorgung",
+   "location": "Sipplingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/fachkraft-f%C3%BCr-maschinentechnik-m-w-d-at-zweckverband-bodensee-wasserversorgung-4480011652",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "46df3c0684157e2c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/fachkraft-f%C3%BCr-maschinentechnik-m-w-d-at-zweckverband-bodensee-wasserversorgung-4480011652"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Qualitätsbeauftragte:r in der Pflege (w/m/d) ohne Freistellung",
+   "company": "Phönix Lebenszentren GmbH",
+   "location": "Bodman-Ludwigshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsbeauftragte-r-in-der-pflege-w-m-d-ohne-freistellung-at-ph%C3%B6nix-lebenszentren-gmbh-4480030022",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "abd2fc468a1fe702",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsbeauftragte-r-in-der-pflege-w-m-d-ohne-freistellung-at-ph%C3%B6nix-lebenszentren-gmbh-4480030022"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Kaufmann für Vertragsrecht (m/w/d)",
+   "company": "KNDS Deutschland Mission Electronics GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/kaufmann-f%C3%BCr-vertragsrecht-m-w-d-at-knds-deutschland-mission-electronics-gmbh-4480080621",
+   "posted": "2026-10-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "0c3e7b21ed6a803b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/kaufmann-f%C3%BCr-vertragsrecht-m-w-d-at-knds-deutschland-mission-electronics-gmbh-4480080621"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Anlagenführer 100%",
+   "company": "Weidmann Electrical Technology AG",
+   "location": "8640 Rapperswil SG",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/fedcf79f-3d14-4bf7-b15e-4a2ef2a30a81/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-23",
+   "salary": null,
+   "via": null,
+   "description": ".**\nBEI WEIDMANN SETZEN WIR UNS FÜR <em>CHANCENGLEICHHEIT</em> UND WACHSTUM FÜR ALLE EIN. WIR SIND ÜBERZEUGT, DASS EIN VIELFÄLTIGES UND INTEGRATIVES ARBEITSUMFELD DAS GEGENSEITIGE VERSTÄNDNIS UND DIE INNOVATION UNSERES UNTERNEHMENS FÖRDERT.\n!",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "4d9269a8-ad5f-4a1a-96c4-6b8d7c5dca40"
+   },
+   "id": "f9b90271e8f554da",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/fedcf79f-3d14-4bf7-b15e-4a2ef2a30a81/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-23"
+  },
+  {
+   "title": "Chef de Partie 100%",
+   "company": "Institut auf dem Rosenberg AG",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/ae1e2437-96cf-4b19-9448-ac31bde0e8cb",
+   "posted": "2026-10-23",
+   "salary": null,
+   "via": null,
+   "description": "-Strong interpersonal skills and hard working person\n-High end cooking experience is essential\n-Casual cooking and catering experience is essential\n-Knowledge of international cuisines and Pastry\n-Candidates must have a deep understanding of and interest in cultural <em>diversity</em>.",
+   "extra": {
+    "canton": "SG",
+    "query": "Diversity",
+    "workload": "100-100 %",
+    "permanent": false,
+    "jobroom_id": "ae1e2437-96cf-4b19-9448-ac31bde0e8cb"
+   },
+   "id": "09eb0e8a9149bd70",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.job-room.ch/job-search/ae1e2437-96cf-4b19-9448-ac31bde0e8cb"
+   },
+   "first_seen": "2026-10-23"
+  }
+ ]
+}
