@@ -1,20 +1,456 @@
 {
- "generated_at": "2026-10-24T06:02:11+00:00",
+ "generated_at": "2026-10-25T06:16:05+00:00",
  "stats": {
   "raw_per_source": {
    "arbeitsagentur": 168,
    "linkedin": 250,
-   "jobroom": 28
+   "jobroom": 27
   },
-  "excluded": 346,
-  "unique": 82,
-  "new": 36,
-  "carried_over": 0
+  "excluded": 359,
+  "unique": 68,
+  "new": 18,
+  "carried_over": 36
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Kinder+Jugend+Familie&location=Kreuzlingen%2C+Thurgau%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=30"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Doktorandin+Soziologie&location=Kreuzlingen%2C+Thurgau%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=30"
  },
  "jobs": [
+  {
+   "title": "Mitarbeiter Quality Oversight Langenargen (m/w/d)",
+   "company": "Vetter Pharma",
+   "location": "Langenargen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-quality-oversight-langenargen-m-w-d-at-vetter-pharma-4470004122",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Menschen auf der ganzen Welt verlassen sich auf Vetter. Wir Verlassen Uns Auf Sie Sie sind zuständig für die Durchführung von Routine-Prozessbeobachtungen und Mediafills während des Ablaufs der pharmazeutischen Herstellungsprozesse Sie beobachten die Produktionsprozesse und dokumentieren Ihre Prozessbeobachtungen Sie organisieren unseren AQL (Acceptable Quality Limit)-Musterzug in der optischen Kontrolle (OK) als Bestandteil der Chargenfreigabe sowie den Mitarbeiter-AQL als Bestandteil der OK-Mitarbeiterqualifizierung, führen durch, bewerten und dokumentieren Sie koordinieren die optische Kontrolle von Rückstell-, Referenz- und Reklamationsmustern und übernehmen auch die Durchführung und Dokumentation Sie identifizieren Abweichungen während der Prozessbeobachtung und bearbeiten und prüfen die Ursachen Sie entscheiden über Korrekturmaßnahmen bei schwerwiegenden Fehlern bzw. Abweichungen von cGMPs (Good Manufacturing Practices) und SOPs (Standardarbeitsanweisungen) Sie arbeiten mit unseren Quality Operations zusammen, wenn Sie Abweichungen bzw. Fehler beobachten, bearbeiten und beurteilen und gezielt an Ursachenfindung und Optimierung arbeiten Sie prüfen und genehmigen Dokumente für die Qualifizierung / Validierung in Vertretung unserer Leitung der Qualitätssicherung So Machen Sie Unser Team Komplett Mit Ihrer abgeschlossenen Ausbildung und idealerweise Berufserfahrung in der pharmazeutischen Produktion Gute Englischkenntnisse sind von Vorteil Als echter Teamplayer mit Ihrer Analysefähigkeit, Kommunikationsstärke und strukturierten Arbeitsweise Mit Ihren guten Deutschkenntnissen (mind. B2-Level), damit Sie Ihre Arbeit optimal dokumentieren und sich mit allen im Team bestens verständigen können Das Spricht Für Vetter Eigenverantwortliches und interdisziplinäres Arbeiten in einem familiengeführten Unternehmen mit modernen Arbeitsplätzen und innovativen Technologien Starkes Team + Karrierechancen - Ideenaustausch und viele Weiterbildungsmöglichkeiten bei einem der führenden Pharmadienstleister Attraktive Vergütung – unser Vergütungssystem besteht dabei aus Fixgehalt, variablem Gehalt, maßgeschneiderten Benefits sowie einem Unternehmenserfolgsbonus, den jeder Mitarbeitende beim Erreichen der Unternehmensziele erhält. Dazu gehören auch Zuschläge für Schicht- und Mehrarbeit sowie Urlaubsgeld. Faire Work-Life-Balance - mit mindestens 30 Tagen Urlaub, Gleitzeit, Angeboten zur Vereinbarkeit von Familie und Beruf bis hin zur Möglichkeit, zum Teil mobil zu arbeiten Vetter-Vorsorge - ideale Kombination aus betrieblicher Altersvorsorge und Zeitwertkonto z. B. betriebliche Krankenzusatzversicherung Betriebliches Gesundheitsmanagement mit Fitness- und Sportangeboten (EGYM Wellpass) Persönliche Vorteile (Deutschland-Ticket, Vetter-Ferienhäuser, JobRad, Mitarbeiterrabatte u. v. m) Show more Show less Seniority level Not Applicable Employment type Full-time Industries Pharmaceutical Manufacturing Referrals increase your chances of interviewing at Vetter Pharma by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "4a4016f03899560f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-quality-oversight-langenargen-m-w-d-at-vetter-pharma-4470004122"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Technical Manager (m/w/d) Defence",
+   "company": "FERCHAU",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/technical-manager-m-w-d-defence-at-ferchau-4438573773",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Technologien auf das nächste Level zu heben, sich Herausforderungen zu stellen und an den Innovationen von morgen zu arbeiten - dafür benötigen wir bei FERCHAU Expert:innen wie dich: als ambitionierte Kolleg:innen, die wie wir Technologien auf die nächste Stufe bringen möchten. Wir realisieren spannende Projekte für namhafte Kunden in der Luft- und Raumfahrtindustrie und übernehmen Verantwortung für komplexe Entwicklungsprojekte. Als Berufserfahrene:r unterstützt du deine Kolleg:innen mit deinem Know-how und deiner Expertise. Technical Manager (m/w/d) Defence Diese Herausforderungen übernimmst du Verantwortung für die technische Leistungserbringung gemäß Zeit-, Kosten- und Qualitätsrahmen Verantwortliche Schnittstellenfunktion zum Leitungsteam, der Projektleitung, zum Produktmanagement und dem Vertrieb Bewertung, Planung und Steuerung von Arbeitspaketen im agilen Umfeld sowie Erstellung von technischen Angeboten Steuerung von internen Entwicklungsteams sowie Unterauftragnehmern Bewertung von technischen Risiken Abstimmung von Spezifikationen mit Kunden und Partnern Erarbeitung von Systemkonzepten sowie Durchführung von Anforderungsanalysen Deine Benefits Bei Uns Unbefristeter Arbeitsvertrag Weiterbildungsangebote unseres Inhouse-Instituts, der FERCHAU Academy (E-Learnings, Trainings und Seminare) Satte Rabatte mit Einkaufsvergünstigungen, z. B. bei Reisen, Elektronik oder Autos Jahresbrutto abhängig von Qualifikation und Berufserfahrung Bei uns kannst du eigene Ideen einbringen und aktiv mitgestalten Fachliche und persönliche Weiterentwicklungsmöglichkeiten Unsere Erwartungen an dich Abgeschlossenes Studium in der Fachrichtung technisches Management, Wirtschaftsingenieurwesen, Informatik oder vergleichbar Erfahrung im Bereich Technical Management oder Projektmanagement sowie in der Durchführung von komplexen Entwicklungsprojekten Erfahrung in der System- und Softwareentwicklung Besonders ausgeprägte Kommunikations- und Teamfähigkeit (Fähigkeit zum Aufbau und Pflege von Netzwerken) Verhandlungssichere Deutsch- sowie gute Englischkenntnisse in Wort und Schrift Unser Angebot ist wie für dich gemacht? Dann freuen wir uns auf deine Bewerbung - ausschließlich online - bei Frau Melanie Junginger. Wir matchen: dein Potenzial und unsere Möglichkeiten. Challenge accepted? Starten wir gemeinsam das nächste Level und entwickeln die Zukunft! Melanie Junginger Personalreferentin FERCHAU GmbH Otto-Lilienthal-Straße 6 88046 Friedrichshafen Deutschland Fon +49 7541 700 76-26 Melanie.Junginger@ferchau.com Show more Show less Seniority level Not Applicable Employment type Full-time Industries Engineering Services Referrals increase your chances of interviewing at FERCHAU by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "32 applicants"
+   },
+   "id": "c57a024e3bcfec16",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/technical-manager-m-w-d-defence-at-ferchau-4438573773"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Senior ERP Product Owner - Supply Chain",
+   "company": "Vertiv",
+   "location": "Neuhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-erp-product-owner-supply-chain-at-vertiv-4446863516",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Job Description Position Summary Leads the strategic functional direction of Oracle E-Business Suite (EBS) modules at global scale — ensuring cross-module coherence, driving process convergence across regions, and shaping the long-term evolution of the platform. Serves as the single point of design authority for Oracle EBS functional domains, translating enterprise business strategy into a unified, scalable ERP roadmap aligned to end-to-end supply chain operations. Responsibilities Strategic Governance & Platform Direction Governs the strategic evolution of Oracle EBS functional domains, ensuring coherence and harmonization across all global modules and business units Defines and drives global convergence initiatives — aligning processes, data models, and solution patterns across regions to eliminate fragmentation Leads the translation of business strategy into Oracle EBS functional direction, serving as the bridge between enterprise objectives and platform capabilities Shapes the long-term platform roadmap, anticipating business needs and positioning Oracle EBS capabilities ahead of demand Prioritization & Demand Management Owns the end-to-end prioritization process for Oracle EBS capabilities, balancing global needs, functional dependencies, and long-term transformation goals Validates and refines business demand, ensuring correct alignment of backlog items with strategic priorities and architectural standards Arbitrates competing priorities across regions and business units, applying a consistent framework for investment decisions Design Authority & Solution Oversight Coordinates feasibility assessments, high-level solutioning, and design authority activities across functional teams Validates functional solutions and configuration enhancements against platform integrity, cross-module dependencies, and scalability requirements Evaluates long-term implications of design choices, ensuring decisions do not create technical debt or compromise future flexibility Roadmap Execution & Delivery Governance Validates cross-functional platform initiatives and Oracle EBS module enhancement roadmaps, including scope definition and delivery planning Tracks completion of Oracle EBS module enhancements — including configuration updates, functional changes, and release outcomes Ensures delivery milestones align with committed timelines and that release outcomes meet functional acceptance criteria Qualifications Experience 8-10 years of experience in Oracle EBS product ownership, functional leadership, or global process governance Proven track record managing Oracle EBS modules at enterprise scale, including cross-module alignment and multi-region convergence Demonstrated experience prioritizing complex Oracle EBS backlogs and balancing global, functional, and technical constraints Experience operating within matrixed, multi-stakeholder environments across geographies and business units Education University degree in Information Technology, Computer Science, Supply Chain Management, Business Administration, or equivalent experience; Advanced Degree may be required Technical Skills Deep understanding of Oracle EBS architectures, module interactions, and integration patterns Ability to evaluate functional impacts, cross-module dependencies, and long-term implications of design choices Familiarity with Oracle EBS configuration management, release processes, and upgrade planning Working knowledge of data models, process harmonization frameworks, and Enterprise Resource Planning (ERP) convergence methodologies Supply Chain Operations Strong understanding of end-to-end supply chain processes including procurement, inventory management, order management, logistics, and demand planning Ability to translate supply chain business requirements into Oracle EBS functional specifications and configuration decisions Familiarity with supply chain planning frameworks, supplier collaboration models, and global trade compliance considerations Communication & …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "37 applicants"
+   },
+   "id": "3f436e95928b32a4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-erp-product-owner-supply-chain-at-vertiv-4446863516"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Delivery Station Team Lead（Konstanz）",
+   "company": "JD.COM",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/delivery-station-team-lead%EF%BC%88konstanz%EF%BC%89-at-jd-com-4444580339",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Who We Are At JINGDONG Logistics (JD Logistics), part of JD.com, we are a leading technology-driven supply chain and logistics solutions provider under JD.com. Built on deep expertise in automation, smart fulfilment, and data intelligence, we operate end-to-end logistics services that empower businesses and enhance customer experience. Our integrated networks span warehouse management, line-haul transportation, last-mile delivery, bulky items logistics, cold chain, and cross-border operations, ensuring speed, reliability, and precision at every stage. Our Global Reach JINGDONG Logistics has developed one of the most extensive logistics infrastructures in the world, managing more than 3,600 warehouses with over 34 million square meters of space. Our Global Smart Supply Chain Network combines highly automated warehousing with robust international transportation solutions, enabling seamless cross-border movement. Today, we operate 130+ bonded, direct mail, and overseas warehouses across 23 countries and regions, supported by our global brands, JoyLogistics and JoyExpress, as we continue scaling JD.com’s international logistics footprint. Learn more about who we are and what we do: https://www.jingdonglogistics.com/ What We Offer Joining JD Logistics means helping shape the future of global supply chain and logistics. You’ll work with smart warehousing, autonomous delivery, and innovative technology that keeps goods moving worldwide. With a competitive salary, great locations, and a supportive, people-first culture, you’ll have the space to take on meaningful challenges, grow your skills, and make a real impact in a fast-evolving industry. About The Team You’ll be joining the JINGDONG Logistics team, which values collaboration, ownership, and a commitment to delivering high-quality results in a fast-paced, dynamic environment. Report to the station manager and station supervisor, be responsible for on-site operational coordination during a shift, and assist drivers in unloading and sorting goods upon their arrival at the station; Master the delivery process and monitor the efficiency and quality of driver delivery. Be responsible for the daily training and implementation of the driver business system and SOPs, ensuring that all employees are familiar with and grasp the system. Collaborate with the customer service team, handle customer inquiries via phone, and monitor the delivery experience guarantee. At JINGDONG Logistics, we’re committed to building a diverse and inclusive workplace where everyone can thrive. We’re proud to be an equal opportunity employer and make all employment decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, veteran status, or any other protected characteristic. Ready to apply? Take the next step in your career, apply now and explore the opportunities we have to offer. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at JD.COM by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "6524b28b419bedea",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/delivery-station-team-lead%EF%BC%88konstanz%EF%BC%89-at-jd-com-4444580339"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Produktionsleiter (w/m/d)",
+   "company": "Dr. Maier + Partner Group",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktionsleiter-w-m-d-at-dr-maier-%2B-partner-group-4481049914",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Unser Mandant entwickelt und produziert hochpräzise Sensoren, Drehgeber, Messinstrumente sowie Komponenten für die automatisierte Bildverarbeitung, die in unterschiedlichsten industriellen Anwendungen zum Einsatz kommen. Mit hoher Fertigungstiefe, ausgeprägter Entwicklungs- und Innovationskompetenz sowie einem konsequenten Qualitätsanspruch setzt das Unternehmen technologische Maßstäbe in seinen Märkten. Zur weiteren Stärkung der operativen Leistungsfähigkeit und kontinuierlichen Optimierung der Wertschöpfungsprozesse suchen wir eine erfahrene, umsetzungsstarke Führungspersönlichkeit als Produktionsleiter (w/m/d). Aufgaben Verantwortung für die Bereiche Montage, Produktionsplanung, Einkauf und interne Logistik mit über 70 Mitarbeitenden Sicherstellung einer stabilen und leistungsfähigen Produktion mit hoher Qualität, Liefertreue und Produktivität Nachhaltige Verbesserung der Kosten- und Prozesseffizienz entlang der operativen Wertschöpfung Entwicklung und Coaching der zugeordneten Führungskräfte Etablierung einer konsequenten Verbesserungs- und Umsetzungskultur im Sinne von Operational Excellence Steuerung der Produktionskennzahlen sowie konsequente Ableitung und Nachverfolgung wirksamer Verbesserungsmaßnahmen Optimierung von Kosten, Durchlaufzeiten und Wertschöpfungsprozessen durch Lean Management, KVP und 5S Mitwirkung bei der Investitionsplanung und Weiterentwicklung der Produktionsstrukturen Profil Authentische, empathische Führungspersönlichkeit mit unternehmerischem Denken, klarer Zielorientierung und pragmatischer Umsetzungsstärke Abgeschlossenes technisches Studium oder vergleichbare Qualifikation mit entsprechender Berufserfahrung Mehrjährige Führungserfahrung in einem produzierenden Industrieunternehmen, idealerweise mit elektronischen, elektromechanischen oder feinmechanischen Produkten Nachweisbare Erfolge in der Verbesserung von Produktionsleistung und Kostenstrukturen sowie in der Begleitung von Veränderungen und Entwicklung von Mitarbeitenden Fundierte Kenntnisse in Lean Management und Operational Excellence sowie gutes Verständnis für Produktionskennzahlen und betriebswirtschaftliche Zusammenhänge Erfahrung mit ERP-Systemen, vorzugsweise SAP, sowie ausgeprägte Kompetenz in der bereichsübergreifenden Zusammenarbeit Wir bieten Gestaltungsspielraum für Produktionsprozesse, Leistungsfähigkeit und Führungskultur Modernes Arbeitsumfeld in einem werteorientierten Familienunternehmen Langfristige Perspektive in einer finanziell stabilen, international aufgestellten Unternehmensgruppe Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Staffing and Recruiting Referrals increase your chances of interviewing at Dr. Maier + Partner Group by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9cfd85f31f2a857c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktionsleiter-w-m-d-at-dr-maier-%2B-partner-group-4481049914"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Delivery Station supervisor（Konstanz）",
+   "company": "JD.COM",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/delivery-station-supervisor%EF%BC%88konstanz%EF%BC%89-at-jd-com-4447006958",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Who We Are At JINGDONG Logistics (JD Logistics), part of JD.com, we are a leading technology-driven supply chain and logistics solutions provider under JD.com. Built on deep expertise in automation, smart fulfilment, and data intelligence, we operate end-to-end logistics services that empower businesses and enhance customer experience. Our integrated networks span warehouse management, line-haul transportation, last-mile delivery, bulky items logistics, cold chain, and cross-border operations, ensuring speed, reliability, and precision at every stage. Our Global Reach JINGDONG Logistics has developed one of the most extensive logistics infrastructures in the world, managing more than 3,600 warehouses with over 34 million square meters of space. Our Global Smart Supply Chain Network combines highly automated warehousing with robust international transportation solutions, enabling seamless cross-border movement. Today, we operate 130+ bonded, direct mail, and overseas warehouses across 23 countries and regions, supported by our global brands, JoyLogistics and JoyExpress, as we continue scaling JD.com’s international logistics footprint. Learn more about who we are and what we do: https://www.jingdonglogistics.com/ What We Offer Joining JD Logistics means helping shape the future of global supply chain and logistics. You’ll work with smart warehousing, autonomous delivery, and innovative technology that keeps goods moving worldwide. With a competitive salary, great locations, and a supportive, people-first culture, you’ll have the space to take on meaningful challenges, grow your skills, and make a real impact in a fast-evolving industry. About The Team You’ll be joining the JINGDONG Logistics team, which values collaboration, ownership, and a commitment to delivering high-quality results in a fast-paced, dynamic environment. 1 . Report to the station manager, be responsible for on-site operational coordination during a shift, and assist drivers in unloading and sorting goods upon their arrival at the sation; 2. Master the delivery process and monitor the efficiency and quality of driver delivery. 3. Be responsible for the daily training and implementation of the driver business system and SOPs, ensuring that all employees are familiar with and grasp the system. 4. Collaborate with the customer service team, handle customer inquiries via phone, and monitor the delivery experience guarantee. At JINGDONG Logistics, we’re committed to building a diverse and inclusive workplace where everyone can thrive. We’re proud to be an equal opportunity employer and make all employment decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, veteran status, or any other protected characteristic. Ready to apply? Take the next step in your career, apply now and explore the opportunities we have to offer. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at JD.COM by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "25 applicants"
+   },
+   "id": "3ba7cf4e47c4ed61",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/delivery-station-supervisor%EF%BC%88konstanz%EF%BC%89-at-jd-com-4447006958"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Assistenz der Geschäftsleitung (m/w/d/kA)",
+   "company": "Kugler GmbH",
+   "location": "Salem, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/assistenz-der-gesch%C3%A4ftsleitung-m-w-d-ka-at-kugler-gmbh-4481050967",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Bei uns steht deine persönliche und fachliche Entwicklung im Mittelpunkt. Wenn du bereit bist, Verantwortung zu übernehmen, Neues zu lernen und gemeinsam mit uns Großes zu bewegen, dann freuen wir uns auf deine Bewerbung. Auf unserer Homepage findest du weitere Informationen zu unserem Unternehmen, dafür einfach hier klicken: Kugler Precision - Weltmarkt­führer in der Ultrapräzision Aufgaben Du bist gut organisiert, kommunikativ und hast Freude daran, Dinge in Bewegung zu bringen? Perfekt! Als Assistenz der Geschäftsleitung (m/w/d/kA) sorgst du dafür, dass sich unsere Geschäftsleitung auf die wesentlichen strategischen Themen konzentrieren kann. Du hältst Prozesse am Laufen, schaffst Struktur und trägst mit Weitblick und Eigenverantwortung dazu bei, dass Entscheidungen auf einer soliden Grundlage getroffen werden können. Dabei arbeitest du eng mit der Geschäftsleitung zusammen, übernimmst Verantwortung für Organisation, Kommunikation und Koordination – und wächst Schritt für Schritt in komplexere Aufgaben hinein. Im direkten Austausch mit den Leistungsträgern des Unternehmens lernst du, wie erfolgreiche Unternehmensführung funktioniert, gewinnst wertvolle Einblicke in Entscheidungsprozesse und entwickelst dich kontinuierlich weiter. Deine Aufgaben Vorbereitung, Begleitung und Nachbereitung von Meetings, Terminen und Entscheidungsprozessen Koordination von Terminen, Geschäftsreisen und Messeauftritten Kommunikation mit Dienstleistern, Geschäftspartnern und Kunden Erstellung und Aufbereitung von Präsentationen, Reports und Entscheidungsvorlagen Übernahme und eigenständige Bearbeitung von Aufgabenbereichen mit wachsender Verantwortung Sicherstellung einer klaren Informationsstruktur und professionellen Abläufe im Tagesgeschäft Profil Erste Berufserfahrung im Bereich Assistenz wünschenswert Du verfügst über ausgeprägtes Organisations- und Kommunikationstalent sowie eine eigenständige, strukturierte Arbeitsweise Verantwortungsbewusstsein, Verschwiegenheit und Loyalität sind für dich selbstverständlich Du hast Freude daran, verschiedene Themen parallel zu steuern und den Überblick zu behalten Du interessierst dich für unternehmerische Zusammenhänge und lernst gern durch Beobachtung und Mitdenken Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Wir bieten Attraktive Vergütung: Leistungsgerechte Bezahlung inklusive 13. Gehalt Besonderes Extra: Vollständig arbeitgeberfinanzierte Betriebsrente für deine finanzielle Absicherung im Alter Flexibles Arbeiten: Flexible Arbeitszeiten, Gleitzeit sowie die Möglichkeit für 1 Tag Homeoffice pro Woche Langfristige Perspektive: Verantwortungsvolle Position mit vielseitigen Aufgaben sowie individuellen Entwicklungs- und Weiterbildungsmöglichkeiten Starkes Umfeld: Arbeit in einem dynamischen, zukunftsorientierten und international tätigen Familienunternehmen mit flachen Hierarchien Attraktive Zusatzleistungen: Essenszulage und JobRad-Leasing Gesund & aktiv: Vergünstigter Zugang zu zahlreichen Fitness- und Gesundheitsangeboten über Hansefit Wohlfühlfaktor im Alltag: Kostenloser Barista-Kaffee für den perfekten Start in den Tag Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Machinery Manufacturing Referrals increase your chances of interviewing at Kugler GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "47ef02b32115298f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/assistenz-der-gesch%C3%A4ftsleitung-m-w-d-ka-at-kugler-gmbh-4481050967"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Strategischer Produktmanager (w/m/d) International",
+   "company": "Winterhalter Gastronom AG",
+   "location": "Meckenbeuren, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/strategischer-produktmanager-w-m-d-international-at-winterhalter-gastronom-ag-4481054648",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Wir sind Winterhalter, der Spülspezialist aus Meckenbeuren. Mit über 2.000 Mitarbeitern an über 40 Standorten in aller Welt gehören wir zu den Marktführern der Großküchentechnik. Tag für Tag arbeiten unsere Mitarbeiter am perfekten Spülergebnis. Gehen neue Wege. Setzen Standards im Markt und begeistern Kunden. Aufgaben Sie sind für die Initiierung und Steuerung von Maßnahmen zur Verbesserung, Variation und Weiterentwicklung bestehender Produkte verantwortlich. Sie optimieren den Spülprozess durch den Einsatz moderner Sensorik und innovativer chemischer Lösungen - mit dem Ziel, effiziente, nachhaltige und qualitativ hochwertige Spülergebnisse zu erzielen. Die Beobachtung und Bewertung von Markt-, Kunden- und Technologietrends zur Ableitung strategischer Handlungsempfehlungen gehört ebenfalls zur Ihrem Verantwortungsbereich. Zu Ihren Aufgaben zählt die Definition und Weiterentwicklung der Produktstrategie in enger Abstimmung mit internen und externen Stakeholdern. Gemeinsam mit relevanten Fachbereichen und internationalen Partnern erarbeiten Sie klare Produktanforderungen. Sie entwickeln Markteinführungsstrategien in Zusammenarbeit mit den globalen und lokalen Marketingteams, inklusive Positionierung und Marktbegleitung. Profil Ein erfolgreich abgeschlossenes Masterstudium in Verfahrenstechnik, Chemieingenieurwesen oder einer vergleichbaren Fachrichtung bildet die Grundlage Ihrer Qualifikation. Sie haben Berufserfahrung im Produktmanagement, idealerweise im internationalen Umfeld. Sie zeichnen sich durch eine zielorientierte, strategische und strukturierte Arbeitsweise aus. Sie verfügen über ein ausgeprägtes konzeptionelles Denken sowie sehr gute kommunikative Fähigkeiten. Verhandlungssichere Deutsch- und Englischkenntnisse sowie internationale Reisebereitschaft (ca. 20 %) runden Ihr Profil ab. Wir bieten Wir bieten Ihnen ein offenes und respektvolles Miteinander im Familienunternehmen. Flexible Arbeitszeiten für die Vereinbarkeit von Familie und Beruf. Eine Kostenbeteiligung für Ihre Kita-Kindergartenkinder und ein Kinderferienprogramm. Zusätzlich garantieren wir einen Zuschuss für Ihre Altersvorsorge und zahlreiche Mitarbeiterrabatte bei namhaften Marken und individuelle Weiterentwicklungsmöglichkeiten in der Karl-Winterhalter-Akademie. Interne Sportaktivitäten und externe deutschlandweite Sportangebote zu vergünstigten Konditionen und das JobRad-Angebot sind bei uns selbstverständlich. Unsere Parkplätze sind für Sie kostenlos und Sie können sich jederzeit gerne an unseren Wasserspendern bedienen. Neue Wege gehen. Den Markt mitgestalten. Kunden begeistern. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Machinery Manufacturing Referrals increase your chances of interviewing at Winterhalter Gastronom AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d98ee0efd4ab3da8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/strategischer-produktmanager-w-m-d-international-at-winterhalter-gastronom-ag-4481054648"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "AIT Produktion Controls Specialist",
+   "company": "Expleo Group",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/ait-produktion-controls-specialist-at-expleo-group-4419127202",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Die Luft- und Raumfahrtbranche steht für Innovation und entwickelt Verkehrsflugzeuge, Militärjets, Hubschrauber und Satelliten – und treibt so globalen Transport, Verteidigung und Weltraumforschung voran. Bei Expleo suchen wir Talente, die als Schnittstelle zwischen unseren Kunden und Teams spannende Projekte vorantreiben. Als AIT Production Controls Specialist unterstützt du Satellitenprogramme, planst und steuerst Produktionsaktivitäten im Bereich AIT (Assembly, Integration & Testing), behältst Meilensteine im Blick und arbeitest eng mit Fachabteilungen zusammen. Wenn du deine organisatorischen Fähigkeiten in einem internationalen Hightech-Umfeld einsetzen und deine Karriere in der Raumfahrt vorantreiben willst, freuen wir uns auf deine Bewerbung! Verantwortlichkeiten Du planst und terminierst Produktionsaktivitäten gemäß AIT-Workflow. Du überwachst Arbeitsaufträge und Produktionsmeilensteine. Du bist verantwortlich für die Prüfung, Pflege und Aktualisierung produktionsbezogener Daten in SAP, insbesondere für Satellitenprojekte. Du stimmst dich proaktiv mit angrenzenden Fachbereichen ab, z. Engineering, Einkauf und Qualität. Du erstellst Berichte und präsentierst Statusinformationen gegenüber internen Stakeholdern Qualifikationen Abgeschlossenes Studium im Bereich Maschinenbau, Flugzeugbau, Luftfahrttechnik, Raumfahrttechnik oder vergleichbar Fließende Englischkenntnisse in Wort und Schrift, Deutschkenntinsse sind vorteilhaft Erforderliche Fähigkeiten Erfahrung im Bereich Fertigungsplanung, Projektmanagement oder PMO Ausgeprägte organisatorische Fähigkeiten, selbstständige Arbeitsweise und Kommunikationsstärke Sicherer Umgang mit SAP MM oder SAP PP Leistungen Bei Expleo setzen wir auf Teamwork, Offenheit, Transparenz und Wertschätzung. Wir gehen unsere Aufgaben gemeinsam an Bei uns erwartet dich ein internationales und multikulturelles Team Bei uns sind alle gleich und wir tragen alle die gleiche Farbe: LILA! Wir bieten dir Gleitzeit, ein ausführliches Onboarding, Home-Office-Möglichkeiten und unzählige Mitarbeiter-Benefits. Wir bieten einen Arbeitsplatz, der deine persönlichen Lebensumstände berücksichtigt und dich absichert Man lernt nie aus: Deine Weiterentwicklung liegt uns sehr am Herzen. Wir bieten interne Aus- und Weiterbildungsmöglichkeiten und unterstützen dich und deine perspektivischen Ziele Wir haben Lust etwas zu bewegen, uns gegenseitig zu motivieren und freuen uns, wenn auch du deinen Teil zum großen Ganzen beitragen: Deine Erfahrung, deine Ideen und dein Engagement finden bei uns Gehör und werden honoriert Unsere Kunden können sich nicht nur sehen lassen; sie gehören zu den Top-Playern ihrer Branchen, in den Bereichen Banken und Versicherungen, Automotive, Luftfahrt, Transport, Life Science und viele mehr Das soziale Miteinander ist uns wichtig. Wir setzen auf Teambuilding und Identifikation Du willst mehr über uns wissen? Besuche einfach unseren Youtube-Kanal und schau Dir unsere Videos an. Wir freuen uns über Deine Bewerbung und darauf, Dich persönlich kennenzulernen. Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Expleo Group by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "58542baf34453c54",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/ait-produktion-controls-specialist-at-expleo-group-4419127202"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalcontrolling (w/m/d)",
+   "company": "Studentenwerk Konstanz",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-im-gehobenen-verwaltungsdienst-im-personalcontrolling-w-m-d-at-studentenwerk-konstanz-4481069467",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "6d73e06333ae1d8e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-im-gehobenen-verwaltungsdienst-im-personalcontrolling-w-m-d-at-studentenwerk-konstanz-4481069467"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Postbote für Pakete und Briefe (m/w/d)",
+   "company": "DHL FoodLogistics",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/postbote-f%C3%BCr-pakete-und-briefe-m-w-d-at-dhl-foodlogistics-4481061605",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Eine Bescheinigung über die Beantragung eines polizeilichen Führungszeugnisses muss zum Zeitpunkt der Einstellung vorliegen Wir bieten 19,02 € Tarif-Stundenlohn inkl. 50% Weihnachtsgeld und ggf. regionale Arbeitsmarktzulage Weitere 50% Weihnachtsgeld im November Bis zu 332 € Urlaubsgeld Du kannst sofort unbefristet in Vollzeit starten Möglichkeit der Auszahlung von Überstunden Garantierte Gehaltssteigerung gemäß Tarifvertrag und pünktliche Gehaltszahlungen Kostenlose Bereitstellung von hochwertiger Arbeitskleidung Ausführliche Einweisung (bezahlt) – wir machen dich fit für die Zustellung Unbefristete Übernahme und Entwicklungsmöglichkeiten (bspw. Standortleiter) bei guten Leistungen und offenen Positionen möglich Attraktive Mitarbeiterangebote wie z.B. arbeitgeberfinanzierte betriebliche Altersvorsorge, Fahrradleasing, Rabatte bei Mobilfunkanbietern, etc. Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in deinem Bezirk Post- und Paketsendungen. Dabei lässt du dir von keinem Wetter die Laune verderben und bist fünf Werktage pro Woche (zwischen Montag und Samstag) unterwegs. Auch Quereinsteiger , Rentner oder Studenten sind bei uns herzlich willkommen, denn du zählst, wie du bist! Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Transportation, Logistics, Supply Chain and Storage Referrals increase your chances of interviewing at DHL FoodLogistics by 2x See who you know",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8b79df1e367ff4fa",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/postbote-f%C3%BCr-pakete-und-briefe-m-w-d-at-dhl-foodlogistics-4481061605"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Assistenz (m/w/d) der Geschäftsleitung mit Schwerpunkt Controlling und Kalkulation",
+   "company": "H&S Tee-Gesellschaft",
+   "location": "Kressbronn, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/assistenz-m-w-d-der-gesch%C3%A4ftsleitung-mit-schwerpunkt-controlling-und-kalkulation-at-h-s-tee-gesellschaft-4481050864",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "Die H&S Tee-Gesellschaft ist seit 75 Jahren ein familiengeführtes mittelständisches Tee-Unternehmen mit Hauptsitz in Kressbronn am Bodensee. Wir produzieren, verpacken und vertreiben Tee, Arzneitees und Lebensmitteltees. Das tun wir mit großer Innovationskraft, Leidenschaft und Begeisterung. Werden Sie zum nächstmöglichen Zeitpunkt Teil unseres Teams als Assistenz (m/w/d) der Geschäftsleitung mit Schwerpunkt Controlling und Kalkulation Aufgaben Sie unterstützen die Geschäftsleitung bei betriebswirtschaftlichen und administrativen Aufgaben und übernehmen eigenständig definierte Aufgabenbereiche. Sie erstellen Kalkulationen sowie Gewinn- und Verlustrechnungen für unsere Apotheken, den Lebensmitteleinzelhandel bis hin zum Großverbraucherbereich und bereiten betriebswirtschaftliche Auswertungen für die Geschäftsleitung auf. Sie wirken aktiv bei der Kostenkontrolle und im Controlling mit und unterstützen bei der Aufbereitung und Analyse relevanter Kennzahlen. Sie unterstützen bei der Überwachung von Kosten und wirtschaftlichen Entwicklungen und wirken bei der Identifikation von Abweichungen mit. Sie übernehmen die Zuarbeit zu verschiedenen Themen und Projekten der Geschäftsleitung und bereiten Informationen, Unterlagen und Entscheidungsgrundlagen strukturiert auf. Sie helfen mit bei der Vorbereitung von Unterlagen, Koordination von Terminen und Korrespondenzen. Profil Sie verfügen über ein abgeschlossenes Studium der Betriebswirtschaftslehre (BWL) und bringen organisatorisches Geschick mit. Sie bringen ein gutes Verständnis für betriebswirtschaftliche Zusammenhänge, Kostenstrukturen und wirtschaftliche Kennzahlen mit. Idealerweise verfügen Sie bereits über erste praktische Erfahrungen in den Bereichen Controlling, Kalkulation, Rechnungswesen oder kaufmännische Auswertungen. Sie arbeiten strukturiert, sorgfältig und analytisch und haben Freude am Umgang mit Zahlen. Sie können komplexe Sachverhalte verständlich aufbereiten und arbeiten eigenständig sowie zuverlässig. Sie sind flexibel und haben Freude daran, sich in unterschiedliche Themen und Aufgabenstellungen einzuarbeiten. Diskretion, Loyalität und ein vertrauensvoller Umgang mit vertraulichen Informationen sind für Sie selbstverständlich. Ein sicherer Umgang mit MS Office, insbesondere Excel, sowie eine gute schriftliche und mündliche Ausdrucksfähigkeit runden Ihr Profil ab. Wir bieten Einen langfristigen Arbeitsplatz in einem gesundheitsbewussten Markenunternehmen, das auf Nachhaltigkeit setzt. Die Chance, in einem engagierten, erfahrenen und sympathischen Team zu arbeiten, das sich in einem familiengeführten Unternehmen wohlfühlt. Flache Hierarchien und eine offene Unternehmenskultur, in der Ihre Ideen geschätzt werden und Sie sich weiterentwickeln können. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Restaurants Referrals increase your chances of interviewing at H&S Tee-Gesellschaft by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5cac1fc50f6c0041",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/assistenz-m-w-d-der-gesch%C3%A4ftsleitung-mit-schwerpunkt-controlling-und-kalkulation-at-h-s-tee-gesellschaft-4481050864"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Servicekraft / Mitarbeiter Bistro (m/w/d) – Gastronomie & Events",
+   "company": "Panorama Konstanz",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/servicekraft-mitarbeiter-bistro-m-w-d-%E2%80%93-gastronomie-events-at-panorama-konstanz-4481072096",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c553b20f826a66a7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/servicekraft-mitarbeiter-bistro-m-w-d-%E2%80%93-gastronomie-events-at-panorama-konstanz-4481072096"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Strategy & Operating Model Manager (m/w/d) Operations",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/strategy-operating-model-manager-m-w-d-operations-at-diehl-defence-4481063377",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "08b699f24109f357",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/strategy-operating-model-manager-m-w-d-operations-at-diehl-defence-4481063377"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Sicherheitsmitarbeiter (m/w/d) für Messe & Events - Quereinsteiger Willkommen",
+   "company": "EDUVIA Bildungsakademie GmbH",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sicherheitsmitarbeiter-m-w-d-f%C3%BCr-messe-events-quereinsteiger-willkommen-at-eduvia-bildungsakademie-gmbh-4482600746",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "dc5b23175697b4dd",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sicherheitsmitarbeiter-m-w-d-f%C3%BCr-messe-events-quereinsteiger-willkommen-at-eduvia-bildungsakademie-gmbh-4482600746"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Projektkaufmann / Finance Business Partner (w/m/d)",
+   "company": "HENSOLDT",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektkaufmann-finance-business-partner-w-m-d-at-hensoldt-4481074054",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "HENSOLDT ist ein führendes europäisches Hightech-Unternehmen der Verteidigungs- und Sicherheitsindustrie mit Sitz in Taufkirchen bei München. Das Unternehmen entwickelt Sensorlösungen, Elektronik und Software für die Bereiche Luft, Land, See, Cyber und Weltraum und unterstützt Streitkräfte weltweit dabei, Bedrohungen frühzeitig zu erkennen und fundierte operative Entscheidungen zu treffen. Aufbauend auf jahrzehntelanger Erfahrung in missionskritischer Sensorik verbindet HENSOLDT Radar-, Optronik-, Elektronik- und Cyberkompetenzen mit datengetriebener Software und künstlicher Intelligenz. Im Geschäftsjahr 2025 erzielte HENSOLDT mit rund 9.500 Mitarbeiterinnen und Mitarbeitern einen Umsatz von 2,46 Milliarden Euro. Das Unternehmen ist an der Frankfurter Wertpapierbörse im MDAX notiert. Für den Bereich „F&C Services & Training, Product Services MDS & EW und Eurofighter Services“ suchen wir zum nächstmöglichen Zeitpunkt am Standort in Immenstaad einen Projektkaufmann / Finance Business Partner (w/m/d) Der Bereich „F&C Services & Training“ ist unter anderem verantwortlich für die vollständige kaufmännische Betreuung des Product Services und somit auf allen Ebenen Business Partner für den Bereich. Aufgaben Kaufmännische Betreuung nationaler und internationaler Projekte im Be­reich Product Services MDS & EW und Eurofighter Services Kaufmännischer Ansprechpartner (Business Partner) für Projektleiter Enge Abstimmung mit dem Projekt-Kernteam und unterstützenden Bereichen (Contracts & Commercial, Preisprüfung, Accounting, Controlling) Erstellung kommerzieller Angebotsanteile, inkl. preisprüfungsgerechter Kalkulationen und kommerzieller Bedingungen Mitwirkung bei Angebots-/Vertragsverhandlungen Projektcontrolling, inklusive Cost-to-Completion /EAC-Analysen, Soll-/Ist-Vergleiche, Erstellung von Szenarien, Erarbeiten von Vorschlägen und Einleiten von Maßnahmen zur Sicherung der geplanten Projektergebnisse und des Cash-Flows Ordnungsgemäße kaufmännische Projektabwicklung mit den Schwerpunkten Kostenoptimierung, Zahlungs-, Claim/Waiver-, Chancen- und Risikomanagement Rechnungslegung und Forderungsmanagement, sowie Cashmanagement inkl. Reporting Prüfung der bilanziellen Ordnungsmäßigkeit aller Buchungen im Hinblick auf IFRS15 und HGB sowie Preisprüfungs- und Wirtschaftsprüfungsbelange Mitwirkung bei der Erstellung von Planungen; Operative Planung, Outlook, Monthly Planning und Berichterstattung sowie Unterstützung bei Monats- und Jahresabschlüssen Durchführung von ad-hoc-Analysen für die Führungskräfte des Bereichs Zuarbeit für das betriebliche Berichtswesen im Rahmen des Aufgabengebietes Ausarbeitung von Business Plänen Profil Abgeschlossenes Studium der Betriebswirtschaftslehre, Wirtschaftsingenieurwesen oder vergleichbar Erfahrungen im Finanz- und Controlling Bereich bzw. in der kaufmännischen Projektabwicklung / Commercial & Contracts Kenntnisse des deutschen Preisrechts / IFRS wünschenswert Sicher im Umgang mit MS Office (insbesondere Excel, Word, PowerPoint) sowie SAP (SD/PS) Verhandlungsgeschick mit Kunden und Auftragnehmern (intern & extern) Gewissenhafte und selbständige Arbeitsweise Sehr gute Kommunikationsfähigkeit, Teamfähigkeit und Durchsetzungsstärke Fähigkeit zum vernetzten Denken Verhandlungssichere Deutsch- und Englischkenntnisse Wir bieten Flexible Arbeitszeiten & Work-Life-Balance Vergütung & Sozialleistungen Persönliche & berufliche Entwicklung Arbeitsatmosphäre Gesundheit & Vorsorge Mobilität & Nachhaltigkeit Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at HENSOLDT by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "85eed13833c13947",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektkaufmann-finance-business-partner-w-m-d-at-hensoldt-4481074054"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "Mitarbeiter/-in Gebäudebetrieb Bronschhofen",
+   "company": "Schweizer Armee - Logistikbasis der Armee LBA",
+   "location": "9552 Bronschhofen",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/2d8e3722-7e2a-41e5-84de-6014cf7dbf00/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": ".\n*  **Gelebte Vielfalt** Dank <em>Chancengleichheit</em> entfalten wir unsere Kompetenzen und bringen unterschiedliche Perspektiven ein.\n*  **Gesund am Arbeitsplatz** Wir unterstützen und beraten unsere Mitarbeitenden im Bereich der physischen und psychischen Gesundheit.",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "868c143e-4204-4ae4-93ba-8384a97325c7"
+   },
+   "id": "f7810d018aedaf5b",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/2d8e3722-7e2a-41e5-84de-6014cf7dbf00/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-25"
+  },
+  {
+   "title": "projektleiter infrastruktur / haustechnik, 90-100%",
+   "company": "Progress Personal AG",
+   "location": "9230 Flawil",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/5a2e3782-b172-48c3-97cf-b14672c12bb4/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-24",
+   "salary": null,
+   "via": null,
+   "description": "einen engagierten und zielorientierten\n**projektleiter infrastruktur / haustechnik, 90\\-100% (w/m/d)**\n**aufgaben**\n* sie planen projekte in den bereichen umbau sowie erweiterung an der infrastruktur (heizung, lüftung, kälte, dampf und wasseraufbereitung) selbständig\n* dabei helfen sie bei <em>evaluation</em>",
+   "extra": {
+    "canton": "SG",
+    "query": "Evaluation",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "098f6a2b-bab9-451c-a03f-d6e02f2a5b11"
+   },
+   "id": "a3a1cc85b04f2f4a",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/5a2e3782-b172-48c3-97cf-b14672c12bb4/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-25"
+  },
   {
    "title": "FACHARBEITERIN (M/W/D) IM STRASSENUNTERHALT",
    "company": "Stadtverwaltung Konstanz",
@@ -38,7 +474,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003906309-S"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "MITARBEITERIN (M/W/D) IM STRASSENUNTERHALT UND VERKEHRSWESEN",
@@ -63,7 +500,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003903556-S"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Infrastrukturprojekte (w/m/d)",
@@ -87,7 +525,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-infrastrukturprojekte-w-m-d-at-ingenieurb%C3%BCro-reckmann-gmbh-4456356579"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Referatsleitung Kreiskasse (w/m/d) – Kämmerei Landkreis Konstanz",
@@ -111,7 +550,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/referatsleitung-kreiskasse-w-m-d-%E2%80%93-k%C3%A4mmerei-landkreis-konstanz-at-landratsamt-konstanz-4481004343"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Bauleitung Industriebau (m/w/d)",
@@ -135,7 +575,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/bauleitung-industriebau-m-w-d-at-freyler-unternehmensgruppe-4482852855"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Projektleiter:in Sanitär 80-100%",
@@ -159,7 +600,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-sanit%C3%A4r-80-100%25-at-amstein%2Bwalthert-4482885424"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Mitarbeitende/n Strassenunterhaltsdienst (m/w/d)",
@@ -183,7 +625,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeitende-n-strassenunterhaltsdienst-m-w-d-at-kanton-st-gallen-4472888531"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Stationsleitung für den Bereich Frührehabilitation (m/w/d)",
@@ -207,7 +650,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/stationsleitung-f%C3%BCr-den-bereich-fr%C3%BChrehabilitation-m-w-d-at-gesundheitsverbund-landkreis-konstanz-4480632871"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Anästhesietechnische Assistenz (ATA) für das Ambulante OP-Zentrum (m/w/d)",
@@ -231,7 +675,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/an%C3%A4sthesietechnische-assistenz-ata-f%C3%BCr-das-ambulante-op-zentrum-m-w-d-at-gesundheitsverbund-landkreis-konstanz-4480639463"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter Controlling / Rechnungswesen (m/w/d)",
@@ -255,7 +700,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-controlling-rechnungswesen-m-w-d-at-constellium-4474320403"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter MD- und Kostenträgermanagement (m/w/d)",
@@ -279,7 +725,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-md-und-kostentr%C3%A4germanagement-m-w-d-at-gesundheitsverbund-landkreis-konstanz-4480653843"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Fachtechnisch verantwortliche Person (FvP) / Responsible Person",
@@ -303,7 +750,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachtechnisch-verantwortliche-person-fvp-responsible-person-at-alponics-sa-4482844983"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Ressortleiter/in Standardanwendungen",
@@ -327,7 +775,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/ressortleiter-in-standardanwendungen-at-kanton-thurgau-4481659914"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Heizung/Kälte",
@@ -351,7 +800,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-heizung-k%C3%A4lte-at-equans-switzerland-4482824872"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Immobilienbewirtschafter (m/w/d), St. Gallen, 100% (St. Gallen, St. Gallen, CH, 9000)",
@@ -375,7 +825,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/immobilienbewirtschafter-m-w-d-st-gallen-100%25-st-gallen-st-gallen-ch-9000-at-wincasa-4472884452"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Quality Management 80-100% (w/m/d) | Region Westschweiz",
@@ -399,7 +850,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-quality-management-80-100%25-w-m-d-region-westschweiz-at-qualicasa-ag-4481903225"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Chef de projet en gestion de la qualité 80–100 % (h/f/d) | Suisse romande",
@@ -423,7 +875,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/chef-de-projet-en-gestion-de-la-qualit%C3%A9-80%E2%80%93100-%25-h-f-d-suisse-romande-at-qualicasa-ag-4481693687"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter Immobilienbewirtschaftung (m/w/d), Winterthur, 80-100% (Winterthur, Zürich, CH, 8400)",
@@ -447,7 +900,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-immobilienbewirtschaftung-m-w-d-winterthur-80-100%25-winterthur-z%C3%BCrich-ch-8400-at-wincasa-4472875893"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Senior Process Consultant - Bioprocessing & Biomanufacturing (all genders)",
@@ -471,7 +925,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-process-consultant-bioprocessing-biomanufacturing-all-genders-at-merck-life-science-4474744582"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter Laborservice (m/w/d)",
@@ -495,7 +950,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-laborservice-m-w-d-at-avantor-4483104882"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Fellow MSAT Nitrosamine & Impurity Lead",
@@ -519,7 +975,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fellow-msat-nitrosamine-impurity-lead-at-johnson-johnson-innovative-medicine-4483100513"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Senior Lead External Manufacturing (Tech Transfer)",
@@ -543,7 +1000,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-lead-external-manufacturing-tech-transfer-at-efor-4481671155"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Geld und Werttransport (m/w/d) – Quereinsteiger willkommen",
@@ -567,7 +1025,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/geld-und-werttransport-m-w-d-%E2%80%93-quereinsteiger-willkommen-at-eduvia-bildungsakademie-gmbh-4482373948"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Accountant (m/w/d) - all genders",
@@ -591,7 +1050,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/accountant-m-w-d-all-genders-at-alpla-group-4482852567"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Qualitätsinspektor (m/w/d) Qualitätsmanagement und Auftragsabwicklung",
@@ -615,7 +1075,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsinspektor-m-w-d-qualit%C3%A4tsmanagement-und-auftragsabwicklung-at-diehl-defence-4480694613"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Spielhallenaufsicht (m/w/d) Vollzeit",
@@ -639,7 +1100,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/spielhallenaufsicht-m-w-d-vollzeit-at-kling-automaten-gmbh-4482381743"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Kundenbetreuer im Vodafone Shop (m/w/d)",
@@ -663,7 +1125,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/kundenbetreuer-im-vodafone-shop-m-w-d-at-sp-service-plattform-4480633824"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Automatiker:in im Betriebsunterhalt (a) 80 – 100 %",
@@ -687,7 +1150,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/automatiker-in-im-betriebsunterhalt-a-80-%E2%80%93-100-%25-at-model-group-4466075889"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Fachmitarbeiter*in Produktion Getränke Downstream 100%",
@@ -711,7 +1175,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachmitarbeiter-in-produktion-getr%C3%A4nke-downstream-100%25-at-fresh-food-beverage-group-4481356417"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Rayonleiter:in Do-it",
@@ -735,7 +1200,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/rayonleiter-in-do-it-at-jumbo-4472561328"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "ICT-Systemadministrator:in / ICT-Supporter:in",
@@ -759,7 +1225,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/ict-systemadministrator-in-ict-supporter-in-4482888629"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Linienführer*in Menülinien 100%",
@@ -783,7 +1250,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/linienf%C3%BChrer-in-men%C3%BClinien-100%25-at-fresh-food-beverage-group-4481388686"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Anlagenführer / Produktionsmitarbeiter (m/w/d)",
@@ -807,7 +1275,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/anlagenf%C3%BChrer-produktionsmitarbeiter-m-w-d-at-rocken%C2%AE-4481684548"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "Finanzverantwortlicher (m/w) mit Herz - Generalagentur Mittelthurgau",
@@ -831,7 +1300,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/finanzverantwortlicher-m-w-mit-herz-generalagentur-mittelthurgau-at-die-mobiliar-4480675688"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "IP Attorney (m/w/d)",
@@ -855,7 +1325,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/ip-attorney-m-w-d-at-zf-group-4480644423"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   },
   {
    "title": "IT/OT Systemadministrator - industrielle Systeme (m/w/d)",
@@ -879,7 +1350,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/it-ot-systemadministrator-industrielle-systeme-m-w-d-at-ifm-4445714708"
    },
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-24",
+   "carried_over": true
   }
  ]
 }
