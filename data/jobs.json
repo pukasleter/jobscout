@@ -1,20 +1,694 @@
 {
- "generated_at": "2026-10-25T06:16:05+00:00",
+ "generated_at": "2026-10-26T06:24:07+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 168,
-   "linkedin": 250,
-   "jobroom": 27
+   "arbeitsagentur": 166,
+   "linkedin": 249,
+   "jobroom": 24
   },
-  "excluded": 359,
-  "unique": 68,
-  "new": 18,
-  "carried_over": 36
+  "excluded": 348,
+  "unique": 77,
+  "new": 28,
+  "carried_over": 54
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Doktorandin+Soziologie&location=Kreuzlingen%2C+Thurgau%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=30"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Sozialplanung&location=St.+Gallen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
  },
  "jobs": [
+  {
+   "title": "Configuration Manager (m/w/d) – Konfigurationsmanagement & Change Control JR-7059",
+   "company": "ALTEN",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/configuration-manager-m-w-d-%E2%80%93-konfigurationsmanagement-change-control-jr-7059-at-alten-4481080566",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Die ALTEN Consulting Services GmbH bietet mit über 20 Jahren Branchenerfahrung ihren namhaften Kunden aus Industrie und Wirtschaft hochspezialisierte Engineering- und IT-Dienstleistungen zur gemeinsamen Realisierung von branchen- und technologieübergreifenden Lösungen an. Kompetenz, Engagement und Leidenschaft verbinden alle unsere Mitarbeiter der ALTEN Consulting Services GmbH. Dabei stehen ein partnerschaftliches Miteinander, ein starkes WIR-Gefühl, der persönliche Kontakt zu unseren Kunden und die Kreativität jedes Einzelnen stets im Fokus. Werde auch Du Teil unserer Erfolgsgeschichte. Configuration Manager (m/w/d) – Konfigurationsmanagement & Change Control Make it happen DU... arbeitest in internationalen internen und externen Projektteams mit und koordinierst Unterauftragnehmer sowie Kunden. definierst und koordinierst interne und externe Schnittstellen des Konfigurationsmanagements (KM). erstellst und pflegst Konfigurationsmanagementpläne in deutscher und englischer Sprache. stellst die konsequente Anwendung und Einhaltung der Konfigurationsmanagementprozesse sicher. steuerst das interne und externe Änderungsmanagement und koordinierst Erstfreigaben im Rahmen von Change Control Boards und Release Boards. erstellst Produktstrukturen, identifizierst Konfigurationseinheiten und bildest diese in den entsprechenden KM-Tools ab. bildest Baselines und dokumentierst verbindliche Bauzustände. erstellst Auswertungen, Statusübersichten und Präsentationen für Projektteams, Kunden und internationale Partner. unterstützt die Umsetzung und Einführung von Konfigurationsmanagementvorgaben in den beteiligten Fachbereichen. Be our forward thinker DU... verfügst über ein abgeschlossenes Bachelorstudium im Wirtschaftsingenieurwesen oder eine vergleichbare Qualifikation. bringst idealerweise Erfahrung in der Projektabwicklung sowie im Konfigurationsmanagement mit. hast vorzugsweise Kenntnisse im Software-Konfigurationsmanagement und in Produktionsprozessen. kennst idealerweise relevante KM-Standards wie ISO 10007 und EIA-649. verfügst von Vorteil über Kenntnisse in SAP PLM (Product Lifecycle Management). kommunizierst verhandlungssicher auf Deutsch und verfügst über fortgeschrittene Englischkenntnisse. präsentierst technische und prozessbezogene Inhalte souverän vor internationalen Kunden und Partnern. überzeugst durch Eigeninitiative, Teamfähigkeit und proaktive Kommunikation über verschiedene Schnittstellen hinweg. besitzt Verhandlungsgeschick, Kompromissfähigkeit und Durchsetzungsvermögen im Umgang mit internen und externen Ansprechpartnern. bringst die soziale Kompetenz mit, Konfigurationsmanagementvorgaben verständlich zu vermitteln und deren Umsetzung erfolgreich voranzutreiben. Show more Show less Seniority level Associate Employment type Full-time Industries Machinery Manufacturing and Aviation and Aerospace Component Manufacturing Referrals increase your chances of interviewing at ALTEN by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "f4f2bd10f4cb7929",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/configuration-manager-m-w-d-%E2%80%93-konfigurationsmanagement-change-control-jr-7059-at-alten-4481080566"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "CNC-Dreher / CNC-Fräser (m/w/d/kA)",
+   "company": "Kugler GmbH",
+   "location": "Salem, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/cnc-dreher-cnc-fr%C3%A4ser-m-w-d-ka-at-kugler-gmbh-4481414048",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cafb660c33808625",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/cnc-dreher-cnc-fr%C3%A4ser-m-w-d-ka-at-kugler-gmbh-4481414048"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "HR-Manager:in Deputy CHRO",
+   "company": "Humentum AG",
+   "location": "Bussnang, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/hr-manager-in-deputy-chro-at-humentum-ag-4481093162",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Humentum AG ist Ihr Rekrutierungsspezialist für IT, Engineering, HR & Finance. Mit unserer langjährigen Erfahrung rund um die Rekrutierung von Fachspezialisten und Führungskräften haben wir uns ein weitreichendes Netzwerk zu den renommiertesten Schweizer Arbeitgebern erarbeitet. Für weiterführende Informationen zu unseren Dienstleistungen besuchen Sie bitte www.humentum.ch. International HR-Manager (m/w/d) – Deputy CHRO Job-ID 68561 Internationale HR-Themen gestalten und die Personalentwicklung der Division vorantreiben Für eine international tätige Unternehmensgruppe im Bahnsektor suchen wir eine erfahrene HR-Persönlichkeit, die Freude daran hat, komplexe HR-Themen auf internationaler Ebene zu koordinieren, divisionsweite Standards weiterzuentwickeln und gleichzeitig die strategische Personalentwicklung der Division aktiv mitzugestalten. In dieser vielseitigen Funktion unterstützen Sie die Schweizer Führungskraft, die für die Organisationen in Deutschland, den Niederlanden, Dänemark und Österreich verantwortlich ist (ca. 600 Mitarbeitende). Während die operativen HR-Aufgaben in den jeweiligen Ländern durch lokale HR-Teams wahrgenommen werden, übernehmen Sie die Koordination und Weiterentwicklung übergeordneter HR-Themen. In der Division verantworten Sie zudem ausgewählte strategische HR-Initiativen und übernehmen die Stellvertretung der CHRO der Division. Ihre Aufgaben 1. Internationales HR-Management und Koordination Sie unterstützen die verantwortliche Führungskraft bei komplexen und länderspezifischen und -übergreifenden HR-Fragestellungen und agieren als kompetente Ansprechperson für anspruchsvolle Sonderfälle. Sie koordinieren Themen wie Performance Management, Nachfolgeplanung und die Besetzung von Schlüsselpositionen. Sie entwickeln gemeinsam mit den relevanten Stakeholdern HR-Vorgaben, Standards und Prozesse weiter und koordinieren deren Umsetzung in den verschiedenen Ländern. Sie arbeiten eng mit den lokalen HR-Teams zusammen, fördern den internationalen Austausch und unterstützen eine konsistente HR-Praxis über Ländergrenzen hinweg. Sie begleiten übergreifende HR-Projekte und stellen sicher, dass relevante Themen strukturiert vorangetrieben und umgesetzt werden. 2. Strategische HR-Themen und Personalentwicklung Sie konzipieren und entwickeln Massnahmen zur Förderung und Weiterentwicklung der Mitarbeitenden und Führungskräfte. Sie verantworten die Weiterentwicklung des Trainee-Programms und weiterer Talentmanagement-Initiativen. Sie konzipieren und koordinieren Leadership-Programme, Führungskurse und weitere Entwicklungsangebote. Sie identifizieren Entwicklungsbedürfnisse und leiten daraus geeignete Massnahmen für die Organisation ab. Sie treiben ausgewählte strategische HR-Projekte voran und leisten damit einen wichtigen Beitrag zur Weiterentwicklung der HR-Arbeit innerhalb der Division. 3. Stellvertretung der CHRO Sie unterstützen die CHRO bei übergeordneten Fragestellungen und strategischen Initiativen. Sie übernehmen im Rahmen Ihrer Stellvertretungsfunktion zusätzliche Verantwortung und vertreten die CHRO bei Bedarf. Ihr Profil Sie verfügen über eine höhere Ausbildung im Bereich Human Resources, Betriebswirtschaft oder eine vergleichbare Qualifikation. Sie bringen Erfahrung in einer anspruchsvollen HR-Funktion innerhalb eines internationalen Konzerns oder einer vergleichbaren Unternehmensstruktur mit. Sie sind mit Matrixorganisationen, länderübergreifender Zusammenarbeit und der Koordination dezentral organisierter HR-Teams vertraut. Sie verfügen über Erfahrung in der Entwicklung und Umsetzung von HR-Standards, Performance-Management-Prozessen, Talentmanagement oder strategischen Personalentwicklungsmassnahmen. Sie verstehen die Anliegen des Business und bewegen sich sicher im Austausch mit Führungskräften auf unterschiedlichen Hierarchiestufen. Sie denken konzeptionell und strategisch, arbeiten gleichzeitig pragmatisch und setzen Themen eigenständig und strukturiert um. Sie überzeugen durch …",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "27972d54e4967936",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/hr-manager-in-deputy-chro-at-humentum-ag-4481093162"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Kuhar IV v Policijski upravi Celje, Službi za operativno podporo, Oddelku za materialno-tehnične zadeve",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/kuhar-iv-v-policijski-upravi-celje-slu%C5%BEbi-za-operativno-podporo-oddelku-za-materialno-tehni%C4%8Dne-zadeve-at-vlada-republike-slovenije-4482906601",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Z izbranim kandidatom bo sklenjena pogodba o zaposlitvi za nedoločen čas s polnim delovnim časom in trimesečnim poskusnim delom. Izhodiščni plačni razred delovnega mesta je 4. plačni razred, ki na podlagi drugega odstavka 15. člena Zakona o skupnih temeljih sistema plač v javnem sektorju (Uradni list RS, št. 95/24 in 12/26 – ZPPJUFT; v nadaljevanju ZSTSPJS) na dan objave znaša 1.510,69 € bruto mesečno in je usklajen na način iz 3. točke prvega odstavka 101. člena (ZSTSPJS). Izbrani kandidat bo delo opravljal v prostorih Policijske uprave Celje, Ljubljanska cesta 12, Celje, oziroma v drugih uradnih prostorih organa. Zahteve za prijavo Kandidat, ki se bo prijavil na prosto delovno mesto, mora izpolnjevati naslednje pogoje: srednje poklicno izobraževanje/srednja poklicna izobrazba, najmanj 4 mesece delovnih izkušenj, znanje o higieni živil in načelih HACCP sistema, državljanstvo Republike Slovenije s stalnim prebivališčem v Evropski uniji, ne sme biti pravnomočno obsojen zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in ne sme biti pravnomočno obsojen zaradi drugega kaznivega dejanja na nepogojno kazen zapora v trajanju več kot tri mesece, zoper njega ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. opravljeno osnovno usposabljanje za obravnavo in varovanje tajnih podatkov (kandidat ga lahko opravi v okviru izbirnega postopka), da je bil varnostno preverjen v obsegu in na način, kot je določen v Zakonu o organiziranosti in delu v Policiji, in da zanj ne obstaja varnostni zadržek (navedeno se izvede v okviru izbirnega postopka). Delovne naloge Naloge Delovnega Mesta organiziranje, vodenje in kontroliranje dela kuhinje, neposredno opravljanje dela v kuhinji, pripravljanje zahtevkov za nabavo materiala, opravljanje nalog v skladu s HACCP, vodenje evidence o porabi materiala, opravljanje drugih nalog s svojega delovnega področja, ki jih naroči nadrejeni, sodelovanje pri sestavi jedilnika, pripravljanje in postrežba hrane, vzdrževanje reda in čistoče v kuhinji. Postopek prijave Kandidati pošljejo prijavo preko spletne strani https://kadri.mnz.gov.si/delovna-mesta/ ali v pisni obliki na priloženem obrazcu \"Vloga za zaposlitev\" , v zaprti ovojnici, na naslov MNZJU RS, Štefanova ulica 2, 1501 Ljubljana , z označbo \"JO št. 1100-307/2026\" na spodnji levi oz. zadnji strani ovojnice, in sicer v roku 15 dni po objavi na spletnem mestu državne uprave GOV.SI in spletni strani Zavoda RS za zaposlovanje. Če je prijava poslana po pošti, se šteje, da je pravočasna, če je oddana na pošto priporočeno najkasneje zadnji dan roka za prijavo. Za pisno obliko prijave se šteje tudi elektronska oblika, poslana na elektronski naslov gp.mnzju@gov.si , pri čemer veljavnost prijave ni pogojena z varnim elektronskim podpisom. Povezava na elektronsko prijavo Kontaktna oseba za dodatne informacije Mija Krajnc Informacije o delovnem področju 03 542 63 01 Tina Mitrović Informacije o izvedbi javne objave 01 428 49 29 Besedilo in prijavni obrazec 1100 307 2026 kuhar IV PU CE SOP OMTZ besedilo (doc, 85 KB) 1100 307 2026 kuhar IV PU CE SOP OMTZ vloga (doc, 178 KB) 1100 307 2026 kuhar IV PU CE SOP OMTZ besedilo P (pdf, 226 KB) Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Vlada Republike Slovenije by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d7f28b406dc7a448",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kuhar-iv-v-policijski-upravi-celje-slu%C5%BEbi-za-operativno-podporo-oddelku-za-materialno-tehni%C4%8Dne-zadeve-at-vlada-republike-slovenije-4482906601"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Metzgerei Nachwuchsführungskräfte Thurgau",
+   "company": "Coop",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/metzgerei-nachwuchsf%C3%BChrungskr%C3%A4fte-thurgau-at-coop-4389596176",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "bb2bfbc7382685e1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/metzgerei-nachwuchsf%C3%BChrungskr%C3%A4fte-thurgau-at-coop-4389596176"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Tax Consultant St.Gallen (Graduate)",
+   "company": "EY",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/tax-consultant-st-gallen-graduate-at-ey-4410477965",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Die Gelegenheit: Dein nächstes Abenteuer wartet Starte eine erfolgreiche Karriere und werde Teil unseres einzigartigen Tax Services Team , um täglich spannende Herausforderungen zu meistern! In unseren Tax Services beraten wir als Marktführer in vielfältigen Bereichen zu allen Steuerfragen. Dadurch optimieren wir die Gesellschafts- und Rechtsstrukturen unserer global aufgestellten Kunden. Entwickle bei uns in interdisziplinären und multikulturellen Teams deine individuellen Fähigkeiten! Unsere Experten in unserer Tax Practice begleiten unsere Kunden durch die komplexe Welt der Steuern und beraten sie in Corporate Tax, Indirect Tax und Human Capital. Deine Hauptaufgaben Du arbeitest in der Steuerberatung unserer nationalen und internationalen Kunden in den folgenden Bereichen: Business Tax, Merger & Acquisitions Tax, International Tax Services, Tax Accounting & Risk Advisory, Private Client Tax sowie Real Estate Tax Du erhältst die Möglichkeit, Unternehmenssteuerrecht und internationales Steuerrecht fundiert zu erlernen, hauptsächlich \"on the job\" und damit praxisbezogen Du arbeitest in spannenden Projekten an der Schnittstelle zwischen Wirtschaft und Recht und erhalten einen tiefen Einblick in verschiedenste Branchen und Unternehmensbereiche Was wir suchen Bachelor- (mit ersten Berufserfahrungen) oder Masterabschluss eines juristischen oder betriebswirtschaftlichen Studiums setzen wir voraus. Wir bilden Sie zum dipl. Steuerexperten aus Ein Muss: stark ausgeprägtes Interesse für die Steuerthematik, ein Plus: erste Erfahrungen im Steuerwesen Erfolgsgaranten, die Dich bei uns weiterbringen: Teamfähigkeit, Zielstrebigkeit, Einsatzbereitschaft und schnelle Auffassungsgabe. Als internationales Unternehmen setzen wir Deutsch und Englisch voraus Was ist für dich drin Wir statten dich mit der neuesten Technologie aus und umgeben dich mit leistungsstarken Teams. Durch unsere Coaching- und Schulungsprogramme entwickelst du die notwendigen Fähigkeiten und baust gleichzeitig ein Netzwerk aus Kollegen, Mentoren und Führungskräften auf, die dich auf deinem Weg bei EY und darüber hinaus unterstützen. Inklusion ist der zentrale Bestandteil unseres Handelns. Wir setzen uns dafür ein, einen Arbeitsplatz zu schaffen, an dem jede(r) gleichberechtigten Zugang zu Chancen hat. Wenn du während des Rekrutierungsprozesses Anpassungen benötigst, unterstützen wir dich gerne. Klicke hier, um mehr über unsere Vorteile und soziale Verantwortung zu erfahren. Are you ready to shape your future with confidence? Bewirb dich noch heute. EY | Building a better working world EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets. Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow. EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Professional Services Referrals increase your chances of interviewing at EY by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "58 applicants"
+   },
+   "id": "89c83960a9d63eb9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/tax-consultant-st-gallen-graduate-at-ey-4410477965"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Kranführer (m/w/d)",
+   "company": "jobcourier.ch",
+   "location": "Gossau, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/kranf%C3%BChrer-m-w-d-at-jobcourier-ch-4483534100",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Work Selection AG Sie sind auf der Suche nach einer neuen Anstellung, möchten in einem eingespielten Team mitarbeiten und das bei einem renommierten Arbeitgeber? Für unseren Kunden suchen wir laufend engagierte, motivierte und zielstrebige Kranführer (m/w/d) Tätigkeiten Ausführen von Einsatzvorbereitungen der Maschinen Bedienen von Oberdreh- und Unterdrehkranen Bereitschaft zur Mithilfe auf der Baustelle Anforderungen Ausbildung als Kranführer (SUVA, Kat. B) Zuverlässige, flexible und teamfähige Persönlichkeit Motiviert und gute körperliche Verfassung Freude an der Arbeit Gute Deutschkenntnisse Wir bieten Interessante und abwechslungsreiche Arbeit in einem motivierten Team Spannende, innovative Bauprojekte für anspruchsvolle Kunden Gut ausgebildete Mitarbeiter und moderner Werkhof Raum für Eigeninitiative und Mitgestaltung Moderner Arbeitsplatz Haben wir Ihr Interesse geweckt? Zögern Sie nicht und stellen Sie uns noch heute online Ihre kompletten Bewerbungsunterlagen zu. Wir freuen uns auf Sie! Immer die neusten Jobangebote erhalten - Jetzt beitreten Auf diese Stelle passen auch: Bauarbeiter C, Bauarbeiter B, Bauarbeiter A, Maurer, Schaler, Gerüstbauer, Bauhilfsarbeiter, Allrounder Wir wertschätzen Vielfalt und begrüssen daher alle Bewerbungen ? unabhängig von Geschlecht, sozialer Herkunft, Religion, Alter und Identität. Zur leichteren Lesbarkeit und besseren Verständlichkeit verwenden wir nur eine Gender-Form. Selbstverständlich sind im jeweiligen Kontext alle Genderformen gleichermassen gemeint. Temp + Fest 100% Mitarbeiter Settore: Altro Ruolo: Altro Show more Show less Seniority level Not Applicable Employment type Full-time Industries Manufacturing Referrals increase your chances of interviewing at jobcourier.ch by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e7941344f6bfecd2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kranf%C3%BChrer-m-w-d-at-jobcourier-ch-4483534100"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-at-rocken%C2%AE-4482904190",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF60'000 - 70'000 Unser Kunde ist ein etabliertes Schweizer Industrieunternehmen mit internationaler Ausrichtung. Im Mittelpunkt stehen moderne Technologien, hohe Qualitätsstandards und die kontinuierliche Weiterentwicklung von Produkten und Prozessen. Rolle Du möchtest in einer technisch anspruchsvollen Produktion arbeiten und Qualität, Effizienz und Prozessstabilität aktiv mitgestalten ? Dich erwartet eine vielseitige Tätigkeit rund um die Herstellung von Hochfrequenzkabeln mit modernen Extrusionsanlagen. Verantwortung Selbstständiges Einrichten und Bedienen von thermoplastischen Extrusionsanlagen Rüsten und Vorbereiten der Anlagen inklusive Materialbereitstellung Überwachen der Produktion und Optimieren der Prozessparameter Durchführen, Bewerten und Dokumentieren von Qualitätsprüfungen Sicherstellen eines reibungslosen Produktions- und Schichtwechsels Durchführung von Wartungs- und Reinigungsarbeiten Aktive Mitarbeit an Prozessverbesserungen und Lean-Projekten Optimierung von Arbeitsplätzen, Abläufen und Produktionsstandards Qualifikationen Ausbildung als Anlagenführer/in EFZ, Kunststofftechnologe/-technologin oder mechanische Grundausbildung Berufserfahrung in der Produktion und Anlagenbedienung, vorzugsweise Extrusion Ausgeprägtes technisches Flair und hohes Qualitätsbewusstsein Engagierte, zuverlässige und genaue Arbeitsweise Rasche Auffassungsgabe und Bereitschaft, Verantwortung zu übernehmen Freude an der Teamarbeit Bereitschaft für Drei- und bei Bedarf Vierschichtbetrieb Sehr gute Deutschkenntnisse in Wort und Schrift Benefits Kantine, Essenszulagen und Vergünstigungen: Personalrestaurant mit abwechslungsreichen Menüs zu attraktiven Preisen Überdurchschnittliche Ferien- und Freitage: Bis zu 6 Wochen Ferien Beteiligung am Geschäftserfolg und Prämien: Überobligatorische Pensionskasse Attraktive Mitarbeiterrabatte: Beitrag zu Fitness- & Bäder-Abos ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "15a55e71fb9a102e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-at-rocken%C2%AE-4482904190"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Group Tax Manager",
+   "company": "BGP AG",
+   "location": "Rheintal, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/group-tax-manager-at-bgp-ag-4472452979",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Industriekonzern – weltweit führend Innovation, eine klare Marktstrategie, Kundennähe und ein konsequenter Qualitätsanspruch haben unsere Auftraggeberin zu einer führenden Anbieterin in einem Spezialgebiet im Bereich Health Care gemacht. Die Industrieunternehmung verfügt über weltweite Produktions- und Vertriebsstandorte und hat ihr Headquarter in der Ostschweiz. Hier laufen auch in steuerlichen Fragen die Fäden zusammen. Wir suchen eine erfahrene Persönlichkeit als Group Tax Manager (m/w/d) In dieser Funktion beraten Sie die Konzerngesellschaften und internen Stakeholder in nationalen und internationalen Fragen der Unternehmensbesteuerung. Sie beurteilen die steuerlichen Auswirkungen von Geschäftsaktivitäten, organisatorischen Veränderungen und grenzüberschreitenden Transaktionen und entwickeln praxisgerechte Lösungen. Ein weiterer Schwerpunkt liegt auf der Betreuung und Weiterentwicklung der Verrechnungspreisthemen. Sie gestalten konzerninterne Strukturen sowie Vereinbarungen und begleiten deren Umsetzung innerhalb der Gruppe. Zudem wirken Sie bei der Steuerplanung und -berichterstattung mit, identifizieren Steuerrisiken und leiten geeignete Massnahmen ab. Sie verfügen über ein Hochschulstudium oder eine vergleichbare Ausbildung und bringen fundierte Erfahrung in der internationalen Unternehmensbesteuerung und im Transfer Pricing mit. Diese haben Sie bei einem international tätigen Unternehmen oder in der Steuerberatung in erworben. Eine Weiterbildung zum diplomierten Steuerexperten, Steuerberater oder eine vergleichbare Qualifikation setzen wir voraus. Sie analysieren komplexe Sachverhalte sicher, arbeiten selbständig und verstehen es, unterschiedliche Interessen innerhalb einer internationalen Organisation zusammenzuführen. In Englisch kommunizieren Sie verhandlungssicher. Es erwartet Sie eine verantwortungsvolle Aufgabe mit direktem Bezug zu den Geschäftsaktivitäten einer weltweit tätigen Industriegruppe. Sie arbeiten eng mit den Konzerngesellschaften und verschiedenen Fachbereichen zusammen und bringen Ihre Erfahrung bei steuerlich relevanten Entscheidungen und Projekten ein. Dr. Hannes Grabher oder Florian Pfab freuen sich auf Ihre Kontaktaufnahme. Ihre Bewerbung reichen Sie bitte online ein. Volle Diskretion ist zugesichert. Show more Show less Seniority level Associate Employment type Full-time Industries Staffing and Recruiting Referrals increase your chances of interviewing at BGP AG by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "30 applicants"
+   },
+   "id": "123a68152575b28d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/group-tax-manager-at-bgp-ag-4472452979"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Polizist:in Transportpolizei",
+   "company": "SBB CFF FFS",
+   "location": "Marbach, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/polizist-in-transportpolizei-at-sbb-cff-ffs-4389082235",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Beweg die Schweiz mit uns. Polizist:in Transportpolizei St. Gallen ab sofort oder nach Vereinbarung 60-100% 99425 Darauf kannst du dich freuen. Für unseren Stützpunkt in St. Gallen suchen wir engagierte und motivierte Polizistinnen und Polizisten, die sich einer spannenden und abwechslungsreichen Stelle widmen möchten. Bei uns steht nicht die Büroarbeit im Vordergrund, sondern die bürgernahe Polizeiarbeit am Puls des Geschehens im öffentlichen Verkehr mit einem klaren Fokus auf die sicherheitspolizeilichen Aufgaben. Zudem arbeiten wir regelmässig mit anderen Polizeikräften und Partnerorganisationen zusammen, was dein Netzwerk erweitern wird. Werde Teil eines wertschätzenden, dynamischen und motivierten Teams, das über die Kantonsgrenzen hinaus für Sicherheit und Ordnung sorgt. Attraktive Arbeitsbedingungen sind uns wichtig, auch bei unregelmässigen Arbeitszeiten. Nacht- und Wochenendarbeiten werden bei uns zusätzlich vergütet - z.B. mit 16 Franken pro Stunde für Sonntagsarbeit. Bei Nachteinsätzen erhältst du zudem Zeitzuschläge von zwischen 10 und 30%. Das heisst, du hast mehr Freizeit als Mitarbeitende ohne Nacht- und Wochenendeinsätze. Unsere weiteren Benefits wie Kinderzulagen, kostenloses 2. Klasse GA und vergünstigtes Reisen im Ausland - auch für die Familie - findest du auf unserer Website unter «Benefits». Interessiert, noch mehr über unsere Berufe zu erfahren? Wir freuen uns, dich vom 22. bis 24. Oktober 2026 in unserem SBB Berufswelten Café am Hauptbahnhof Zürich zu begrüssen. Alle Informationen findest du unter sbb.ch/berufsweltencafe. Das kannst du bewegen. Als Polizist:in der Transportpolizei SBB sorgst du national mit über 190 Kollegen:innen in den Bahnhöfen und in den öffentlichen Verkehrsmitteln verschiedener Transportunternehmen für Sicherheit, Ruhe und Ordnung. Du leistest uniformierte und auch zivile Präsenz in Transportmitteln, in Bahnhöfen und auf dem Areal der Transportunternehmen. Dabei trägst du zum Schutz und zur Sicherheit unserer Reisenden und des Personals des öffentlichen Verkehrs bei. Mit polizeilichen Interventionen, auch zusammen mit Partnerorganisationen, übernimmst du Verantwortung für die Sicherheit und Ordnung. Zu den spannenden Herausforderungen gehören auch Einsätze in Eventzügen und an Grossanlässen im Einsatzgebiet Schweiz. Das bringst du mit. Du bist eine dienstleistungsorientierte, offene und gewinnende Persönlichkeit, da du täglich im Kontakt mit unseren Kunden:innen stehst. Bei uns ist Teamwork der Schlüssel zum Erfolg. Du bist ein:e Teamplayer:in und freust dich auf die Zusammenarbeit im Team. Du verfügst über den eidgenössischen Fachausweis Polizist:in I und bringst gute polizeitaktische und -technische Kenntnisse mit. Sehr gute mündliche und schriftliche Ausdrucksweise in der deutschen Sprache auf Niveau C2 zeichnen dich aus. Kenntnisse einer zweiten Landessprache sind von Vorteil. Gute IT- und administrative Kenntnisse, welche du zielorientiert einsetzen kannst, bringst du ebenfalls mit. Dein Lohn Und Deine Benefits. Wir haben ein faires und fortschrittliches Lohnsystem und setzen uns aktiv für Lohngleichheit ein. Deshalb sind weiterführende und detaillierte Informationen zum Lohnsystem bei der SBB transparent einsehbar. Diese Stelle befindet sich im Anforderungsniveau H, Regionalzulage Stufe 0. Mehr zu Lohn und Benefits. Damit gelingt der Einstieg. Dass du mit uns die Schweiz bewegen willst, ist für uns die grösste Motivation. Darum verzichten wir bei dieser Stelle auf ein Motivationsschreiben. Falls du uns deine Motivation dennoch mitteilen möchtest, hast du in unserem Bewerbungstool nach wie vor die Möglichkeit dazu. Grosses machen ist einfacher per du. Das beginnt bereits bei deiner Bewerbung. Für diese Stelle nehmen wir keine Dossiers von Personalvermittlern entgegen. Zur Stelle Alexander Tönz Telefon +41 79 876 86 42 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Truck Transportation Referrals increase your chances of interviewing at …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "40 applicants"
+   },
+   "id": "8d429c7c7bb6dc79",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/polizist-in-transportpolizei-at-sbb-cff-ffs-4389082235"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Pflegehelferin / Pflegehelfer SRK 50-100%",
+   "company": "Tertianum Parco Maraini",
+   "location": "Bazenheid, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/pflegehelferin-pflegehelfer-srk-50-100%25-at-tertianum-parco-maraini-4483395772",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Stellenbeschreibung Ihr Herz schlägt für ältere Menschen? Ist der Pflegeberuf Ihre Berufung? Sehen Sie Möglichkeiten, Ihre Fähigkeiten und Erfahrungen sinnstiftend bei uns einzubringen, um einen positiven Einfluss auf das Leben unserer Kundinnen und Kunden zu haben? Dann passen Sie perfekt zu uns! Für das Haus Rosenau in der Region Bazenheid suchen wir per 01.12.2026 oder nach Vereinbarung Pflegehelferin / Pflegehelfer SRK 50-100% Ihre Aufgaben Betreuung und Begleitung der zugeteilten Gäste Unterstützung bei der Körperpflege, in der Bewegung und in weiteren alltäglichen Tätigkeiten Anbieten von Alltagsgestaltung für unsere Gäste mit kreativen Beschäftigungen, Spaziergängen, usw. Übernahme von Aufgaben als Bezugsperson Wohnen nach Anleitung Teilnahme an Pflegerapporten und Weiterleitung von wichtigen Beobachtungen Pflegeeinträge schreiben in unserem Pflegedokumentationssystem CareCoach (Mobil möglich mit CareCoach-Smartphone) Mithilfe bei logistischen und hauswirtschaftlichen Tätigkeiten Ihr Profil Abgeschlossener SRK-Pflegekurs mit absolviertem Praktikum in der Langzeitpflege Berufserfahrung in der Langzeitpflege von Vorteil Eine herzliche und humorvolle Grundeinstellung Freude an vielseitigen Herausforderungen Deutschkenntnisse in Wort und Schrift Warum Tertianum? Benefits Uns ist wichtig, dass unsere Mitarbeitenden Beruf und Privatleben gut miteinander vereinbaren können. Dazu gehört ein vielfältiges Angebot an unterschiedlichen Benefits, z.B.: Interne und externe Weiterbildungsmöglichkeiten Zusätzlicher freier Tag im Geburtstagsmonat Tägliches Mittagessen für CHF 10 Vergünstigte Mobile- und Internet-Abos bei Sunrise Rabatte auf ausgewählte Krankenkassen-Zusatzversicherungen SBB-Halbtaxabonnement Diverse Flottenrabatte Weitere Benefits finden Sie auf unserer Website. Sind Sie interessiert? Wir bieten Ihnen eine spannende Perspektive: Bei uns können Sie Ihre Fähigkeiten und Ihr Fachwissen in einem motivierten und flexiblen Team einsetzen. Sie übernehmen Verantwortung und helfen mit, die Zukunft von Tertianum zu gestalten. Bewerben Sie sich jetzt und werden Sie Teil unseres Teams. Wir freuen uns auf Ihre vollständige Online-Bewerbung über unser Bewerbungs-Tool. Klicken Sie auf «Jetzt bewerben» und erstellen Sie Ihr persönliches Konto. Bei Fragen wenden Sie sich bitte an unseren Leiter Pflege Patrik Manser Tel. 071 580 05 12 oder E-Mail: patrikheinz.manser@tertianum.ch Show more Show less Seniority level Not Applicable Employment type Full-time Industries Health and Human Services Referrals increase your chances of interviewing at Tertianum Parco Maraini by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "dfc3109fa6248720",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/pflegehelferin-pflegehelfer-srk-50-100%25-at-tertianum-parco-maraini-4483395772"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "AOI-Spezialist / Operator (m/f/d)",
+   "company": "Variosystems",
+   "location": "Steinach, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/aoi-spezialist-operator-m-f-d-at-variosystems-4447547020",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Unternehmensbeschreibung Variosystems entwickelt und fertigt elektronische Lösungen für Branchen, in denen Zuverlässigkeit entscheidend ist – darunter Medtech & Life Science, Industrie & Automation, Aerospace & Defence sowie Smart Infrastructure & Environment. Als langfristiger Partner von Innovatoren und Marktführern begleiten wir unsere Kunden entlang der gesamten Wertschöpfungskette: von der Idee und Entwicklung über validierte Baugruppen bis hin zur globalen Produktion. In unserem weltweiten Netzwerk arbeiten mehr als 2.800 Mitarbeitende gemeinsam daran, Ideen in zuverlässige elektronische Systeme zu überführen. Stellenbeschreibung Erstellung, Optimierung und Betreuung von AOI-Programmen (inkl. Neuprogrammierung und Anpassungen bei Änderungen). Auswertung und Analyse von Prüfergebnissen sowie kontinuierliche Prozessoptimierung an der Linie, um den FPY zu steigern. Erstellung von Scanprogrammen basierend auf CAD & Kundendaten. Unterstützung der Produktion bei AOI-/Maschinenproblemen und nachhaltige Fehlerbehebung. Monitoring von Produktionsdaten (MES) sowie Koordination mit IT und Supportstellen. Zusammenarbeit mit NPI und QM bei Produkt- und Prozessänderungen. Mitarbeit bei Prototypen, Baugruppenanalysen und Optimierungen. Unterstützung bei Schulungen und Wissensaufbau im AOI/MOI-Umfeld. Mitarbeit bei Maschinenwartung und Systemverbesserungen. Dokumentation und kontinuierliche Verbesserung von AOI-Prozessen. Unterstützung in der Linie bei einfachen Tätigkeiten (z. B. Labeling, Handling, Nachbearbeitung). Unterstützung bei der Bearbeitung von QM-Fällen. AnsprechpartnerIn für MES- Themen in der Produktion. Qualifikationen Erfahrung in der Elektronikfertigung, idealerweise im Bereich AOI / Inspektion / SMT IPC-A-610 Zertifikat wird vorausgesetzt (abgelaufenes Zertifikat gültig) Erfahrung mit PARMI AOI wird vorausgesetzt Technisches Verständnis und Erfahrung im Umgang mit CAD-Daten von Vorteil Strukturierte, selbstständige und lösungsorientierte Arbeitsweise Hoher Qualitätsanspruch und Interesse an Prozessoptimierung Gute Zusammenarbeit mit Schnittstellen (Produktion, QM, IT) Erfahrung mit Factory Logix von Vorteil Bereitschaft zur Schichtarbeit Zusätzliche Informationen Flache Hierarchien, direkte Kommunikation sowie eine Unternehmenskultur geprägt von Integrität, Mut und Verantwortungsbewusstsein. Ein dynamisches Arbeitsumfeld, in dem Entscheidungen effizient getroffen werden und Momentum nicht durch lange Freigabeprozesse verloren geht. Zusammenarbeit mit Kolleginnen, Kollegen und Kunden aus unterschiedlichen Ländern, Branchen und Perspektiven. Ein Arbeitsumfeld geprägt von Technologie, Neugier und kontinuierlicher Verbesserung. Anspruchsvolle Herausforderungen mit Skalierung, fachlicher Tiefe und genügend Komplexität, um kontinuierliches Lernen zu fördern. 2-Schicht- und teilweise 3-Schichtbetrieb mit einer 40h-Woche. Show more Show less Seniority level Associate Employment type Full-time Industries Electrical Equipment Manufacturing Referrals increase your chances of interviewing at Variosystems by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e6081da99993e105",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/aoi-spezialist-operator-m-f-d-at-variosystems-4447547020"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Projektleiter Maschinenbau (m/w)",
+   "company": "yellowshark® AG",
+   "location": "Uznach, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-maschinenbau-m-w-at-yellowshark%C2%AE-ag-4481406836",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Sie suchen nach einer neuen Herausforderung, bei der Sie einen eigenen Verantwortungsbereich als Projektingenieur / Projektleiter verantworten? Dann ist die yellowshark AG ein interessanter Personaldienstleister für Sie. Bei uns wartet mehr als ein Job auf Sie: Die Möglichkeit, mit Ihrem Können und Ihren Ideen wirklich etwas zu bewirken. Für unseren Kunden im Raum St.Gallen suchen wir einen versierter Maschinenbauingenieur mit Berufserfahrung. Aufgaben Projektleitung und Verantwortung im Bereich Mechanical Engineering unter Einhaltung der geforderten Qualitätsanforderung und Projektziele Koordination, Steuerung und Austausch mit Kunden und internen Teams in Bezug auf die laufenden Entwicklungsprojekte Abklärung und Definition der Zielvorgaben in Betracht auf Zeit, Aufwand und Budget Arbeit mit verschiedenen Projektmanagement-Systemen sowie Erstellung von technischen Dokumenten Technische Begleitung bei externen und internen Audits Absolvierung von Reviews und Abstimmung mit interdisziplinären Teams und Projektleitern Profil Höhere Fachausbildung als Maschinenbauingenieur FH oder Maschinentechniker HF, idealerweise mit einer technischen Grundausbildung als Konstrukteur, Polymechaniker oder ähnlich Berufserfahrung im Bereich Projektmanagement sowie Konstruktion mittels CAD SolidWorks, Creo, Inventor oder ähnlich Fliessende Deutsch- und gute Englischkenntnisse werden vorausgesetzt Sicheres Auftreten sowie Durchsetzungsvermögen sind unabdingbar Grosser Wille sich neue Fähigkeiten anzueignen Wissenswertes Der Innovative Arbeitgeber Im Raum St. Gallen Bietet Ihnen Traditionsreiches und internationales Arbeitsumfeld Dynamisches Team aus hochqualifizierten Fachkräften Nützliche Weiterbildungsangebote und interne Firmenkurse Gute Anstellungsbedingungen und moderne Arbeitszeitmodelle Gelegentliche Firmenanlässe und Firmenevents Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Services Referrals increase your chances of interviewing at yellowshark® AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "8d4f58cb888b3401",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-maschinenbau-m-w-at-yellowshark%C2%AE-ag-4481406836"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Fachangestellte Gesundheit FaGe",
+   "company": "Spitex Grabs-Gams",
+   "location": "Grabs, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachangestellte-gesundheit-fage-at-spitex-grabs-gams-4478519035",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Ambulante Pflege bedeutet mehr als Aufgaben erledigen. Es geht um Nähe, Vertrauen und darum, Menschen ein Leben in den eigenen vier Wänden zu ermöglichen. Die Spitex Grabs - Gams sucht eine FaGe (Fachperson Gesundheit) mit einem Beschäftigungspensum ab 40 % für die Pflege unserer Klientinnen unf Klienten. Schau doch auf unsere Webseite www.spitex-grabs-gams.ch unter Aktuelles und bewirb dich. Show more Show less Seniority level Entry level Employment type Part-time Industries Medical Practices Referrals increase your chances of interviewing at Spitex Grabs-Gams by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b04e3306199ebeab",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachangestellte-gesundheit-fage-at-spitex-grabs-gams-4478519035"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Produktionsleiter (a)",
+   "company": "Baumer Group",
+   "location": "Stockach, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktionsleiter-a-at-baumer-group-4481404675",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Die Baumer Group ist ein international führender Hersteller von Sensoren und Messinstrumenten für die Fabrik- und Prozessautomation. Diesen Erfolg verdanken wir unseren rund 2'800 Mitarbeitenden weltweit, die mit Leidenschaft, Expertise und Engagement immer auf der Suche nach den besten Lösungen für unsere Kunden sind. Im Baumer High-Tech Center in Stockach vereint die Baumer Group smarte Sensorik mit effizienter Logistik. Rund 280 Mitarbeitende entwickeln, fertigen und liefern hier hochwertige Sensorlösungen mit höchster Präzision. Moderne Büros, offene Begegnungszonen sowie großzügige Verpflegungs- und Erholungsbereiche schaffen ein inspirierendes Arbeitsumfeld, das Zusammenarbeit und Wissensaustausch fördert. Aus dem hochmodernen Logistik-Hub sorgt das Team dafür, dass Baumer Kunden aus aller Welt ihre Produkte schnell und zuverlässig erhalten. Unser Standort Stockach ist ein wichtiger Teil dieser Erfolgsgeschichte. Hier entwickeln und produzieren wir hochwertige Motion-Control-Sensoriklösungen für internationale Märkte. Damit wir auch künftig unsere Kunden mit höchster Qualität, Liefertreue und Innovationskraft begeistern können, suchen wir eine Persönlichkeit, die unseren Produktionsbereich aktiv weiterentwickelt und nachhaltig prägt. Für die Position des Produktionsleiters suche ich eine Führungspersönlichkeit, die Produktion ganzheitlich versteht – von den Mitarbeitenden über die Prozesse bis hin zur operativen Weiterentwicklung des Standorts. Mir ist wichtig, dass du nicht aus der Distanz steuerst, sondern nah am Geschehen bist, Verantwortung übernimmst und Veränderungen aktiv vorantreibst. Du verstehst es, Menschen zu begeistern, Führungskräfte weiterzuentwickeln und gemeinsam mit deinem Team ambitionierte Ziele zu erreichen. Dabei behältst du jederzeit die Balance zwischen Qualität, Produktivität, Liefertreue und einer wertschätzenden Führungskultur. Wenn du Freude daran hast, Verantwortung zu übernehmen, Veränderungen wirksam umzusetzen und ein leistungsstarkes Team weiterzuentwickeln, dann freue ich mich auf den persönlichen Austausch mit dir. Florian Baier Werkleiter Stockach Das bewege ich Du hast jederzeit Qualität, Produktivität, Kosten und Liefertreue im Blick und leitest daraus bei Bedarf gezielte Verbesserungsmaßnahmen ab. Du führst die Bereiche Montage, Produktionsplanung, Einkauf, interne Logistik und Production Engineering mit rund 80 Mitarbeitenden. Du optimierst unsere Produktionsabläufe und sorgst für nachhaltige Verbesserungen in Effizienz und Performance. Die Weiterentwicklung von Führungskräften und Mitarbeitenden sowie eine Kultur der Zusammenarbeit, Eigenverantwortung und kontinuierlichen Verbesserung liegen in deinem Verantwortungsbereich. Durch eine vorausschauende Kapazitäts- und Investitionsplanung schaffst du die Grundlage für weiteres Wachstum am Standort. In enger Zusammenarbeit mit Entwicklung, Industrial Engineering und anderen Teams begleitest du die erfolgreiche Einführung neuer Produkte. Was es dazu braucht Du verfügst über ein erfolgreich abgeschlossenes technisches Studium oder eine vergleichbare Qualifikation. Du hast mehrjährige Führungserfahrung in einem produzierenden Industrieunternehmen gesammelt – idealerweise im Umfeld elektronischer, elektromechanischer oder feinmechanischer Produkte. Du verstehst es, operative Herausforderungen pragmatisch zu lösen, übernimmst Verantwortung und überzeugst durch eine ausgeprägte Hands-on-Mentalität sowie hohe Umsetzungsstärke. Du bringst fundierte Kenntnisse in Lean Management, Operational Excellence und kontinuierlicher Verbesserung mit und hast bereits erfolgreich Produktionsprozesse nachhaltig weiterentwickelt. Du denkst analytisch, strukturiert und unternehmerisch, behältst auch in komplexen Situationen den Überblick und richtest dein Handeln konsequent an den Unternehmenszielen aus. Bei uns findet Zusammenarbeit dort statt, wo Ideen entstehen: gemeinsam vor Ort. Wir sind überzeugt, dass gute Führung, Teamgeist und schnelle …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "c14b66fb8538d99f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktionsleiter-a-at-baumer-group-4481404675"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Maschinenbediener Zünd-Cutter / Produktion (m/w/d)",
+   "company": "KASPER GmbH",
+   "location": "Rielasingen-Worblingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/maschinenbediener-z%C3%BCnd-cutter-produktion-m-w-d-at-kasper-gmbh-4481097500",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "Die Firma Kasper GmbH ist ein familiengeführtes Unternehmen in Rielasingen. Als Spezialist im Bereich Werbetechnik und Großbildruck sowie Herstellung von Akustik- und Lichtprodukten beraten wir Kunden aus unterschiedlichsten Branchen, vom kleinen Einzelunternehmen bis hin zu großen Konzernen. Mit unseren Produkten SCHALLSAUGER und LED-LightBoxx schaffen wir großflächige Bild- und Leuchtwände. Als Manufaktur produzieren wir auf 2.500 qm sämtliche Produkte bei uns vor Ort. Für den Zuschnitt der FRAMELESS Akustikpaneele, den Zuschnitt unserer Stoffdrucke sowie der Kartonagen haben wir einen ZÜND Digital Cutter G3 3XL-3200 im Einsatz. Zur Verstärkung unseres Teams suchen wir ab sofort eine/n Produktionsmitarbeiter (m/w/d) Aufgaben Selbständiges und eigenverantwortliches einrichten, rüsten und bedienen des ZÜND-Cutters. Dies beinhaltet das Schneiden von Verpackungen, Stoffdrucken sowie unterschiedlichen Akustikplatten Qualitätskontrolle der gefertigten Werkstücke Zugeschnittene Akustikpaneele in Karton oder auf Palette verpacken Qualifikation Kenntnisse und Erfahrung mit Cutter /Schneideanlagen sorgfältige Arbeitsweise, Spaß und Engagement sowie Teamgeist Benefits Einen festen Arbeitsvertrag Eine möglichst langfristige Zusammenarbeit Weiterbildungsmöglichkeiten Faire Überstundenregelung Modernstes Arbeitsumfeld mit zukunftsorientierter Ausrichtung Abwechslungsreiche, kreative Aufgaben Kostenloses Wasser, Säfte und Kaffee an unserer Bar Einzigartiges kollegiales Team und eine gute familiäre Betriebsstimmung Großzügige Betriebsküche mit großem Garten für die Pausen Haben wir Dich begeistert? Dann wollen wir Dich kennenlernen. Wenn Du Dir vorstellen kannst Teil unseres erfolgreichen Teams zu werden, dann freuen wir uns über Deine aussagekräftige Bewerbung. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Newspaper Publishing Referrals increase your chances of interviewing at KASPER GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "14f0204c0281ac8d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/maschinenbediener-z%C3%BCnd-cutter-produktion-m-w-d-at-kasper-gmbh-4481097500"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Specialist Accounting & Controlling (m/w/d)",
+   "company": "Rocken®",
+   "location": "Rorschach, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/specialist-accounting-controlling-m-w-d-at-rocken%C2%AE-4482907118",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1e3356832b34a9ee",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/specialist-accounting-controlling-m-w-d-at-rocken%C2%AE-4482907118"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Bäcker:in Konditor:in Confiseur:in",
+   "company": "Coop",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/b%C3%A4cker-in-konditor-in-confiseur-in-at-coop-4447403980",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7a59949a7559dd1c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/b%C3%A4cker-in-konditor-in-confiseur-in-at-coop-4447403980"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Projektleiter Baumanagement (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-baumanagement-m-w-d-at-rocken%C2%AE-4482693459",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1d6cb5c689352469",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-baumanagement-m-w-d-at-rocken%C2%AE-4482693459"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Spezialist/-in Finanz – und Rechnungswesen (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-in-finanz-%E2%80%93-und-rechnungswesen-m-w-d-at-rocken%C2%AE-4482692590",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "da176dd718cc8369",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-finanz-%E2%80%93-und-rechnungswesen-m-w-d-at-rocken%C2%AE-4482692590"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Fachperson Finanz- und Rechnungswesen (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachperson-finanz-und-rechnungswesen-m-w-d-at-rocken%C2%AE-4482913360",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9d86b059a1d5e90b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-finanz-und-rechnungswesen-m-w-d-at-rocken%C2%AE-4482913360"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Čistilka I v Policijski upravi Novo mesto, Policijski postaji Trebnje",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/%C4%8Distilka-i-v-policijski-upravi-novo-mesto-policijski-postaji-trebnje-at-vlada-republike-slovenije-4482695806",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "32fe51806f4e8475",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/%C4%8Distilka-i-v-policijski-upravi-novo-mesto-policijski-postaji-trebnje-at-vlada-republike-slovenije-4482695806"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Lernender ICT-Fachmann (a) - Lehrbeginn 2027",
+   "company": "Geberit Schweiz",
+   "location": "Rapperswil-Jona, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/lernender-ict-fachmann-a-lehrbeginn-2027-at-geberit-schweiz-4455693282",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "HAUPTAUFGABEN ICT-Fachleute sind zuständig für die Installtaion von PCs, Tablets und Mobiltelefone. Zudem sind sie verantwortlich für die E inbindung verschiedener Peripheriegeräte in die Netzinfrastruktur. ICT-Fachleute sind in internationalen Unternehmen wie Geberit die erste Anlaufstelle für die unterschiedlichsten IT-Supportanfragen. Die Hauptaufgaben sind: Installation von PCs, Tablets und Mobiltelefone Einbindung von Peripheriegeräte (z. B. Webcam, Drucker) in die Netzinfrastruktur Unterstützung von Benutzer/innen im Umgang mit ICT-Mitteln (z. B. Geräte, Apps) Durchleuchtung der Probleme und Erarbeitung der passenden Lösung Projektmitarbeit PROFIL Folgende Eigenschaften und Fähigkeiten zeichnen dich aus: Guter Sekundarschulabschluss oder sehr guter Realschlussabschluss Gute Kenntnisse in Englisch Gute Kenntnisse in Deutsch Interesse an elektronischen Geräten Schnelle Auffassungsgabe Technisches Verständnis Freude am Kundenkontakt Zuverlässigkeit und Verantwortungsbewusstsein Team- und Kommunikationsfähigkeit Konzentrationsfähigkeit WIR BIETEN Unsere Mitarbeitenden leisten viel, da sind unsere Lernenden keine Ausnahme. Deshalb bieten wir als Arbeitgeber auch viel: Unsere Extras BEWERBUNG & KONTAKT Du möchtest deine Lehre in einem international tätigen, innovativen Unternehmen absolvieren und bringst eine gesunde Portion Ehrgeiz, Freude und Leistungsbereitschaft mit? Dann freuen wir uns auf deine Bewerbung! KONTAKT Claudia Molleman Berufsbildner Geberit Produktions AG CH-8645 Jona +41 55 221 92 89 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Geberit Schweiz by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "767b7ce91f8fd28e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/lernender-ict-fachmann-a-lehrbeginn-2027-at-geberit-schweiz-4455693282"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Solution Architect (m/w/d) für moderne Zusammenarbeit",
+   "company": "ORBIS SE",
+   "location": "Markdorf, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/solution-architect-m-w-d-f%C3%BCr-moderne-zusammenarbeit-at-orbis-se-4483520586",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Werde Teil der ORBIS Gruppe! Innovationsfreude und Vertrauen in die Fähigkeiten jedes Einzelnen sind die Triebfedern, die ORBIS seit über 40 Jahren erfolgreich im Markt agieren und stetig wachsen lassen. Dein Herz schlägt für Microsoft 365 Technologien und Prozessberatung? Als Solution Architect sorgst du bei unseren Kunden für moderne Zusammenarbeitstechnologien (SharePoint, Power Platform, Azure, CRM), die sich direkt dort einbetten, wo Arbeit und Prozesse passieren. Deine Aufgabe wird es sein, diese basierend auf unseren Produkten und/oder lndividualentwicklung zu konzipieren , die Umsetzung zu steuern und auch selbst daran mitzuarbeiten. Du nutzt dabei Deine Auffassungsgabe zum Verstehen fachlicher Anforderungen und leitest daraus technische Aufgaben ab. Zudem leitest Du Projekte und Teilprojekte innerhalb des Projektteams. Zudem Erwartet Dich In Deinem Microsoft Job Ein innovatives und zukunftsorientiertes Arbeitsumfeld durch vielseitige (Digitalisierungs-)Themen Individuelle persönliche und fachliche Weiterentwicklung Guter Onboardingprozess zur Integration in unser Team Flexible Arbeitszeitgestaltung und Homeoffice Kurze Kommunikationswege in einem hilfsbereiten, kollegialen und agilen Team Weitere Benefits, wie z.B. JobRad, JobTicket, betriebliche Altersvorsorge, Gesundheitsmaßnahmen, Corporate Benefits Rabattsystem, etc. Das Zeichnet Dich Aus Erfahrung im direkten Umgang mit Großkunden Breite Kenntnisse innerhalb der Microsoft-365-Plattform, idealerweise gute SharePoint-Kenntnisse Erste Erfahrungen mit Microsoft Power Platform und Microsoft Dynamics CRM sowie mit Microsoft Azure Web Apps, ServiceBus und Application Insights sind von Vorteil Du verschaffst Dir gerne einen Überblick über die Anforderungen und möchtest das \"große Bild\" verstehen Du hast die Fähigkeit, Dich auch in technische Details reinzudenken, um diese mit Entwickler:innnen und technischen Consultants zu diskutieren Direktes, konstruktives Feedback kannst Du geben und auch selbst aufnehmen. Bei offenen Fragen hast Du das Bedürfnis, diese zu benennen und für deren Klärung zu sorgen Du teilst unsere Leidenschaft und Vision von der Zukunft? Dann bewirb Dich jetzt. Wir freuen uns auf Dich! Mit ihrem ganzheitlichen Beratungsansatz gemäß dem Motto „Digital Business is our Passion“ unterstützt die ORBIS Modern Work GmbH bereits seit 2004 ihre Kunden dabei, deren individuelle Digitalstrategie zu erarbeiten und so die Chancen der Digitalisierung optimal auszuschöpfen. Die ORBIS Gruppe beschäftigt derzeit über 950 Mitarbeiter:innen an nationalen und internationalen Standorten und ist Premiumpartner von SAP und Microsoft. ORBIS Modern Work GmbH Human Resources Nell-Breuning-Allee 3-5 D-66115 Saarbrücken Ansprechpartnerin: Silke Schwender , Tel. (0049) 681 9924 354 Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at ORBIS SE by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "a32ccda7a9ee882f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/solution-architect-m-w-d-f%C3%BCr-moderne-zusammenarbeit-at-orbis-se-4483520586"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Sports Data Collector (Volleyball) - Friedrichshafen, Germany",
+   "company": "Genius Sports",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sports-data-collector-volleyball-friedrichshafen-germany-at-genius-sports-4481099865",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7618797a56147bed",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sports-data-collector-volleyball-friedrichshafen-germany-at-genius-sports-4481099865"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Senior Project Manager (m/w/d) Customer Projects",
+   "company": "Körber Supply Chain",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/senior-project-manager-m-w-d-customer-projects-at-k%C3%B6rber-supply-chain-4409902575",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2db94a280b00f0c7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/senior-project-manager-m-w-d-customer-projects-at-k%C3%B6rber-supply-chain-4409902575"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Bauzeichner (m/w/d) - CAD & CAFM im Immobilienmanagement",
+   "company": "Pestalozzi Kinder",
+   "location": "Stockach, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/bauzeichner-m-w-d-cad-cafm-im-immobilienmanagement-at-pestalozzi-kinder-4483373294",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1529cc08e5269917",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/bauzeichner-m-w-d-cad-cafm-im-immobilienmanagement-at-pestalozzi-kinder-4483373294"
+   },
+   "first_seen": "2026-10-26"
+  },
+  {
+   "title": "Peintre (h/f)",
+   "company": "Collardi",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "https://www.collardi.ch/maler-m-w/m1142367",
+   "posted": "2026-10-25",
+   "salary": null,
+   "via": null,
+   "description": "*  <em>Évaluation</em> du support et vérification de son adéquation\n *  Traitement du support (ponçage, apprêt, masticage, dérouillage, isolation, éclaircissement, etc.",
+   "extra": {
+    "canton": "SG",
+    "query": "Evaluation",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "3a6aeebc-f671-429d-b1ba-177968c6e070"
+   },
+   "id": "9ead1a77d6a1d263",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.collardi.ch/maler-m-w/m1142367"
+   },
+   "first_seen": "2026-10-26"
+  },
   {
    "title": "Mitarbeiter Quality Oversight Langenargen (m/w/d)",
    "company": "Vetter Pharma",
@@ -37,7 +711,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-quality-oversight-langenargen-m-w-d-at-vetter-pharma-4470004122"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Technical Manager (m/w/d) Defence",
@@ -61,7 +736,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/technical-manager-m-w-d-defence-at-ferchau-4438573773"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Senior ERP Product Owner - Supply Chain",
@@ -85,7 +761,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-erp-product-owner-supply-chain-at-vertiv-4446863516"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Delivery Station Team Lead（Konstanz）",
@@ -109,7 +786,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/delivery-station-team-lead%EF%BC%88konstanz%EF%BC%89-at-jd-com-4444580339"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Produktionsleiter (w/m/d)",
@@ -133,7 +811,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/produktionsleiter-w-m-d-at-dr-maier-%2B-partner-group-4481049914"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Delivery Station supervisor（Konstanz）",
@@ -157,7 +836,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/delivery-station-supervisor%EF%BC%88konstanz%EF%BC%89-at-jd-com-4447006958"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Assistenz der Geschäftsleitung (m/w/d/kA)",
@@ -181,7 +861,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/assistenz-der-gesch%C3%A4ftsleitung-m-w-d-ka-at-kugler-gmbh-4481050967"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Strategischer Produktmanager (w/m/d) International",
@@ -205,7 +886,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/strategischer-produktmanager-w-m-d-international-at-winterhalter-gastronom-ag-4481054648"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "AIT Produktion Controls Specialist",
@@ -229,7 +911,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/ait-produktion-controls-specialist-at-expleo-group-4419127202"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter*in im gehobenen Verwaltungsdienst im Personalcontrolling (w/m/d)",
@@ -253,7 +936,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-im-gehobenen-verwaltungsdienst-im-personalcontrolling-w-m-d-at-studentenwerk-konstanz-4481069467"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Postbote für Pakete und Briefe (m/w/d)",
@@ -277,7 +961,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/postbote-f%C3%BCr-pakete-und-briefe-m-w-d-at-dhl-foodlogistics-4481061605"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Assistenz (m/w/d) der Geschäftsleitung mit Schwerpunkt Controlling und Kalkulation",
@@ -301,7 +986,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/assistenz-m-w-d-der-gesch%C3%A4ftsleitung-mit-schwerpunkt-controlling-und-kalkulation-at-h-s-tee-gesellschaft-4481050864"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Servicekraft / Mitarbeiter Bistro (m/w/d) – Gastronomie & Events",
@@ -325,7 +1011,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/servicekraft-mitarbeiter-bistro-m-w-d-%E2%80%93-gastronomie-events-at-panorama-konstanz-4481072096"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Strategy & Operating Model Manager (m/w/d) Operations",
@@ -349,7 +1036,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/strategy-operating-model-manager-m-w-d-operations-at-diehl-defence-4481063377"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Sicherheitsmitarbeiter (m/w/d) für Messe & Events - Quereinsteiger Willkommen",
@@ -373,7 +1061,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/sicherheitsmitarbeiter-m-w-d-f%C3%BCr-messe-events-quereinsteiger-willkommen-at-eduvia-bildungsakademie-gmbh-4482600746"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Projektkaufmann / Finance Business Partner (w/m/d)",
@@ -397,7 +1086,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektkaufmann-finance-business-partner-w-m-d-at-hensoldt-4481074054"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter/-in Gebäudebetrieb Bronschhofen",
@@ -423,7 +1113,8 @@
    "links": {
     "jobroom": "www.jobs.ch/de/stellenangebote/detail/2d8e3722-7e2a-41e5-84de-6014cf7dbf00/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "projektleiter infrastruktur / haustechnik, 90-100%",
@@ -449,7 +1140,8 @@
    "links": {
     "jobroom": "www.jobs.ch/de/stellenangebote/detail/5a2e3782-b172-48c3-97cf-b14672c12bb4/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
    },
-   "first_seen": "2026-10-25"
+   "first_seen": "2026-10-25",
+   "carried_over": true
   },
   {
    "title": "FACHARBEITERIN (M/W/D) IM STRASSENUNTERHALT",
