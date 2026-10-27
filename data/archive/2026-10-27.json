@@ -1,0 +1,722 @@
+{
+ "generated_at": "2026-10-27T06:25:57+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 168,
+   "linkedin": 250,
+   "jobroom": 19
+  },
+  "excluded": 343,
+  "unique": 76,
+  "new": 29,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Diversity&location=St.+Gallen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+ },
+ "jobs": [
+  {
+   "title": "Mitarbeiter*in im Grafikdesign der Wissenschaftlichen Werkstät...",
+   "company": "Universität Konstanz",
+   "location": "78464 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-8bbujzdc6u-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# Mitarbeiter*in im Grafikdesign der Wissenschaftlichen Werkstätten – Audiovisuelle Medien (w/m/d)\n### ### (Teilzeit 50 %, bis E 10 TV-L)\n## ## Kennziffer 2026/215. **Die Stelle ist zum nächstmöglichen Zeitpunkt befristet bis 14.10.2027 zu besetzen.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\nDie Abteilung **Wissenschaftliche Werkstätten** der Universität Konstanz mit 50 Mitarbeitenden und 18 Azubis sorgen mit technischem Know-how und kreativen Lösungen für den Erfolg von Forschung und Lehre. Im Team „Audiovisuelle Medien“ sind acht Mitarbeitende beschäftigt.\n## Ihre Aufgaben\n- Entwicklung und Umsetzung von hochqualitativen Präsentationsmaterialien und Kampagnen im Corporate Design der Universität Konstanz – zum Teil mit Fokus auf eine starke Außenwirkung\n- Umsetzen von komplexen Forschungsergebnissen in ansprechende und leicht verständliche visuelle Formate für ein breites Publikum\n- Beratung von Wissenschaftler*innen bei der Gestaltung überzeugender Präsentation – auch für externe Zielgruppen\n## Ihr Profil\n- Abgeschlossenes Bachelor-Studium im Bereich Kommunikationsdesign oder vergleichbar\n- Sehr gute Kenntnisse und sicherer Umgang mit der Adobe Creative Cloud und sonstigen Officeanwendungen\n- Bereitschaft zur Einarbeitung in neue Arbeitsbereiche\n- Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift\n- Organisationsgeschick, Teamfähigkeit, Zuverlässigkeit, Flexibilität, Belastbarkeit, Serviceorientierung\n- Selbstständige Arbeitsweise sowie ein hohes Qualitäts- und Verantwortungsbewusstsein\n## Wir bieten Ihnen\n- **Moderne Arbeitswelt:** flexible Zeiten für eine gute Work-Life-Balance\n- **Eigenverantwortliches Arbeiten** mit Gestaltungsspielraum\n- **Starke Teamkultur** in einem freundlichen und anregenden Arbeitsumfeld\n- **Familienfreundlichkeit**\n- **Umfassende Benefits:** Hochschulsport, Hansefit, JobRad und Corporate Benefits\n- **Attraktiver Mobilitätszuschuss** zum JobTicket BW/Deutschlandticket\n- **Vielfältige Fortbildungsangebote** zur persönlichen Weiterentwicklung\n- **Großartige Region** mit hohem Freizeitwert\n- **Sichere Zukunft:** Tarifliche Vergütung (TV-L je nach persönlichen Voraussetzungen bis Entgeltgruppe 10) sowie eine betriebliche Altersvorsorge (VBL)\n[](https://www.uni-konstanz.de/personalabteilung/stellenangebote-1/die-universitaet-konstanz-als-arbeitgeberin/)\nInformationen erhalten Sie über Herrn Harald Kautz, Tel. Nr.+49 7531 88-2409, [harald.kautz@uni.kn] und über das Internet: [www.uni.kn./wisswerk](http://www.uni.kn./wisswerk).\nWir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum **03.11.2026** über unser [Online-Bewerbungsportal](https://stellen.uni-konstanz.de/de/jobposting/361c43ea4c3ca4c1b5e761b9b75a229059e8a7130/apply).\nDie Universität Konstanz engagiert sich für Gleichstellung, Diversity sowie die Vereinbarkeit von Beruf und Familie. Sie strebt eine Erhöhung des Anteils von Frauen im ausgeschriebenen Bereich an ([uni.kn/chancengleichheit](https://www.uni-konstanz.de/gleichstellungsreferat/chancengleichheit-im-wissenschaftsunterstuetzenden-bereich/)). Menschen mit einer Schwerbehinderung werden bei entsprechender Eignung vorrangig eingestellt ([sbv@uni-konstanz.de], +49 7531 88-4016).",
+   "extra": {
+    "refnr": "19772-8bbujzdc6u-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "3688221f302b3347",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-8bbujzdc6u-S"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Akademische*r Mitarbeiter*in (w/m/d)",
+   "company": "Universität Konstanz",
+   "location": "78464 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-gvpfsmuhis-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# Akademische*r Mitarbeiter*in (w/m/d)\n### ### (Teilzeit 65 %, E 13 TV-L)\n**Kennziffer 2026/220. Die Stelle ist vom 01.04.2027 bis zum 31.03.2030 befristet zu besetzen. Die Stelle ist entweder als Qualifikationsstelle mit dem Ziel der Promotion oder als Koordinationsstelle des Forschungsprojekts „Das Gästebuch der Pariser Moderne: Nadars *livre d’or* als digitale Edition“ zu besetzen.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nDie Stelle ist Teil des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts „Das Gästebuch der Pariser Moderne: Nadars *livre d’or* als digitale Edition“. Das Projekt wird gemeinsam von Prof. Dr. Bernd Stiegler (Neuere Deutsche Literatur im medialen Kontext, Universität Konstanz), Prof. Dr. Karl Philipp Ellerbrock (Französische und Italienische Literaturwissenschaft, Universität Würzburg) und Dr. Paul Mellenthin (Kunstgeschichte, Universität Tübingen) verantwortet. Die Anstellung erfolgt über die Universität Konstanz; Dienstort wird die Universität Würzburg sein. Gegenstand der Projektförderung ist die Erschließung und digitale Edition sowie die literatur- bzw. fotografiegeschichtliche sowie medientheoretische Bearbeitung des Gästebuchs, dem *livre d’or* des französischen Fotopioniers Félix Nadar (1820-1910).\n## Ihre Aufgaben\nInhaltliche Mitwirkung an der digitalen Edition sowie an den Aktivitäten des Projekts, u.a. Planung von Workshops\n**Bei Einstellung zur Promotion:**\n- Konzeption und Abfassung einer literaturwissenschaftlichen oder fotografiegeschichtlichen oder -theoretischen Dissertation zu Nadars *livre d’or*\n**Bei Einstellung zur Koordination:**\n- Erarbeitung der historischen Kontextualisierung des Albums\n- Recherche und Bearbeitung von Materialien für die geplante Website\n## Ihr Profil\n**Für beide Stellenprofile:**\n- Abgeschlossenes Masterstudium in einem literaturwissenschaftlichen, kunst- oder fotogeschichtlichen oder medientheoretischen oder -geschichtlichen Fach\n- Sehr gute Französischkenntnisse in Wort und Schrift\n- Bereitschaft zur interdisziplinären Zusammenarbeit\n**Bei Einstellung zur Promotion:**\n- Konzept für ein Dissertationsprojekt zu Nadars *livre d’or*\n## Wir bieten Ihnen\n- Einen offenen und motivierten Forschungskontext\n- Die Möglichkeit, Lehrerfahrungen zu sammeln und aktuelle Projekte zu begleiten\n- Teamarbeit im Rahmen des Projekts und im Fachbereich\n- Transferorientierte Forschung und Praxiserfahrung im Rahmen einer digitalen Edition\n[](https://www.uni-konstanz.de/personalabteilung/stellenangebote-1/die-universitaet-konstanz-als-arbeitgeberin/)\nBei Interesse an einer Bewerbung auf das eine oder das andere Stellenprofil wenden Sie sich im Vorfeld der Bewerbung bitte an Herrn Prof. Dr. Bernd Stiegler, [bernd.stiegler@uni-konstanz.de]. Über ihn werden Sie Zugang zu digitalisierten Materialien erhalten, die einen Eindruck vom geplanten Editionsprojekt vermitteln.\nWir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen (Lebenslauf, Kopien akademischer Zeugnisse, evtl. Lehr- und Schriftenverzeichnis und ggf. einer Projektskizze für ein mögliches Dissertationsprojekt, max. 3 Seiten) bis zum **01.12.2026** über das [Online-Bewerbungsportal](https://stellen.uni-konstanz.de/de/jobposting/8e32219b64d3303b321f9231ed30f578f204769b0/apply) der Universität Konstanz.\nBitte geben Sie bei Ihrer Bewerbung Ihre Präferenz (Qualifikations- oder Koordinationsstelle) an. Auch Bewerbungen auf beide Stellenprofile sind möglich, wobei die Stelle nur in der einen oder in der anderen Form besetzt werden kann. Da die Anstellung entweder in Konstanz oder in Würzburg erfolgen wird, bitten wir Sie, Ihre Bewerbungsunterlagen ebenfalls an der Universität Würzburg …",
+   "extra": {
+    "refnr": "19772-gvpfsmuhis-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "83a3e3725b6b5629",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-gvpfsmuhis-S"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "FACHARBEITER/IN (M/W/D) IM STRASSENUNTERHALT",
+   "company": "Stadtverwaltung Konstanz",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003906309-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die Technischen Betriebe Stadt Konstanz pflegen und unterhalten die Freianlagen im öffentlichen Raum der Stadt Konstanz. Zu den betrieblichen Aufgaben gehören die Bereiche Garten- und Landschaftsbau, Blumen- und Zierpflanzenbau, Straßenunterhalt, Stadtreinigung, Winterdienst, die Ausführung von Schreinerarbeiten und der Betrieb der städtischen Friedhöfe.\nDie Abteilung Straßenunterhaltung ist mit seinen rund 20 Mitarbeitenden für den Unterhalt und die Pflege der Straßen, Wege und Plätze zuständig – eine zentrale Aufgabe ist dabei die Wahrung der Verkehrssicherungspflicht.\nKlingt interessant für Sie? Dann freuen wir uns auf Ihre Bewerbung.\nDIE TBK SUCHEN ZUM NÄCHSTMÖGLICHEN ZEITPUNKT:\n**FACHARBEITERIN (M/W/D) IM STRASSENUNTERHALT**\n**Mit den Aufgabenschwerpunkten:**\n- Baulicher Unterhalt von Straßen, Wegen und Plätzen einschließlich der Entwässerung\n- Mitwirkung im kommunalen Winterdienst\n- Mitwirkung bei Sondereinsätzen und städtischen Großveranstaltungen\n**DAS BIETEN WIR:**\n- Eine unbefristete Vollzeitstelle (39 Std./Woche)\n- Eine Vergütung abhängig von der Qualifikation bis Entgeltgruppe 6 TVöD (3.240 € - 3.926 €) möglich\n- Eine verantwortungsvolle und abwechslungsreiche Tätigkeit in einem engagierten Team\n- Jahressonderzahlung und Leistungsentgelt\n- Betriebliche Altersvorsorge\n- **Mobilitätszuschuss:**\nJobticket-Zuschuss zum ÖPNV\n- **Betriebliche Gesundheitsförderung:**\nIhre Gesundheit liegt uns am Herzen. Daher bieten wir verschiedene Gesundheitsförderungsprogramme an – inklusive Firmenfitness mit Epassi (ehemals Hansefit)\n- Fachliche Weiterbildungsmöglichkeiten\n- Lebensarbeitszeitkonto\n**DAS BRINGEN SIE MIT:**\n- Eine abgeschlossene Ausbildung im Baugewerbe, z. B. als TiefbaufacharbeiterIn, StraßenbauerIn, BaumaschinenführerIn oder vergleichbar\n- Erfahrung im Planieren, Asphaltieren und Pflastern\n- Einsatzbereitschaft, Verantwortungsbewusstsein und Teamfähigkeit\n- Fahrerlaubnis der Klasse B ist erforderlich. Von Vorteil ist zusätzlich die Klasse CE oder die Bereitschaft, sie zu den betrieblichen Bedingungen erwerben\n- Körperliche Belastbarkeit bei handwerklichen Tätigkeiten mit Heben und Tragen, überwiegend unter freiem Himmel\n- Übernahme von Verantwortung\n- Bereitschaft zur Weiterqualifizierung\n- Fähigkeit, berufstypische Baumaschinen und Geräte zu führen und zu warten\n- Zuverlässigkeit und Leistungsbereitschaft\n- Mitwirkung im Winterdienst sowie bei außergewöhnlichen Ereignissen und Sondereinsätzen\n- Beherrschen der deutschen Sprache in Wort und Schrift\n**KONTAKT:**\nBei Fragen zum Aufgabengebiet:\nAndre Lerner\nTechnische Betriebe Stadt Konstanz\n07531 997-280\n**BEWERBUNG & WEITERE INFOS:**\nBewerben Sie sich bis zum **31.01.2027** unter Angabe der **Kennzahl 513-2026**.\nDie Stadtverwaltung Konstanz als Unterzeichnerin der Charta der Vielfalt fördert Gleichstellung und Diversität. Daher laden wir alle qualifizierten Personen ein, sich um die ausgeschriebene Position zu bewerben, unabhängig von Geschlecht, ethnischer und sozialer Herkunft, Religion / Weltanschauung, Behinderung, Alter sowie sexueller Identität.\nWeitere Infos zum Arbeitgeber Stadt Konstanz finden Sie unter [konstanz.de/karriere](https://www.konstanz.de/karriere/).\nDas Stellenangebot mit der Möglichkeit zur direkten Online-Bewerbung finden Sie unter [Facharbeiterin (m/w/d) im Straßenunterhalt | Bewerbungsportal](https://konstanz.bewerbung.dvvbw.de/2737-facharbeiterin-m-w-d-im-strassenunterhalt/de/job.html).",
+   "extra": {
+    "refnr": "10001-1003906309-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "8dbdefd7c4249985",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003906309-S"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Pharmareferent:in",
+   "company": "Inizio Engage",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/pharmareferent-in-at-inizio-engage-4483557095",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "87113542dbea54f4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/pharmareferent-in-at-inizio-engage-4483557095"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Business Development Manager (m/f/d)",
+   "company": "RCT GH Hydrogen",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/business-development-manager-m-f-d-at-rct-gh-hydrogen-4481840848",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "70052a913bfd5a92",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/business-development-manager-m-f-d-at-rct-gh-hydrogen-4481840848"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Mitarbeiter Auftragsabwicklung (m/w/d)",
+   "company": "Schwarz-Außenwerbung GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-auftragsabwicklung-m-w-d-at-schwarz-au%C3%9Fenwerbung-gmbh-4481845338",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "27022c2a44d40977",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-auftragsabwicklung-m-w-d-at-schwarz-au%C3%9Fenwerbung-gmbh-4481845338"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Project Quality Manager (m/w/x) Aerospace",
+   "company": "Groupe SII",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/project-quality-manager-m-w-x-aerospace-at-groupe-sii-4483559326",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8e0f1d38635e477f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/project-quality-manager-m-w-x-aerospace-at-groupe-sii-4483559326"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Storemanager Konstanz (m/w/d)",
+   "company": "SportScheck",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/storemanager-konstanz-m-w-d-at-sportscheck-4481494819",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7e20ac4135044444",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/storemanager-konstanz-m-w-d-at-sportscheck-4481494819"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Dienstgruppenchefin / Dienstgruppenchef Ordnung und Sicherheit",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/dienstgruppenchefin-dienstgruppenchef-ordnung-und-sicherheit-at-kanton-thurgau-4482958120",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Im Kanton Thurgau sollen sich alle Einwohnerinnen und Einwohner sicher fühlen. Dafür sorgen über 600 Mitarbeitende der Kantonspolizei Thurgau rund um die Uhr mit einer modernen Organisation und in engem Kontakt mit der Bevölkerung. Die Regionalpolizei ist für die polizeiliche Basisversorgung des Kantons Thurgau zuständig. Zur Verstärkung unserer Teams in Arbon suchen wir nach Vereinbarung eine / einen Dienstgruppenchefin / Dienstgruppenchef Ordnung und Sicherheit 100% Ihre Hauptaufgaben Personelle und fachliche Führung der Dienstgruppe gemäss Führungsgrundsätzen, Dienstvorschriften und Weisungen Organisation und Koordination des täglichen Dienstbetriebs Unterstützung des Hauptpostenchefs Überwachung von Abläufen, Einsatzplänen und Ressourcen Unterstützung und Förderung der Mitarbeitenden in ihrer beruflichen Entwicklung Praxisbegleitung von Polizistinnen und Polizisten in Ausbildung Leistung von ordentlichem Touren- und Bereitschaftsdienst Einsatzleitung im Schwerpunktelement und Auftragsdienst Ihr Profil Abgeschlossene Polizeiausbildung mit eidg. Fachausweis Ausgeprägte Sozial- und Führungskompetenz Bereitschaft zu Schichtdienst zu leisten Hohes Verantwortungs- und Durchsetzungsvermögen Mehrjährige polizeiliche Berufserfahrung Organisationsstärke und Belastbarkeit Wir Bieten Abwechslungsreiche und verantwortungsvolle Tätigkeit in einem spannenden Umfeld Moderne Infrastruktur und technische Arbeitsmittel Kollegiales Arbeitsklima und teamorientierte Zusammenarbeit Attraktive Anstellungsbedingungen und Entwicklungsmöglichkeiten Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung bis spätestens 16. November 2026! Ihr Kontakt AdjmbA Marco Geissmann, Hauptpostenchef Arbon, T +41 58 345 25 70 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "07dfbc6436e9e7a3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/dienstgruppenchefin-dienstgruppenchef-ordnung-und-sicherheit-at-kanton-thurgau-4482958120"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Leiter Technik & Anlagenverfügbarkeit (m/w/d)",
+   "company": "Rocken®",
+   "location": "Münchwilen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-technik-anlagenverf%C3%BCgbarkeit-m-w-d-at-rocken%C2%AE-4483200125",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Bewegung ist das Geschäft – und Präzision die Philosophie. Unser Rocken Partner entwickelt und produziert innovative Förderbandlösungen für unterschiedlichste Industrien. Von der Lebensmittelverarbeitung bis zur Logistik: Die Produkte bewegen, was andere produzieren. Mit jahrzehntelanger Erfahrung und modernster Technologie entstehen massgeschneiderte Systeme, die höchste Anforderungen erfüllen. Nachhaltigkeit ist dabei kein Schlagwort, sondern gelebte Praxis – langlebige Produkte schonen Ressourcen und überzeugen durch Qualität. Das Unternehmen verbindet traditionelles Handwerk mit innovativem Denken. Kunden erhalten nicht nur Produkte, sondern durchdachte Antworten auf ihre individuellen Herausforderungen. Ein globales Netzwerk, kurze Entscheidungswege und echte Gestaltungsspielräume prägen den Arbeitsalltag. Bereit, Bewegung in deine Karriere zu bringen? Dann werde Teil eines Teams, das täglich an Lösungen arbeitet, die wirklich bewegen – beim Rocken Partner. Verantwortung Gesamtverantwortung für die technische Betriebssicherheit und Anlagenverfügbarkeit, inklusive Wartungs- und Instandhaltungsstrategie Koordination und Steuerung externer Dienstleister sowie Sicherstellung der Einhaltung gesetzlicher Vorschriften Führung und Weiterentwicklung des technischen Teams – von Fachspezialisten über Monteure bis zu Technik-Dienstleistern Planung, Leitung und Kontrolle von technischen Projekten, inklusive Investitionen, Umbauten und Modernisierungen Aufbau, Pflege und Weiterentwicklung von technischen Dokumentationen, Wartungsplänen und Prüfstrategien Analyse technischer KPIs, Ableitung von Verbesserungsmassnahmen und Umsetzung nachhaltiger Optimierungen Verantwortung für das Ersatzteilmanagement mit Fokus auf Risikominimierung und Effizienzsteigerung Erstellung von Entscheidungsgrundlagen und Monatsberichten für die Geschäftsleitung Qualifikationen Abgeschlossene technische Ausbildung (z. B. Elektrotechnik, Mechatronik, Automatisierung) mit Weiterbildung im Bereich Technik/Facility/Engineering oder ein technisches Studium Mehrjährige Berufserfahrung in leitender technischer Funktion, idealerweise im industriellen Umfeld Fundierte Kenntnisse in Instandhaltung, Arbeitssicherheit, Gebäudetechnik und regulatorischen Anforderungen Ausgeprägte Hands-on-Mentalität mit unternehmerischem Weitblick und hoher Serviceorientierung Erfahrung in der Anwendung von ERP-/CMMS-Systemen sowie sicherer Umgang mit MS Office Kommunikationsstark, durchsetzungsfähig und erfahren im interdisziplinären Austausch Sehr gute Deutschkenntnisse, Englischkenntnisse von Vorteil Führerausweis Kategorie B ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "72b506df7dee20d7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-technik-anlagenverf%C3%BCgbarkeit-m-w-d-at-rocken%C2%AE-4483200125"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Spezialist KVP & Industrialisierung 80-100% (a)",
+   "company": "PMS SCHÖNENBERGER AG",
+   "location": "Fischingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-kvp-industrialisierung-80-100%25-a-at-pms-sch%C3%B6nenberger-ag-4483560421",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "fa4a4e38dbd813b7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-kvp-industrialisierung-80-100%25-a-at-pms-sch%C3%B6nenberger-ag-4483560421"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Berufsbildnerin FAGE (m/w/d) – Hauptberuf",
+   "company": "Spitex Regio Tannzapfenland",
+   "location": "Sirnach, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/berufsbildnerin-fage-m-w-d-%E2%80%93-hauptberuf-at-spitex-regio-tannzapfenland-4483746853",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Zukunftsorientiert, fachkompetent und professionell – das ist unsere Non Profit Organisation Spitex Regio Tannzapfenland. Unser Team von rund 85 Mitarbeitenden bringt mit viel Engagement in den Gemeinden Bichelsee-Balterswil, Fischingen, Eschlikon, Münchwilen, Rickenbach, Sirnach und Wängi Lebensfreude ins Zuhause unserer Klienten. Eine sinnvolle Aufgabe, welche Spass macht. Wir Suchen Per Sofort Oder Nach Vereinbarung Berufsbildnerin FAGE (m/w/d) – Hauptberuf Pensum: 90-100% – Vollzeit, Hauptaufgabe Berufsbildung /Ausbildung Lernende Deine Hauptaufgabe – Dein Beruf, Deine Leidenschaft Bei uns ist Berufsbildnerin kein Nebenjob , sondern Hauptberuf und Verantwortung zugleich . Du bist die zentrale Bezugsperson für unsere Lernenden, gestaltest deren Ausbildung von A bis Z und prägst damit aktiv die Fachkräfte von morgen. Dein Alltag dreht sich vollständig um die Betreuung, Förderung und fachliche Entwicklung junger Talente. Das Machst Du Bei Uns Ganzheitliche Verantwortung für die Ausbildung unserer Lernenden Planung, Umsetzung und Weiterentwicklung praxisnaher Ausbildungsprogramme Durchführung von Schulungen, Workshops und regelmäßigen Feedbackgesprächen Dokumentation und Beurteilung der Lernfortschritte Zusammenarbeit mit Berufsschulen, Fachstellen und internen Teams Dein Profil Abgeschlossene Berufsausbildung FAGE und Ausbildung zur Berufsbildnerin / zum Berufsbildner Mehrjährige Praxis- und Führungserfahrung im Fachbereich Leidenschaft für die Arbeit mit jungen Menschen Kommunikationsstärke, Geduld und Organisationstalent Fähigkeit, Lernende zu motivieren und gezielt zu fördern Sehr gute IT Kenntnisse Spitex Erfahrung von Vorteil Wir Bieten Eine Vollzeitstelle als Berufsbildnerin – Ausbildung ist deine Hauptaufgabe Direkter Einfluss auf die Entwicklung unserer zukünftigen Fachkräfte Ein kollegiales, wertschätzendes Umfeld und innovative Projekte Weiterbildungsmöglichkeiten und Perspektiven innerhalb des Unternehmens Attraktive Anstellungsbedingungen Bist du bereit, Berufsbildung zu deinem Hauptberuf zu machen? Dann sende uns deine vollständigen Bewerbungsunterlagen an bewerbungen@srtzl.ch Bei Fragen steht dir Nancy Walter, Stv. Geschäftsführerin, unter der Telefonnummer 071 978 73 02 gerne zur Verfügung. Wir freuen uns auf deine Direktbewerbung. Dossiers von Personalvermittlungen werden nicht berücksichtigt. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Health and Human Services Referrals increase your chances of interviewing at Spitex Regio Tannzapfenland by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "cfdd02a810c6fe8d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/berufsbildnerin-fage-m-w-d-%E2%80%93-hauptberuf-at-spitex-regio-tannzapfenland-4483746853"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Health & Safety Lead Region Ostschweiz",
+   "company": "Emmi Group",
+   "location": "Bischofszell, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/health-safety-lead-region-ostschweiz-at-emmi-group-4483542678",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4c1c45d3b7aa1a7b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/health-safety-lead-region-ostschweiz-at-emmi-group-4483542678"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Fachmitarbeiter*in Konfektionierung 100%",
+   "company": "Fresh Food & Beverage Group",
+   "location": "Bischofszell District, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachmitarbeiter-in-konfektionierung-100%25-at-fresh-food-beverage-group-4481398153",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "In dieser spannenden Tätigkeit verbindest Du deine Freude im Umgang mit Lebensmitteln und dein technisches Verständnis. Wenn du dich gerne täglich den Herausforderungen in der Lebensmittelindustrie stellst, freuen wir uns auf deine Bewerbung. Was du bewegst Einrichten, Bedienen und Überwachen von Verpackungsanlagen Durchführung und Dokumentation von In-Prozess-Kontrollen Einhaltung der Qualitätsvorgaben sowie der Sicherheits-, Hygiene- und Prozessstandards Warenhandling sowie interne Transporte mit Flurförderzeugen Mitarbeit bei allgemeinen Produktionsarbeiten nach definierten Vorgaben und Arbeitsanweisungen Was du mitbringst Bildung: Abgeschlossene Berufslehre (EFZ) Fachrichtung: im Bereich Logistik, Produktion oder Anlagenführung Berufserfahrung: 3-5 Jahre Erfahrung im Umgang mit Produktions- bzw. Verpackungsanlagen Erfahrung im Umgang mit Produktions- bzw. Verpackungsanlagen Staplerausweis bzw. Erfahrung im Führen von Flurförderzeugen Technisches Verständnis und sorgfältige Arbeitsweise Bereitschaft zur Mitarbeit in unterschiedlichen Bereichen der Produktion Deutsch (B2) Was wir dir bieten Du-Kultur: Hoi, hoi zämä, sali - wir sind per Du! Cumulus-Punkte: 3-fache Punkte auf Lebensmittel, 6-fache Punkte auf alle anderen Produkte. Berufliche Vorsorge: Umfassend abgesichert in der Migros-Pensionskasse – mit erstklassigen und attraktiven Leistungen. Sozialleistungen: 730 Tage Krankentaggeld bei vollem Nettolohn. Verpflegung: Leckere Tagesmenus zu günstigen Preisen. Klubschule Migros: Rückerstattung von 70% der Kosten pro Kurs (max. CHF 1'000 pro Kurs). Sport- und Fitnessangebote: Rückerstattung von CHF 200 pro Fitness-Jahresabonnement. Es werden nur Online-Bewerbungen über das Bewerbungsportal berücksichtigt. Kontakt Herr Thomas Szokody Business Partner HR Keine passenden Stellen? Gib ein Suchabo auf, um passende Stellenangebote bequem per E-Mail zu erhalten. Job-Abo erstellen Show more Show less Seniority level Associate Employment type Full-time Industries Retail Referrals increase your chances of interviewing at Fresh Food & Beverage Group by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ddfd2f0517211211",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachmitarbeiter-in-konfektionierung-100%25-at-fresh-food-beverage-group-4481398153"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Mitarbeiterin/Mitarbeiter in der Landwirtschaft",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-in-der-landwirtschaft-at-kanton-thurgau-4480449578",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f85a7670e46bd985",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-in-der-landwirtschaft-at-kanton-thurgau-4480449578"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Svetovalec v Sektorju za sodelovanje s Svetovno zdravstveno organizacijo",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-v-sektorju-za-sodelovanje-s-svetovno-zdravstveno-organizacijo-at-vlada-republike-slovenije-4483276528",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Z izbranim kandidatom bo sklenjeno delovno razmerje za določen čas, zaradi začasno povečanega obsega dela, in sicer do 31. 3. 2027 s polnim delovnim časom. Izhodiščni plačni razred delovnega mesta je 17 (2030,25 EUR bruto), pri čemer kandidat pridobi pravico do izplačila osnovne plače v vrednosti plačnega razreda postopno, na način iz 3. točke prvega odstavka 101. člena ZSTSPJS. Delo bo potekalo v prostorih Ministrstva za zdravje, Tivolska cesta 50, 1000 Ljubljana oziroma v njegovih uradnih prostorih. Zahteve za prijavo Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: končano najmanj visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) oziroma najmanj visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja) oziroma najmanj visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) oziroma najmanj specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja): smer: družbene vede, novinarstvo in informacijska znanost (KLASIUS-P-16: 03) ali zdravstvo in socialna varnost (KLASIUS-P-16: 09); najmanj 7 mesecev delovnih izkušenj; znanje uradnega jezika; državljanstvo Republike Slovenije; da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti; da zoper osebo ni bila vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Delovne izkušnje so delovna doba na delovnem mestu, za katero se zahteva ista raven izobrazbe, in čas pripravništva na isti ravni izobrazbe, ne glede na to, ali je bila pogodba o zaposlitvi sklenjena oziroma pripravništvo opravljeno pri istem ali pri drugem delodajalcu. Za delovne izkušnje se štejejo tudi delovne izkušnje, ki jih je oseba pridobila z opravljanjem del na delovnem mestu, za katero se zahteva za eno raven nižja izobrazba, razen pripravništva na takem delovnem mestu. Na delovnem mestu, za katero se zahteva raven izobrazbe, ki je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 10. raven slovenskega ogrodja kvalifikacij, se za delovne izkušnje štejejo tudi delovne izkušnje, ki jih je oseba pridobila z opravljanjem del na delovnem mestu, za katero se zahteva izobrazba, ki je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven slovenskega ogrodja kvalifikacij. Kot delovne izkušnje se upošteva tudi delo brez sklenjene pogodbe o zaposlitvi na enaki stopnji zahtevnosti, kot je delovno mesto, za katero oseba kandidira. Delovne izkušnje se dokazujejo s pogodbo o zaposlitvi oziroma z verodostojno listino, iz katerih sta razvidna obdobje opravljanja in zahtevnost dela ter raven izobrazbe, ki se zahteva za opravljanje tega dela. Delovne izkušnje, ki jih je oseba pridobila v času opravljanja poklicne funkcije v državnih organih ali lokalnih skupnostih, se štejejo za delovne izkušnje, ki jih je oseba pridobila z opravljanjem del na delovnem mestu, za katero se zahteva izobrazba, pridobljena po študijskem programu druge stopnje, oziroma izobrazba, ki ustreza ravni izobrazbe, pridobljene po študijskih programih druge stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven slovenskega ogrodja kvalifikacij. Zahtevane delovne izkušnje se skrajšajo za tretjino v primeru, da ima kandidat ima izobrazbo, pridobljeno po študijskem programu druge stopnje, ali izobrazbo, ki ustreza ravni izobrazbe, pridobljene po študijskih programih druge stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven slovenskega ogrodja kvalifikacij. Delovne naloge Na Delovnem Mestu Se Bodo Opravljale Predvsem Naslednje Naloge pomoč pri pripravi osnutkov predpisov in drugih …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "dc47f0ace36f48fe",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-v-sektorju-za-sodelovanje-s-svetovno-zdravstveno-organizacijo-at-vlada-republike-slovenije-4483276528"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Vzdrževalec za specialna vozila V v Generalni policijski upravi, Upravi za policijske specialnosti, Uradu za varovanje in zaščito, Sektorju za operativno podporo, Oddelku za tehnično varovanje",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vzdr%C5%BEevalec-za-specialna-vozila-v-v-generalni-policijski-upravi-upravi-za-policijske-specialnosti-uradu-za-varovanje-in-za%C5%A1%C4%8Dito-sektorju-za-operativno-podporo-oddelku-za-tehni%C4%8Dno-varovanje-at-vlada-republike-slovenije-4483271667",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "164902237a06aa85",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vzdr%C5%BEevalec-za-specialna-vozila-v-v-generalni-policijski-upravi-upravi-za-policijske-specialnosti-uradu-za-varovanje-in-za%C5%A1%C4%8Dito-sektorju-za-operativno-podporo-oddelku-za-tehni%C4%8Dno-varovanje-at-vlada-republike-slovenije-4483271667"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Bachelor/Master/Dipl.-Ing. Vermessung & Geodäsie als Beamtenanwärter/in (w/m/d)",
+   "company": "Landratsamt Konstanz",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/bachelor-master-dipl-ing-vermessung-geod%C3%A4sie-als-beamtenanw%C3%A4rter-in-w-m-d-at-landratsamt-konstanz-4481804239",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f956c6d780850e55",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/bachelor-master-dipl-ing-vermessung-geod%C3%A4sie-als-beamtenanw%C3%A4rter-in-w-m-d-at-landratsamt-konstanz-4481804239"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Sachbearbeiter/in der Verwaltung (w/m/d)",
+   "company": "Der Paritätische Baden-Württemberg",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-der-verwaltung-w-m-d-at-der-parit%C3%A4tische-baden-w%C3%BCrttemberg-4483295019",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2c96a05d5418298d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-in-der-verwaltung-w-m-d-at-der-parit%C3%A4tische-baden-w%C3%BCrttemberg-4483295019"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Berater*in Privatkunden 80 – 100%",
+   "company": "St. Galler Kantonalbank AG",
+   "location": "Rheineck, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/berater-in-privatkunden-80-%E2%80%93-100%25-at-st-galler-kantonalbank-ag-4483207594",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Das wirst du bewirken Du bietest deinen Kundinnen und Kunden eine erstklassige Beratung und aufmerksame Betreuung und stellst die zielorientierte Marktbearbeitung in der Region sicher. Du verstehst es, Kundinnen und Kunden zu begeistern und unsere Produkte und Dienstleistungen in den Bereichen Anlegen, Vorsorgen und Finanzieren zu vertreiben. Du übernimmst ein interessantes Kundenbuch, welches du durch aktive Marktbearbeitung erweiterst. Du bist aktiv im Marktgebiet (öffentliche Veranstaltungen, Anlässe usw.) präsent. Das bringst du mit Du verfügst über eine abgeschlossene Banklehre (oder eine vergleichbare Grundausbildung) sowie Erfahrung in der Kundenberatung, vorzugsweise auf einer Bank. Du hast Freude am Kundenkontakt, bringst gute kommunikative Fähigkeiten mit und zeichnest dich durch Abschlussstärke aus. Du bist eine Teamplayerin oder ein Teamplayer mit hoher Sozialkompetenz, vorbildlicher Leistungsbereitschaft und Eigenverantwortung. Gute Kenntnisse der regionalen und lokalen Marktverhältnisse sind von Vorteil. Auskünfte Gerne beantwortet Markus Wanner, Leiter Niederlassung Rheineck, Telefon 071 886 15 60, deine Fragen. Bewerbung www.sgkb.ch/karriere, Sandra Schefer, Stv. Leiterin Personal Betreuung Für diese Stelle werden keine Bewerbungen von externen Personaldienstleistern berücksichtigt. Online bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Banking Referrals increase your chances of interviewing at St. Galler Kantonalbank AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "af8d46f153b4bcb7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/berater-in-privatkunden-80-%E2%80%93-100%25-at-st-galler-kantonalbank-ag-4483207594"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Senior Berater*in Privatkunden 80 – 100%",
+   "company": "St. Galler Kantonalbank AG",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-berater-in-privatkunden-80-%E2%80%93-100%25-at-st-galler-kantonalbank-ag-4482938860",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Das wirst du bewirken Du bietest deinen Kundinnen und Kunden eine erstklassige Beratung und aufmerksame Betreuung und stellst die zielorientierte Marktbearbeitung in der Region sicher. Du verstehst es, Kundinnen und Kunden zu begeistern und unsere Produkte und Dienstleistungen in den Bereichen Anlegen, Vorsorgen und Finanzieren zu vertreiben. Du übernimmst ein interessantes Kundenbuch, welches du durch aktive Marktbearbeitung erweiterst. Du bist aktiv im Marktgebiet (öffentliche Veranstaltungen, Anlässe usw.) präsent. Das bringst du mit Du verfügst über eine höhere bank- oder betriebswirtschaftliche Weiterbildung und bringst mehrjährige Erfahrung in der Privatkundenberatung mit. Du überzeugst durch deine Freude am Kundenkontakt, ausgeprägte Kommunikationsfähigkeiten und ein ausgeprägtes Abschlussgeschick. Du bist eine Teamplayerin oder ein Teamplayer mit hoher Sozialkompetenz, vorbildlicher Leistungsbereitschaft und Eigenverantwortung. Gute Kenntnisse der regionalen und lokalen Marktverhältnisse sind von Vorteil. Auskünfte Gerne beantwortet Thomas Köchli, Leiter Privatkunden Wil, Telefon 071 913 61 50, deine Fragen. Bewerbung www.sgkb.ch/karriere, Brigitte Sauter, HR Business Partnerin Für diese Stelle werden keine Bewerbungen von externen Personaldienstleistern berücksichtigt. Online bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Banking Referrals increase your chances of interviewing at St. Galler Kantonalbank AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "47a045284f0bd5b8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-berater-in-privatkunden-80-%E2%80%93-100%25-at-st-galler-kantonalbank-ag-4482938860"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Fachkraft in der Bauaufsicht (w/m/d)",
+   "company": "Regierungspräsidium Tübingen",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/fachkraft-in-der-bauaufsicht-w-m-d-at-regierungspr%C3%A4sidium-t%C3%BCbingen-4481498747",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Das Regierungspräsidium Tübingen hat vielfältige Aufgaben in den Bereichen Umwelt- und Naturschutz, Energiewende, Klimaschutz, Mobilität und Verkehr, Bildung, Gesundheitswesen, Migration, Landwirtschaft, Marktüberwachung und vielen anderen zukunftsweisenden Themen. Wir suchen motivierte Kolleginnen und Kollegen, die sich für das Gemeinwohl engagieren und sich den interessanten und abwechslungsreichen Aufgaben stellen möchten. Im Regierungspräsidium Tübingen ist bei Referat 47.3 – Baureferat Süd – am Dienstort in Überlingen die folgende Stelle zu besetzen: Fachkraft in der Bauaufsicht (w/m/d) Vollzeit, unbefristet (26103) Informationen zum Regierungspräsidium finden Sie hier. Aufgaben Tätigkeiten in der Bauabwicklung von Straßen- und Radwegemaßnahmen, Ingenieurbauten sowie Hang- und Felssicherungen an Bundes- und Landesstraßen Mitwirkung bei der Bauvorbereitung, Ausschreibung und Vergabe örtliche Bauüberwachung Erstellung der notwendigen Aufmaße und Aufnahmen vor Ort Mitarbeit bei der Abrechnung von Maßnahmen Das Referat 47.3 ist für die Landkreise Ravensburg, Sigmaringen sowie den Bodenseekreis zuständig. Profil Berufsabschluss im Bereich des Bau- und Vermessungswesens wie z.B. Straßenbauer/in, Betonbauer/in, Maurer/in, Vermessungstechniker/in oder Straßenwärter/in Sie besitzen die Fahrerlaubnis der Klasse B Einschlägige Kenntnisse der gebräuchlichen EDV-Anwendungen Sie arbeiten gerne im Team, haben ein sicheres Auftreten und Verhandlungsgeschick, verfügen über eine hohe Einsatzbereitschaft und Belastbarkeit Sie können sich mündlich und schriftlich sicher ausdrücken Sie haben Kenntnisse über Konstruktion und Baustoffe im Straßen- und Ingenieurbau Von Vorteil ist, wenn Sie bereits Berufserfahrung in Bau- und Verkehrsinfrastruktur-projekten sammeln konnten Idealerweise bringen Sie zudem Erfahrung in einer Bauverwaltung mit Wir bieten eine interessante, abwechslungsreiche und verantwortungsvolle Tätigkeit im Team die Möglichkeit der kreativen Mitgestaltung in einer modernen Bauverwaltung vielfältige Fortbildungsmöglichkeiten einen sicheren Arbeitsplatz eine ausgewogene Work-Life-Balance / eine sehr gute Vereinbarkeit von Familie und Beruf Flexible Arbeitszeitmodelle / Möglichkeit zum Home-Office ein modernes betriebliches Gesundheitsmanagement mit attraktiven Angeboten einen Zuschuss für den ÖPNV ein Fahrradleasing-Angebot (JobBike BW) Ihre Bezahlung: Die Beschäftigung richtet sich nach dem Tarifvertrag für den öffentlichen Dienst der Länder (TV-L). Die Vergütung erfolgt bei Vorliegen der persönlichen und tariflichen Voraussetzungen in Entgeltgruppe E 9a TV-L. Hinzu kommen eine Jahressonderzahlung nach dem TV-L und eine betriebliche Altersvorsorge (VBL). Gut zu wissen: Die Stelle ist grundsätzlich teilbar. Frauen werden ausdrücklich zur Bewerbung aufgefordert. Bewerbungen von schwerbehinderten und gleichgestellten behinderten Menschen werden ausdrücklich begrüßt und bei im Wesentlichen gleicher Eignung bevorzugt berücksichtigt. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Regierungspräsidium Tübingen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "18ccd5b69a72c62d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/fachkraft-in-der-bauaufsicht-w-m-d-at-regierungspr%C3%A4sidium-t%C3%BCbingen-4481498747"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Straßenwärter/in (w/m/d) in der Straßenmeisterei Radolfzell",
+   "company": "Landratsamt Konstanz",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/stra%C3%9Fenw%C3%A4rter-in-w-m-d-in-der-stra%C3%9Fenmeisterei-radolfzell-at-landratsamt-konstanz-4481808268",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ccda9f28b5bf762b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/stra%C3%9Fenw%C3%A4rter-in-w-m-d-in-der-stra%C3%9Fenmeisterei-radolfzell-at-landratsamt-konstanz-4481808268"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Risikomanager (m/w/d) im Project Office",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/risikomanager-m-w-d-im-project-office-at-diehl-defence-4481811244",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7eaff3d5cd544484",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/risikomanager-m-w-d-im-project-office-at-diehl-defence-4481811244"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Senior Privacy Manager (m/w/d) – Datenschutz im Gesundheitswesen",
+   "company": "Proliance",
+   "location": "Tettnang, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/senior-privacy-manager-m-w-d-%E2%80%93-datenschutz-im-gesundheitswesen-at-proliance-4483700464",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c1959b851dc5b914",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/senior-privacy-manager-m-w-d-%E2%80%93-datenschutz-im-gesundheitswesen-at-proliance-4483700464"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Pflegehelfer/in SRK für den geschützten Wohnbereich und die Lang-zeitpflege (30-100%)",
+   "company": "Tertianum",
+   "location": "Berlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/pflegehelfer-in-srk-f%C3%BCr-den-gesch%C3%BCtzten-wohnbereich-und-die-lang-zeitpflege-30-100%25-at-tertianum-4483559524",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "Die Tertianum Gruppe steht für Wohnen und Leben im Alter auf hohem Niveau. Als Schweizer Marktführerin haben wir den Anspruch, das Leben von Seniorinnen und Senioren mit unseren 7000 Mitarbeitenden jeden Tag lebenswert zu machen, um ihnen Lebensfreude zu ermöglichen. Mit unseren individuell zugeschnittenen Leistungen schaffen wir so über alle Lebensphasen im Alter an 100 Standorten ein neues Zuhause, das ein sicheres und selbstbestimmtes Leben bietet. Was uns dabei jeden Tag antreibt, ist unser Respekt und unser Verantwortungsgefühl für ältere Menschen. Pflege mit Herz und Verstand – Wir suchen dich! Du bist Pflegehelfer/in SRK und möchtest in einem herzlichen Umfeld arbeiten, in dem Menschlichkeit und Teamgeist im Mittelpunkt stehen? Dann passt du perfekt zu uns! Wir sind ein motiviertes Team in der Langzeitpflege und suchen Verstärkung durch engagierte Fachpersonen, die mit Freude und Fachkompetenz für das Wohl unserer Gäste sorgen. Für die Alters- und Pflegeheime Haus Seeheim und Seefeld in Berlingen suchen wir per sofort oder nach Vereinbarung eine/einen Pflegehelfer/in SRK für den geschützten Wohnbereich und die Langzeitpflege (30-100%) Deine Aufgaben Ganzheitliche Betreuung und Pflege der zugeteilten Gäste im Sinne unseres Pflegeleitbildes und des Pflegeprozesses Ausführen von Grundpflegerischen Tätigkeiten Elektronische Pflegedokumentation mittels CareCoach Übernahme von Aufgaben als Bezugsperson Mitarbeit bei der Umsetzung des Pflegeprozesses Dein Profil Abgeschlossene Ausbildung zur/zum Pflegehelfer/in oder eine gleichwertige, durch das SRK anerkannte Ausbildung Eine herzliche und humorvolle Grundeinstellung Verantwortungsbewusstsein und Teamfähigkeit Humor und die Fähigkeit, auch im turbulenten Alltag den Überblick zu behalten Gute Deutschkenntnisse in Wort und Schrift Warum Tertianum? Benefits Uns liegt viel daran, dass unsere Mitarbeitenden ihre berufliche Entwicklung und ihre Lebensgestaltung in Einklang bringen können. Dazu gehört ein vielfältiges Angebot an unterschiedlichen Benefits, z.B.: Flexible Arbeitsmodelle (Jobsharing, Teilzeitmodelle, flexible Dienstplangestaltung, Wiedereinstieg nach Auszeit) Interne und externe Weiterbildungsmöglichkeiten Fitnessvergünstigungen SBB Halbtaxabonnement Versicherungsvergünstigungen Flottenrabatte Vergünstigungen bei Sunrise Weitere Benefits findest Du auf unsere Website. Bist Du interessiert? Dann bieten wir Dir eine spannende Perspektive: Bei uns setzt Du Deine individuellen Fähigkeiten und Deine Professionalität in einem motivierten und flexiblen Team ein. Zudem übernimmst Du ein hohes Mass an Verantwortung und gestaltest so die Zukunft von Tertianum aktiv mit. Bewirb Dich jetzt und werde Teil unseres Teams. Wir freuen uns auf Deine vollständige Online-Bewerbung über unser Bewerbungs-Tool. Für Fragen steht Dir Frau Rebecca Baumgartner, Leitung Pflege und Betreuung unter der Telefonnummer 052 762 53 44 oder via Mail unter rebecca.baumgartner@tertianum.ch gerne zur Verfügung. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Tertianum by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "6b5bad6da0386e98",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/pflegehelfer-in-srk-f%C3%BCr-den-gesch%C3%BCtzten-wohnbereich-und-die-lang-zeitpflege-30-100%25-at-tertianum-4483559524"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Rechtsanwalt (m/w/d) Familien + Erbrecht",
+   "company": "Bek & Tiefenthaler Fachanwaltskanzlei für Familien- und Erbrecht",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/rechtsanwalt-m-w-d-familien-%2B-erbrecht-4483536747",
+   "posted": "2026-10-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "066e2888febfce35",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/rechtsanwalt-m-w-d-familien-%2B-erbrecht-4483536747"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Chef/-in Mittlere- und Kleinobjekte Glarus",
+   "company": "Schweizer Armee - Logistikbasis der Armee LBA",
+   "location": "8887 Mels",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/3cd26454-8856-49e7-94c6-6eefbcf7b677/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": ".\n*  **Gelebte Vielfalt** Dank <em>Chancengleichheit</em> entfalten wir unsere Kompetenzen und bringen unterschiedliche Perspektiven ein.\n*  **Gesund am Arbeitsplatz** Wir unterstützen und beraten unsere Mitarbeitenden im Bereich der physischen und psychischen Gesundheit.",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "61557e8e-b7c9-4dba-954f-b831ace19751"
+   },
+   "id": "73ad96322014d393",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/3cd26454-8856-49e7-94c6-6eefbcf7b677/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Advanced Practice Nurse (APN) – Master of Science in Pflege 80-100% in Dussnang und Umgebung gesucht",
+   "company": "MediPersonal",
+   "location": "8374 Dussnang",
+   "country": "CH",
+   "url": "https://med-ipersonal.ch/jobs/advanced-practice-nurse-apn-master-of-science-in-pflege-80-100-in-dussnang-und-umgebung-gesucht/",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "**Ihre Aufgaben – Wissenschaftlich fundierte Pflege auf höchstem Niveau**\n- Eigenständige Durchführung und Steuerung komplexer Pflegeinterventionen basierend auf aktuellen wissenschaftlichen Erkenntnissen\n- Entwicklung, Implementierung und <em>Evaluation</em> innovativer Pflegekonzepte zur Verbesserung der",
+   "extra": {
+    "canton": "TG",
+    "query": "Evaluation",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "e89d642a-888a-4edb-b6ba-020a827b7423"
+   },
+   "id": "e64aaf89f06fef1d",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://med-ipersonal.ch/jobs/advanced-practice-nurse-apn-master-of-science-in-pflege-80-100-in-dussnang-und-umgebung-gesucht/"
+   },
+   "first_seen": "2026-10-27"
+  }
+ ]
+}
