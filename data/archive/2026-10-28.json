@@ -1,0 +1,163 @@
+{
+ "generated_at": "2026-10-28T06:55:42+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 168,
+   "linkedin": 250,
+   "jobroom": 19
+  },
+  "excluded": 355,
+  "unique": 60,
+  "new": 6,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Stadtentwicklung&location=Winterthur%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+ },
+ "jobs": [
+  {
+   "title": "Pflegehelfer (m/w/d) – Starte deine Zukunft in der Pflege! Dein Herz zählt ❤️",
+   "company": "EDUVIA Bildungsakademie GmbH",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/pflegehelfer-m-w-d-%E2%80%93-starte-deine-zukunft-in-der-pflege%21-dein-herz-z%C3%A4hlt-%E2%9D%A4%EF%B8%8F-at-eduvia-bildungsakademie-gmbh-4483637142",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "Pflegehelfer (m/w/d) – Starte deine Zukunft in der Pflege! Dein Herz zählt ❤️ Dein Herz zählt ❤️ 40 Stunden pro Woche • unbefristet • Frühester Beginn ab sofort 16,00 - 20,00 EUR pro Stunde Du möchtest Menschen helfen, sie im Alltag unterstützen und mit deiner Arbeit wirklich etwas bewegen? Du suchst einen Beruf mit Sinn, Menschlichkeit und langfristigen Zukunftsperspektiven? Dann starte jetzt deinen Weg in die Pflege! Ob du bereits erste Erfahrungen in der Pflege gesammelt hast oder dich beruflich neu orientieren möchtest – bei uns bist du genau richtig! Denn in der Pflege zählt nicht nur, was du kannst, sondern vor allem, wie viel Herz du mitbringst. ❤️ Deine zukünftigen Aufgaben Unterstützung pflegebedürftiger Menschen bei der täglichen Grundpflege Hilfe bei der Körperpflege, beim Ankleiden und bei der Mobilisation Unterstützung bei der Nahrungsaufnahme und im Alltag Begleitung und Betreuung älterer und hilfsbedürftiger Menschen Förderung des Wohlbefindens und der Selbstständigkeit der Pflegebedürftigen Zusammenarbeit mit Pflegefachkräften und dem gesamten Pflegeteam Schaffung einer freundlichen, respektvollen und wertschätzenden Atmosphäre Ihr Profil als Pflegehelfer (m/w/d) – Starte deine Zukunft in der Pflege! Dein Herz zählt ❤️ Freude am Umgang mit älteren und pflegebedürftigen Menschen Einfühlungsvermögen, Geduld und Verantwortungsbewusstsein Zuverlässigkeit, Teamfähigkeit und Hilfsbereitschaft Interesse an pflegerischen Tätigkeiten und der Arbeit mit Menschen Körperliche und psychische Belastbarkeit Bereitschaft, Neues zu lernen und dich beruflich weiterzuentwickeln Auch Quereinsteiger ohne Pflegeerfahrung sind bei uns herzlich willkommen! Du hast noch keine Erfahrung in der Pflege? Kein Problem! 🎓 Dein Quereinstieg mit Weiterbildung Du möchtest als Pflegehelfer arbeiten, hast aber noch keine Ausbildung oder berufliche Erfahrung in diesem Bereich? Über die EDUVIA Bildungsakademie kannst du dich über passende Weiterbildungs- und Qualifizierungsmöglichkeiten im Pflegebereich informieren und dich auf deinen beruflichen Einstieg vorbereiten. ✅ Einstieg in die Pflege auch ohne abgeschlossene Pflegeausbildung möglich ✅ Praxisnahe Vermittlung wichtiger Grundlagen der Pflege und Betreuung ✅ Vorbereitung auf den Umgang mit älteren und pflegebedürftigen Menschen ✅ Bei Vorliegen der Fördervoraussetzungen können Weiterbildungskosten übernommen werden ✅ Neue berufliche Perspektiven in einer zukunftssicheren Branche ✅ Möglichkeiten zur beruflichen Weiterentwicklung im Pflegebereich Deine Motivation ist der erste Schritt – wir zeigen dir mögliche Wege in die Pflege! In Friedrichshafen präsentieren wir Ihnen Einen sicheren Arbeitsplatz in einer wachsenden und gesellschaftlich wichtigen Branche Eine abwechslungsreiche und sinnvolle Tätigkeit mit direktem Kontakt zu Menschen Eine strukturierte Einarbeitung – auch für Quereinsteiger Eine attraktive und pünktliche Vergütung Zuschläge für Sonn-, Feiertags- und Schichtarbeit nach den jeweils geltenden Regelungen Ein freundliches und unterstützendes Team Langfristige berufliche Perspektiven Möglichkeiten zur Weiterbildung und beruflichen Qualifizierung Entwicklungsmöglichkeiten innerhalb des Pflege- und Gesundheitsbereichs So geht es weiter Du möchtest als Pflegehelfer (m/w/d) arbeiten oder deinen Quereinstieg über eine passende Weiterbildung schaffen? Dann melde dich bei uns! 📧 info@eduvia-bildungsakademie.de ❤️ Weil Betreuung mehr ist als ein Beruf – sie ist eine Herzensangelegenheit! Jetzt Kontakt aufnehmen und deine Möglichkeiten entdecken! Klingt das gut? Dann bewirb dich jetzt als Pflegehelfer (m/w/d) – Starte deine Zukunft in der Pflege! Dein Herz zählt ❤️ in Friedrichshafen. Klick direkt unten auf den Button. Wir freuen uns auf Dich! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Education Administration Programs Referrals increase your chances of interviewing at EDUVIA Bildungsakademie GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "15f046da5e227bd6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/pflegehelfer-m-w-d-%E2%80%93-starte-deine-zukunft-in-der-pflege%21-dein-herz-z%C3%A4hlt-%E2%9D%A4%EF%B8%8F-at-eduvia-bildungsakademie-gmbh-4483637142"
+   },
+   "first_seen": "2026-10-28"
+  },
+  {
+   "title": "Interim professorship in the field of International Politics",
+   "company": "University of Konstanz",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/interim-professorship-in-the-field-of-international-politics-at-university-of-konstanz-4484083532",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "### Fulltime, Analogous to W2 in a non-tariff employment relationship ## Job Offer Reference No. 2026/219. The Department of Politics and Public Administration seeks to fill this position from April 1, 2027, to March 31, 2033. The position becomes available once the current professor is appointed as university president. The University of Konstanz is a dynamic and internationally successful research university with approximately 10,000 students. The campus university’s architecture promotes interdisciplinary cooperation and a sense of community among researchers, lecturers and students. The University of Konstanz has been continuously funded by the German Excellence Strategy since 2006. The tasks of the stand-in professor include 9 hours of teaching per semester in German and English at the Bachelor and Master level, with a special focus on the area International Politics, with a specialization in European Politics and Integration. The candidate will teach an introductory lecture on politics in Germany and Europe in alternation with the working group on German Politics. The position also includes the supervision of Bachelor’s and Master’s theses. We expect the application to document a strong track record in the field of European and international politics; ideally the candidate possesses knowledge about German politics, as well. Teaching experience, an excellent doctorate in political science or a related discipline, habilitation-equivalent achievements and internationally visible publications are required. Expertise in teaching qualitative research designs and methods is desired. In all other regards, the hiring requirements are based on 47 paragraph 1,2 of the Landeshochschulgesetz (State law on universities and colleges). The position will allow you to join a highly dedicated and internationally renowned department and to work in a stimulating and supportive research environment. Researchers at the University of Konstanz benefit from a wide range of research support and career development opportunities. The position is closely connected to the Cluster of Excellence “The Politics of Inequality,” offering excellent opportunities for interdisciplinary exchange, collaboration, and engagement with an internationally recognized research community. Remuneration is equivalent to a W2 professorship in a non-tariff employment relationship. Further information can be obtained from Prof. Dr. Dirk Leuffen ( ). We look forward to receiving your application with the usual documents (cover letter, CV including a list of publications and a list of courses taught, copies of academic certificates, transcripts of teaching evaluations, if available) as a single pdf-file by 22. November 2026 via our Online Application Portal The University of Konstanz is committed to ensuring an environment that provides equal opportunities and promotes diversity as well as a good balance between university and family life. As an equal opportunity employer, we strive to increase the number of women working in research and teaching. We also support working couples through our dual career programme ( https://www.uni-konstanz.de/en/equalopportunities/family/dual-career/ ). Persons with disabilities are explicitly encouraged to apply. They will be given preference if appropriately qualified (sbv@uni-konstanz.de , +49 753188-4016). Show more Show less Seniority level Not Applicable Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at University of Konstanz by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b52c56fbb88978b1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/interim-professorship-in-the-field-of-international-politics-at-university-of-konstanz-4484083532"
+   },
+   "first_seen": "2026-10-28"
+  },
+  {
+   "title": "Project Buyer (m/w/d) Integrated Life-Cycle Support (ILS) – befristet auf 2 Jahre",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/project-buyer-m-w-d-integrated-life-cycle-support-ils-%E2%80%93-befristet-auf-2-jahre-at-diehl-defence-4482230780",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cb8a17190677d722",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/project-buyer-m-w-d-integrated-life-cycle-support-ils-%E2%80%93-befristet-auf-2-jahre-at-diehl-defence-4482230780"
+   },
+   "first_seen": "2026-10-28"
+  },
+  {
+   "title": "Different",
+   "company": "Philipp Leclerc Consulting",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/different-4484241597",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c1036c5ba88360ba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/different-4484241597"
+   },
+   "first_seen": "2026-10-28"
+  },
+  {
+   "title": "Projektleiter Studien- und Angebote für zukünftige militärische Satellitenkonstellation (d/f/m)",
+   "company": "Airbus Defence and Space",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-studien-und-angebote-f%C3%BCr-zuk%C3%BCnftige-milit%C3%A4rische-satellitenkonstellation-d-f-m-at-airbus-defence-and-space-4474002353",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "26ef3a9bb90e9e55",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-studien-und-angebote-f%C3%BCr-zuk%C3%BCnftige-milit%C3%A4rische-satellitenkonstellation-d-f-m-at-airbus-defence-and-space-4474002353"
+   },
+   "first_seen": "2026-10-28"
+  },
+  {
+   "title": "Berater (m/w/d) vermögende Privatkunden",
+   "company": "Volksbank eG Überlingen",
+   "location": "Stockach, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/berater-m-w-d-verm%C3%B6gende-privatkunden-at-volksbank-eg-%C3%BCberlingen-4482230484",
+   "posted": "2026-10-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "969033fa20676da9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/berater-m-w-d-verm%C3%B6gende-privatkunden-at-volksbank-eg-%C3%BCberlingen-4482230484"
+   },
+   "first_seen": "2026-10-28"
+  }
+ ]
+}
