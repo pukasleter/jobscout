@@ -1,317 +1,317 @@
 {
- "generated_at": "2026-10-29T07:15:32+00:00",
+ "generated_at": "2026-10-30T07:15:58+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 168,
-   "linkedin": 207,
-   "jobroom": 23
+   "arbeitsagentur": 172,
+   "linkedin": 250,
+   "jobroom": 26
   },
-  "excluded": 306,
-  "unique": 74,
-  "new": 23,
+  "excluded": 362,
+  "unique": 67,
+  "new": 16,
   "carried_over": 0
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Fachstelle+Integration&location=Winterthur%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Bildungsplanung&location=Schaffhausen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
  },
  "jobs": [
   {
-   "title": "Spezialist (d/m/w) Bankberatung, Filiale Konstanz",
-   "company": "Postbank Filialvertrieb AG",
-   "location": "78462 Konstanz",
+   "title": "Akademische*r Mitarbeiter*in (w/m/d) für Lehrentwicklung, Design Thinking und Evaluation",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
    "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208450934-S",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934562-S",
    "posted": null,
    "salary": null,
    "via": null,
-   "description": "**Über uns**\nDie Postbank Filialvertrieb AG berät bundesweit die 12,5 Millionen Kund\\*innen der Postbank rund um Finanzdienstleistungen und Non-Banking-Produkte, z. B. Post-Services. Dabei legen wir besonders viel Wert auf Beratung und kollegialen Austausch auf Augenhöhe.\nAls #diepasstbank haben wir für alle das Passende. Deswegen bringen wir unsere Jobs mit den passenden Talenten zusammen. Menschen, die durch ihr Können, Engagement und durch ihren Teamgeist die Zukunft aktiv mitgestalten.\n**Breit gefächert: Ihre Aufgaben**\nAls Kundenberater (d/m/w) übernehmen Sie eigenständig die bedarfsorientierte Beratung unserer breit gefächerten Finanzprodukte\nDabei bauen Sie nachhaltige Kundenbeziehungen durch persönliche Gespräche und telefonische Kontaktaufnahme auf.\nSie übernehmen Verantwortung für die Betreuung der Kund\\*innen in Ihrer Filiale.\nMit Ihrem Filialteam arbeiten Sie eng und vertrauensvoll zusammen.\nSie organisieren Ihren Arbeitstag selbständig und sind für Ihre Kund\\*innen ein kompetenter Ansprechpartner rund um das Thema Finanzen.\n**Überzeugend: Ihr Profil**\nVertriebstalent mit Spaß an der Zusammenarbeit mit Menschen unterschiedlichster Herkunft\nErfolgreiche kaufmännische Ausbildung – idealerweise zum Bankkaufmann / zur Bankkauffrau – oder mehrjährige Berufserfahrung, am besten in der Kundenberatung oder im Vertrieb\nQuereinsteiger\\*innen mit Spaß am Umgang mit Menschen sind bei uns willkommen\nHohe Servicekompetenz und Belastbarkeit im Arbeitsalltag sowie Aufgeschlossenheit gegenüber sich schnell verändernden Rahmenbedingungen\nHohes Interesse an Finanzthemen und wirtschaftlichen Zusammenhängen\n**Das passt: Ihre Vorteile**\nAuf Sie wartet ein sicherer, unbefristeter und verantwortungsvoller Job in einem motivierten/ dynamischen und hilfsbereiten Team.\nSie profitieren von einem guten Gehalt, Weihnachts- und Urlaubsgeld sowie einer attraktiven erfolgsabhängigen Vergütung.\nUnser Tarifvertrag bietet Ihnen eine 38,5 Stunden Woche für eine ausgewogene Work-Life-Balance.\nEine Stellenbesetzung in Teilzeit ist nach Absprache möglich.\nAls Postbank Filialvertrieb AG sind wir durch die berufundfamilie gGmbH für unsere familienbewusste Personalpolitik ausgezeichnet.\nWir bieten klare Karrierewege und vielfältige Weiterentwicklungsmöglichkeiten - zum Beispiel als Spezialist (d/m/w) oder Führungskraft. Dabei zählt für uns allein Ihr Können – und nicht ein akademischer Titel.\n**Was wir Ihnen bieten**\n**Wir bieten eine breite Palette von Leistungen, die all Ihre beruflichen und persönlichen Bedürfnisse abdecken.**\n**Emotional ausgeglichen**\nEine positive Haltung hilft uns, die Herausforderungen des Alltags zu meistern – beruflich wie privat. Profitieren Sie von Angeboten wie Beratung in schwierigen Lebenssituationen und Angeboten zur Förderung mentaler Gesundheit.\nKörperlich fitMit Angeboten zur Aufrechterhaltung Ihrer persönlichen Gesundheit und einem förderlichen beruflichen Umfeld hilft Ihnen die Bank, körperlich fit zu bleiben. Profitieren Sie von Angeboten wie umfangreichen Check-up Untersuchungen, Impfangeboten und Beratung zur gesunden Lebensführung.\n**Sozial vernetzt**\nDer Austausch mit anderen eröffnet uns neue Perspektiven, bringt uns beruflich wie persönlich voran und stärkt unser Selbstvertrauen und Wohlbefinden. Profitieren Sie von Angeboten wie Unterstützung durch den pme Familienservice, das FitnessCenter Job, flexible Arbeitszeitmodelle (bspw. Teilzeit, Jobtandem, hybrides Arbeiten) sowie sowie von Programmen zur Förderung von Vielfalt, Chancengleichheit und Teilhabe.\n**Finanziell abgesichert**\nDie Bank sichert Sie nicht nur während Ihrer aktiven Karriere, sondern auch für die Zukunft finanziell ab und unterstützt Ihre Flexibilität sowie Mobilität – egal ob privat oder beruflich. Profitieren Sie von Angeboten wie Beitragsplänen für Altersvorsorge, Bankdienstleistungen für Mitarbeiter\\*innen, Firmenfahrrad oder dem Deutschlandticket und nutzen Sie exklusive Mitarbeiterkonditionen und individuelle Beratung durch die …",
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nZum 01.03.2027 ist an der\n**Fakultät Elektrotechnik und Informatik im Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ folgende Stelle zu besetzen:**\n# Akademische\\*r Mitarbeiter\\*in (w/m/d) für Lehrentwicklung, Design Thinking und Evaluation - Analytisches Denken in der KI-Ära in Vollzeit\n**Bewerbungsfrist: 22.11.2026**\nStellen-Nr: 32/2026\nEntgeltgruppe: bis E13 TV-L\nDie Entgeltzahlung erfolgt nach dem Tarifvertrag der Länder (TV-L) bei Vorliegen der persönlichen Voraussetzungen bis Entgeltgruppe 13. Die Einstellung erfolgt befristet für die Dauer von einem Jahr.\nIm Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ soll ein offener Web-Hub für analytisches Denken in der Lehre entstehen. Ergänzt wird dieser durch ein Methodenkartenset sowie ein Playbook mit Spielzügen. Grundlage ist das Analyseprinzip 3+1. Das Material wird in vier Pilotmodulen der Fakultät E von Studierenden und Lehrenden erprobt. Alle Inhalte erscheinen als Open Educational Resources (OER).\nDas Projekt wird von einem Tandem aus zwei Vollzeitkräften eigenständig umgesetzt und von der Hochschuldidaktik begleitet. In diesem Tandem sind Sie für die didaktisch-konzeptionelle Seite verantwortlich. Sie entwickeln die Inhalte wissenschaftlich fundiert, integrieren sie in die Lehre und zeigen ihre Wirkung auf.\n## hr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Wissenschaftlich fundierte und didaktische Neukonzeption der Hub-Inhalte, der Methodenkarten, der Spielzüge und des Playbooks auf Basis des Analyseprinzips 3+1\n- Planung, Strukturierung und Durchführung von Design-Thinking-Prozessen mit Studierenden, Lehrenden und der Hochschuldidaktik, einschließlich Moderation und Dokumentation der Workshops\n- Integration der Materialien in vier Pilotmodule in enger Abstimmung mit den Lehrenden der Fakultät E und Coaching der Lehrenden für den eigenständigen Einsatz\n- Empirische Evaluation mit Vergleichs- und Pilotkohorte: Erhebung, Auswertung und Ableitung übertragbarer Gestaltungsprinzipien für die Lehre\n- Konzeption und Durchführung der Schulung von studentischen Tutor\\*innen und deren fachliche Begleitung\n- Verfassen des Abschlussberichts und Aufbereitung der Ergebnisse für eine Veröffentlichung gemeinsam mit der Hochschuldidaktik\n## Ihr Profil:\n- Abgeschlossenes wissenschaftliches Hochschulstudium (Master)\n- Von Vorteil: ein Bachelorstudium (B.Sc.) in Elektrotechnik, Informatik, Medieninformatik, Mediendesign, Wirtschaftsinformatik oder einem verwandten Fach\n- Kenntnisse in der Konzeption und Durchführung von innovativen Lehr- und Lernformaten\n- Erfahrung in der Planung und Moderation partizipativer Design-Thinking-Prozesse oder Workshops\n- Kenntnisse empirischer Methoden (Erhebungsdesign, quantitative und qualitative Auswertung)\n- Vertrautheit mit KI-Werkzeugen in Studium und Lehre\n- Kommunikationsstärke, Organisationsgeschick und eine selbstständige Arbeitsweise\n- Sehr gute Deutschkenntnisse in Wort und Schrift\n**Inhaltliche Fragen beantworten Ihnen gerne:**\nProf. Jürgen Graef ([juergen.graef@rwu.de](https://mailto:jochen.weissenrieder@rwu.de); Telefon: [0751 501-9732](tel:07515019868))\nDie RWU ist als familiengerechte Hochschule zertifiziert und fördert die Gleichstellung aller Geschlechter, bietet Ihnen flexible und familiengerechte Arbeitsbedingungen, zahlreiche Angebote zum Betrieblichen Gesundheitsmanagement, ein vergünstigtes Job Ticket, die Sozialleistungen des öffentlichen Dienstes wie z. B. betriebliche Altersvorsorge, und vieles mehr. …",
    "extra": {
-    "refnr": "10000-1208450934-S",
-    "query": "Chancengleichheit",
+    "refnr": "10001-1003934562-S",
+    "query": "Gleichstellung",
     "befristung": null,
     "arbeitszeit": null
    },
-   "id": "135f0723c69deeee",
+   "id": "325df17d5e49fd5f",
    "sources": [
     "arbeitsagentur"
    ],
    "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208450934-S"
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934562-S"
    },
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   },
   {
-   "title": "Berater (d/m/w) Daily Banking",
-   "company": "Deutsche Bank AG",
-   "location": "88045 Friedrichshafen",
+   "title": "Akademische*r Mitarbeiter*in (w/m/d) für Informationsdesign, User Experience und Web-Entwicklung",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
    "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208454500-S",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934384-S",
    "posted": null,
    "salary": null,
    "via": null,
-   "description": "**Über den Bereich**\nIn der Privatkundenbank bündelt die Deutsche Bank ihre Expertise im Privatkundengeschäft in einem Geschäftsbereich – mit den Marken Deutsche Bank und Postbank als Marktführer in Deutschland und einem globalen Netzwerk, die das Geschäft der Bank mit vermögenden Kund\\*innen weltweit sowie mit Privatkund\\*innen und kleinen bis mittelgroßen Unternehmen umfasst.\nIn ihrem Heimatmarkt Deutschland wie auch international bietet die Privatkundenbank ihren Kund\\*innen hochwertige Finanzdienstleistungen aus einer Hand – von umfassenden Angeboten für Privatkund\\*innen über die Betreuung anspruchsvoller Unternehmer und ihrer Familien bis hin zu Lösungen für kleinere und mittelgroße Unternehmen in wichtigen Märkten der Eurozone.\nDie Privatkundenbank ist neben der Unternehmensbank, der Investmentbank und dem Asset Management mit ihrem Vermögensverwalter DWS eine der vier Geschäftsbereiche des Deutsche-Bank-Konzerns. Die Deutsche Bank ist Deutschlands führende Bank mit globalem Netzwerk und fest verwurzelt in Europa.\n**Ihre Aufgaben**\nSie verantworten die abschlussorientierte Beratung der im Team betreuten Kundinnen und Kunden. Sie bearbeiten eigenständig die selbst vereinbarten sowie die aus Beratungs- und Callcenter eingestellten Termine.\nIhr Schwerpunkt ist die bedarfsgerechte Beratung und der Verkauf von Banking-Produkten (Konten, Karten, Bausparen, Einlagen) sowie von Produkten weiterer relevanter Bedarfe der Personal Banking-Zielgruppe (Konsumentenfinanzierung, Vorsorge, Bausparen). Zusätzlich können Sie auf freiwilliger Basis einfache Investmentbedarfe beraten. Sie sind für die erfolgreiche Umsetzung neuer Serviceprozesse, insbesondere der Zertifizierung nach der Service DIN, in den Filialen verantwortlich.\nSie verfügen über eine eigene Kreditkompetenz für Persönliche Kredite sowie über die IDD-Zertifizierung, ggf. die AnsFuG-Zertifizierung und berücksichtigen die Anforderungen an die Qualität im Kredit- und Vorsorgegeschäft.\nSie wecken Kundenbedarfe mittels Anwendung der standardisierten Beratungsprozesse und schließen erfolgreich ab bzw. leiten diese routiniert an Spezialisten weiter (insbesondere bei Baufinanzierung).\nSie sprechen Ihre Kundinnen und Kunden aktiv auf digitale Services (z.B. Online-/ Mobile-Banking) an und vermitteln den Kunden kenntnisreich die Vorteile der Digitalen Features der Bank. Sie entwickeln Ihr Fach-, Vertriebs-, Prozess- und Digitalisierungs-Know-How stetig weiter.\nSie unterstützen unsere Kunden bei Transaktionen, Service- und administrativen Tätigkeiten (z. B. durch die Überleitung auf SB-Terminals).\nSie verfügen über ausgeprägte Kenntnisse in den Digitalen Features und entwickeln Ihr Fach-Know-how selbständig weiter.\nSie bearbeiten alle eingestellten Termine aus dem Beratungscenter und nutzen Interaktionen aus dem Filialgeschäft und Beratungsgesprächen, um Folgetermine zu vereinbaren.\n**Ihre Fähigkeiten und Erfahrungen**\nSie verfügen idealerweise über eine abgeschlossene Ausbildung, z. B. im kaufmännischen, dienstleistungsorientierten oder bankfachlichen Bereich.Eine Ausbildung zum Bankkaufmann/zur Bankkauffrau ist von Vorteil, aber keine zwingende Voraussetzung.Auch motivierte Quereinsteigerinnen und Quereinsteiger (z. B. aus dem Einzelhandel, der Hotellerie oder anderen serviceorientierten Branchen) mit ausgeprägter Kundenorientierung sind ausdrücklich willkommen.\nSie bringen Vertriebsorientierung sowie gute Kenntnisse der Privatkunden-Produktpalette als auch fundierte Kenntnisse zu Produkten zur Deckung der Grundbedarfe mit.\nSie verfügen über ein gutes Geschick in der Terminvereinbarung und sind routiniert in der abschlussorientierten Beratung von Kundinnen und Kunden.\nSie überzeugen durch Ihr souveränes und kompetentes Auftreten gegenüber Kundinnen und Kunden und haben gute verkäuferische und kommunikative Fähigkeiten.\n**Was wir Ihnen bieten**\nWir bieten eine breite Palette von Leistungen, die all Ihre beruflichen und persönlichen Bedürfnisse abdecken.\nEmotional ausgeglichen\nEine …",
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nZum 01.03.2027 ist an der\n**Fakultät Elektrotechnik und Informatik im Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ folgende Stelle zu besetzen:**\n# Akademische\\*r Mitarbeiter\\*in (w/m/d) für Informationsdesign, User Experience und Web-Entwicklung - Analytisches Denken in der KI-Ära in Vollzeit\n**Bewerbungsfrist: 22.11.2026**\nStellen-Nr: 31/2026\nEntgeltgruppe: bis E11 TV-L\nDie Entgeltzahlung erfolgt nach dem Tarifvertrag der Länder (TV-L) bei Vorliegen der persönlichen Voraussetzungen bis Entgeltgruppe 11 . Die Einstellung erfolgt befristet für die Dauer von einem Jahr.\nIm Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ soll ein offener Web-Hub für analytisches Denken in der Lehre entstehen. Ergänzt wird dieser durch ein Methodenkartenset sowie ein Playbook mit Spielzügen. Grundlage ist das Analyseprinzip 3+1. Das Material wird in vier Pilotmodulen der Fakultät E von Studierenden und Lehrenden erprobt. Alle Inhalte erscheinen als Open Educational Resources (OER).\nDas Projekt wird von einem Tandem aus zwei Vollzeitkräften eigenständig umgesetzt und von der Hochschuldidaktik begleitet. In diesem Tandem sind Sie für den gestalterisch-technischen Bereich verantwortlich. Sie konzipieren und entwickeln das Informationsdesign sowie die Gestaltung und technische Umsetzung der Materialien in gedruckter Form und für das Web eigenständig.\n## Ihr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Konzeption von Informationsarchitektur und Gestaltungssystem für das Methodenkarten-set: Übersetzung komplexer didaktischer Zusammenhänge in ein verständliches visuelles System, das in Karten, Playbook und Web-Hub einheitlich funktioniert, sowie Gestaltung für Druck und digitale Nutzung\n- Konzeption und Entwicklung des Web-Hubs von der technischen Architektur über Informa-tionsarchitektur und Benutzeroberfläche (User Experience) bis zur responsiven Umsetzung und Veröffentlichung als Open Source\n- Konzeption und Gestaltung des Playbooks mit Aufbau, Leseführung und Visualisierung der Spielzüge in Druck- und Digitalfassung\n- Prototyping sowie Planung, Durchführung und methodische Auswertung von Nutzertests (User Experience) mit Studierenden und Lehrenden; Einführungen für Lehrende und Tutor:innen in Hub und digitale Materialien\n- Dokumentation für die Nachnutzung durch Dritte (Styleguide, technische Dokumentation, Dokumentation der Barrierefreiheit, Aufbereitung der Druck- und Layoutdaten unter CC BY 4.0) und Übergabe zum Projektende\n## Ihr Profil:\n- Abgeschlossenes Hochschulstudium in Mediendesign oder Medieninformatik\n- Erfahrung in der Konzeption und Gestaltung von Methodensets, Kartensets oder Playbooks\n- Fundierte Kenntnisse in Informations- und Editorial Design für Druck und digitale Medien\n- Kenntnisse in Webtechnologien (HTML, CSS, JavaScript, gängige Web-Frameworks) und Versionsverwaltung mit Git\n- Kenntnisse in digitaler Barrierefreiheit (WCAG) und Druckvorstufe\n- Erfahrung mit Prototyping und Methoden der Nutzerforschung (User Experience, Nutzertests)\n- Sicherer Umgang mit Adobe Creative Cloud (InDesign, Illustrator, Photoshop, etc.) und Figma\n- Selbstständige, strukturierte Arbeitsweise und Teamfähigkeit\n- sehr gute Deutschkenntnisse\n**Inhaltliche Fragen beantworten Ihnen gerne:**\nProf. Jürgen Graef ([juergen.graef@rwu.de](https://mailto:jochen.weissenrieder@rwu.de); Telefon: [0751 501-9732](tel:07515019868))\nDie RWU ist als familiengerechte Hochschule zertifiziert und fördert die Gleichstellung aller …",
    "extra": {
-    "refnr": "10000-1208454500-S",
-    "query": "Chancengleichheit",
+    "refnr": "10001-1003934384-S",
+    "query": "Gleichstellung",
     "befristung": null,
     "arbeitszeit": null
    },
-   "id": "171502b93a4a31b4",
+   "id": "c5de5b65cf5b3646",
    "sources": [
     "arbeitsagentur"
    ],
    "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208454500-S"
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934384-S"
    },
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   },
   {
-   "title": "Projektverantwortlicher Konfigurationsmanagement (m/w/d)",
-   "company": "ep group",
-   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/projektverantwortlicher-konfigurationsmanagement-m-w-d-at-ep-group-4484779329",
-   "posted": "2026-10-29",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "571805d593d35114",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/projektverantwortlicher-konfigurationsmanagement-m-w-d-at-ep-group-4484779329"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Projektleiter (m/w/d) Produktmanagement für bodengebundene Luftverteidigungssysteme mittlere & lange Reichweite",
-   "company": "Diehl Defence",
-   "location": "Überlingen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-produktmanagement-f%C3%BCr-bodengebundene-luftverteidigungssysteme-mittlere-lange-reichweite-at-diehl-defence-4483870114",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "b6d4e1a79776f597",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-produktmanagement-f%C3%BCr-bodengebundene-luftverteidigungssysteme-mittlere-lange-reichweite-at-diehl-defence-4483870114"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Technischer Redaktor",
-   "company": "Skysec Defence",
-   "location": "Aadorf, Thurgau, Switzerland",
+   "title": "Werkstundent:in",
+   "company": "Geobrugg",
+   "location": "Romanshorn, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/technischer-redaktor-at-skysec-defence-4484906193",
+   "url": "https://ch.linkedin.com/jobs/view/werkstundent-in-at-geobrugg-4484511608",
    "posted": "2026-10-29",
    "salary": null,
    "via": null,
-   "description": "Über uns Skysec Defence ist ein Schweizer Unternehmen, das sich auf die Entwicklung modernster C-UAS (Counter-Unmanned Aircraft Systems) Lösungen spezialisiert hat. Mit einem interdisziplinären Team aus Software-, Elektronik-, System- und Entwicklungsingenieuren arbeiten wir an der Spitze der Drohnentechnologie und entwickeln Systeme, die neue Massstäbe in der Luftabwehr setzen. Deine Rolle Als Technischer Redaktor wirst du Teil unseres Customer Solutions Teams und unterstützt uns bei der professionellen Erstellung aller technischen Dokumentationen. Du erstellst eigenständig externe Handbücher, interne Wartungsdokumentationen sowie Engineering-Dokumente und Anleitungen. Dabei arbeitest du eng mit der Entwicklung und Produktion zusammen, erstellst technische Illustrationen und stellst sicher, dass sämtliche Dokumentation den massgeblichen Defence- und Aerospace-Standards entspricht. Deine Arbeit stellt sicher, dass unsere Kunden und internen Teams jederzeit auf verständliche, vollständige und normgerechte Unterlagen zugreifen können, ein fester Bestandteil eines ganzheitlichen ILS-Managements. Das bewegst du bei uns Externe Handbücher: Du erstellst und pflegst Bedienungs-, Wartungs- und Instandhaltungshandbücher für unsere Kunden gemäss den geltenden Defence- und Aerospace-Standards. Interne Wartungsdokumentation: Du erstellst interne Wartungshandbücher, Prüfanleitungen und Servicedokumentationen für unsere eigenen Teams in Produktion und After-Sales. Engineering-Dokumente: Du erstellst technische Dokumentationen während der Entwicklung, begleitest Produktänderungen und stellst die durchgängige Aktualisierung aller technischen Unterlagen sicher. Interne Anleitungen: Du entwickelst Arbeitsanweisungen, Montageanleitungen und interne Richtlinien für Fertigung und Qualitätssicherung. Illustrationen und Grafiken: Du erstellst technische Illustrationen, Explosionszeichnungen, Schaltpläne und schematische Darstellungen zur visuellen Unterstützung der Dokumentation. Normengerechte Aufbereitung: Du arbeitest nach einschlägigen Publikationsstandards (ASD S1000D, ASD-STE100) und stellst die Konformität der Dokumentation mit Kunden- und Zulassungsvorgaben sicher. Zusammenarbeit mit Engineering & Produktion: Du holst technische Inhalte bei den Fachabteilungen ein, klärst Sachverhalte direkt mit Entwicklern und Technikern und stellst die fachliche Korrektheit aller Dokumente sicher. Kontinuierliche Verbesserung: Du entwickelst Vorlagen, Stile und Prozesse für die Dokumentationserstellung laufend weiter und bringst Best Practices ins Team ein. ILS-Management: Du erstellst und pflegst Dokumentation, die nahtlos in ILS-Prozesse eingebunden ist – von der Instandhaltungsplanung über Ersatzteilkataloge bis zu logistischen Analysen und supportrelevanten Stammdaten. Das bringst du mit Ausbildung: Du verfügst über eine abgeschlossene technische Ausbildung auf Tertiärniveau (HF, FH, Universität) oder eine vergleichbare Qualifikation mit entsprechendem technischem Hintergrund. Berufserfahrung: Du bringst mindestens 5 Jahre Berufserfahrung als Technischer Redaktor mit. Davon mindestens 2 Jahre Branchenerfahrung in der Defence- oder Aerospace-Industrie Publikationsstandards: Du verfügst über fundierte Kenntnisse von ASD S1000D und ASD-STE100. Erfahrung mit MIL-STD-40051, MIL-STD-38784 oder vergleichbaren militärischen Dokumentationsstandards ist von Vorteil. Technisches Verständnis: Du hast ein ausgeprägtes technisches Verständnis und kannst komplexe technische Zusammenhänge erfassen, strukturieren und zielgruppengerecht aufbereiten. Tool-Kompetenz: Du arbeitest sicher mit gängigen Autorensystemen, CMS- und Redaktionswerkzeugen. CAD-Kenntnisse (idealerweise Autodesk Inventor) sind von Vorteil. Illustrationserfahrung: Du hast Erfahrung in der Erstellung technischer Illustrationen und Grafiken (Explosionszeichnungen, Schema-Darstellungen u. Ä.). ILS-Kenntnisse: Du bist mit der Erstellung und Pflege von Dokumentation im Kontext des Integrated Logistic …",
+   "description": "Internship/Werkstudent:in – Marketing & Communication mit Fokus Digital Content Management 60-100% Du möchtest praktische Erfahrung sammeln und gleichzeitig mit deinen Ideen etwas bewegen? Als Teil unseres internationalen Marketing & Communication Teams arbeitest du aktiv an unseren digitalen Inhalten und Kommunikationsprojekten mit. Dabei übernimmst du eigene Aufgaben, bringst deine Stärken ein und entwickelst dich gemeinsam mit uns weiter. Dein Schwerpunkt liegt im Digital Content Management . Du sorgst mit dem Team dafür, dass unsere digitalen Inhalte aktuell, relevant und gut auffindbar sind und unterstützt bei der Weiterentwicklung unserer digitalen Plattformen. Die Dauer des Praktikums (idealerweise 1 Jahr) und das Arbeitspensum können wir gemeinsam definieren. Deine Aufgaben Inhaltliche Betreuung und Pflege unserer Website geobrugg.com sowie der zugehörigen Plattformen und Portale: Aktualisierung, Pflege und Publikation von Content. Konzeptionelle und strukturelle Weiterentwicklung unserer digitalen Inhalte und Plattformen. Koordination technischer Anpassungen in enger Zusammenarbeit mit unserer Webagentur. SEO & GEO: Du unterstützt uns dabei, Inhalte für klassische Suchmaschinen sowie für AI-basierte Such- und Antwortsysteme zu optimieren. Content Creation: Du erstellst und bearbeitest Inhalte für interne und externe Kommunikationskanäle. Projektmanagement: Mitarbeit in Marketing- und Kommunikationsprojekten, Übernahme kleinerer Projekte und Umsetzung eigener Ideen. Darüber hinaus übernimmst du organisatorische und administrative Aufgaben im Marketing & Communication Team. Das bringst du mit Du studierst im Bereich Marketing, Kommunikation, Medieninformatik, Digital Business oder in einer vergleichbaren Fachrichtung. Du hast ein gutes Verständnis für digitale Inhalte und Websites und idealerweise erste Erfahrung mit Content-Management-Systemen. Du interessierst dich für SEO, GEO, AI und neue digitale Tools und möchtest diese Themen praktisch kennenlernen und anwenden . Du hast Freude am Schreiben und Aufbereiten von Content und ein gutes Sprachgefühl in Deutsch und Englisch. Du arbeitest selbstständig, strukturiert und sorgfältig und übernimmst gerne Verantwortung für deine Aufgaben. Du denkst mit, bringst eigene Ideen ein und packst gerne an . Du arbeitest gerne im Team und schätzt den Austausch in einem internationalen Umfeld . Das erwartet dich bei uns Ein internationales Arbeitsumfeld mit vielseitigen Themen und Einblicken in unterschiedliche Märkte. Lernen und mitgestalten : Du sammelst wertvolle Praxiserfahrung, bringst deine Stärken ein und übernimmst Schritt für Schritt eigene Aufgaben und Projekte. Ein vielseitiger Einblick ins B2B-Marketing , von Website und Content über SEO/GEO und Social Media bis zu Events und interner Kommunikation. Die Möglichkeit, neue digitale Tools und AI-Anwendungen kennenzulernen, auszuprobieren und direkt in der Marketingarbeit einzusetzen. Ein offenes und motiviertes Team , in dem wir gemeinsam anpacken, Wissen teilen und voneinander lernen. Dein Fragen für diese Stelle beantwortet dir gerne: Raphaela Henkes, Head of Marketing & Communication, 071 466 84 17 Bitte Bewerbungen über die Webseite einreichen (\"jetzt bewerben\" anklicken). Show more Show less Seniority level Internship Employment type Internship Industries Construction Referrals increase your chances of interviewing at Geobrugg by 2x See who you know",
+   "extra": {
+    "seniority": "Internship",
+    "employment_type": "Internship",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5b66b2e8f277f338",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/werkstundent-in-at-geobrugg-4484511608"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Regulatory Affairs Manager - MedTech - USA-Registrierung - Freelancer/Dienstleister/Consulting",
+   "company": "MQM GmbH",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/regulatory-affairs-manager-medtech-usa-registrierung-freelancer-dienstleister-consulting-at-mqm-gmbh-4484974407",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Regulatory Affairs Manager - MedTech – USA-Registrierung (Freelancer) Die MQM GmbH sucht einen erfahrenen Regulatory Consultant (m/w/d) zur Unterstützung eines internationalen MedTech-Projekts mit Schwerpunkt USA-Registrierung . Vertragsform: Dienstleister/Unterauftragnehmer Ihre Aufgaben Fachliche Unterstützung und Koordination eines regulatorischen Projekts Analyse und Bewertung regulatorischer Anforderungen für den US-Markt (FDA, 21 CFR) Unterstützung bei der Erstellung und Bewertung regulatorischer Dokumentation Analyse und Optimierung bestehender Prozesse und Schnittstellen Erarbeitung von Handlungsempfehlungen und regulatorischen Konzepten Abstimmung mit internen Fachbereichen und internationalen Stakeholdern Unterstützung bei regulatorischen Fragestellungen und Projektentscheidungen Ihr Profil Mehrjährige Erfahrung in Regulatory Affairs und/oder Quality Management in der Medizintechnik Fundierte Kenntnisse von FDA-/US-Anforderungen und ISO 13485 Erfahrung mit regulatorischen Einreichungen und technischer Dokumentation, idealerweise 510(k) / De Novo Erfahrung im internationalen Projekt- und Prozessmanagement Sehr gute Deutsch- und Englischkenntnisse Strukturierte, analytische und eigenverantwortliche Arbeitsweise Tätigkeit als Freelancer bzw. externer Dienstleister Rahmenbedingungen Start: Dezember 2026 Dauer: zunächst ca. 4 Monate Umfang: Vollzeit, ca. 40 h/Woche Einsatz: Überwiegend remote, Onboarding Vor-Ort Projekt: internationale Medizintechnik / Regulatory Affairs Vertragsform: freiberufliche Zusammenarbeit bzw. Unterauftragnehmer Interesse? Dann freuen wir uns über Ihren CV, Ihre Verfügbarkeit und Ihren Stundensatz per Direktnachricht. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Business Consulting and Services Referrals increase your chances of interviewing at MQM GmbH by 2x See who you know",
    "extra": {
     "seniority": "Mid-Senior level",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "0212f487a586f087",
+   "id": "c5a83397fc9ef2be",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/technischer-redaktor-at-skysec-defence-4484906193"
+    "linkedin": "https://ch.linkedin.com/jobs/view/regulatory-affairs-manager-medtech-usa-registrierung-freelancer-dienstleister-consulting-at-mqm-gmbh-4484974407"
    },
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   },
   {
-   "title": "Stellvertretende Leitung Interdisziplinäres Ambulatorium / MPK",
-   "company": "Spital Thurgau AG",
+   "title": "Founder's Associate Intern (AI+Biotech) 20%-30%",
+   "company": "Tech Incubator",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/founder-s-associate-intern-ai%2Bbiotech-20%25-30%25-at-tech-incubator-4485227882",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9b122ee7eed72df0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/founder-s-associate-intern-ai%2Bbiotech-20%25-30%25-at-tech-incubator-4485227882"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Marketing Manager Schweiz",
+   "company": "CWS Workwear",
+   "location": "Bronschhofen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/marketing-manager-schweiz-at-cws-workwear-4483040004",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "657790548312932d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/marketing-manager-schweiz-at-cws-workwear-4483040004"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Junior Online Marketing Manager – Bodenseeregion (60-100%)",
+   "company": "yunikon GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/junior-online-marketing-manager-%E2%80%93-bodenseeregion-60-100%25-at-yunikon-gmbh-4484935773",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Wir sind yunikon – eine junge, dynamische Webagentur mit Fokus auf digitale Kommunikation und massgeschneiderte Lösungen. Ob in der Ostschweiz oder international, wir entwickeln kreative und wirkungsvolle Kommunikationsstrategien für unsere Kunden. Unsere Mission? Strictly digital! Startdatum: ab Dezember 2026 oder nach Vereinbarung Pensum: 60-100% (noch nicht abschliessend definiert, je nach Profil und gegenseitigen Vorstellungen verhandelbar) Deine Aufgaben Eigenständige Verwaltung von Werbekonten: Du betreust und verwaltest die Accounts zahlreicher Kunden in der Schweiz (Google Ads, Microsoft Ads, Meta Ads, LinkedIn Ads, ChatGPT Ads, TikTok Ads). Für deine Kunden entwickelst du gezielte, ganzheitliche Werbestrategien und setzt diese in deren Accounts um. Content-Erstellung und Optimierung: Du erstellst und optimierst Inhalte für Werbekampagnen und organische Channels (SEO & GEO, aber auch bspw. Newsletter Marketing). Gemeinsam mit unserem Team sorgst du fortlaufend für bessere Sichtbarkeit und Performance unserer Kunden in deren verschiedenen Online-Channels. Schnittstelle zu unserer WebDev-Unit: Online Marketing und Webentwicklung gehen bei uns Hand in Hand. Du sorgst dank deiner initiativen und selbständigen Art dafür, dass wir für unsere Kunden integrierte, ganzheitliche Marketing-Lösungen sicherstellen. Weiterentwicklung von KI-gestützten Prozessen und Lösungen: Wir verwenden für die Optimierung unserer eigenen Prozesse diverse KI-Tools und entwickeln Lösungen mithilfe von KI. Dank deiner Neugier und Offenheit trägst du dazu bei, dass sich yunikon und unsere Kunden in diesem dynamischen Bereich sinnvoll weiterentwickeln. Dein Profil Bezug zur Schweiz oder Bodenseeregion: Ein Wohnort in der Nähe des Bodensees (DE) oder ein enger Bezug zur Schweiz ist ideal. Leidenschaft und hohe Affinität für Online Marketing und digitale Medien: Du bringst grosses Interesse für die dynamische Welt des E-Commerce und Online Marketings mit. Dasselbe gilt für KI-Tools, mit denen du bereits aktiv arbeitest. Erste Erfahrungen im Performance Marketing: Idealerweise hast du bereits praktische Erfahrungen im Bereich Suchmaschinenmarketing (SEA/SEO) gesammelt und kennst dich aus in den verschiedenen Kanälen/Tools. Erste Erfahrungen sind von Vorteil, jedoch keine Voraussetzung: Wir führen dich Schritt für Schritt gemeinsam heran. Analytisches Flair: Du verstehst es, Kennzahlen zu analysieren und daraus Optimierungen für Marketingmassnahmen abzuleiten. Strukturierter, lösungsorientierter und flexibler Arbeitsstil: Du arbeitest selbständig, strukturiert und suchst nach pragmatischen Lösungen. Du packst neue Aufgaben engagiert an und passt dich flexibel an wechselnde Anforderungen an. Schnelle Auffassungsgabe und Organisationsgeschick: Du hast eine schnelle Auffassungsgabe und zeichnest dich durch hervorragende Selbstorganisationsfähigkeiten aus. Du übernimmst gern Verantwortung und zeigst Eigeninitiative. Sprachkenntnisse: Du bringst sehr gute Deutsch- und gute Englischkenntnisse mit. Warum yunikon? Agiles Arbeiten in unserer DNA: Flexible Arbeitszeiten und die Möglichkeit, remote/Homeoffice zu arbeiten – ganz nach deinen Bedürfnissen. Vielfältige und abwechslungsreiche Aufgaben: Ein spannendes Aufgabenspektrum, das jeden Tag neue Herausforderungen und Chancen bietet. Flache Hierarchien und direkter Einstieg: Du startest in eine zukunftsorientierte Branche mit kurzen Entscheidungswegen und direkter Verantwortung. 8 Wochen Urlaub pro Jahr: Geniesse eine grosszügige Auszeit, um Energie zu tanken und neue Inspiration zu sammeln. Klingt spannend? Dann schick uns deinen CV und deine Beweggründe bitte per Mail an Sarah Kaiser (sk@yunikon.ch) und Michael Göldi (mg@yunikon.ch). Wir freuen uns auf deine Bewerbung! Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at yunikon GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "29 applicants"
+   },
+   "id": "35c3f6ef800e09a6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/junior-online-marketing-manager-%E2%80%93-bodenseeregion-60-100%25-at-yunikon-gmbh-4484935773"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Projektleiter (m/w/d) Produktmanagement für bodengebundene Luftverteidigungssysteme mittlerer & langer Reichweite",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-produktmanagement-f%C3%BCr-bodengebundene-luftverteidigungssysteme-mittlerer-langer-reichweite-at-diehl-defence-4483072871",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­ar­bei­te­rin­nen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unseren Standort Diehl Defence GmbH & Co. KG in Überlingen am Bodensee suchen wir einen: Projektleiter (m/w/d) Produktmanagement für bodengebundene Luftverteidigungssysteme mittlerer & langer Reichweite Aufgaben Sie unterstützen die Projekt­leitung bei Ent­wicklungs­projekten für boden­ge­bundene Luft­ver­teidigungs­systeme mittlerer und langer Reich­weite. Sie bearbeiten selbst­ständig Teil­auf­gaben des Projekt­managements oder von Teil­projekten. Sie helfen dem Produkt­manage­ment bei der Aus­arbeitung, Auf­be­reitung und Kommu­nikation der Roadmap. Zudem übernehmen Sie die Bear­beitung von Features über den Lebens­zyklus (Feature Owner) hinweg. Sie wirken bei der Erarbeitung von zukünftigen Kunden­lösungen, Grund­lagen und Projekten mit. Profil Sie verfügen über ein erfolg­reich abge­schlossenes Studium im Bereich Ingenieur­wesen, Natur­wissen­schaft oder einer ver­gleich­baren Fach­richtung. Sie bringen erste relevante Erfahrung, z. B. im Projekt­management anspruchs­voller technischer Lösungen, Technischen Manage­ment oder in ange­lehnten Arbeits­gebieten, mit; Kenntnisse in Bezug auf Luft­ver­teidigungs­sys­teme sind von Vorteil. Sie sind hoch motiviert, sich in kom­plexe Themen einzu­arbeiten und kon­tinuier­lich weiter­zu­entwickeln. Sie arbeiten selbst­ständig sowie ziel­orientiert, treten sicher auf und verfügen über inter­kulturelle Kompetenz. Reisebereitschaft sowie verhand­lungs­sichere Englisch­kennt­nisse in Wort und Schrift runden Ihr Profil ab. Wir bieten Berufliche & persönliche Weiter­entwicklung Kantine Sportangebot Mitarbeiterrabatte Mitarbeiterevents Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9d58312bdccfbdbb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-produktmanagement-f%C3%BCr-bodengebundene-luftverteidigungssysteme-mittlerer-langer-reichweite-at-diehl-defence-4483072871"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Višji svetovalec (135), Sektor za okolje, kmetijstvo in druge naloge",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-135-sektor-za-okolje-kmetijstvo-in-druge-naloge-at-vlada-republike-slovenije-4484594533",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv višji svetovalec II, z možnostjo napredovanja v uradniški naziv višji svetovalec I, uvrstitev v 24. izhodiščni plačni razred naziva, kar znaša 2.496,95 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodil upravne postopke za izdajo gradbenih, uporabnih in drugih dovoljenj oziroma odločb, komuniciral s strankami, projektanti, mnenjedajalci, občinami in drugimi organi, nudil strankam jasne informacije v zvezi s postopki, opravljal druge naloge s področja dela sektorja po navodilu nadrejenega. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja) 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 5 let delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželena Znanja In Osebnostne Sposobnosti natančnost, zanesljivost, odgovornost, samostojnost in organiziranost pri delu, sposobnost strokovne in umirjene komunikacije s strankami, projektanti, investitorji, občinami, mnenjedajalci in drugimi organi, sposobnost dela v timu, računalniška pismenost in pripravljenost za uporabo informacijskih sistemov, ki se uporabljajo pri upravnem poslovanju in postopkih s področja gradbenih zadev. Prednost Pri Izbiri Bodo Imeli Kandidati z izkušnjami opravljanja dela na področju gradbenih zadev in z vodenjem upravnih postopkov. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 7. 11. 2026. …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ae6feb3659e748e1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-135-sektor-za-okolje-kmetijstvo-in-druge-naloge-at-vlada-republike-slovenije-4484594533"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Leiter/in Anbau von Arzneipflanzen und Gemüse 100% w/m/d",
+   "company": "A.Vogel Schweiz",
+   "location": "Roggwil, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-anbau-von-arzneipflanzen-und-gem%C3%BCse-100%25-w-m-d-at-a-vogel-schweiz-4484936797",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "2026-10-29 Wo Pflanzen wachsen, wächst auch Verantwortung: Für unseren anspruchsvollen Arzneipflanzen- und Gemüseanbau suchen wir eine engagierte Persönlichkeit, die Fachwissen, Organisationstalent und Leidenschaft für die Natur miteinander verbindet. Leiter/in Anbau von Arzneipflanzen und Gemüse 100% w/m/d Tätigkeiten Erstellung und Pflege von Anbauplänen in Absprache mit Entwicklung und Planung Projektierung von Anbauversuchen mit internen und externen Lieferanten Evaluierung von Neuen und Kontakt zu bestehenden Pflanzenlieferanten im In- und Ausland Durchführung von Audits und Lieferantenqualifizierungen Kontrolle der Einhaltung der Anbau- und Sammelvorschriften nach GACP Verantwortlich für die Umsetzung der Bio-Richtlinien Erstellen und Pflege von Dokumenten für die Qualitätskontrolle und Zulassung Budgetverwaltung Leitet ein Team und plant deren optimalen Einsatz im Bereich Anbau Anlaufstelle für Fachfragen (Botanik) für interne und externe Personen Schulung und Weiterbildung des Personals bezüglich Arzneipflanzenanbau Anforderungen Abgeschlossene Berufsausbildung oder Studium in den Bereichen, wie z.B. Agronomie, Agrotechnik, Pflanzentechnologie, Gemüseanbau usw. Kaufmännische Erfahrung von Vorteil Mehrjährige Berufserfahrung Bereitschaft für Reisetätigkeit im In- und Ausland Gute Deutsch- und Englischkenntnisse Durchsetzungsvermögen und Teamfähigkeit Sie haben eine Leidenschaft für Pflanzen, übernehmen gerne Verantwortung und behalten auch bei vielfältigen Aufgaben den Überblick? Dann erwartet Sie bei uns eine spannende Aufgabe mit viel Gestaltungsspielraum rund um den Anbau unserer Arzneipflanzen und Gemüse. Wir suchen eine initiative, belastbare und sozialkompetente Persönlichkeit , die selbstständiges und strukturiertes Arbeiten ebenso schätzt wie die Zusammenarbeit in einem interdisziplinären und internationalen Team. Ein kooperativer, offener und wertschätzender Umgang ist uns dabei besonders wichtig. Wenn wir Ihr Interesse geweckt haben, freuen wir uns auf Ihre vollständige Bewerbung in elektronischer Form an: personal@avogel.ch Für vorgängige telefonische Auskünfte steht Ihnen Herr Stefan Bauer, Leiter Produktion, Telefon 071 454 62 97, gerne zur Verfügung. Arbeitsort 9325 Roggwil TG Roggwil TG 9325 Roggwil TG Vogel AG Margarete Fässler, Leiterin Personal, 9325 Roggwil TG, per E-Mail an personal@avogel.ch Den Datenschutzhinweis für die Benützung der Bewerberdaten finden Sie auf unserer Homepage https://www.avogel-company.ch/de/unternehmen/karriere/stellenangebote.php Show more Show less Seniority level Not Applicable Employment type Full-time Industries Pharmaceutical Manufacturing Referrals increase your chances of interviewing at A.Vogel Schweiz by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "44b78c6df6a894a0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-anbau-von-arzneipflanzen-und-gem%C3%BCse-100%25-w-m-d-at-a-vogel-schweiz-4484936797"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Application Manager / Business Applications Specialist (m/w/d)",
+   "company": "Rocken®",
    "location": "Frauenfeld, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/stellvertretende-leitung-interdisziplin%C3%A4res-ambulatorium-mpk-at-spital-thurgau-ag-4484781154",
+   "url": "https://ch.linkedin.com/jobs/view/application-manager-business-applications-specialist-m-w-d-at-rocken%C2%AE-4484806146",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Rocken® hat mit Ihrer digitalen Rekrutierungslösung den Bewerbungsprozess massgeblich vereinfacht und setzt damit einen neuen, einheitlichen Standard. Wir verbinden Talente und Experten mit Unternehmen der Energieversorgung in der gesamten Schweiz. Unser Netzwerk an etablierten Unternehmen stellen wir auf unserer Rocken® Talent Plattform zur Verfügung. Unsere Partner aus der Energieversorgung suchen qualifizierte Fachleute. Diese Branche bietet spannende Aufgaben und Herausforderungen für IT Fachspezialisten, die neue Innovationen vorantreiben möchten. Du suchst einen neuen Job mit Zukunfts- und Karrierechancen? Dann ist jetzt der richtige Zeitpunkt, denn durch die Energiewende und den technischen Wandel des Markts bietet dir dieser Bereich genau das. Starte deine neue Reise jetzt mit einem persönlichen Rocken® Talent Profil und profitiere von spannenden Jobs bei führenden Unternehmen der Energieversorgung! Rolle Applikationen verstehen. Lösungen verbessern. Digitalisierung vorantreiben. Du möchtest geschäftskritische Anwendungen nicht nur betreuen, sondern aktiv weiterentwickeln? In dieser Position verbindest du technisches Verständnis mit Prozessdenken und übernimmst Verantwortung für den stabilen, sicheren und effizienten Betrieb zentraler Business-Applikationen. Du koordinierst technische Anpassungen, optimierst bestehende Systeme und arbeitest eng mit IT, Fachbereichen und externen Technologiepartnern zusammen. Verantwortung Verantwortung für den Betrieb, die Betreuung und die kontinuierliche Weiterentwicklung geschäftskritischer Applikationen Analyse von Systemanforderungen und Erarbeitung nachhaltiger Lösungskonzepte Koordination von Updates, Releases, Changes und technischen Erweiterungen Sicherstellung eines stabilen Applikationsbetriebs inklusive Fehleranalyse und Störungsbehebung Schnittstellenmanagement zwischen Anwendungen, Datenbanken und angrenzenden IT-Systemen Aufnahme, Bewertung und Priorisierung von Anforderungen aus den Fachbereichen Steuerung externer Softwarepartner und Koordination interner Spezialisten Planung und Durchführung von Funktionstests, Regressionstests und Abnahmen Optimierung von Geschäftsprozessen durch Automatisierung und intelligente Systemkonfiguration Pflege technischer Dokumentationen, Betriebskonzepte und Systemübersichten Mitarbeit bei IT-Projekten, Systemmigrationen und der Einführung neuer Softwarelösungen Weiterentwicklung von Monitoring, Supportprozessen und Applikationsqualität Qualifikationen Erfahrung im Application Management, in der Applikationsbetreuung oder im IT-Systembetrieb Technisches Verständnis für Softwarearchitekturen, Datenbanken und Systemintegrationen Erfahrung mit Schnittstellen, APIs, Webservices oder Datenflüssen von Vorteil Kenntnisse im Umgang mit Release- und Change-Management-Prozessen Verständnis für IT-Service-Management, beispielsweise nach ITIL Analytische Fähigkeiten und eine strukturierte Herangehensweise an technische Fragestellungen Erfahrung in der Zusammenarbeit mit Fachbereichen, Entwicklungsteams und externen Dienstleistern Selbstständige, zuverlässige und lösungsorientierte Arbeitsweise Ausgeprägte Kommunikationsfähigkeit und Freude an der Optimierung digitaler Prozesse Interesse an Cloud-Anwendungen, Automatisierung und modernen Softwareplattformen Benefits Homeoffice Interessante und abwechslungsreiche Tätigkeiten/Projekte Flexible Arbeitszeitgestaltung Markt- und leistungsgerechte Löhne Komfortables Büro mit moderner Infrastruktur Flache Hierarchien Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "130dc7ee0d4fc92a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/application-manager-business-applications-specialist-m-w-d-at-rocken%C2%AE-4484806146"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Service Manager (m/w/d)",
+   "company": "Rocken®",
+   "location": "Sirnach, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/service-manager-m-w-d-at-rocken%C2%AE-4484555625",
    "posted": "2026-10-29",
    "salary": null,
    "via": null,
-   "description": "Wir suchen für den Standort Frauenfeld per 1. Februar 2027 oder nach Vereinbarung eine Stellvertretende Leitung Interdisziplinäres Ambulatorium / MPK 100% Sie übernehmen Allgemeine pflegerische Tätigkeiten wie Mithilfe in Untersuchungen (bspw. Proktologische Untersuchungen, Infiltrationen), Blutentnahmen, einfache Wundbehandlungen, vorbereiten, nachbearbeiten und assistieren von ambulanten Eingriffen im Spezialraum Vorbereitung und Nachbereitung der Untersuchungszimmer Vereinbaren von Folgeterminen mit dem Patienten in den Untersuchungsräumlichkeiten Sorgfältiger Umgang mit Geräten sowie korrekte Kontrolle und Lagerung der Materialien Vorbereitung von Berichten, Abrechnung der eigenen und allfällig auch der ärztlichen Leistungen. Tel. Auskünfte Medikamentenbewirtschaftung und Bestellwesen Schnittstelle Technischer Dienst Stv. personelle Führung im Interdisziplinären Ambulatorium und der zentralen Anlaufstelle (ZAS) Zimmerpläne/Belegungspläne erstellen und anpassen Gestaltung und Erneuerung von Abläufen und Prozessen (standortübergreifend) Mitarbeit am Front Office (Terminkoordination und Nachkontrolltermine) Delegierte Aufgaben von der standortübergreifenden Leitung übernehmen Sie bringen mit Medizinische Grundausbildung (vorzugsweise MPA, Arztsekretärin oder FaGe) Betriebswirtschaftliche Kenntnisse/Managementfähigkeiten von Vorteil (vorzugsweise MPK) Hohe Kunden-, Dienstleistungs- und Marktorientierung Kenntnisse der spitalspezifischen Prozesse und Abläufe Kenntnisse der Applikationen (KISIM, SAP) Durchsetzungsvermögen Anpassungsfähigkeit und Empathie Kooperatives und lösungsorientiertes Verhalten Konfliktfähigkeit Führungserfahrung Darauf dürfen Sie sich freuen Es erwartet Sie eine moderne Infrastruktur in einem zukunftsorientierten und erfolgreichen Dienstleistungsunternehmen, auf Wunsch mit Parkplatz, sehr guter ÖV-Anbindung, firmeneigener Kita und gutem Personalrestaurant mit Mitarbeiter-Vergünstigungen. Ihre Kontaktperson «Wollen Sie mehr über diese spannende Stelle erfahren? Ich freue mich über Ihre Kontaktaufnahme.» Samira Rodrigues Teamleiterin +41 58 144 13 85 Die Spital Thurgau AG stellt sich Ihnen vor Zum erfolgreichen Unternehmen Spital Thurgau AG gehören die Kantonsspitäler in Frauenfeld und Münsterlingen, die Psychiatrischen Dienste Thurgau in Münsterlingen und Weinfelden sowie die Klink St. Katharinental für Rehabilitation und Langzeitpflege in Diessenhofen. Ebenfalls betreiben wir zentrale medizinische und administrative Dienste und Institute. Wir bieten ein umfassendes Leistungsangebot und investieren stetig in die hochwertige Infrastruktur. Unseren rund 4'100 Mitarbeitenden bieten wir attraktive Arbeitsumgebungen, interdisziplinäre Zusammenarbeit und gezielte Entwicklungsmöglichkeiten. Werden auch Sie Teil unserer Erfolgsgeschichte! Wir bevorzugen Direktbewerbungen, Stellenvermittler verzichten bitte auf eine Kontaktaufnahme. ALLE UNSERE OFFENEN STELLEN Show more Show less Seniority level Not Applicable Employment type Part-time Industries Administrative and Support Services Referrals increase your chances of interviewing at Spital Thurgau AG by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "a4b799acd0366af7",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/stellvertretende-leitung-interdisziplin%C3%A4res-ambulatorium-mpk-at-spital-thurgau-ag-4484781154"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Mitarbeiterin/Mitarbeiter im Sekretariat des Staatsschreibers und der Regierungskanzlei, Staatskanzlei",
-   "company": "Kanton Thurgau",
-   "location": "Frauenfeld, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-im-sekretariat-des-staatsschreibers-und-der-regierungskanzlei-staatskanzlei-at-kanton-thurgau-4483891736",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Die Regierungskanzlei sucht per 1.12.2026 oder nach Vereinbarung eine/ einen Mitarbeiterin/Mitarbeiter im Sekretariat des Staatsschreibers und der Regierungskanzlei, Staatskanzlei 80–100% Die Zentralen Dienste und die Regierungskanzlei des Kantons Thurgau sind Teil der Staatskanzlei und erbringen vielfältige Dienstleistungen für den Regierungsrat und die kantonale Verwaltung. Wir sorgen im Hintergrund dafür, dass die administrativen Abläufe reibungslos funktionieren und die Regierungsgeschäfte professionell unterstützt werden. Ihre Aufgaben Sekretariat des Staatsschreibers Dreh- und Angelpunkt der Zentralen Dienste Organisation von Anlässen und Anlaufstelle für das Staatskeller-Team Allgemeine Sekretariatsaufgaben der Regierungskanzlei Erstellung von Präsentationen, Korrespondenzen und Terminkoordination Stellvertretung im Administrationsbereich der Regierungssitzungen Mitarbeit und Protokollführung bei Projekten Ihr Profil Sie verfügen über einen kaufmännischen Abschluss und Berufserfahrung, vorzugsweise in der öffentlichen Verwaltung. Sie bewahren auch in hektischen Situationen den Überblick und arbeiten gerne im Team. Sie zeichnen sich durch eine ausgeprägte Dienstleistungsorientierung, Flexibilität und Diskretion aus. Sie arbeiten selbstständig, vorausschauend, zuverlässig und exakt. Sie verfügen über eine stilsichere mündliche und schriftliche Ausdrucksweise. Sie bringen gute Informatikkenntnisse mit und sind mit den gängigen Office-Anwendungen vertraut. Unser Angebot Wir bieten eine abwechslungsreiche Stelle mit grosser Eigenverantwortung. Es erwartet Sie ein eingespieltes und hilfsbereites Team. Ein moderner Arbeitsplatz im Regierungsgebäude steht ebenfalls für Sie bereit. Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung. Ihr Kontakt Diana Schweizer, Leiterin Regierungskanzlei, diana.schweizer@tg.ch, Tel. +41 58 345 53 37 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "7f00632ebb488723",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-im-sekretariat-des-staatsschreibers-und-der-regierungskanzlei-staatskanzlei-at-kanton-thurgau-4483891736"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Leitung Qualitäts- und Risikomanagement (70%)",
-   "company": "Stiftung Ostschweizer Kinderspital",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/leitung-qualit%C3%A4ts-und-risikomanagement-70%25-at-stiftung-ostschweizer-kinderspital-4483856457",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "5b8c7f2d8cf8c07e",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/leitung-qualit%C3%A4ts-und-risikomanagement-70%25-at-stiftung-ostschweizer-kinderspital-4483856457"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Projektassistenz Administration & Organisation (m/w/d)",
-   "company": "Universität St.Gallen (HSG)",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektassistenz-administration-organisation-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4479047955",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "f87aeafc3c28c9a8",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektassistenz-administration-organisation-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4479047955"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Chemielaborant:in – Qualitätskontrolle",
-   "company": "CSL",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/chemielaborant-in-%E2%80%93-qualit%C3%A4tskontrolle-at-csl-4481797729",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "CSL Vifor ist ein global tätiges Pharmaunternehmen, das sich auf die Entwicklung, Herstellung und Vermarktung innovativer Therapien für Menschen mit schweren und chronischen Erkrankungen spezialisiert hat. Für unser Team Quality Control Chemical Analysis an unserem modernen Standort in St. Gallen suchen wir nach Vereinbarung eine engagierte Persönlichkeit als Chemielaborant:in – Qualitätskontrolle (100%) (m/w/d) In dieser Funktion führst du chemische Analysen von Rohstoffen, Wirkstoffen und Fertigprodukten durch und leistest damit einen wichtigen Beitrag zur Sicherstellung unserer hohen Qualitätsstandards. Dein Schwerpunkt liegt auf nasschemischen Prüfungen und instrumenteller Analytik. Dabei arbeitest du in einem GMP-regulierten Laborumfeld mit modernen Analysegeräten und trägst gemeinsam mit deinem Team wesentlich zur Qualität und Sicherheit unserer Produkte bei. Kompetenzen und Verantwortlichkeiten Durchführung und Auswertung von Analysen an Rohstoffen, Wirkstoffen und Fertigprodukten im Rahmen der Qualitätskontrolle. Durchführung nasschemischer Analysen sowie einfacher instrumenteller Analytik, unter anderem Dichtemessung, Dünnschichtchromatographie (DC), NIR und UV/Vis. GMP-konforme, vollständige und nachvollziehbare Dokumentation der durchgeführten Analysen sowie Erfassung von Daten und Ergebnissen im LIMS. Durchführung von Rohdatenkontrollen gemäss Schulungsmatrix sowie Führung der relevanten Logbücher. Kalibrierung, Funktionskontrolle und Überprüfung von Analysengeräten sowie sorgfältiger und sicherheitsbewusster Umgang mit Apparaturen und Installationen. Überwachung und Bewirtschaftung von Verbrauchsmaterialien und Chemikalien. Mitarbeit bei der Implementierung neuer Analysenmethoden sowie bei der Erstellung und Überarbeitung von Prüfvorschriften, Arbeitsanweisungen und Formblättern. Sicherstellung der Einhaltung von GMP-, Qualitäts- und Sicherheitsanforderungen sowie zeitnahe Meldung von Abweichungen und aussergewöhnlichen Ereignissen. Aktive Zusammenarbeit innerhalb des Laborteams und Unterstützung eines zuverlässigen und termingerechten Laborbetriebs. Qualifikationen und Berufserfahrung Abgeschlossene Ausbildung als Chemielaborant:in EFZ oder eine vergleichbare labortechnische Ausbildung. Praktische Kenntnisse in der chemischen Analytik, insbesondere in der Nasschemie und/oder instrumentellen Analytik. Erfahrung in einem GMP-regulierten Laborumfeld und im Umgang mit Qualitätsmanagementsystemen ist von Vorteil. Sicherer Umgang mit digitalen Anwendungen und den gängigen MS-Office-Programmen; Erfahrung mit LIMS oder vergleichbaren Laborsystemen ist von Vorteil. Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Englischkenntnisse. Selbstständige, präzise und zuverlässige Arbeitsweise mit ausgeprägtem Qualitäts- und Verantwortungsbewusstsein. Teamorientierte und kommunikative Persönlichkeit sowie Flexibilität und Bereitschaft, sich in neue Methoden, Geräte und digitale Lösungen einzuarbeiten. Über diese Position Als Teil unseres Teams Quality Control Chemical Analysis arbeitest du in einem vielseitigen analytischen Umfeld und übernimmst Verantwortung für die zuverlässige und GMP-konforme Prüfung von Rohstoffen, Wirkstoffen und Fertigprodukten. Neben der täglichen Laboranalytik hast du die Möglichkeit, dich in unterschiedliche Methoden und Geräte einzuarbeiten und bei der Einführung neuer Analysen sowie der Weiterentwicklung unserer Labordokumentation mitzuwirken. Die Position bietet dir ein abwechslungsreiches Aufgabengebiet zwischen praktischer Laborarbeit, Geräteanalytik und GMP-Dokumentation sowie die Möglichkeit, innerhalb deines Aufgabenbereichs zunehmend Verantwortung zu übernehmen und dich fachlich weiterzuentwickeln. Siehst du dich in dieser Position? Dann nehmen wir als Bewerbung gerne deinen Lebenslauf, deine Arbeitszeugnisse und deine Diplome entgegen. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Biotechnology Research Referrals increase your chances of …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "9d6cfc1fc016f549",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/chemielaborant-in-%E2%80%93-qualit%C3%A4tskontrolle-at-csl-4481797729"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Leiter/in Natur und Landschaft",
-   "company": "Regionaler Naturpark Schaffhausen",
-   "location": "Wilchingen, Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/leiter-in-natur-und-landschaft-at-regionaler-naturpark-schaffhausen-4484473360",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Der Regionale Naturpark Schaffhausen liegt im Norden der Schweiz in einer einzigartigen, traditionell geprägten Kulturlandschaft und ist ein Park von nationaler Bedeutung. Gemeinsam mit vielfältigen Akteurinnen und Akteuren entwickelt und realisiert der Naturpark Projekte in den Bereichen Landwirtschaft, Tourismus, Gewerbe, Natur, Landschaft, Bildung und Kultur. Damit stärkt er die nachhaltige Entwicklung der Region, fördert die regionale Wertschöpfung, erhält und pflegt die Natur- und Kulturlandschaft und vernetzt die Menschen und Organisationen in der Region. Per Anfang Januar 2027 oder nach Vereinbarung suchen wir eine/n Projektleiter/in Natur und Landschaft | 80–100% Ihr Aufgabengebiet Leitung, Weiterentwicklung und Umsetzung von Projekten in den Bereichen Arten- und Lebensraumförderung, Aufwertung der Kulturlandschaft, Gewässer und Natur im Siedlungsraum Betreuung des geografischen Informationssystems (GIS) sowie Verantwortung für Monitoring und Reporting Enge Zusammenarbeit mit Gemeinden, dem Kanton Schaffhausen und verschiedenen Organisationen Repräsentation des Naturparks an Ausstellungen, Messen und Dorffesten Organisation und Leitung von Arbeitseinsätzen mit Unternehmen und Schulklassen Unsere Anforderungen Fachlicher Hintergrund in Umweltingenieurwesen, Biologie, Umweltnaturwissenschaften, Forst, Geografie oder eine vergleichbare Qualifikation; wichtig ist eine ausgeprägte Affinität zu Natur- und Landschaftsthemen Fundierte Kenntnisse von Arten und Lebensräumen sowie eine starke Verbundenheit mit der Region Schaffhausen Erfahrung in der praktischen Umsetzung von Projekten gemeinsam mit lokalen Akteurinnen und Akteuren aus Landwirtschaft, Forstwirtschaft, Non-Profit-Organisationen, Gemeinden und Kanton Aufgeschlossene, initiative und selbstständige Persönlichkeit mit Eigenverantwortung, Belastbarkeit und ausgeprägten Kommunikationsfähigkeiten Was Sie erwartet Sie erwartet ein vielseitiges und verantwortungsvolles Aufgabengebiet mit viel Gestaltungsspielraum und Möglichkeiten zur persönlichen Weiterentwicklung. Wir bieten zeitgemässe Anstellungsbedingungen und einen attraktiven Arbeitsplatz in Wilchingen SH – mitten im Regionalen Naturpark Schaffhausen. Haben Sie Fragen? Christoph Müller, Geschäftsführer, beantwortet Ihre Fragen gerne unter 052 533 95 10. Weitere Informationen finden Sie unter www.rnpsh.ch/stellen. Interessiert? Dann freuen wir uns auf Ihre vollständigen Bewerbungsunterlagen in elektronischer Form, zusammengefasst in einer PDF-Datei. Bitte geben Sie auch Ihre Lohnvorstellungen an (Bruttolohn bei einem Pensum von 100%). Senden Sie Ihre Bewerbung bitte an christoph.mueller@naturpark-schaffhausen.ch. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Environmental Services Referrals increase your chances of interviewing at Regionaler Naturpark Schaffhausen by 2x See who you know",
+   "description": "Unser ROCKEN Partner ist mit industriellen elektrotechnischen Produkten in Europa, Amerika und Asien vertreten. Ständige Innovationen tragen dazu bei, dass sich unser Partner in vielen Anwendungen einen Vorsprung erarbeitet hat. Verantwortung Fachliche und personelle Führung des Service-Teams Verantwortung für Serviceumsatz, Kosten und relevante Leistungskennzahlen Strategische Weiterentwicklung des Serviceportfolios und der angebotenen Dienstleistungen Optimierung von Serviceprozessen und internen Abläufen Sicherstellung einer hohen Servicequalität und nachhaltiger Kundenzufriedenheit Qualifikationen Technische Grundausbildung mit Weiterbildung auf Stufe HF/FH im Bereich Elektrotechnik, Automation oder ähnlich Mehrjährige Führungserfahrung im Service, Customer Service etc. Erfahrung in der Steuerung von Umsatz, Kosten und betriebswirtschaftlichen Kennzahlen Unternehmerisches Denken und ausgeprägte Fähigkeiten in der strategischen Weiterentwicklung Kommunikationsstärke, Entscheidungsfreude und eine lösungsorientierte Führungsweise ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
    "extra": {
     "seniority": "Mid-Senior level",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "1a86a6744c1b74ef",
+   "id": "09023e0e8e639ac3",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-natur-und-landschaft-at-regionaler-naturpark-schaffhausen-4484473360"
+    "linkedin": "https://ch.linkedin.com/jobs/view/service-manager-m-w-d-at-rocken%C2%AE-4484555625"
    },
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   },
   {
-   "title": "Lead, MST Manufacturing",
-   "company": "SARACA",
-   "location": "Schaffhausen, Switzerland",
+   "title": "Solution & ICT Architect",
+   "company": "IGS GmbH",
+   "location": "St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/lead-mst-manufacturing-at-saraca-4483882912",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Responsibilities: • Ensure timely plant readiness to support experimental and clinical activities. • Ensure timely delivery of clinical material from internal pilot plants or external contract manufacturing organizations (CMOs). • Manage the overall relationship with internal and external manufacturers, acting as the single point of contact between the organization and each manufacturing site. • Provide pilot plant input and requirements to Drug Product Development (DPD) and Primary Container Development (PCD). • Support scale-up and technology transfer activities. • Source raw materials and components as required, and act as the point of contact for material- and supplier-related issues at the CMO. • Put in place the relevant manufacturing information and technical capabilities to enable the operations team to produce the drug product (DP) flawlessly, in line with GxP, EHS and business requirements. • Ensure that manufacturing processes are consistent with agreed platforms and are scalable and transferable to commercial operations. • Support investigations, CAPAs and change controls according to assigned responsibilities, and perform critical raw data review of key documents. • Assess new technologies and applications, covering feasibility, business case, conceptual design, installation and implementation. Profile: • Degree in Pharmaceutical, Biochemical, Life, Chemical or other relevant Sciences, or comparable experience, with a demonstrated track record of 7+ years in the pharmaceutical industry or a related field; alternatively, a PhD with 3+ years of proven experience. • Demonstrated proficiency and experience in biologics drug product development within the biopharmaceutical industry is an asset. • Demonstrated proficiency and experience in biopharmaceutical process design is an asset. • Solid understanding of, and experience in, technology transfer operations is preferred. • Solid understanding of, and experience in, fill/finish operations is preferred. • Experience in clinical or commercial manufacturing is required; prior experience working with a CMO is preferred. • Proven track record of creativity and problem-solving. • Ability to collaborate with cross-functional teams is a must. • Excellent oral and written English skills; German is a plus. Show more Show less Seniority level Mid-Senior level Employment type Contract Industries Engineering Services Referrals increase your chances of interviewing at SARACA by 2x See who you know",
-   "extra": {
-    "seniority": "Mid-Senior level",
-    "employment_type": "Contract",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "fdd9577d9c9e6ba7",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/lead-mst-manufacturing-at-saraca-4483882912"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Quality Manager (m/w/d)",
-   "company": "Trelleborg Sealing Solutions",
-   "location": "Stein am Rhein, Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/quality-manager-m-w-d-at-trelleborg-sealing-solutions-4476552201",
-   "posted": "2026-10-28",
+   "url": "https://ch.linkedin.com/jobs/view/solution-ict-architect-at-igs-gmbh-4484965649",
+   "posted": "2026-10-29",
    "salary": null,
    "via": null,
    "description": "",
@@ -320,214 +320,22 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "ae592989bc837cbb",
+   "id": "500f15da6195f5e9",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/quality-manager-m-w-d-at-trelleborg-sealing-solutions-4476552201"
+    "linkedin": "https://ch.linkedin.com/jobs/view/solution-ict-architect-at-igs-gmbh-4484965649"
    },
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   },
   {
-   "title": "Director, Project Management & Systems Excellence, EMEA",
-   "company": "Johnson Controls",
-   "location": "Neuhausen, Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/director-project-management-systems-excellence-emea-at-johnson-controls-4465928173",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "68a3829b479610c5",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/director-project-management-systems-excellence-emea-at-johnson-controls-4465928173"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Teilzeit PR & Content Marketing Assisten:in (m/w/d)",
-   "company": "Actuways AG",
-   "location": "Winterthur, Zurich, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/teilzeit-pr-content-marketing-assisten-in-m-w-d-at-actuways-ag-4484450472",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "66a831da31adab29",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/teilzeit-pr-content-marketing-assisten-in-m-w-d-at-actuways-ag-4484450472"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Systemmanager (m/w/d) Netzwerk",
-   "company": "Diehl Defence",
-   "location": "Überlingen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/systemmanager-m-w-d-netzwerk-at-diehl-defence-4484112020",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Das sind Ihre Aufgaben: In dieser Funktion erstellen Sie Netzwerkkonzepte und sind verantwortlich für den Aufbau, die Installation und den Betrieb von netzwerktechnischen Lösungen. Des Weiteren unterstützen Sie uns beim Monitoring der System- und Netzwerkinfrastruktur sowie bei der Analyse von Problemen und deren Behebung. Sie verantworten die Administration, Betreuung und Weiterentwicklung der Netzwerk-Infrastruktur (LAN, WLAN). Sie setzen unsere betrieblichen IT- Sicherheitsvorschriften und Revisionsanforderungen um. Ihr Aufgabenspektrum wird abgerundet durch das Erstellen von Prozessbeschreibungen und Dokumentationen für IT-Mitarbeiter und IT-Anwender. Das bringen Sie mit: Ihr abgeschlossenes Studium mit informationstechnischem Hintergrund oder eine entsprechende Berufsausbildung mit IT-Bezug mit 2-3-jähriger Erfahrung bildet die ideale Voraussetzung für diese Position. Ebenso bringen Sie Berufserfahrung im Bereich Switching, Routing, VLAN, WLAN, NAC, VPN, WAN mit. Idealerweise haben Sie Erfahrung mit den Netzwerkprodukten des Herstellers CISCO. Zudem verfügen Sie über eine sehr gute Teamfähigkeit und analytisches Denken und überzeugen uns durch Ihr systemisches Vorgehen sowie Ihre Fähigkeit zur Problemanalyse. Bewerber (m/w/d) mit einer Schwerbehinderung werden bei gleicher Eignung bevorzugt behandelt. Sollten Sie das wünschen, geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Bitte bewerben Sie sich über unser Online-Formular. Bitte beachten Sie die Datenschutzerklärung.. Land/Standort Überlingen Funktionsbereich Informationstechnologie Einstiegslevel Direkteinstieg - Mit Berufserfahrung Arbeitsmodus Hybrides Arbeiten Arbeitszeitmodell Vollzeit Arbeitsverhältnis unbefristet Unternehmensbereiche Diehl Defence Start ab sofort Diese Benefits bieten wir Ihnen - und mehr: Individuelle Entwicklungsmöglichkeiten Tarifliche Vergütung Kantine Betriebliches Gesundheitsmanagement Mach bei Diehl, was dir wichtig ist. Diehl Defence GmbH & Co. KG, Nonnweiler Ines Iglauer Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "56bb68dc1a794f68",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/systemmanager-m-w-d-netzwerk-at-diehl-defence-4484112020"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Project Lead / Product Variant and Configuration Management",
-   "company": "Guldberg GmbH",
-   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/project-lead-product-variant-and-configuration-management-at-guldberg-gmbh-4482288329",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "ec31358fa54133bb",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/project-lead-product-variant-and-configuration-management-at-guldberg-gmbh-4482288329"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "BIM-Koordinator / Anlagenplaner (m/w/d) - Start nach Vereinbarung",
-   "company": "FactoryXperts International AG",
-   "location": "Eschlikon, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/bim-koordinator-anlagenplaner-m-w-d-start-nach-vereinbarung-at-factoryxperts-international-ag-4466194786",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Unternehmensbeschreibung Wir sind die Experten für Neu- und Umbauten in den Bereichen Lebensmittel- und Getränkeindustrie, fertigende Industrie, sowie Intralogistik. Unsere Kunden vertrauen seit über 10 Jahren auf belastbare Konzepte, effiziente Produktions- und Logistikprozesse sowie praxisnahe Umsetzung. Prägen SIE mit uns die Zukunft unserer Kunden! Stellenbeschreibung Hier Ein Auszug Aus Ihren Spannenden Aufgaben Sie führen technische Informationen, Layouts und Modelle verschiedener Maschinen- und Anlagenlieferanten zu einer konsistenten Gesamtplanung zusammen Sie prüfen Planungsunterlagen auf Vollständigkeit, technische Plausibilität und Umsetzbarkeit Sie erkennen Schnittstellen und Konflikte zwischen Maschinen, Infrastruktur, TGA und baulichen Randbedingungen frühzeitig und unterstützen bei deren Klärung Sie pflegen technische Informationen und Attribute in digitalen Planungsmodellen und stellen deren Qualität sicher Sie koordinieren den Informationsfluss zwischen Lieferanten, Fachplanern und internen Projektteams Sie stellen sicher, dass relevante Planungsinformationen den beteiligten Gewerken und Projektpartnern in der erforderlichen Qualität zur Verfügung stehen Sie unterstützen die Projektleitung bei der Entwicklung integrierter Anlagen- und Fabrikplanungen Sie begleiten Projekte über alle Planungsphasen hinweg und sorgen für eine konsistente Datenbasis Für Abwechslung ist also gesorgt! Qualifikationen Mit diesen Fähigkeiten und Talenten punkten Sie bei uns: Mit einer abgeschlossenen Ausbildung als Konstrukteur/in mit Vertiefungsrichtung Anlagenplanung und Interesse an der Bauplanung Mit Ihrem sicheren Umgang mit AutoCAD, gerne auch Revit Vielleicht haben Sie schon Erfahrung in der BIM-Planung? Perfekt! Mit Ihrer Vertrautheit mit technischen Richtlinien sowie Ihrem Verständnis für bautechnische und baukonstruktive Zusammenhänge Mit Ihren Kenntnissen im Umgang mit den gängigen Microsoft-Programmen Ihre Art, eigeninitiativ zu arbeiten und Ihre Begeisterungsfähigkeit begeistert auch uns! Mit Ihrer Freude an der Arbeit in fach- und länderübergreifenden Teams und damit, dass Sie fliessend Deutsch sprechen und schreiben - vielleicht verstehen Sie sogar Englisch? Das wäre perfekt, aber kein Muss! Zusätzliche Informationen Gestalten Sie aktiv die erfolgreiche Zukunft von FactoryXperts mit! Als spezialisiertes Engineering-Unternehmen mit 38 Mitarbeitenden bieten wir viel mehr als Kaffee und Obst «for free» : zum Beispiel attraktive Treueboni, ein monatliches Team-Mittagessen, jährliche Team-Events, eine eigene Weiterbildungs-Plattform uvm. Sie übernehmen von Anfang an herausfordernde Aufgaben mit technischem Tiefgang und internationalem Projektbezug. Kurze Entscheidungswege und ein Team, das Wissen teilt, prägen unseren Alltag. In unserem innovativen Umfeld können Sie Ihr fachliches Know-how und Ihre Zeichnerqualitäten zur Entfaltung bringen! Ihre Ansprechperson Andrea Lehmann, HR Managerin, +41 71 929 91 66 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Architecture and Planning Referrals increase your chances of interviewing at FactoryXperts International AG by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "e74bdaeb64521e52",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/bim-koordinator-anlagenplaner-m-w-d-start-nach-vereinbarung-at-factoryxperts-international-ag-4466194786"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Projektleiter",
-   "company": "Ellenbroek Hugentobler AG, Elektrische Unternehmungen",
-   "location": "Weinfelden, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiter-at-ellenbroek-hugentobler-ag-elektrische-unternehmungen-4484489280",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Unternehmensbeschreibung Die Ellenbroek Hugentobler AG, Elektrische Unternehmungen, ist ein etabliertes Unternehmen mit über 120 Fachkräften in den Bereichen Elektroinstallationen, Service, Telematik, Netzbau, Gebäudetechnik und Solartechnik. In der Region Ostschweiz nimmt das Unternehmen eine führende Marktstellung ein und bietet vielseitige Projekte in modernen Gebäuden und Infrastrukturen. Mitarbeitende profitieren von einem professionellen Umfeld, in dem unterschiedliche technische Disziplinen eng zusammenarbeiten. Die Unternehmenskultur ist geprägt von Qualitätsbewusstsein, Kundennähe und der Förderung individueller Weiterentwicklung. Rollenbeschreibung Als Projektleiter:in übernehmen Sie die ganzheitliche Verantwortung für Elektro- und Gebäudetechnik-Projekte von der Planung bis zur erfolgreichen Ausführung. Sie koordinieren interne und externe Beteiligte, erstellen Angebote, kalkulieren Projekte und überwachen Termine, Qualität und Kosten. Im Arbeitsalltag führen Sie Baubesprechungen, stimmen sich mit Kundschaft, Architekt:innen und Planer:innen ab und sorgen für eine reibungslose Umsetzung auf der Baustelle. Dabei leiten Sie Montageteams fachlich, treffen technische Entscheidungen und dokumentieren den Projektfortschritt. Diese Funktion ist eine Vollzeitstelle, findet vor Ort statt und ist in Weinfelden angesiedelt. Qualifikationen Fachliche Kompetenz: Abgeschlossene Berufsausbildung im Elektrobereich (z.B. Elektroinstallateur:in EFZ) mit idealerweise Weiterbildung als Projektleiter:in Elektro oder vergleichbare Qualifikation; fundierte Kenntnisse in Elektroinstallationen, Gebäudetechnik und idealerweise Solartechnik. Projektleitung & Organisation: Ausgeprägte Fähigkeiten in Projektplanung, Koordination und Überwachung von Bauprojekten; sicher im Umgang mit Offertwesen, Kostenkontrolle, Terminplanung und Qualitätsmanagement. Kommunikation & Führung: Sichere, wertschätzende Kommunikation mit Kundschaft, Partner:innen und Teammitgliedern; Erfahrung in der Führung von Montageteams und der Moderation von Sitzungen und Baubesprechungen. IT- und Planungstools: Routine im Umgang mit gängiger Bürosoftware (z.B. MS Office) sowie mit branchenüblichen Planungs- und Kalkulationstools; Verständnis von technischen Plänen und Schemas. Persönliche Eigenschaften: Selbstständige, zuverlässige und strukturierte Arbeitsweise; hohe Serviceorientierung, Verantwortungsbewusstsein und Entscheidungsfähigkeit; Bereitschaft zur kontinuierlichen Weiterbildung und Interesse an neuen Technologien. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Retail Referrals increase your chances of interviewing at Ellenbroek Hugentobler AG, Elektrische Unternehmungen by 2x See who you know",
-   "extra": {
-    "seniority": "Mid-Senior level",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "296c39b2b8e2e9cd",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-at-ellenbroek-hugentobler-ag-elektrische-unternehmungen-4484489280"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Projektleiter Stahlbau",
-   "company": "PETRAG HR AG",
-   "location": "Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiter-stahlbau-at-petrag-hr-ag-4484717909",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Unsere Mandantin ist ein traditionsreiches, renommiertes und wachsendes Metall- und Stahlbau Unternehmen mit Sitz im Kanton Thurgau. Sie ist ein dynamisches, innovatives und erfolgreiches Schweizer Unternehmen und ist in mehreren Stahlbau-Bereichen tätig. Das Team von Spezialisten erbringt in jedem der Geschäftsbereiche Bestleistungen. Das Unternehmen pflegt kurze Entscheidungs- und Kommunikationswege und legt sehr viel Wert auf die Kompetenz der Mitarbeitenden. Die Wachstumsinitiativen, die anhaltend gute Auftragslage und vielseitige Projekte verlangen nach einem personellen Ausbau der Abteilung Stahlbau. Als Projektleiter Stahlbau sind Sie das entscheidende Bindeglied zwischen den Kunden und der Firma. Sie verantworten die erfolgreiche und professionelle Projektabwicklung. Ihre vielfältigen Aufgaben umfassen: Die bautechnischen Abklärungen von Stahlbauprojekten Die Verantwortung für die Kosten und den finanziellen Erfolg der Projekte unter Einhaltung der Termine und Qualitätsstandards Die konstruktive Überwachung der durch die Konstruktion und AVOR erarbeiteten Projektvarianten, Lösungsoptimierungen, Erarbeitung von Alternativen etc. Die Erstellung von Offerten und die Präsensation der Projekte gegenüber dem Auftraggeber 1 Tag im Aussendienst in der Deutschschweiz und auf dem Objekt/auf der Baustelle (bei Projektstart Massaufnahmen, Überwachung des Baufortschritts, etc.) Die Montageüberwachung und das Erarbeiten von Montageplanungen Unsere Ausschreibung richtet sich an erfahrene und unternehmerisch denkende Persönlichkeiten. Sie haben eine technische Grundausbildung im Stahlbau oder Metallbau absolviert und sich als Ingenieur oder Techniker weitergebildet. Es werden aber auch Kandidaten/innen aus dem Anlagen- oder Maschinenbau berücksichtigt sofern Sie die nötige Berufserfahrung mitbringen. Sie verfügen über ausgewiesene Erfahrung in der Abwicklung von komplexen Stahlbau-Projekten und Aufgabenstellungen und führen diese zielgerichtet und effektiv zum geplanten Erfolg. Sie haben Freude am intensiven Kundenkontakt, sind durchsetzungsfähig, arbeiten selbständig und übernehmen gerne Eigenverantwortung. Dank Ihren guten Kommunikationsfähigkeiten gelingt es Ihnen, sich sowohl intern als auch extern erfolgreich auszutauschen. Möchten Sie gerne mehr über diese Herausforderung in einer dynamischen und sehr erfolgreichen Unternehmung erfahren? Dann freuen wir uns, Ihnen diese verantwortungsvolle und vielseitige Aufgabe präsentieren zu können. Gerne erwarten wir Ihre vollständigen Bewerbungsunterlagen. Für weitere Auskünfte dürfen Sie uns auch gerne telefonisch kontaktieren. Wir garantieren Ihnen absolute Diskretion und Exklusivität . Show more Show less Seniority level Associate Employment type Full-time Industries Metal Treatments, Fabricated Metal Products, and Metalworking Machinery Manufacturing Referrals increase your chances of interviewing at PETRAG HR AG by 2x See who you know",
-   "extra": {
-    "seniority": "Associate",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "c3dd012fa2ed78e7",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-stahlbau-at-petrag-hr-ag-4484717909"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Project Coordinator Food Industry (m/w/d)",
-   "company": "Hügli Nährmittel AG",
-   "location": "Steinach, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/project-coordinator-food-industry-m-w-d-at-h%C3%BCgli-n%C3%A4hrmittel-ag-4476380056",
-   "posted": "2026-10-28",
-   "salary": null,
-   "via": null,
-   "description": "Werde Teil der Bell Food Group und gestalte mit uns die Zukunft der Ernährung! 🚀 Als führendes Unternehmen der Lebensmittelbranche verbinden wir Tradition mit Innovation und schaffen hochwertige Produkte, die Millionen Menschen begeistern. Bringe deine Leidenschaft, Kreativität und dein Talent ein – spannende Karrierechancen warten auf dich! Bist du auf der Suche nach einer anspruchsvollen Position im Verkauf und Marketing? Möchtest du im Bereich Food Industry eine Schlüsselrolle übernehmen bei unseren Kundenprojekten? In unserem international ausgerichteten Marketing und Portfolio Management Team bieten wir dir die Möglichkeit, dich in einem motivierten Team mit flachen Hierarchien aktiv einzubringen und weiterzuentwickeln. Deine Aufgaben: Führung von Internationalen und nationalen Kundenprojekten Koordination von internen Projekten mit allen Fachabteilungen Unterstützung der Sales und Key Account Manager Erstellung von Kalkulationen und Offerten Kommunikation mit Kunden und Bearbeitung von Anfragen Anlage, Pflege und Kontrolle von Artikelstammdaten Analysen der Lebenszyklen der Produkte Das bringst du mit: Abgeschlossene kaufmännische Ausbildung oder gleichwertige Mehrjährige Erfahrung in der Verkaufssachbearbeitung und im Projektmanagement Zahlenflair für Kalkulationen Gute Englisch- und Französischkenntnisse in Wort und Schrift Sehr gute MS-Office Kenntnisse und SAP-Kenntnisse Erfahrung in der Lebensmittelbranche von Vorteil Kundenorientierte und kommunikationsstarke Persönlichkeit Begeisterungsfähige, organisierte und selbständig arbeitende Person Das erwartet dich bei uns: Work-Life-Balance Bei uns profitierst du von einer 40-Stunden Woche, mind. 25 Urlaubstagen und einem Gleitzeitsystem. Zusätzlich kannst du deine Arbeitstage im Büro und im Mobile Office gestalten. Verpflegung Kulinarik wird bei uns gross geschrieben, frisch zubereitetes Essen in unserem Personalrestaurant macht es für unsere Mitarbeitenden erlebbar. Mobilität Profitiere von bequemer Anbindung an den ÖV, ausreichenden Parkmöglichkeiten sowie der Übernahme deiner Reisespesen für berufliche Fahrten – nachhaltig und sorgenfrei unterwegs! Berufliche Weiterentwicklungsmöglichkeiten Erweitere dein Wissen durch umfangreiche Weiterbildungsangebote, hochwertige Schulungen im Coop Bildungszentrum und vielfältige persönliche Entwicklungsmöglichkeiten wie Mentoring und Coaching. Gesundheit Dein Wohlbefinden ist uns wichtig: Profitiere von unseren gesundheitsunterstützenden Angeboten und exklusiven Mitarbeiterrabatten dank der Coop Mitarbeiterrabattkarte! Faire Löhne und Sozialleistungen Sichere deine Zukunft mit unserer überdurchschnittlichen Altersvorsorge, erhalte Jubiläumsprämien und attraktive Prämien für Mitarbeiterempfehlungen. Zudem erhätst du die Personalrabattkarte von Coop und wir übernehmen zwei Drittel deiner Pensionskassenbeiträge! Familienfreundlicher Arbeitgeber Gestalte deine Arbeitszeit flexibel mit Teilzeitmodellen und erlebe ein inklusives Arbeitsumfeld, in dem Vielfalt geschätzt und gefördert wird! Firmenevents Erlebe unvergessliche Momente bei unseren Firmenanlässen und stärke den Teamgeist beim Firmenlauf – gemeinsam feiern, bewegen und Kontakte knüpfen! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Food and Beverage Manufacturing Referrals increase your chances of interviewing at Hügli Nährmittel AG by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "46 applicants"
-   },
-   "id": "175f730ae2157cee",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/project-coordinator-food-industry-m-w-d-at-h%C3%BCgli-n%C3%A4hrmittel-ag-4476380056"
-   },
-   "first_seen": "2026-10-29"
-  },
-  {
-   "title": "Mitarbeiter:in Qualitäts- und Reklamationswesen – St. Margrethen",
+   "title": "Procurement Manager:in – St. Margrethen",
    "company": "Stadler",
    "location": "St Margrethen, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-qualit%C3%A4ts-und-reklamationswesen-%E2%80%93-st-margrethen-at-stadler-4480239082",
-   "posted": "2026-10-28",
+   "url": "https://ch.linkedin.com/jobs/view/procurement-manager-in-%E2%80%93-st-margrethen-at-stadler-4480461933",
+   "posted": "2026-10-29",
    "salary": null,
    "via": null,
    "description": "",
@@ -536,40 +344,62 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "83c5c71de0313d20",
+   "id": "a88b1bfb09c254c3",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-qualit%C3%A4ts-und-reklamationswesen-%E2%80%93-st-margrethen-at-stadler-4480239082"
+    "linkedin": "https://ch.linkedin.com/jobs/view/procurement-manager-in-%E2%80%93-st-margrethen-at-stadler-4480461933"
    },
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   },
   {
-   "title": "Junior projektleiter heizung, 80-100% (m/w/d)",
-   "company": "Progress personal AG",
-   "location": "8500 Frauenfeld",
+   "title": "Solution Architect",
+   "company": "IGS GmbH",
+   "location": "St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://careers.progresspersonal.ch/job/view-job.php?id=5484-junior-projektleiter-heizung-80-100-m-w-d-frauenfeld&language=en",
-   "posted": "2026-10-28",
+   "url": "https://ch.linkedin.com/jobs/view/solution-architect-at-igs-gmbh-4484972308",
+   "posted": "2026-10-29",
    "salary": null,
    "via": null,
-   "description": "prozessen sowie in administrativen und organisatorischen belangen\n *  dabei erledigen sie projektbezogene aufgaben, wie das einholen und vergleichen von offerten, die erstellung von auftragsbestätigungen sowie von weiteren dokumenten\n *  des weiteren leisten sie eine wertvolle unterstützung bei der <em>projektkoordination</em>",
+   "description": "",
    "extra": {
-    "canton": "TG",
-    "query": "Projektkoordination",
-    "workload": "80-100 %",
-    "permanent": true,
-    "jobroom_id": "fc0b7f8e-8145-4075-950b-e988c4675a15"
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
    },
-   "id": "a49fd316c3b09af4",
+   "id": "365c9d6f94410520",
    "sources": [
-    "jobroom"
+    "linkedin"
    ],
    "links": {
-    "jobroom": "https://careers.progresspersonal.ch/job/view-job.php?id=5484-junior-projektleiter-heizung-80-100-m-w-d-frauenfeld&language=en"
+    "linkedin": "https://ch.linkedin.com/jobs/view/solution-architect-at-igs-gmbh-4484972308"
    },
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Abacus Consultant Projektverwaltung (m/w/d)",
+   "company": "Rocken®",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/abacus-consultant-projektverwaltung-m-w-d-at-rocken%C2%AE-4484562374",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8ca7ac61ab171fa3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/abacus-consultant-projektverwaltung-m-w-d-at-rocken%C2%AE-4484562374"
+   },
+   "first_seen": "2026-10-30"
   }
  ]
 }

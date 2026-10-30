@@ -1,0 +1,405 @@
+{
+ "generated_at": "2026-10-30T07:15:58+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 172,
+   "linkedin": 250,
+   "jobroom": 26
+  },
+  "excluded": 362,
+  "unique": 67,
+  "new": 16,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Bildungsplanung&location=Schaffhausen%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=15"
+ },
+ "jobs": [
+  {
+   "title": "Akademische*r Mitarbeiter*in (w/m/d) für Lehrentwicklung, Design Thinking und Evaluation",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934562-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nZum 01.03.2027 ist an der\n**Fakultät Elektrotechnik und Informatik im Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ folgende Stelle zu besetzen:**\n# Akademische\\*r Mitarbeiter\\*in (w/m/d) für Lehrentwicklung, Design Thinking und Evaluation - Analytisches Denken in der KI-Ära in Vollzeit\n**Bewerbungsfrist: 22.11.2026**\nStellen-Nr: 32/2026\nEntgeltgruppe: bis E13 TV-L\nDie Entgeltzahlung erfolgt nach dem Tarifvertrag der Länder (TV-L) bei Vorliegen der persönlichen Voraussetzungen bis Entgeltgruppe 13. Die Einstellung erfolgt befristet für die Dauer von einem Jahr.\nIm Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ soll ein offener Web-Hub für analytisches Denken in der Lehre entstehen. Ergänzt wird dieser durch ein Methodenkartenset sowie ein Playbook mit Spielzügen. Grundlage ist das Analyseprinzip 3+1. Das Material wird in vier Pilotmodulen der Fakultät E von Studierenden und Lehrenden erprobt. Alle Inhalte erscheinen als Open Educational Resources (OER).\nDas Projekt wird von einem Tandem aus zwei Vollzeitkräften eigenständig umgesetzt und von der Hochschuldidaktik begleitet. In diesem Tandem sind Sie für die didaktisch-konzeptionelle Seite verantwortlich. Sie entwickeln die Inhalte wissenschaftlich fundiert, integrieren sie in die Lehre und zeigen ihre Wirkung auf.\n## hr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Wissenschaftlich fundierte und didaktische Neukonzeption der Hub-Inhalte, der Methodenkarten, der Spielzüge und des Playbooks auf Basis des Analyseprinzips 3+1\n- Planung, Strukturierung und Durchführung von Design-Thinking-Prozessen mit Studierenden, Lehrenden und der Hochschuldidaktik, einschließlich Moderation und Dokumentation der Workshops\n- Integration der Materialien in vier Pilotmodule in enger Abstimmung mit den Lehrenden der Fakultät E und Coaching der Lehrenden für den eigenständigen Einsatz\n- Empirische Evaluation mit Vergleichs- und Pilotkohorte: Erhebung, Auswertung und Ableitung übertragbarer Gestaltungsprinzipien für die Lehre\n- Konzeption und Durchführung der Schulung von studentischen Tutor\\*innen und deren fachliche Begleitung\n- Verfassen des Abschlussberichts und Aufbereitung der Ergebnisse für eine Veröffentlichung gemeinsam mit der Hochschuldidaktik\n## Ihr Profil:\n- Abgeschlossenes wissenschaftliches Hochschulstudium (Master)\n- Von Vorteil: ein Bachelorstudium (B.Sc.) in Elektrotechnik, Informatik, Medieninformatik, Mediendesign, Wirtschaftsinformatik oder einem verwandten Fach\n- Kenntnisse in der Konzeption und Durchführung von innovativen Lehr- und Lernformaten\n- Erfahrung in der Planung und Moderation partizipativer Design-Thinking-Prozesse oder Workshops\n- Kenntnisse empirischer Methoden (Erhebungsdesign, quantitative und qualitative Auswertung)\n- Vertrautheit mit KI-Werkzeugen in Studium und Lehre\n- Kommunikationsstärke, Organisationsgeschick und eine selbstständige Arbeitsweise\n- Sehr gute Deutschkenntnisse in Wort und Schrift\n**Inhaltliche Fragen beantworten Ihnen gerne:**\nProf. Jürgen Graef ([juergen.graef@rwu.de](https://mailto:jochen.weissenrieder@rwu.de); Telefon: [0751 501-9732](tel:07515019868))\nDie RWU ist als familiengerechte Hochschule zertifiziert und fördert die Gleichstellung aller Geschlechter, bietet Ihnen flexible und familiengerechte Arbeitsbedingungen, zahlreiche Angebote zum Betrieblichen Gesundheitsmanagement, ein vergünstigtes Job Ticket, die Sozialleistungen des öffentlichen Dienstes wie z. B. betriebliche Altersvorsorge, und vieles mehr. …",
+   "extra": {
+    "refnr": "10001-1003934562-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "325df17d5e49fd5f",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934562-S"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Akademische*r Mitarbeiter*in (w/m/d) für Informationsdesign, User Experience und Web-Entwicklung",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934384-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nZum 01.03.2027 ist an der\n**Fakultät Elektrotechnik und Informatik im Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ folgende Stelle zu besetzen:**\n# Akademische\\*r Mitarbeiter\\*in (w/m/d) für Informationsdesign, User Experience und Web-Entwicklung - Analytisches Denken in der KI-Ära in Vollzeit\n**Bewerbungsfrist: 22.11.2026**\nStellen-Nr: 31/2026\nEntgeltgruppe: bis E11 TV-L\nDie Entgeltzahlung erfolgt nach dem Tarifvertrag der Länder (TV-L) bei Vorliegen der persönlichen Voraussetzungen bis Entgeltgruppe 11 . Die Einstellung erfolgt befristet für die Dauer von einem Jahr.\nIm Projekt „Erkennen – Untersuchen – Urteilen. Analytisches Denken an der Fakultät E“ soll ein offener Web-Hub für analytisches Denken in der Lehre entstehen. Ergänzt wird dieser durch ein Methodenkartenset sowie ein Playbook mit Spielzügen. Grundlage ist das Analyseprinzip 3+1. Das Material wird in vier Pilotmodulen der Fakultät E von Studierenden und Lehrenden erprobt. Alle Inhalte erscheinen als Open Educational Resources (OER).\nDas Projekt wird von einem Tandem aus zwei Vollzeitkräften eigenständig umgesetzt und von der Hochschuldidaktik begleitet. In diesem Tandem sind Sie für den gestalterisch-technischen Bereich verantwortlich. Sie konzipieren und entwickeln das Informationsdesign sowie die Gestaltung und technische Umsetzung der Materialien in gedruckter Form und für das Web eigenständig.\n## Ihr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Konzeption von Informationsarchitektur und Gestaltungssystem für das Methodenkarten-set: Übersetzung komplexer didaktischer Zusammenhänge in ein verständliches visuelles System, das in Karten, Playbook und Web-Hub einheitlich funktioniert, sowie Gestaltung für Druck und digitale Nutzung\n- Konzeption und Entwicklung des Web-Hubs von der technischen Architektur über Informa-tionsarchitektur und Benutzeroberfläche (User Experience) bis zur responsiven Umsetzung und Veröffentlichung als Open Source\n- Konzeption und Gestaltung des Playbooks mit Aufbau, Leseführung und Visualisierung der Spielzüge in Druck- und Digitalfassung\n- Prototyping sowie Planung, Durchführung und methodische Auswertung von Nutzertests (User Experience) mit Studierenden und Lehrenden; Einführungen für Lehrende und Tutor:innen in Hub und digitale Materialien\n- Dokumentation für die Nachnutzung durch Dritte (Styleguide, technische Dokumentation, Dokumentation der Barrierefreiheit, Aufbereitung der Druck- und Layoutdaten unter CC BY 4.0) und Übergabe zum Projektende\n## Ihr Profil:\n- Abgeschlossenes Hochschulstudium in Mediendesign oder Medieninformatik\n- Erfahrung in der Konzeption und Gestaltung von Methodensets, Kartensets oder Playbooks\n- Fundierte Kenntnisse in Informations- und Editorial Design für Druck und digitale Medien\n- Kenntnisse in Webtechnologien (HTML, CSS, JavaScript, gängige Web-Frameworks) und Versionsverwaltung mit Git\n- Kenntnisse in digitaler Barrierefreiheit (WCAG) und Druckvorstufe\n- Erfahrung mit Prototyping und Methoden der Nutzerforschung (User Experience, Nutzertests)\n- Sicherer Umgang mit Adobe Creative Cloud (InDesign, Illustrator, Photoshop, etc.) und Figma\n- Selbstständige, strukturierte Arbeitsweise und Teamfähigkeit\n- sehr gute Deutschkenntnisse\n**Inhaltliche Fragen beantworten Ihnen gerne:**\nProf. Jürgen Graef ([juergen.graef@rwu.de](https://mailto:jochen.weissenrieder@rwu.de); Telefon: [0751 501-9732](tel:07515019868))\nDie RWU ist als familiengerechte Hochschule zertifiziert und fördert die Gleichstellung aller …",
+   "extra": {
+    "refnr": "10001-1003934384-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "c5de5b65cf5b3646",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934384-S"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Werkstundent:in",
+   "company": "Geobrugg",
+   "location": "Romanshorn, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/werkstundent-in-at-geobrugg-4484511608",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Internship/Werkstudent:in – Marketing & Communication mit Fokus Digital Content Management 60-100% Du möchtest praktische Erfahrung sammeln und gleichzeitig mit deinen Ideen etwas bewegen? Als Teil unseres internationalen Marketing & Communication Teams arbeitest du aktiv an unseren digitalen Inhalten und Kommunikationsprojekten mit. Dabei übernimmst du eigene Aufgaben, bringst deine Stärken ein und entwickelst dich gemeinsam mit uns weiter. Dein Schwerpunkt liegt im Digital Content Management . Du sorgst mit dem Team dafür, dass unsere digitalen Inhalte aktuell, relevant und gut auffindbar sind und unterstützt bei der Weiterentwicklung unserer digitalen Plattformen. Die Dauer des Praktikums (idealerweise 1 Jahr) und das Arbeitspensum können wir gemeinsam definieren. Deine Aufgaben Inhaltliche Betreuung und Pflege unserer Website geobrugg.com sowie der zugehörigen Plattformen und Portale: Aktualisierung, Pflege und Publikation von Content. Konzeptionelle und strukturelle Weiterentwicklung unserer digitalen Inhalte und Plattformen. Koordination technischer Anpassungen in enger Zusammenarbeit mit unserer Webagentur. SEO & GEO: Du unterstützt uns dabei, Inhalte für klassische Suchmaschinen sowie für AI-basierte Such- und Antwortsysteme zu optimieren. Content Creation: Du erstellst und bearbeitest Inhalte für interne und externe Kommunikationskanäle. Projektmanagement: Mitarbeit in Marketing- und Kommunikationsprojekten, Übernahme kleinerer Projekte und Umsetzung eigener Ideen. Darüber hinaus übernimmst du organisatorische und administrative Aufgaben im Marketing & Communication Team. Das bringst du mit Du studierst im Bereich Marketing, Kommunikation, Medieninformatik, Digital Business oder in einer vergleichbaren Fachrichtung. Du hast ein gutes Verständnis für digitale Inhalte und Websites und idealerweise erste Erfahrung mit Content-Management-Systemen. Du interessierst dich für SEO, GEO, AI und neue digitale Tools und möchtest diese Themen praktisch kennenlernen und anwenden . Du hast Freude am Schreiben und Aufbereiten von Content und ein gutes Sprachgefühl in Deutsch und Englisch. Du arbeitest selbstständig, strukturiert und sorgfältig und übernimmst gerne Verantwortung für deine Aufgaben. Du denkst mit, bringst eigene Ideen ein und packst gerne an . Du arbeitest gerne im Team und schätzt den Austausch in einem internationalen Umfeld . Das erwartet dich bei uns Ein internationales Arbeitsumfeld mit vielseitigen Themen und Einblicken in unterschiedliche Märkte. Lernen und mitgestalten : Du sammelst wertvolle Praxiserfahrung, bringst deine Stärken ein und übernimmst Schritt für Schritt eigene Aufgaben und Projekte. Ein vielseitiger Einblick ins B2B-Marketing , von Website und Content über SEO/GEO und Social Media bis zu Events und interner Kommunikation. Die Möglichkeit, neue digitale Tools und AI-Anwendungen kennenzulernen, auszuprobieren und direkt in der Marketingarbeit einzusetzen. Ein offenes und motiviertes Team , in dem wir gemeinsam anpacken, Wissen teilen und voneinander lernen. Dein Fragen für diese Stelle beantwortet dir gerne: Raphaela Henkes, Head of Marketing & Communication, 071 466 84 17 Bitte Bewerbungen über die Webseite einreichen (\"jetzt bewerben\" anklicken). Show more Show less Seniority level Internship Employment type Internship Industries Construction Referrals increase your chances of interviewing at Geobrugg by 2x See who you know",
+   "extra": {
+    "seniority": "Internship",
+    "employment_type": "Internship",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5b66b2e8f277f338",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/werkstundent-in-at-geobrugg-4484511608"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Regulatory Affairs Manager - MedTech - USA-Registrierung - Freelancer/Dienstleister/Consulting",
+   "company": "MQM GmbH",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/regulatory-affairs-manager-medtech-usa-registrierung-freelancer-dienstleister-consulting-at-mqm-gmbh-4484974407",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Regulatory Affairs Manager - MedTech – USA-Registrierung (Freelancer) Die MQM GmbH sucht einen erfahrenen Regulatory Consultant (m/w/d) zur Unterstützung eines internationalen MedTech-Projekts mit Schwerpunkt USA-Registrierung . Vertragsform: Dienstleister/Unterauftragnehmer Ihre Aufgaben Fachliche Unterstützung und Koordination eines regulatorischen Projekts Analyse und Bewertung regulatorischer Anforderungen für den US-Markt (FDA, 21 CFR) Unterstützung bei der Erstellung und Bewertung regulatorischer Dokumentation Analyse und Optimierung bestehender Prozesse und Schnittstellen Erarbeitung von Handlungsempfehlungen und regulatorischen Konzepten Abstimmung mit internen Fachbereichen und internationalen Stakeholdern Unterstützung bei regulatorischen Fragestellungen und Projektentscheidungen Ihr Profil Mehrjährige Erfahrung in Regulatory Affairs und/oder Quality Management in der Medizintechnik Fundierte Kenntnisse von FDA-/US-Anforderungen und ISO 13485 Erfahrung mit regulatorischen Einreichungen und technischer Dokumentation, idealerweise 510(k) / De Novo Erfahrung im internationalen Projekt- und Prozessmanagement Sehr gute Deutsch- und Englischkenntnisse Strukturierte, analytische und eigenverantwortliche Arbeitsweise Tätigkeit als Freelancer bzw. externer Dienstleister Rahmenbedingungen Start: Dezember 2026 Dauer: zunächst ca. 4 Monate Umfang: Vollzeit, ca. 40 h/Woche Einsatz: Überwiegend remote, Onboarding Vor-Ort Projekt: internationale Medizintechnik / Regulatory Affairs Vertragsform: freiberufliche Zusammenarbeit bzw. Unterauftragnehmer Interesse? Dann freuen wir uns über Ihren CV, Ihre Verfügbarkeit und Ihren Stundensatz per Direktnachricht. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Business Consulting and Services Referrals increase your chances of interviewing at MQM GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "c5a83397fc9ef2be",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/regulatory-affairs-manager-medtech-usa-registrierung-freelancer-dienstleister-consulting-at-mqm-gmbh-4484974407"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Founder's Associate Intern (AI+Biotech) 20%-30%",
+   "company": "Tech Incubator",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/founder-s-associate-intern-ai%2Bbiotech-20%25-30%25-at-tech-incubator-4485227882",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9b122ee7eed72df0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/founder-s-associate-intern-ai%2Bbiotech-20%25-30%25-at-tech-incubator-4485227882"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Marketing Manager Schweiz",
+   "company": "CWS Workwear",
+   "location": "Bronschhofen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/marketing-manager-schweiz-at-cws-workwear-4483040004",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "657790548312932d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/marketing-manager-schweiz-at-cws-workwear-4483040004"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Junior Online Marketing Manager – Bodenseeregion (60-100%)",
+   "company": "yunikon GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/junior-online-marketing-manager-%E2%80%93-bodenseeregion-60-100%25-at-yunikon-gmbh-4484935773",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Wir sind yunikon – eine junge, dynamische Webagentur mit Fokus auf digitale Kommunikation und massgeschneiderte Lösungen. Ob in der Ostschweiz oder international, wir entwickeln kreative und wirkungsvolle Kommunikationsstrategien für unsere Kunden. Unsere Mission? Strictly digital! Startdatum: ab Dezember 2026 oder nach Vereinbarung Pensum: 60-100% (noch nicht abschliessend definiert, je nach Profil und gegenseitigen Vorstellungen verhandelbar) Deine Aufgaben Eigenständige Verwaltung von Werbekonten: Du betreust und verwaltest die Accounts zahlreicher Kunden in der Schweiz (Google Ads, Microsoft Ads, Meta Ads, LinkedIn Ads, ChatGPT Ads, TikTok Ads). Für deine Kunden entwickelst du gezielte, ganzheitliche Werbestrategien und setzt diese in deren Accounts um. Content-Erstellung und Optimierung: Du erstellst und optimierst Inhalte für Werbekampagnen und organische Channels (SEO & GEO, aber auch bspw. Newsletter Marketing). Gemeinsam mit unserem Team sorgst du fortlaufend für bessere Sichtbarkeit und Performance unserer Kunden in deren verschiedenen Online-Channels. Schnittstelle zu unserer WebDev-Unit: Online Marketing und Webentwicklung gehen bei uns Hand in Hand. Du sorgst dank deiner initiativen und selbständigen Art dafür, dass wir für unsere Kunden integrierte, ganzheitliche Marketing-Lösungen sicherstellen. Weiterentwicklung von KI-gestützten Prozessen und Lösungen: Wir verwenden für die Optimierung unserer eigenen Prozesse diverse KI-Tools und entwickeln Lösungen mithilfe von KI. Dank deiner Neugier und Offenheit trägst du dazu bei, dass sich yunikon und unsere Kunden in diesem dynamischen Bereich sinnvoll weiterentwickeln. Dein Profil Bezug zur Schweiz oder Bodenseeregion: Ein Wohnort in der Nähe des Bodensees (DE) oder ein enger Bezug zur Schweiz ist ideal. Leidenschaft und hohe Affinität für Online Marketing und digitale Medien: Du bringst grosses Interesse für die dynamische Welt des E-Commerce und Online Marketings mit. Dasselbe gilt für KI-Tools, mit denen du bereits aktiv arbeitest. Erste Erfahrungen im Performance Marketing: Idealerweise hast du bereits praktische Erfahrungen im Bereich Suchmaschinenmarketing (SEA/SEO) gesammelt und kennst dich aus in den verschiedenen Kanälen/Tools. Erste Erfahrungen sind von Vorteil, jedoch keine Voraussetzung: Wir führen dich Schritt für Schritt gemeinsam heran. Analytisches Flair: Du verstehst es, Kennzahlen zu analysieren und daraus Optimierungen für Marketingmassnahmen abzuleiten. Strukturierter, lösungsorientierter und flexibler Arbeitsstil: Du arbeitest selbständig, strukturiert und suchst nach pragmatischen Lösungen. Du packst neue Aufgaben engagiert an und passt dich flexibel an wechselnde Anforderungen an. Schnelle Auffassungsgabe und Organisationsgeschick: Du hast eine schnelle Auffassungsgabe und zeichnest dich durch hervorragende Selbstorganisationsfähigkeiten aus. Du übernimmst gern Verantwortung und zeigst Eigeninitiative. Sprachkenntnisse: Du bringst sehr gute Deutsch- und gute Englischkenntnisse mit. Warum yunikon? Agiles Arbeiten in unserer DNA: Flexible Arbeitszeiten und die Möglichkeit, remote/Homeoffice zu arbeiten – ganz nach deinen Bedürfnissen. Vielfältige und abwechslungsreiche Aufgaben: Ein spannendes Aufgabenspektrum, das jeden Tag neue Herausforderungen und Chancen bietet. Flache Hierarchien und direkter Einstieg: Du startest in eine zukunftsorientierte Branche mit kurzen Entscheidungswegen und direkter Verantwortung. 8 Wochen Urlaub pro Jahr: Geniesse eine grosszügige Auszeit, um Energie zu tanken und neue Inspiration zu sammeln. Klingt spannend? Dann schick uns deinen CV und deine Beweggründe bitte per Mail an Sarah Kaiser (sk@yunikon.ch) und Michael Göldi (mg@yunikon.ch). Wir freuen uns auf deine Bewerbung! Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at yunikon GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "29 applicants"
+   },
+   "id": "35c3f6ef800e09a6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/junior-online-marketing-manager-%E2%80%93-bodenseeregion-60-100%25-at-yunikon-gmbh-4484935773"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Projektleiter (m/w/d) Produktmanagement für bodengebundene Luftverteidigungssysteme mittlerer & langer Reichweite",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-produktmanagement-f%C3%BCr-bodengebundene-luftverteidigungssysteme-mittlerer-langer-reichweite-at-diehl-defence-4483072871",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­ar­bei­te­rin­nen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unseren Standort Diehl Defence GmbH & Co. KG in Überlingen am Bodensee suchen wir einen: Projektleiter (m/w/d) Produktmanagement für bodengebundene Luftverteidigungssysteme mittlerer & langer Reichweite Aufgaben Sie unterstützen die Projekt­leitung bei Ent­wicklungs­projekten für boden­ge­bundene Luft­ver­teidigungs­systeme mittlerer und langer Reich­weite. Sie bearbeiten selbst­ständig Teil­auf­gaben des Projekt­managements oder von Teil­projekten. Sie helfen dem Produkt­manage­ment bei der Aus­arbeitung, Auf­be­reitung und Kommu­nikation der Roadmap. Zudem übernehmen Sie die Bear­beitung von Features über den Lebens­zyklus (Feature Owner) hinweg. Sie wirken bei der Erarbeitung von zukünftigen Kunden­lösungen, Grund­lagen und Projekten mit. Profil Sie verfügen über ein erfolg­reich abge­schlossenes Studium im Bereich Ingenieur­wesen, Natur­wissen­schaft oder einer ver­gleich­baren Fach­richtung. Sie bringen erste relevante Erfahrung, z. B. im Projekt­management anspruchs­voller technischer Lösungen, Technischen Manage­ment oder in ange­lehnten Arbeits­gebieten, mit; Kenntnisse in Bezug auf Luft­ver­teidigungs­sys­teme sind von Vorteil. Sie sind hoch motiviert, sich in kom­plexe Themen einzu­arbeiten und kon­tinuier­lich weiter­zu­entwickeln. Sie arbeiten selbst­ständig sowie ziel­orientiert, treten sicher auf und verfügen über inter­kulturelle Kompetenz. Reisebereitschaft sowie verhand­lungs­sichere Englisch­kennt­nisse in Wort und Schrift runden Ihr Profil ab. Wir bieten Berufliche & persönliche Weiter­entwicklung Kantine Sportangebot Mitarbeiterrabatte Mitarbeiterevents Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9d58312bdccfbdbb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-produktmanagement-f%C3%BCr-bodengebundene-luftverteidigungssysteme-mittlerer-langer-reichweite-at-diehl-defence-4483072871"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Višji svetovalec (135), Sektor za okolje, kmetijstvo in druge naloge",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-135-sektor-za-okolje-kmetijstvo-in-druge-naloge-at-vlada-republike-slovenije-4484594533",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv višji svetovalec II, z možnostjo napredovanja v uradniški naziv višji svetovalec I, uvrstitev v 24. izhodiščni plačni razred naziva, kar znaša 2.496,95 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodil upravne postopke za izdajo gradbenih, uporabnih in drugih dovoljenj oziroma odločb, komuniciral s strankami, projektanti, mnenjedajalci, občinami in drugimi organi, nudil strankam jasne informacije v zvezi s postopki, opravljal druge naloge s področja dela sektorja po navodilu nadrejenega. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja) 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 5 let delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželena Znanja In Osebnostne Sposobnosti natančnost, zanesljivost, odgovornost, samostojnost in organiziranost pri delu, sposobnost strokovne in umirjene komunikacije s strankami, projektanti, investitorji, občinami, mnenjedajalci in drugimi organi, sposobnost dela v timu, računalniška pismenost in pripravljenost za uporabo informacijskih sistemov, ki se uporabljajo pri upravnem poslovanju in postopkih s področja gradbenih zadev. Prednost Pri Izbiri Bodo Imeli Kandidati z izkušnjami opravljanja dela na področju gradbenih zadev in z vodenjem upravnih postopkov. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 7. 11. 2026. …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ae6feb3659e748e1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-135-sektor-za-okolje-kmetijstvo-in-druge-naloge-at-vlada-republike-slovenije-4484594533"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Leiter/in Anbau von Arzneipflanzen und Gemüse 100% w/m/d",
+   "company": "A.Vogel Schweiz",
+   "location": "Roggwil, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-anbau-von-arzneipflanzen-und-gem%C3%BCse-100%25-w-m-d-at-a-vogel-schweiz-4484936797",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "2026-10-29 Wo Pflanzen wachsen, wächst auch Verantwortung: Für unseren anspruchsvollen Arzneipflanzen- und Gemüseanbau suchen wir eine engagierte Persönlichkeit, die Fachwissen, Organisationstalent und Leidenschaft für die Natur miteinander verbindet. Leiter/in Anbau von Arzneipflanzen und Gemüse 100% w/m/d Tätigkeiten Erstellung und Pflege von Anbauplänen in Absprache mit Entwicklung und Planung Projektierung von Anbauversuchen mit internen und externen Lieferanten Evaluierung von Neuen und Kontakt zu bestehenden Pflanzenlieferanten im In- und Ausland Durchführung von Audits und Lieferantenqualifizierungen Kontrolle der Einhaltung der Anbau- und Sammelvorschriften nach GACP Verantwortlich für die Umsetzung der Bio-Richtlinien Erstellen und Pflege von Dokumenten für die Qualitätskontrolle und Zulassung Budgetverwaltung Leitet ein Team und plant deren optimalen Einsatz im Bereich Anbau Anlaufstelle für Fachfragen (Botanik) für interne und externe Personen Schulung und Weiterbildung des Personals bezüglich Arzneipflanzenanbau Anforderungen Abgeschlossene Berufsausbildung oder Studium in den Bereichen, wie z.B. Agronomie, Agrotechnik, Pflanzentechnologie, Gemüseanbau usw. Kaufmännische Erfahrung von Vorteil Mehrjährige Berufserfahrung Bereitschaft für Reisetätigkeit im In- und Ausland Gute Deutsch- und Englischkenntnisse Durchsetzungsvermögen und Teamfähigkeit Sie haben eine Leidenschaft für Pflanzen, übernehmen gerne Verantwortung und behalten auch bei vielfältigen Aufgaben den Überblick? Dann erwartet Sie bei uns eine spannende Aufgabe mit viel Gestaltungsspielraum rund um den Anbau unserer Arzneipflanzen und Gemüse. Wir suchen eine initiative, belastbare und sozialkompetente Persönlichkeit , die selbstständiges und strukturiertes Arbeiten ebenso schätzt wie die Zusammenarbeit in einem interdisziplinären und internationalen Team. Ein kooperativer, offener und wertschätzender Umgang ist uns dabei besonders wichtig. Wenn wir Ihr Interesse geweckt haben, freuen wir uns auf Ihre vollständige Bewerbung in elektronischer Form an: personal@avogel.ch Für vorgängige telefonische Auskünfte steht Ihnen Herr Stefan Bauer, Leiter Produktion, Telefon 071 454 62 97, gerne zur Verfügung. Arbeitsort 9325 Roggwil TG Roggwil TG 9325 Roggwil TG Vogel AG Margarete Fässler, Leiterin Personal, 9325 Roggwil TG, per E-Mail an personal@avogel.ch Den Datenschutzhinweis für die Benützung der Bewerberdaten finden Sie auf unserer Homepage https://www.avogel-company.ch/de/unternehmen/karriere/stellenangebote.php Show more Show less Seniority level Not Applicable Employment type Full-time Industries Pharmaceutical Manufacturing Referrals increase your chances of interviewing at A.Vogel Schweiz by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "44b78c6df6a894a0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-anbau-von-arzneipflanzen-und-gem%C3%BCse-100%25-w-m-d-at-a-vogel-schweiz-4484936797"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Application Manager / Business Applications Specialist (m/w/d)",
+   "company": "Rocken®",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/application-manager-business-applications-specialist-m-w-d-at-rocken%C2%AE-4484806146",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Rocken® hat mit Ihrer digitalen Rekrutierungslösung den Bewerbungsprozess massgeblich vereinfacht und setzt damit einen neuen, einheitlichen Standard. Wir verbinden Talente und Experten mit Unternehmen der Energieversorgung in der gesamten Schweiz. Unser Netzwerk an etablierten Unternehmen stellen wir auf unserer Rocken® Talent Plattform zur Verfügung. Unsere Partner aus der Energieversorgung suchen qualifizierte Fachleute. Diese Branche bietet spannende Aufgaben und Herausforderungen für IT Fachspezialisten, die neue Innovationen vorantreiben möchten. Du suchst einen neuen Job mit Zukunfts- und Karrierechancen? Dann ist jetzt der richtige Zeitpunkt, denn durch die Energiewende und den technischen Wandel des Markts bietet dir dieser Bereich genau das. Starte deine neue Reise jetzt mit einem persönlichen Rocken® Talent Profil und profitiere von spannenden Jobs bei führenden Unternehmen der Energieversorgung! Rolle Applikationen verstehen. Lösungen verbessern. Digitalisierung vorantreiben. Du möchtest geschäftskritische Anwendungen nicht nur betreuen, sondern aktiv weiterentwickeln? In dieser Position verbindest du technisches Verständnis mit Prozessdenken und übernimmst Verantwortung für den stabilen, sicheren und effizienten Betrieb zentraler Business-Applikationen. Du koordinierst technische Anpassungen, optimierst bestehende Systeme und arbeitest eng mit IT, Fachbereichen und externen Technologiepartnern zusammen. Verantwortung Verantwortung für den Betrieb, die Betreuung und die kontinuierliche Weiterentwicklung geschäftskritischer Applikationen Analyse von Systemanforderungen und Erarbeitung nachhaltiger Lösungskonzepte Koordination von Updates, Releases, Changes und technischen Erweiterungen Sicherstellung eines stabilen Applikationsbetriebs inklusive Fehleranalyse und Störungsbehebung Schnittstellenmanagement zwischen Anwendungen, Datenbanken und angrenzenden IT-Systemen Aufnahme, Bewertung und Priorisierung von Anforderungen aus den Fachbereichen Steuerung externer Softwarepartner und Koordination interner Spezialisten Planung und Durchführung von Funktionstests, Regressionstests und Abnahmen Optimierung von Geschäftsprozessen durch Automatisierung und intelligente Systemkonfiguration Pflege technischer Dokumentationen, Betriebskonzepte und Systemübersichten Mitarbeit bei IT-Projekten, Systemmigrationen und der Einführung neuer Softwarelösungen Weiterentwicklung von Monitoring, Supportprozessen und Applikationsqualität Qualifikationen Erfahrung im Application Management, in der Applikationsbetreuung oder im IT-Systembetrieb Technisches Verständnis für Softwarearchitekturen, Datenbanken und Systemintegrationen Erfahrung mit Schnittstellen, APIs, Webservices oder Datenflüssen von Vorteil Kenntnisse im Umgang mit Release- und Change-Management-Prozessen Verständnis für IT-Service-Management, beispielsweise nach ITIL Analytische Fähigkeiten und eine strukturierte Herangehensweise an technische Fragestellungen Erfahrung in der Zusammenarbeit mit Fachbereichen, Entwicklungsteams und externen Dienstleistern Selbstständige, zuverlässige und lösungsorientierte Arbeitsweise Ausgeprägte Kommunikationsfähigkeit und Freude an der Optimierung digitaler Prozesse Interesse an Cloud-Anwendungen, Automatisierung und modernen Softwareplattformen Benefits Homeoffice Interessante und abwechslungsreiche Tätigkeiten/Projekte Flexible Arbeitszeitgestaltung Markt- und leistungsgerechte Löhne Komfortables Büro mit moderner Infrastruktur Flache Hierarchien Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "130dc7ee0d4fc92a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/application-manager-business-applications-specialist-m-w-d-at-rocken%C2%AE-4484806146"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Service Manager (m/w/d)",
+   "company": "Rocken®",
+   "location": "Sirnach, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/service-manager-m-w-d-at-rocken%C2%AE-4484555625",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "Unser ROCKEN Partner ist mit industriellen elektrotechnischen Produkten in Europa, Amerika und Asien vertreten. Ständige Innovationen tragen dazu bei, dass sich unser Partner in vielen Anwendungen einen Vorsprung erarbeitet hat. Verantwortung Fachliche und personelle Führung des Service-Teams Verantwortung für Serviceumsatz, Kosten und relevante Leistungskennzahlen Strategische Weiterentwicklung des Serviceportfolios und der angebotenen Dienstleistungen Optimierung von Serviceprozessen und internen Abläufen Sicherstellung einer hohen Servicequalität und nachhaltiger Kundenzufriedenheit Qualifikationen Technische Grundausbildung mit Weiterbildung auf Stufe HF/FH im Bereich Elektrotechnik, Automation oder ähnlich Mehrjährige Führungserfahrung im Service, Customer Service etc. Erfahrung in der Steuerung von Umsatz, Kosten und betriebswirtschaftlichen Kennzahlen Unternehmerisches Denken und ausgeprägte Fähigkeiten in der strategischen Weiterentwicklung Kommunikationsstärke, Entscheidungsfreude und eine lösungsorientierte Führungsweise ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "09023e0e8e639ac3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/service-manager-m-w-d-at-rocken%C2%AE-4484555625"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Solution & ICT Architect",
+   "company": "IGS GmbH",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/solution-ict-architect-at-igs-gmbh-4484965649",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "500f15da6195f5e9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/solution-ict-architect-at-igs-gmbh-4484965649"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Procurement Manager:in – St. Margrethen",
+   "company": "Stadler",
+   "location": "St Margrethen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/procurement-manager-in-%E2%80%93-st-margrethen-at-stadler-4480461933",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a88b1bfb09c254c3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/procurement-manager-in-%E2%80%93-st-margrethen-at-stadler-4480461933"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Solution Architect",
+   "company": "IGS GmbH",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/solution-architect-at-igs-gmbh-4484972308",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "365c9d6f94410520",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/solution-architect-at-igs-gmbh-4484972308"
+   },
+   "first_seen": "2026-10-30"
+  },
+  {
+   "title": "Abacus Consultant Projektverwaltung (m/w/d)",
+   "company": "Rocken®",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/abacus-consultant-projektverwaltung-m-w-d-at-rocken%C2%AE-4484562374",
+   "posted": "2026-10-29",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8ca7ac61ab171fa3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/abacus-consultant-projektverwaltung-m-w-d-at-rocken%C2%AE-4484562374"
+   },
+   "first_seen": "2026-10-30"
+  }
+ ]
+}
