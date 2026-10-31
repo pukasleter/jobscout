@@ -1,0 +1,572 @@
+{
+ "generated_at": "2026-10-31T07:03:45+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 170,
+   "linkedin": 250,
+   "jobroom": 29
+  },
+  "excluded": 357,
+  "unique": 72,
+  "new": 23,
+  "carried_over": 0
+ },
+ "errors": {
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Projektkoordination&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
+ },
+ "jobs": [
+  {
+   "title": "Pädagogische oder pflegerische Fachkraft für Assistenzleistung...",
+   "company": "ZfP Südwürttemberg",
+   "location": "88048 Friedrichshafen",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19200-sumvzpfzu5-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Gute Arbeit. Faire Bezahlung. Tolle Benefits. Verlässlichkeit. Und viel Potenzial zur Weiterentwicklung. Das zeichnet das ZfP Südwürttemberg als Arbeitgeber in Psychiatrie und Psychosomatik aus.\nWir möchten Sie in unserem Team willkommen heißen, und zwar als\n# Pädagogische oder pflegerische Fachkraft für Assistenzleistungen im Wohn- und Sozialraum in Friedrichshafen (w/m/d)\n### Gemeindepsychiatrie Ravensburg-Bodensee in Friedrichshafen\nKennziffer: W118/26\nDiese Stelle ist unbefristet in Teilzeit, 70 %, zum nächstmöglichen Zeitpunkt zu besetzen.\n### Das erwartet Sie\nDer Geschäftsbereich Gemeindepsychiatrie erbringt dezentral Leistungen der Eingliederungshilfe. Am Standort Friedrichshafen werden psychisch beeinträchtigte Menschen mit unterschiedlichem Unterstützungsbedarf in Wohnungen in der Gemeinde betreut. Es werden Assistenzleistungen im Wohn- und Sozialraum erbracht um die Selbstbestimmung und die volle, wirksame und gleichberechtigte Teilhabe am Leben in der Gesellschaft zu fördern.\nDie Assistenzleistungen richten sich nach dem individuellen Bedarf und können folgende Lebensbereiche betreffen: Lernen und Wissensanwendung, Allgemeine Aufgaben und Anforderungen, Kommunikation, Mobilität, Selbstversorgung, Häusliches Leben, Interpersonelle Interaktionen und Beziehungen, Bedeutende Lebensbereiche, Gemeinschafts-, soziales- und staatsbürgerliches Leben.\n### Ihre Aufgaben\n- Sie erarbeiten mit den Klient:innen Maßnahmenpläne und begleiten sie als koordinierende Bezugsperson\n- Unterstützung der Klient:innen bei der Bewältigung des Alltags und der Teilhabe am gesellschaftlichen Leben in den oben genannten Lebensbereichen\n- Unterstützung der Klient:innen bei der Nutzung von Angeboten in der Gemeinde im Sinne der Sozialraumorientierung\n- Begleitung der Klient:innen bei der Bewältigung von Krisensituationen\n- Fachgerechte Durchführung der ärztlich verordneten Behandlungspflege\n- Kooperation mit behandelnden Ärztinnen und Ärzten, der psychiatrischen Klinik, gesetzlichen Betreuer:innen, Behörden und den Leistungserbringern im Gemeindepsychiatrischen Verbund\n- Dokumentation der erbrachten Leistungen\n- Erstellen von Teilhabeberichten\n### Das bringen Sie mit\n- Eine abgeschlossene Ausbildung als Heilerziehungspfleger:in, Pflegefachkraft, Jugend- und Heimerzieher:in oder ein abgeschlossenes Studium der Sozialen Arbeit\n- Erfahrung in der Arbeit mit psychisch beeinträchtigten Menschen\n- Fähigkeit zu selbständigem Arbeiten und die Bereitschaft, Verantwortung zu übernehmen\n- Fähigkeit zum Aufbau tragfähiger Beziehungen in der Rolle als Koordinierende Bezugsperson (professionelles Umgehen mit Nähe und Distanz)\n- Kommunikative Fähigkeiten\n- Bereitschaft zu flexiblem Arbeiten\n- Fahrerlaubnis Führerscheinklasse B\n### Das bieten wir Ihnen\n- Eine interessante und anspruchsvolle Tätigkeit\n- Zusammenarbeit in einem multiprofessionellen Team\n- Supervision und regelmäßige Teambesprechungen\n- Regelmäßige Aktivitäten zur Teamentwicklung\n- Gute Fort- und Weiterbildungsmöglichkeiten\n- Interessante Angebote aus unserem betrieblichen Gesundheitsmanagement\n- Firmenfitness mit epassi\n- Lebensarbeitszeitmodell ZEITplus – Berufliche Anforderungen und private Bedürfnisse in Einklang bringen\n- Betriebliche Altersvorsorge (VBL)\n- Jobticket\n- Jobrad\n- Voraussichtliche Eingruppierung unter Berücksichtigung der individuellen Erfahrungen und Qualifikationen für pflegerische Fachkräfte in **KR 8** / Heilerziehungspfleger:innen in **S 8a** / Jugend- und Heimerzieher:innen in **S 8a TV-L /** Sozialarbeiter:innen in **S 12 TV-L**\n### Bei Fragen\n**Nähere Auskünfte erteilen Ihnen gerne die Teamleitungen Markus Wellhäuser, Tel: 07541/4094313 und Maren Hahnefeldt, Tel: 07541/4094314 sowie die Abteilungsleitung Christine Schuler, Tel: 01715746657.**\nDie gegenseitigen Beziehungen richten sich nach dem TV-L. Unsere angebotenen Vollzeitstellen sind auch in Teilzeit zu besetzen. Chancengleichheit ist fester Bestandteil unserer Personalpolitik. Schwerbehinderte Menschen werden bei …",
+   "extra": {
+    "refnr": "19200-sumvzpfzu5-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "80324ae1d6c2edcc",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19200-sumvzpfzu5-S"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projekt Manager – BOS- Digitalfunk (m/w/d)",
+   "company": "Kontron Transportation",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projekt-manager-%E2%80%93-bos-digitalfunk-m-w-d-at-kontron-transportation-4483472906",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Kontron Transportation ist ein international führender Anbieter von End-to-End-Kommunikationslösungen für Mission-Critical Networks . Unser Unternehmensfokus liegt in der zuverlässigen, effizienten und nachhaltigen Produktion, Vermittlung und Verarbeitung von Sprach-, Daten- und Videoinformationen. Wir beschäftigen über 700 Mitarbeiter*innen an 11 Standorten in Europa. Unser Headquarter befindet sich in Wien. Die Zufriedenheit unserer Mitarbeiter*innen liegt uns am Herzen! Wir fördern Teamarbeit und unterstützen unsere Mitarbeiter*innen in ihrer Karriereplanung sowie in ihrer fachlichen Weiterentwicklung. Unser Engagement für eine nachhaltigere Gesellschaft ist klar und spiegelt sich in unseren Entscheidungen und CSR-Maßnahmen wider. Dies ist ein wichtiger Bestandteil unseres Führungsstils. Zur Verstärkung unseres Teams begrüßen wir erfahrene Fachkräfte, Hochschulabsolvent*innen und Schulabgänger*innen, die unseren Way of Working teilen – geprägt von Gemeinschaft und Erfolg . Als Arbeitgeber achten wir auf Chancengleichheit und Vielfalt . Wir freuen uns auf Bewerbungen, unabhängig von Geschlecht, Alter, Religion/Ideologie, sexueller Orientierung, ethnischer Zugehörigkeit oder nationaler Herkunft. Wenn Projekte im Bereich Mobilfunknetze, Netzwerktechnik, Tetra, BOS-Digitalfunk dein Interesse wecken und du bereit bist unsere Kunden im Inland zu betreuen, dann freuen wir uns auf deine Bewerbung. Deine Aufgaben Projektmanagement im Rahmen eines bundesweiten BOS-Digitalfunk Projektes Erstellen von Projektplänen, Koordination interner und externer Lieferanten Umsatz- und Kostenplanung sowie laufende Kontrolle dieser Zahlen Abstimmung von Abnahmetätigkeiten mit dem Kunden und Autorisierten Stellen Koordination der Erstellung der begleitenden Dokumentation Im Zuge deiner Aufgaben wirst du eng mit Kunden, den Dienstleistern sowie den nationalen und internationalen Teams im Unternehmen zusammenarbeiten. Deine Qualifikation Ausbildung in HF / IT / Netzwerktechnik (Techniker, Hochschule, FH, Bachelor, Master) oder entsprechende Berufserfahrung mit Netzwerk- oder Funktechnologien Fundierte Kenntnisse im Bereich Projekt Management möglichst mit Zertifizierung Kommunikationsfähigkeit und Erfahrung im Umgang mit Kunden und Dienstleistern Sehr gute Deutsch- und Englischkenntnisse Reisebereitschaft Unser Angebot Als international führendes Unternehmen in der Mission-Critical-Networks-Branche bieten wir spannende und vielseitige Aufgaben in verschiedenen Fachgebieten. Der Umgang mit neuesten Technologien, die Umsetzung innovativer Projekte und die Zusammenarbeit mit unterschiedlichsten Kunden sind nur einige der Faktoren, die das Kontron-Team antreiben. Community und Success – das sind die Werte, die unsere Zusammenarbeit definieren. Werde Teil unseres motivierten, internationalen Teams: Offene Kommunikation mit Du-Kultur mit allen internationalen Standorten Firmenfahrzeug mit Privatnutzung Flexible Arbeitszeiten und Home-Office Ein Umfeld, das neue Ideen begrüßt und Eigeninitiative fördert Individuelle Aus- und Weiterbildungsangebote auf Basis von Mitarbeitergesprächen Regelmäßige Firmenevents und Gemeinschaftsaktivitäten Viele attraktive Sozialleistungen (z.B. Dienstrad, zusätzliche freie Urlaubstage für ehrenamtliche Tätigkeiten und Geburtstag) Schreibe uns, was Dich auszeichnet und warum Du gerne bei uns arbeiten möchtest. Mag. Pamela Csiba freut sich über Deine Bewerbung mit Foto. Kontron Transportation Deutschland GmbH Ein Unternehmen der Kontron Gruppe Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Telecommunications Referrals increase your chances of interviewing at Kontron Transportation by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e852ae788b05b83c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projekt-manager-%E2%80%93-bos-digitalfunk-m-w-d-at-kontron-transportation-4483472906"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Leiter:in IT",
+   "company": "Baumann Unternehmensberatung",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leiter-in-it-at-baumann-unternehmensberatung-4483434979",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Über das Unternehmen Markt- und Technologieführer - Mittelständisch - Wachstumsstark Wir suchen für ein mittelständisches, eigentümergeführtes Unternehmen am Bodensee mit 140 Mitarbeitenden. Das Unternehmen ist Markt- und Technologieführer in einer wichtigen Nische des landwirtschaftlichen Maschinenbaus. Über die Rolle Leitung IT (m/w/d) – Infrastruktur, ERP & Digitalisierung Konstanz | Tuttlingen | Villingen-Schwenningen Zur Sicherstellung einer leistungsfähigen, modernen und zukunftsorientierten IT-Landschaft wird eine engagierte Persönlichkeit gesucht, die die IT des Unternehmens ganzheitlich verantwortet und konsequent weiterentwickelt. Verantwortlichkeiten Strategische/operative Führung & Weiterentwicklung des IT-Bereiches Führung und fachliche Weiterentwicklung eines IT-Teams sowie Ausbildungsverantwortlicher Leitung von IT-Projekten, beispielsweise bei der Einführung bzw. Weiterentwicklung komplexer ERP-, Infrastruktur- und Storage-Lösungen Analyse betrieblicher Abläufe und Überführung bzw. Optimierung dieser Prozesse in geeignete digitale und IT-gestützte Workflows Kontinuierliche Verbesserung, Standardisierung und Dokumentation der IT-Prozesse Enge Abstimmung mit der Geschäftsleitung zur IT-Strategie, Systemarchitektur sowie zu Investitionen Zusammenarbeit mit dem Datenschutzbeauftragten sowie Steuerung externer IT-Dienstleister und Technologiepartner Qualifikationen Unternehmerischer IT-Allrounder mit Produktionsverständnis Mehrjährige Berufserfahrung aus einem Produktions- bzw. Industrieunternehmen Gute Kenntnisse klassischer IT-Infrastrukturen, z. B. Windows, Server, Virtualisierung, Netzwerk, IT-Security und ERP-Systeme Verständnis für Geschäftsprozesse und die Fähigkeit, fachliche Anforderungen in pragmatische IT-Lösungen zu überführen Interesse an neuen Technologien sowie an Themen wie Automatisierung, Digitalisierung und Künstliche Intelligenz Pragmatische und lösungsorientierte Arbeitsweise mit ausgeprägter Hands-on-Mentalität Kommunikationsstärke sowie gute Englischkenntnisse Unser Klient bietet: Eine verantwortungsvolle und vielseitige IT-Aufgabe Einen direkten Austausch mit der Geschäftsführung und kurze Entscheidungswege 1–2 Tage mobiles Arbeiten pro Woche möglich Langfristig angelegte Position Vergütung und Vergütungspaket Details zur Vergütung werden im weiteren Verlauf des Auswahlprozesses besprochen. Für weitere Informationen steht Ihnen gerne unser Berater zur Verfügung: Arne Frank Referenz 260080Li Show more Show less Seniority level Associate Employment type Full-time Industries Machinery Manufacturing Referrals increase your chances of interviewing at Baumann Unternehmensberatung by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2b7a4d11aaa60aca",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leiter-in-it-at-baumann-unternehmensberatung-4483434979"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektleiter / Integrator (w/m/d) in der Gebäudetechnik - Immenstaad bei Friedrichshafen",
+   "company": "Apleona Group",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-integrator-w-m-d-in-der-geb%C3%A4udetechnik-immenstaad-bei-friedrichshafen-at-apleona-group-4483468198",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b955cbfd186348c3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-integrator-w-m-d-in-der-geb%C3%A4udetechnik-immenstaad-bei-friedrichshafen-at-apleona-group-4483468198"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektleiter (m/w/d) Trägerfahrzeuge für Luftverteidigungssysteme",
+   "company": "Diehl Defence",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-tr%C3%A4gerfahrzeuge-f%C3%BCr-luftverteidigungssysteme-at-diehl-defence-4484860669",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Das sind Ihre Aufgaben: Trägerfahrzeuge spielen eine wichtige Rolle in Bezug auf Mobilität und das Einsatzkonzept der Systeme der Bodengebundenen Luftverteidigung. Neben der kundenspezifischen Projektierung wird den Themen Beschaffung, Lieferantenbetreuung und projektseitigen Service große Bedeutung zugemessen. Für unsere Programme der Bodengebundenen Luftverteidigung übernehmen Sie die Projektleitung für bestimmte Konfigurationen der Träger- und Nachladefahrzeuge. Zu Ihren Aufgaben gehören Projektplanung und -fortschrittsüberwachung, Risikomanagement, Ressourcen- und Budgetplanung inkl. termin- und kostengerechter Umsetzung sowie die Betreuung von Unterauftragnehmern auf nationaler und internationaler Ebene. Sie führen Projekte von der Initialisierung, Konzeption, Realisierung bis hin zur Nachweisführung und wirken bei der Identifikation sowie Umsetzung der spezifischen Produktstrategie und des Weiterentwicklungspotentials in Ihrem Bereich mit. Sie arbeiten innerhalb des Fahrzeugteams und teamübergreifend Hand-in-Hand mit dem Produktmanager sowie den Projektleitern der anderen Teilsysteme der Bodengebundenen Luftverteidigung. Sie wirken mit bei Angeboten und der Produktstrategie. Sie sind interner Ansprechpartner für die Bereiche Entwicklung, Supply Chain Management, Einkauf, Fertigung, Logistik Support und weitere Projektunterstützungsbereiche sowie zum übergeordneten System bzw. Kundenprogramm. Das bringen Sie mit: Ihr abgeschlossenes technisches Studium oder eine vergleichbare Ausbildung mit einschlägiger Berufserfahrung in den Bereichen Nutzfahrzeugtechnik oder militärische Trägerfahrzeuge bilden die ideale Voraussetzung. Sie sollten bereits über mehrjährige Berufserfahrung im Projekt-Management verfügen und kennen sich idealerweise mit militärischen Trägerfahrzeugen, Luftverteidigungssystemen und deren Komponenten aus. Außerdem besitzen Sie ein hohes Maß an Eigeninitiative, Flexibilität und Organisationsvermögen und gehen Probleme lösungsorientiert, pragmatisch und mit Nachdruck an. Durch Freude am Kontakt mit Menschen und Aufgeschlossenheit gegenüber internationalen Kulturen sowie einer ausgeprägten Kommunikationsfähigkeit bereichern Sie die Zusammenarbeit im Team und über die Fachbereiche hinaus mit externen Partnern und Kunden. Sie überzeugen durch gute Englischkenntnisse in Wort und Schrift. Der Besitz der Führerscheinklasse C (oder C1E) ist vorteilhaft. Eine hohe Reisebereitschaft (national und international) wird vorausgesetzt. Sie sind bereit, regelmäßig mehrtägige Geschäftsreisen zu übernehmen. Land/Standort Überlingen am Bodensee Funktionsbereich Vertrieb/Kundenservice Einstiegslevel Direkteinstieg - Mit Berufserfahrung Arbeitsmodus vor Ort Arbeitszeitmodell Vollzeit Arbeitsverhältnis unbefristet Unternehmensbereiche Diehl Defence Start ab sofort Diese Benefits bieten wir Ihnen - und mehr: Flexible Arbeitszeiten Familienunternehmen Betriebliche Altersvorsorge Interne Weiterbildungsprogramme Betriebliches Gesundheitsmanagement Mach bei Diehl, was dir wichtig ist. Diehl Defence GmbH & Co. KG Chiara Thum Alte Nußdorfer Straße 13, 88662 Überlingen Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "6eae35e4572d844e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-tr%C3%A4gerfahrzeuge-f%C3%BCr-luftverteidigungssysteme-at-diehl-defence-4484860669"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Netzwerkadministrator",
+   "company": "Macrogate IP Systems AG",
+   "location": "Horn, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/netzwerkadministrator-at-macrogate-ip-systems-ag-4485613452",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Rollenbeschreibung Zur Unterstützung unseres Teams suchen wir einen Netzwerk-Engineer (m/w/d). In dieser Rolle bist du verantwortlich für Support sowie die Planung, Implementierung, Wartung und Optimierung unserer Netzwerkinfrastruktur unserer Kunden in der DACH Region, um einen sicheren und effizienten Betrieb zu gewährleisten. Standort: Seestrasse 111, 9326 Horn TG, Möglichkeit von Homeoffice an 1-2 Tage pro Woch Aufgaben und Verantwortlichkei t n • Design, Installation und Wartung von LAN-/WAN-/WLAN-Systemen sowie von Firewall- und VPN-Lösungen inkl. Projekt lei tug. • Design, Installation und Wartung von Telefonie Lösungen, basieren auf Starface und Teams inkl. Projektl e itng. • Support, Monitoring und Fehlerbehebung von Netzwerk- und Telefonie Problemen, um minimale Ausfallzeiten zu ge wäh rleiten. • Sicherstellung der Netzwerksicherheit durch Implementierung von Richtlinien und Verfhren. • Regelmässige Tests und Upgrades von Netzwerkkomponenten, um die Leistun g z u optiieren. • Dokumentation von Netzwerken und K o nfigurtionen. • Zusammenarbeit mit anderen IT-Teammitgliedern, um innovative und skalierbare Lös ung e n zu e n wik eln. Qualifikatione n und Anfrderungen • Abgeschlossenes Ausbildung im Bereich Informatik, Netzwerktechnik oder verglei chbare Quaifikation. • Erfahrung im Support, Implementation und Administration von Netzwerken und VoIP Telefonie Lösungen mit Teams , Starface or Vorteil. • Kenntnisse in Netzwerktechnologien und -protokollen (z. B. TCP/IP, DNS,DHCP, VLAN). • Erfahrung mit Netzwerkgeräten vorzugsweise HPE/Aruba, Fortinet und ents p rechende Montoring-Tools. • Kenntnisse in Netzwerksic her heitslösungen nd -standards. • Problemlösungsfähigkeit, starke analytische Fähigkeiten und ei n e strukturiert A rbe itsweise. • Fürerausweis Kat B • Sprachen Deutsch , Englisch, Franzs Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Macrogate IP Systems AG by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "1a984af574b2f43e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/netzwerkadministrator-at-macrogate-ip-systems-ag-4485613452"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Partnership Manager (m/w/d) - 100%",
+   "company": "Ifolor Group",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/partnership-manager-m-w-d-100%25-at-ifolor-group-4485105206",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Verwandle Momente in Erinnerungen Strategische Partnerschaften helfen uns bei ifolor, neue Kundinnen und Kunden zu gewinnen und in der Schweiz zu wachsen. Als Partnership Manager baust du ein Netzwerk aus Partnern wie Detailhändlern, Konsumentenmarken und Verbänden auf, das Reichweite schafft und echten Mehrwert für beide Seiten bringt. Wenn du Freude daran hast, Partner zu begeistern und dabei eng mit dem Performance Marketing zusammenzuarbeiten, passt du zu uns. Warum ifolor? Work-Life-Balance: Bei ifolor setzen wir auf Flexibilität. Unser hybrides Arbeitsmodell kombiniert das Beste aus beiden Welten: Drei Tage pro Woche sind wir gemeinsam im Büro – für die Kollaboration untereinander und den Teamspirit. An den übrigen Tagen entscheidest du, ob du vor Ort oder im Homeoffice arbeiten möchtest. Finanzielle Benefits: Bei ifolor profitierst du von zahlreichen Zusatzleistungen: Wir übernehmen 100 % der Kosten für Unfallzusatzversicherung und Krankentaggeld, die Pensionskasse wird im fairen Verhältnis 60/40 finanziert. Dazu kommen teilfinanziertes Boostbar Essen, gratis Kaffee, kostenlose Parkplätze, ein Geburtstagsgutschein von Bontique, ifolor-Gutscheine sowie 100 % Lohn während des Mutterschaftsurlaubs. Bildung & Entwicklung: Bei ifolor gestaltest du deinen Entwicklungsweg selbst. Ob fachlich oder persönlich, wir unterstützen dich dabei mit passenden Weiterbildungsangeboten, individueller Förderung und dem nötigen Freiraum, um deine Ziele zu erreichen. Deine Rolle bei uns Als Partnership Manager liegt der Fokus auf dem Aufbau und der Steuerung eines nachhaltigen Partnernetzwerks, zunächst in der Schweiz und mit gezielter Ausweitung auf weitere DACH-Märkte. Die Rolle stellt sicher, dass Partnerschaften und Akquisitionskampagnen messbar neue Kundinnen und Kunden sowie Umsatz bringen. Partnergewinnung & Marktanalyse: Identifikation, Bewertung und Ansprache potenzieller Partner im Schweizer Markt auf Basis von Marktanalysen, Zielgruppenpassung und Geschäftspotenzial. Verträge & Konditionen: Verhandlung und Abschluss von Partnerschaftsverträgen inklusive Gutschein- und Rabattmechaniken, Co-Branding und rechtlichen Vorgaben. Kampagnen & Co-Marketing: Planung, Umsetzung und Steuerung von Akquisitions- und Co-Marketing-Kampagnen vom Briefing bis zur Nachanalyse. Portfolio & Zielerreichung: Gesamtverantwortung für das Partnerportfolio inklusive Pipeline, Budget und Vertragsverlängerungen sowie für die Akquisitionsziele wie Neukunden, zugeordneten Umsatz und CAC/ROI mit monatlichem Reporting. Tracking & Attribution: Sicherstellung von sauberem Tracking und sauberer Attribution aller Partnerschafts- und Akquisitionsaktivitäten sowie von rechtskonformen, gut dokumentierten Partnerverträgen. Zusammenarbeit & Koordination: Bereichsübergreifende Abstimmung mit Performance Marketing, CRM, Campaigning, Product und Customer Service sowie mit externen Agenturen und Lieferanten. Beziehungspflege & Weiterentwicklung: Überwachung von Partner- und Kampagnen-KPIs, regelmässige Partnergespräche und Pflege langfristiger Beziehungen zu Schlüsselpartnern. Was du mitbringst Du kombinierst ein gutes Gespür für Partnerschaften und Geschäftspotenzial mit einer strukturierten, zahlenorientierten Arbeitsweise. Dabei arbeitest du gerne an der Schnittstelle zwischen Partnern, Marketing und Business. Ausbildung & Erfahrung: Ausbildung in Betriebswirtschaft und/oder Marketing mit einschlägiger Berufserfahrung. Marktkenntnis: Fundierte Kenntnisse des Schweizer Marktes für Kooperationen und Partnerschaften, inklusive relevanter Akteure, Partnermodelle und Marktusancen. Netzwerk & Vertrieb: Idealerweise ein bestehendes Partnernetzwerk in der Schweiz sowie ein Hintergrund in Verkauf oder Account Management. Performance Marketing: Idealerweise Erfahrung mit Affiliate- und Performance Marketing inklusive Kampagnen-Tracking (Gutscheincodes, UTM, Attribution). Sprachen: Sehr gute Deutsch- und idealerweise gute Französischkenntnisse für die Zusammenarbeit mit Partnern in …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "11e93b6571644bab",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/partnership-manager-m-w-d-100%25-at-ifolor-group-4485105206"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Campaign Manager (m/w/d) - 100%",
+   "company": "Ifolor Group",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/campaign-manager-m-w-d-100%25-at-ifolor-group-4485105239",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Verwandle Momente in Erinnerungen Ob saisonale Aktionen, taktische Kampagnen oder Always-on, bei ifolor sorgen starke Kampagnen dafür, dass wir die richtigen Menschen zur richtigen Zeit erreichen. Als Campaign Manager planst und steuerst du Kampagnen über alle Kanäle, von der Idee bis zur Auswertung. Wenn du Freude daran hast, Marketingstrategien in eine strukturierte Umsetzung zu übersetzen und dabei datenbasiert zu optimieren, passt du zu uns. Warum ifolor? Work-Life-Balance: Bei ifolor setzen wir auf Flexibilität. Unser hybrides Arbeitsmodell kombiniert das Beste aus beiden Welten: Drei Tage pro Woche sind wir gemeinsam im Büro – für die Kollaboration untereinander und den Teamspirit. An den übrigen Tagen entscheidest du, ob du vor Ort oder im Homeoffice arbeiten möchtest. Finanzielle Benefits: Bei ifolor profitierst du von zahlreichen Zusatzleistungen: Wir übernehmen 100 % der Kosten für Unfallzusatzversicherung und Krankentaggeld, die Pensionskasse wird im fairen Verhältnis 60/40 finanziert. Dazu kommen teilfinanziertes Boostbar Essen, gratis Kaffee, kostenlose Parkplätze, ein Geburtstagsgutschein von Bontique, ifolor-Gutscheine sowie 100 % Lohn während des Mutterschaftsurlaubs. Bildung & Entwicklung: Bei ifolor gestaltest du deinen Entwicklungsweg selbst. Ob fachlich oder persönlich, wir unterstützen dich dabei mit passenden Weiterbildungsangeboten, individueller Förderung und dem nötigen Freiraum, um deine Ziele zu erreichen. Deine Rolle bei uns Als Campaign Manager liegt der Fokus auf der Umsetzung und Optimierung integrierter Kampagnen, Promotionen und Partnerschaften. Die Rolle stellt sicher, dass Kampagnen termingerecht, budgettreu und in hoher Qualität live gehen und kontinuierlich besser werden. Kampagnenstrategie & Umsetzung: Plane und steuere integrierte Marketingkampagnen über mehrere Kanäle hinweg (Online, Social Media, E-Mail, Print, TV, OOH, Display, Programmatic Advertising). Kampagnentypen & Mediabudget: Umsetzung saisonaler, taktischer und Always-on-Kampagnen inklusive Online-Aktivierung und Steuerung des Mediabudgets über alle Kanäle, Zielgruppen und Funnel-Stufen. Promotionen: Planung und Umsetzung von Promotionen mit starker Performance, hoher Qualität und laufender Optimierung auf Basis datengetriebener Erkenntnisse. Performance & Optimierung: Überwachung von Kanalmetriken und Kampagnen-KPIs, ROI-Analysen und Ableitung konkreter Optimierungsmassnahmen für mehr Wachstum und bessere Conversion. Partnerschaften & Sponsorings: Aufbau, Pflege und Weiterentwicklung von Kooperations- und Medienpartnerschaften sowie Sponsorings, insbesondere im Schweizer Markt, zur Stärkung von Markenbekanntheit und Upper-Funnel-Wirkung. Zusammenarbeit & Stakeholder: Enge Abstimmung mit internen Teams wie Brand & Content, Category Management, CRM und Performance Marketing sowie zielorientierte Steuerung von Agenturen und externen Dienstleistern. Was du mitbringst Du verbindest ein Gespür für datengetriebenes Marketing mit einer strukturierten, eigenständigen Arbeitsweise. Dabei behältst du auch bei mehreren parallelen Kampagnen den Überblick. Kampagnenexpertise: Fundierte Kenntnisse im digitalen und datengetriebenen Kampagnenmanagement sowie Verständnis dafür, wie verschiedene Marketingkanäle zusammenspielen. Tools & Analytics: Sicherer Umgang mit Kampagnen- und Werbetools (z. B. Google Ads, Meta Ads, Programmatic Advertising, E-Mail-Marketing-Plattformen) sowie mit Web-Analytics- und Reporting-Tools (z. B. Google Analytics, Looker Studio). Analyse & Optimierung: Fähigkeit, Kampagnen- und Performance-Daten auszuwerten, Zusammenhänge zu erkennen und daraus konkrete Optimierungsmassnahmen abzuleiten. Zielorientierung & Priorisierung: Fähigkeit, Kampagnen auf übergeordnete Ziele auszurichten, Prioritäten zu setzen und Massnahmen nach ihrer Wirkung zu bewerten. Arbeitsweise: Strukturierte, eigenständige Arbeitsweise sowie Fähigkeit, mehrere Kampagnen und Projekte parallel zu koordinieren und zuverlässig umzusetzen. …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d44d26b47be5e632",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/campaign-manager-m-w-d-100%25-at-ifolor-group-4485105239"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektleiterin/Projektleiter Bauherrenvertretung",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiterin-projektleiter-bauherrenvertretung-at-kanton-thurgau-4484835613",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Das Hochbauamt sucht per sofort oder nach Vereinbarung eine/ einen Projektleiterin/Projektleiter Bauherrenvertretung 80–100% Das Hochbauamt des Kantons Thurgau gestaltet, entwickelt und bewirtschaftet die öffentlichen Gebäude des Kantons – von Schulen und Sportanlagen über Verwaltungsgebäude bis hin zu Museen, Werkhöfen und Sicherheitsbauten. Mit fachlicher Kompetenz, Weitsicht und Verantwortungsbewusstsein schaffen wir nachhaltige Lösungen, die den Bedürfnissen von heute entsprechen und auch künftigen Generationen dienen. Als Bauherrschaft vertreten wir die Interessen der Öffentlichkeit, setzen politische Vorgaben um und leisten einen wichtigen Beitrag zur Entwicklung des Kantons. Wir engagieren uns für gutes Bauen und fördern eine hochwertige Baukultur durch Vermittlung und die sorgfältige Abwägung unterschiedlicher Interessen. Ihre Aufgaben Sie vertreten den Kanton in seiner Rolle als Bauherrin bzw. Bauherr und steuern anspruchsvolle Neubau-, Erneuerungs- und Instandhaltungsprojekte über alle Projektphasen hinweg. Sie übernehmen die Verantwortung für Qualität, Kosten und Termine und führen Projekte zielgerichtet zum Erfolg. Sie setzen sich für hohe funktionale, ökologische sowie gestalterisch-ästhetische Qualitäten ein. Sie koordinieren und führen interne sowie externe Projektbeteiligte und stellen eine wirkungsvolle Zusammenarbeit sicher. Sie vertreten die Interessen des Kantons gegenüber Nutzerschaften, Planenden, Behörden und weiteren Anspruchsgruppen. Sie leisten einen wesentlichen Beitrag zur nachhaltigen, wirtschaftlichen und architektonisch überzeugenden Weiterentwicklung des kantonalen Immobilienportfolios. Ihr Profil Abgeschlossenes Studium als Architektin/Architekt oder Ingenieurin/Ingenieur (ETH, UNI oder FH) Mehrjährige Erfahrung als Projektleiter Architektur oder Projektleiter Bauherrenvertreter erforderlich Mehrjährige Erfahrung im Projektmanagement von Bauprojekten über alle Phasen, von der Projektdefinition bis hin zur Inbetriebnahme, in der Schweiz Kenntnisse oder Interesse im Bereich Bauwerkserhaltung und nachhaltiger Werterhaltung von Immobilien Ausgeprägtes Verständnis für Qualität, Kosten und Termine sowie eine lösungsorientierte Arbeitsweise Vernetztes Denken, Eigeninitiative und Freude an interdisziplinärer Zusammenarbeit Hohe Dienstleistungsorientierung sowie ein sicheres und gewinnendes Auftreten Stilsichere mündliche und schriftliche Ausdrucksweise in deutscher Sprache Unser Angebot Wir bieten eine interessante, anspruchsvolle und vielseitige Tätigkeit in einem professionellen Team, flexible Arbeitszeiten, attraktive Anstellungsbedingungen und interessante Weiterbildungsmöglichkeiten. Die Stellenbesetzung erfolgt Aufgrund einer Pensionierung. Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung. Ihr Kontakt Michael Otto, Leiter Projekte, Hochbauamt Kanton Thurgau, +41 58 345 64 44 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "83c6e8936b2de56d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiterin-projektleiter-bauherrenvertretung-at-kanton-thurgau-4484835613"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Sekretar (580), Sektor za Interreg",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sekretar-580-sektor-za-interreg-at-vlada-republike-slovenije-4483458187",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "76777d8c76a17b44",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sekretar-580-sektor-za-interreg-at-vlada-republike-slovenije-4483458187"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Technical Purchaser 100% (m/w/d)",
+   "company": "Rocken®",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technical-purchaser-100%25-m-w-d-at-rocken%C2%AE-4484887392",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "298d45ba43115b34",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technical-purchaser-100%25-m-w-d-at-rocken%C2%AE-4484887392"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektassistent/-in Bauadministration",
+   "company": "Schöb AG",
+   "location": "Gams, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektassistent-in-bauadministration-at-sch%C3%B6b-ag-4485123491",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Die Schöb AG in Gams ist ein schweizweit führendes Unternehmen im Holzsystembau mit eigener Architektur und moderner Schreinerei. Zur Verstärkung unseres Baumanagement-Teams suchen wir einen motivierten Projektassistent /-in Bauadministration 80-100% Deine Aufgaben Unterstützung der Bauadministration und Projektorganisation Aufbereiten und Pflegen von Kosten- und Projektdaten Zusammenstellen / Mithilfe und Versenden von Submissionen und Ausschreibungsunterlagen Einholen, Aufbereiten und Vergleichen von Unternehmerofferten Erstellen von Werkverträgen und Nachträge Bearbeiten, vollständige Ablage und Verteilung sicherstellen Unterstützung bei Rechnungsprüfung und Baubuchhaltung Pflege von Termin-, Projekt- und Dokumentenstrukturen Nachführen von Projektinformationen und Dokumentationen Administrative Unterstützung der Projekt- und Bauleitung im Tagesgeschäft Dein Profil Kaufmännische Grundbildung vorzugsweise mit Erfahrung im Bauwesen oder eine technische bzw. handwerkliche Grundbildung im Baubereich Gute Kenntnisse im Schweizer Bau-Vertragswesen Anwenderkenntnisse von Bauadministrations – Software Messerli von Vorteil Selbständige, strukturiert und zuverlässige Arbeitsweise Sehr gute Deutschkenntnisse Sicherer Umgang mit MS Office Klare und verbindliche Kommunikation Wir bieten Weiterentwicklungsmöglichkeiten Moderne Infrastruktur Attraktive Arbeitsbedingungen Arbeiten in einem engagierten und aufgestellten Team Spannende und vielseitige Projekte Berufsübergreifende Fachkenntnisse sammeln Vereinbarkeit von Berufs- und Privatleben Innovatives Unternehmen Teamevents Show more Show less Seniority level Not Applicable Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Schöb AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "8399b3a86f068e67",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektassistent-in-bauadministration-at-sch%C3%B6b-ag-4485123491"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektleiter/in Erneuerbare Energien",
+   "company": "DREXEL Group AG",
+   "location": "Mörschwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-erneuerbare-energien-at-drexel-group-ag-4485615127",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Photovoltaik • Batterspeicher • E-Mobilität • Notstrom-Lösungen • Wärmepumpen Du planst, koordiniert und realisierst unsere Energieprojekte vom Auftrag bis zur Schlussdokumentation. Mit viel Eigenverantwortung und der Möglichkeit, unseren Bereich ENERGY von Grund auf mitzugestalten. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Services for Renewable Energy Referrals increase your chances of interviewing at DREXEL Group AG by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "89d1cdbd289b4076",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-erneuerbare-energien-at-drexel-group-ag-4485615127"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Team- und Projektleiter:in mit Potenzial Stv. Niederlassungsleiter:in 80-100% - Rapperswil",
+   "company": "AFRY",
+   "location": "Rapperswil-Jona, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/team-und-projektleiter-in-mit-potenzial-stv-niederlassungsleiter-in-80-100%25-rapperswil-at-afry-4485377250",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a248d0e083dcde38",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/team-und-projektleiter-in-mit-potenzial-stv-niederlassungsleiter-in-80-100%25-rapperswil-at-afry-4485377250"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Leistungskoordinatorin / Leistungskoordinator",
+   "company": "Kantonsspital Winterthur",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leistungskoordinatorin-leistungskoordinator-at-kantonsspital-winterthur-4484847113",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8f18caf49b5cb0e9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leistungskoordinatorin-leistungskoordinator-at-kantonsspital-winterthur-4484847113"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Project Procurement Manager (f/m/d)",
+   "company": "Leica Microsystems",
+   "location": "Heerbrugg, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/project-procurement-manager-f-m-d-at-leica-microsystems-4474848290",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "10138cec27b46b1a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/project-procurement-manager-f-m-d-at-leica-microsystems-4474848290"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektleiter:in Lüftung (alle)",
+   "company": "BKW Building Solutions AG",
+   "location": "Beringen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-l%C3%BCftung-alle-at-bkw-building-solutions-ag-4471601156",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f534b269bdc6c249",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-l%C3%BCftung-alle-at-bkw-building-solutions-ag-4471601156"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Senior Customer Support Manager:in",
+   "company": "Seven Education",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-customer-support-manager-in-at-seven-education-4481887065",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Unsere Mission Seven Education entwickelt eine intelligente, KI-gestützte Plattform, die Schulen und Bildungseinrichtungen hilft, effizienter zu arbeiten. Unsere Produkte reduzieren administrative Aufgaben, verbessern die Kommunikation und ermöglichen es Lehrkräften, Institutionen und Bildungsverantwortlichen, sich auf das zu konzentrieren, was wirklich zählt: Lernen, Wachstum und Menschen. Als europäische EdTech-Gruppe mit rund 300 Mitarbeitenden bauen wir intuitive, skalierbare Lösungen, die den Alltag von Schulen und Bildungseinrichtungen erleichtern. Unsere Software schafft jeden Tag Klarheit, vereinfacht Abläufe und stärkt die Zusammenarbeit. Wir handeln mit Mut, Ownership und echter Zusammenarbeit, und lassen uns von dem Impact inspirieren, den unsere Produkte für die Menschen schaffen, die das Herzstück der Bildung sind. Unser Ziel ist klar: die führende EdTech-Marke Europas zu werden. Wenn du Teil dieser Reise werden und mit uns wachsen möchtest, freuen wir uns sehr, von dir zu hören. Deine Mission Als Senior Customer Support Manager bist du das Gesicht unseres Supports in der Schweiz und der Taktgeber für das lokale Team. Du beantwortest selbst anspruchsvolle Kundenanfragen und sorgst gleichzeitig dafür, dass im Team Ruhe und Klarheit herrschen: Jeder weiss, was wann zu tun ist und warum. Du bist unser Workflow Lead vor Ort und hast ein direktes Ohr zur Teamleitung, wenn es darum geht, die Zukunft des Supports mitzugestalten. Was dich erwartet Support Queues im Griff: Du bearbeitest Tickets und Anfragen unserer Kund:innen, bei denen es um mehr geht als um einen schnellen Standardhandgriff. Du verstehst unser Produkt mit seinen vielen Funktionen und erklärst komplexe Zusammenhänge so, dass auch Menschen ohne Technikhintergrund sie sofort verstehen. Workflow Lead vor Ort: Du übernimmst im Tagesgeschäft die Steuerung der Abläufe. Du klärst, welche Aufgaben wann, wie und in welcher Reihenfolge erledigt werden, und sorgst dafür, dass die Priorisierung für alle nachvollziehbar ist. Dein Ziel: ein Team, das ruhig und effizient arbeitet, statt von Ticket zu Ticket zu hetzen. Seniorität mit Wirkung: Du gibst dem Team Orientierung und prägst, wie wir im Support arbeiten, auch ohne klassische Führungsrolle. Als erfahrene Kollegin oder erfahrener Kollege bist du Ansprechperson für knifflige Fälle und setzt vor Ort den Ton für Qualität und Zusammenarbeit. Neue Wege ausprobieren: Du bringst neue Strategien und Prozesse ins Team und führst sie gemeinsam mit den Kolleg:innen ein. Dazu gehört auch, Aufgaben, die nicht zum Support gehören, aus dem Team zu holen, damit mehr Zeit für das bleibt, was wirklich zählt. Zahlen, die etwas bewegen: Du verfolgst die wichtigsten Support KPIs wie Time per Ticket, Wartezeit der Kund:innen, CSAT und Entwicklung der Queues, bereitest sie auf und gibst der Leitung klares Feedback. So sehen wir früh, wo wir nachsteuern müssen. Schnittstelle im Alltag: Du arbeitest täglich eng mit Sales, Projekt, Produkt und weiteren Teams zusammen. Du holst dir Antworten, gibst Kundenfeedback weiter und sorgst dafür, dass Informationen dort ankommen, wo sie gebraucht werden. Was du mitbringst Erfahrung im Support: Du hast rund fünf Jahre Support Erfahrung, am liebsten im Second Level oder darüber, und trägst bereits Senior Verantwortung. Vielleicht wächst du gerade aus deiner aktuellen Rolle heraus und suchst den nächsten Schritt. Gespür für komplexe Produkte: Du kennst digitale Produkte mit vielen Funktionen oder Modulen aus dem Alltag. Branchenerfahrung im EdTech Bereich ist kein Muss, das bringen wir dir bei. Du kennst den Schweizer Markt: Du weißt, was Kund:innen hier erwarten, und bewegst dich sicher im lokalen Umfeld. Sprachlich sicher: Du sprichst fließend Deutsch, im Alltag Schweizerdeutsch, und verständigst dich souverän auf Englisch. Erfahrung mit einem CRM: Du hast schon mit einem CRM Tool wie Salesforce oder HubSpot gearbeitet und weisst, wie wichtig saubere Daten sind. Klar und präzise: Du arbeitest …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "64d4c2a2ae48ef6d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-customer-support-manager-in-at-seven-education-4481887065"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Leiter:in Netze – Infrastruktur und Unternehmensentwicklung (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-netze-%E2%80%93-infrastruktur-und-unternehmensentwicklung-m-w-d-at-rocken%C2%AE-4483440930",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Wie gestaltet man das Leben in einer Gemeinde aktiv mit? Unser Rocken Partner ist eine moderne Gemeindeverwaltung mit vielfältigen Aufgaben: von Einwohnerdiensten über Bauwesen bis hin zu Sozialem und Infrastruktur. Hier werden Dienstleistungen für die Bevölkerung koordiniert, Projekte umgesetzt und demokratische Prozesse begleitet. Das Tätigkeitsfeld reicht von administrativen Aufgaben über Bauvorhaben bis zur Betreuung von Lebenssituationen der Einwohnerinnen und Einwohner. Dabei steht der Servicegedanke im Zentrum – bürgernah, effizient und lösungsorientiert. Die Zusammenarbeit erfolgt eng mit verschiedenen Behörden, Kommissionen und externen Partnern. Flache Hierarchien und kurze Entscheidungswege prägen den Arbeitsalltag. Bereit für eine Tätigkeit mit echtem Sinn und direktem Kontakt zur Bevölkerung? Unser Rocken Partner bietet dir ein spannendes Umfeld in der öffentlichen Verwaltung. Rolle Du übernimmst die strategische und operative Führung der Abteilung Netze mit rund 20 Mitarbeitenden . Dabei verantwortest du den sicheren, wirtschaftlichen und zukunftsorientierten Betrieb der Netzinfrastruktur über sämtliche Sparten hinweg. Als Mitglied der Unternehmensführung bringst du dich aktiv in die Weiterentwicklung des gesamten Unternehmens ein. Verantwortung Du führst die Abteilung Netze sowohl strategisch als auch operativ und entwickelst deine rund 20 Mitarbeitenden gezielt weiter. Du verantwortest die finanzielle Planung, Budgetierung und Mehrjahresplanung sowie die Umsetzung der Investitionen im Netzbereich. Du stellst einen sicheren und wirtschaftlichen Netzbetrieb über alle Sparten hinweg sicher. Du trägst die Gesamtverantwortung für Planung, Bau, Betrieb und Instandhaltung der Netzinfrastruktur. Du entwickelst zukunftsgerichtete Netzstrategien für Strom, Gas, Wasser, Wärme und Glasfaser und setzt diese um. Du verantwortest die Weiterentwicklung und Umsetzung der Arbeitssicherheit im gesamten Unternehmen. Du übernimmst eine aktive Rolle in der Unternehmensführung und gestaltest die strategische Ausrichtung mit. Qualifikationen Du verfügst über eine abgeschlossene höhere Ausbildung in Elektro- oder Energietechnik, beispielsweise als Ingenieur oder mit einer Meisterprüfung. Du bringst mehrjährige Führungserfahrung mit, idealerweise im Netz- oder Infrastrukturbereich. Du hast fundierte Erfahrung in der Planung und Umsetzung von Netzinfrastrukturprojekten. Eine betriebswirtschaftliche Weiterbildung ist von Vorteil. Du interessierst dich für wirtschaftliche, energiepolitische und regulatorische Entwicklungen und kannst deren Auswirkungen auf die Netzinfrastruktur einschätzen. Benefits Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten Eingespieltes und dynamisches Team Interessante und abwechslungsreiche Tätigkeiten/Projekte Flache Hierarchien 13. Monatsgehalt Offene Unternehmenskultur ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9fd46b39b67e150c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-netze-%E2%80%93-infrastruktur-und-unternehmensentwicklung-m-w-d-at-rocken%C2%AE-4483440930"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Fachspezialist Netz- und Installationstechnik (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachspezialist-netz-und-installationstechnik-m-w-d-at-rocken%C2%AE-4483444658",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Rolle Du interessierst dich für die Weiterentwicklung der Energieversorgung und möchtest technische sowie regulatorische Veränderungen aktiv mitgestalten? Du verstehst es, gesetzliche Anforderungen in praxisorientierte Lösungen zu übersetzen und beschäftigst dich gerne mit innovativen Konzepten zur netzdienlichen Nutzung von Flexibilitäten . In dieser vielseitigen Funktion bist du eine wichtige Fachperson für interne und externe Anspruchsgruppen und übernimmst Verantwortung für Projekte, Beratung und Wissensvermittlung. Verantwortung Beobachtung und Bewertung technischer, regulatorischer und gesetzlicher Entwicklungen im Bereich Netz- und Hausinstallationstechnik Ableitung und Umsetzung von Massnahmen aus gesetzlichen Vorgaben sowie der Unternehmens- und Netzstrategie Entwicklung und Einführung von Konzepten zur netzdienlichen Nutzung von Flexibilitäten Übernahme der internen Ansprechfunktion für sämtliche Fragen rund um Flexibilitäten Konzeption und Durchführung von Schulungen für interne Mitarbeitende und externe Installateure Erstellung, Verhandlung und Abwicklung von Verträgen sowie Verantwortung für das Vertragsmanagement Mitarbeit im Meldewesen Beratung von Kunden, Bearbeitung technischer und regulatorischer Anfragen sowie Mitwirkung an Informationsveranstaltungen Eigenverantwortliche Umsetzung abteilungsinterner und ressortübergreifender Projekte im Auftrag der Abteilungsleitung Qualifikationen Elektrotechnische Grundausbildung mit Weiterbildung als Techniker HF, eidg. dipl. Elektroinstallateur oder Elektroingenieur FH oder vergleichbare Qualifikation Berufserfahrung im elektrotechnischen oder energiewirtschaftlichen Umfeld Kenntnisse relevanter Normen, Werkvorschriften und Branchendokumente (VSE, ESTI, ElCom) Idealerweise Erfahrung im Bereich Flexibilitäten oder die Bereitschaft, sich selbstständig und rasch in neue Themen und regulatorische Anforderungen einzuarbeiten Erfahrung in der Projektleitung Strukturierte, selbstständige und analytische Arbeitsweise Ausgeprägte Kommunikationsfähigkeit, Kundenorientierung und Verhandlungsgeschick Benefits Flexible Arbeitszeitgestaltung Gute Verkehrsanbindung und Erreichbarkeit Markt- und leistungsgerechte Löhne Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten Offene Unternehmenskultur ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "8d2a7291faa932df",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialist-netz-und-installationstechnik-m-w-d-at-rocken%C2%AE-4483444658"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Facility Services Manager 100%",
+   "company": "ISS Schweiz AG",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/facility-services-manager-100%25-at-iss-schweiz-ag-4484898052",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c5fd6ee1b3f1f181",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/facility-services-manager-100%25-at-iss-schweiz-ag-4484898052"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektleiter Spezialtüren (m/w/d)",
+   "company": "Rocken®",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-spezialt%C3%BCren-m-w-d-at-rocken%C2%AE-4484887391",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "Rolle Du übernimmst die Planung und Abwicklung anspruchsvoller Projekte im Bereich Spezialtüren und Brandschutzverglasungen . Von der ersten Objektaufnahme über die technische Planung und Materialbeschaffung bis zur Montage koordinierst du sämtliche Arbeitsschritte. Dabei stehst du in engem Kontakt mit den Kunden und arbeitest eng mit der Arbeitsvorbereitung zusammen. Verantwortung Spezialtüren und Brandschutzverglasungen planen, bearbeiten und mithilfe von CAD ausarbeiten Kunden betreuen und technische Besprechungen durchführen Objektaufnahmen vor Ort vornehmen und die relevanten Masse und Gegebenheiten erfassen Materialbeschaffung und Materialkoordination organisieren Aufträge von der Planung bis zur Montage überwachen und begleiten Die Arbeitsvorbereitung (AVOR) unterstützen und eng mit den zuständigen Fachpersonen zusammenarbeiten Qualifikationen Abgeschlossene Berufslehre als Schreiner oder Zimmermann/Zimmerin, ergänzt durch eine entsprechende Weiterbildung Freundliches und kompetentes Auftreten im Umgang mit Kunden Erfahrung in der selbständigen und lösungsorientierten Arbeitsweise Sorgfältige, speditive und zuverlässige Arbeitsweise Freude an der Koordination technischer Projekte und an der Zusammenarbeit im Team Benefits Offene Unternehmenskultur Eingespieltes und dynamisches Team Flache Hierarchien 13. Monatsgehalt Interessante und abwechslungsreiche Tätigkeiten/Projekte ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "0e0308cfc20835bf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-spezialt%C3%BCren-m-w-d-at-rocken%C2%AE-4484887391"
+   },
+   "first_seen": "2026-10-31"
+  },
+  {
+   "title": "Projektleiter Anlagenbau (m/w/d)",
+   "company": "Rocken®",
+   "location": "Bad Ragaz, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-anlagenbau-m-w-d-at-rocken%C2%AE-4484891549",
+   "posted": "2026-10-30",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5240927932a15186",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-anlagenbau-m-w-d-at-rocken%C2%AE-4484891549"
+   },
+   "first_seen": "2026-10-31"
+  }
+ ]
+}
