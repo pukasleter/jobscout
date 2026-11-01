@@ -1,20 +1,332 @@
 {
- "generated_at": "2026-10-31T07:03:45+00:00",
+ "generated_at": "2026-11-01T07:41:35+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 170,
-   "linkedin": 250,
+   "arbeitsagentur": 167,
+   "linkedin": 209,
    "jobroom": 29
   },
-  "excluded": 357,
-  "unique": 72,
-  "new": 23,
-  "carried_over": 0
+  "excluded": 325,
+  "unique": 64,
+  "new": 13,
+  "carried_over": 23
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Projektkoordination&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Chancengleichheit&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
  },
  "jobs": [
+  {
+   "title": "Gesundheits- und Krankenpfleger (m/w/d)",
+   "company": "Altenpflegeheim Maria Hilf",
+   "location": "Allensbach, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/gesundheits-und-krankenpfleger-m-w-d-at-altenpflegeheim-maria-hilf-4485680886",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "Das Altenpflegeheim Maria Hilf ist eine moderne Einrichtung der Barmherzigen Schwestern vom hl. Kreuz mit 82 Pflegeplätzen in Allensbach-Hegne am Bodensee, in denen seit 2000 neben Ordensangehörigen auch Bewohner*innen aus umliegenden Gemeinden betreut und gepflegt werden. Hinzu kommt eine Sozialstation für Ordensangehörige. examinierte Pflegefachkraft (m/w/d) Altenpflegeheim Maria Hilf Mit Berufserfahrung Voll- oder Teilzeit Feste Anstellung Hegne, 78476 Allensbach, Deutschland Was erwartet Sie, wenn Sie bei uns als Pflegefachkraft (m/w/d) arbeiten? Individuelle Pflege und Betreuung unserer Bewohner*innen nach Expertenstandards Papierlose Pflegedokumentation und -planung Vertrauensvolle Zusammenarbeit mit Angehörigen, Ärzten und externen Dienstleistern Anleitung und Förderung unserer Pflegehilfskräfte und Auszubildenden Was Sie als unsere neue Pflegefachkraft (m/w/d) mitbringen: Abgeschlossene pflegerische Ausbildung zur Pflegefachkraft, Gesundheits- und Krankenpfleger oder Altenpfleger (m/w/d) oder vergleichbarer Qualifikation Empathischer und wertschätzender Umgang mit Menschen Freude am Arbeiten im Team Verantwortungsbewusstsein und Zuverlässigkeit Wiedereinsteiger sind herzlich willkommen! Was wir Ihnen als Ihr neuer Arbeitgeber bieten: einen eigenverantwortlichen und entwicklungsfähigen Tätigkeitsbereich in einem motivierten, freundlichen und lustigem Team eine der besten Vergütungen (AVR) im Sozialbereich mit zusätzlicher guter Altersversorgung (KZVK) Fort- und Weiterbildungsmöglichkeiten und Unterstützung bei Ihrer zukünftigen Weiterentwicklung und Spezialisierung nach Ihren Vorstellungen (auch durch E-Learning) attraktive zusätzliche Arbeitgeberleistungen (z.B. Angebote unseres betrieblichen Gesundheitsmanagements, Hansefit, JobRad, Teamevents u.v.m.) einen sicheren Arbeitsplatz im Kloster Hegne, einem besonders geprägten Ort direkt am schönen Bodensee mit Seeblick Wir freuen uns auf Sie! Bewerben Sie sich gleich hier! Interesse auf mehr Informationen? Wir freuen uns darauf, mit Ihnen in Kontakt zu treten. Herr Loewenberg (Heimleitung) oder Frau Lauro (Pflegedienstleitung) freuen sich über Ihren Anruf (07533 / 807 - 461 / -424) oder Sie senden uns eine E-Mail. Die Bewerbung hier über unser Bewerbungsportal dauert übrigens nur 2 Minuten! Referenz-Nr.: YF-42848 (in der Bewerbung bitte angeben) Wir freuen uns auf Sie! Altenpflegeheim Maria Hilf Konradistraße 14 78476 Allensbach-Hegne Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Altenpflegeheim Maria Hilf by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ff50e84689367c99",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/gesundheits-und-krankenpfleger-m-w-d-at-altenpflegeheim-maria-hilf-4485680886"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Verwaltungsleiter (m/w/d)",
+   "company": "Stadt Lindau",
+   "location": "Wasserburg (Bodensee), Bavaria, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/verwaltungsleiter-m-w-d-at-stadt-lindau-4485928508",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "Lindau – Ganz schön nah am Paradies. Gestalten Sie mit uns eine Verwaltung, die ebenso attraktiv ist wie ihre Umgebung, Menschen fördert und Veränderungen offen begegnet. Lindau im Bodensee mit rund 25.000 Einwohnerinnen und Einwohnern liegt im Dreiländereck Deutschland, Österreich und der Schweiz. Die Stadt verbindet die hohe Lebensqualität einer einzigartigen Lage am Bodensee mit den vielfältigen Aufgaben eines modernen Mittelzentrums. Die Stadtverwaltung steht vor bedeutenden Veränderungen. Haushaltskonsolidierung, umfangreiche Bauprojekte sowie der Anspruch an eine innovative, bürgerorientierte und digitale Verwaltung prägen die kommenden Jahre. Eine zentrale Rolle bei der Gestaltung dieses Wandels übernimmt das Hauptamt. Hier werden wichtige strategische und organisatorische Weichenstellungen für die gesamte Stadtverwaltung entwickelt und umgesetzt. Das Hauptamt umfasst die Abteilungen Personal, Recht, Kinder, Jugend und Sport, Presse und Kommunikation, das Büro der Oberbürgermeisterin sowie das Sekretariat der Amtsleitung. Darüber hinaus fungiert dieses Amt mit dem Bereich der Geschäftsstelle des Stadtrates als Schnittstelle zur Politik. Die Stadt Lindau sucht zum nächstmöglichen Zeitpunkt eine erfahrene, engagierte und veränderungsorientierte Führungspersönlichkeit als Leitung Hauptamt (w/m/d) Bei entsprechender Qualifikation ist eine Eingruppierung bis Entgeltgruppe 15 TVöD beziehungsweise eine Besoldung bis A 15 BayBesG möglich. In dieser Funktion berichten Sie direkt an die Oberbürgermeisterin. Ihre Kernaufgaben Wahrnehmung der zentralen Steuerungs- und Koordinierungsfunktion für die Stadtverwaltung in enger Zusammenarbeit mit der Oberbürgermeisterin sowie Übernahme ihrer ersten Stellvertretung innerhalb der Verwaltung Vorbereitung von Grundsatzentscheidungen der Verwaltungsführung sowie strategische Steuerung verwaltungsweiter Veränderungs- und Modernisierungsprozesse Wahrnehmung des Schnittstellenmanagements zwischen der Oberbürgermeisterin, den politischen Gremien und Fraktionen, den Bürgermeisterinnen und Bürgermeistern, den Fachämtern, Beteiligungen und städtischen Einrichtungen Regelmäßige Teilnahme an Ausschuss- und Stadtratssitzungen sowie Begleitung der damit verbundenen verwaltungsinternen Abstimmungs- und Entscheidungsprozesse Steuerung strategischer Projekte von gesamtstädtischer Bedeutung, insbesondere der Schulentwicklungsplanung und der Sportstättenentwicklungsplanung Förderung effizienter, agiler und kooperativer Arbeitsweisen sowie Weiterentwicklung der Arbeitgeberattraktivität der Stadt Lindau Wertschätzende, verbindliche und motivierende Führung von 132 Mitarbeitenden sowie Weiterentwicklung der Führungs- und Feedbackkultur Unsere Anforderungen Abgeschlossenes Hochschulstudium (Master oder Diplom), vorzugsweise in Verwaltungs-, Wirtschafts- oder Personalmanagement beziehungsweise einer vergleichbaren einschlägigen Fachrichtung Alternativ Qualifikation für ein Amt der vierten Qualifikationsebene Alternativ Qualifikation für ein Amt der dritten Qualifikationsebene sowie die Bereitschaft zur Teilnahme an der modularen Qualifizierung für Ämter ab der vierten Qualifikationsebene Alternativ Befähigung zum Richteramt beziehungsweise Qualifikation als Volljuristin/Volljurist Einschlägige langjährige Berufserfahrung in mindestens einem dem Amt zugeordneten Aufgabenfeld, idealerweise in einer Kommunalverwaltung Mehrjährige Führungserfahrung Erfahrung in der Steuerung und Begleitung von Veränderungs- und Modernisierungsprozessen Hohe Entscheidungsfreude und Umsetzungsstärke Hohe Affinität zu digitalen Prozessen und KI-gestützten Anwendungen Sie verbinden strategisches Denken mit einem sicheren Gespür für Menschen und Prozesse. Veränderungen treiben Sie nicht nur an, Sie nehmen die Mitarbeitenden dabei mit und schaffen eine Kultur, in der Feedback und Beteiligung selbstverständlich sind. In dieser Schnittstellenfunktion gestalten Sie mit Weitblick ein Amt, das für die Gesamtverwaltung Orientierung gibt und …",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "85ee69bd7c6a8bdb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/verwaltungsleiter-m-w-d-at-stadt-lindau-4485928508"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Leitung Hauptamt (w/m/d)",
+   "company": "Stadt Lindau",
+   "location": "Wasserburg (Bodensee), Bavaria, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leitung-hauptamt-w-m-d-at-stadt-lindau-4485924725",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "Lindau – Ganz schön nah am Paradies. Gestalten Sie mit uns eine Verwaltung, die ebenso attraktiv ist wie ihre Umgebung, Menschen fördert und Veränderungen offen begegnet. Lindau im Bodensee mit rund 25.000 Einwohnerinnen und Einwohnern liegt im Dreiländereck Deutschland, Österreich und der Schweiz. Die Stadt verbindet die hohe Lebensqualität einer einzigartigen Lage am Bodensee mit den vielfältigen Aufgaben eines modernen Mittelzentrums. Die Stadtverwaltung steht vor bedeutenden Veränderungen. Haushaltskonsolidierung, umfangreiche Bauprojekte sowie der Anspruch an eine innovative, bürgerorientierte und digitale Verwaltung prägen die kommenden Jahre. Eine zentrale Rolle bei der Gestaltung dieses Wandels übernimmt das Hauptamt. Hier werden wichtige strategische und organisatorische Weichenstellungen für die gesamte Stadtverwaltung entwickelt und umgesetzt. Das Hauptamt umfasst die Abteilungen Personal, Recht, Kinder, Jugend und Sport, Presse und Kommunikation, das Büro der Oberbürgermeisterin sowie das Sekretariat der Amtsleitung. Darüber hinaus fungiert dieses Amt mit dem Bereich der Geschäftsstelle des Stadtrates als Schnittstelle zur Politik. Die Stadt Lindau sucht zum nächstmöglichen Zeitpunkt eine erfahrene, engagierte und veränderungsorientierte Führungspersönlichkeit als Leitung Hauptamt (w/m/d) Bei entsprechender Qualifikation ist eine Eingruppierung bis Entgeltgruppe 15 TVöD beziehungsweise eine Besoldung bis A 15 BayBesG möglich. In dieser Funktion berichten Sie direkt an die Oberbürgermeisterin. Ihre Kernaufgaben Wahrnehmung der zentralen Steuerungs- und Koordinierungsfunktion für die Stadtverwaltung in enger Zusammenarbeit mit der Oberbürgermeisterin sowie Übernahme ihrer ersten Stellvertretung innerhalb der Verwaltung Vorbereitung von Grundsatzentscheidungen der Verwaltungsführung sowie strategische Steuerung verwaltungsweiter Veränderungs- und Modernisierungsprozesse Wahrnehmung des Schnittstellenmanagements zwischen der Oberbürgermeisterin, den politischen Gremien und Fraktionen, den Bürgermeisterinnen und Bürgermeistern, den Fachämtern, Beteiligungen und städtischen Einrichtungen Regelmäßige Teilnahme an Ausschuss- und Stadtratssitzungen sowie Begleitung der damit verbundenen verwaltungsinternen Abstimmungs- und Entscheidungsprozesse Steuerung strategischer Projekte von gesamtstädtischer Bedeutung, insbesondere der Schulentwicklungsplanung und der Sportstättenentwicklungsplanung Förderung effizienter, agiler und kooperativer Arbeitsweisen sowie Weiterentwicklung der Arbeitgeberattraktivität der Stadt Lindau Wertschätzende, verbindliche und motivierende Führung von 132 Mitarbeitenden sowie Weiterentwicklung der Führungs- und Feedbackkultur Unsere Anforderungen Abgeschlossenes Hochschulstudium (Master oder Diplom), vorzugsweise in Verwaltungs-, Wirtschafts- oder Personalmanagement beziehungsweise einer vergleichbaren einschlägigen Fachrichtung Alternativ Qualifikation für ein Amt der vierten Qualifikationsebene Alternativ Qualifikation für ein Amt der dritten Qualifikationsebene sowie die Bereitschaft zur Teilnahme an der modularen Qualifizierung für Ämter ab der vierten Qualifikationsebene Alternativ Befähigung zum Richteramt beziehungsweise Qualifikation als Volljuristin/Volljurist Einschlägige langjährige Berufserfahrung in mindestens einem dem Amt zugeordneten Aufgabenfeld, idealerweise in einer Kommunalverwaltung Mehrjährige Führungserfahrung Erfahrung in der Steuerung und Begleitung von Veränderungs- und Modernisierungsprozessen Hohe Entscheidungsfreude und Umsetzungsstärke Hohe Affinität zu digitalen Prozessen und KI-gestützten Anwendungen Sie verbinden strategisches Denken mit einem sicheren Gespür für Menschen und Prozesse. Veränderungen treiben Sie nicht nur an, Sie nehmen die Mitarbeitenden dabei mit und schaffen eine Kultur, in der Feedback und Beteiligung selbstverständlich sind. In dieser Schnittstellenfunktion gestalten Sie mit Weitblick ein Amt, das für die Gesamtverwaltung Orientierung gibt und …",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "eea8d195c4ae9083",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leitung-hauptamt-w-m-d-at-stadt-lindau-4485924725"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Space Avionics Architect",
+   "company": "TXT GROUP",
+   "location": "Immenstaad, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/space-avionics-architect-at-txt-group-4467851448",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "TXT PACE è alla ricerca di un/una Space Avionics Architect da inserire nel proprio team per contribuire a progetti tecnologicamente avanzati nel settore Space. La risorsa avrà un ruolo chiave nella definizione dell’architettura avionica end-to-end, lavorando su sistemi complessi e collaborando con team multidisciplinari durante le diverse fasi di progettazione e sviluppo. Principali responsabilità La risorsa si occuperà di: Guidare la definizione dell’architettura avionica end-to-end, inclusa la decomposizione del sistema e la strategia delle interfacce tra On Board Computer (OBC) e payload; Definire architetture per payload con networking ad alta velocità, backplane e concetti di boot e recovery del sistema; Progettare soluzioni robuste di Failure Detection, Isolation and Recovery (FDIR), inclusi comportamenti in safe mode e strategie di watchdog; Documentare e mantenere la baseline tecnica, comprese le architetture di sistema e le relative giustificazioni progettuali; Condurre analisi ingegneristiche relative a radiation tolerance, EMI/EMC, signal integrity e power distribution; Collaborare trasversalmente con i team networking, GNC, RF, software, FPGA e mechanical. Competenze tecniche / IT Skills Spacecraft Avionics Architecture e architetture avioniche end-to-end; Architetture distribuite basate su processori, FPGA/SoC e interfacce ad alta velocità; High-Speed Networking, payload networking e backplane; Failure Detection, Isolation and Recovery (FDIR); Strategie di safe mode, watchdog, system boot e recovery; ATOP – Automated Test and Operations Procedure; MOIS – Mission Operations Information Systems; EGS-CC Operations Procedure Language (EAPL); ECSS PUS – Packet Utilisation Standard; ECSS-E-ST-70 Guidance; Analisi di radiation tolerance, EMI/EMC, signal integrity e power distribution; Conoscenza di sistemi hardware embedded complessi ed elettronica digitale ad alta velocità. Behavioural Skills Capacità di lavorare efficacemente in team multidisciplinari; Capacità di collaborazione cross-funzionale con specialisti di differenti domini tecnici; Capacità di gestire e coordinare attività tecniche complesse; Approccio strutturato alla definizione e documentazione delle soluzioni architetturali; Capacità di operare in un contesto internazionale. Requisiti Laurea Magistrale in Ingegneria Aerospaziale, Ingegneria Elettrica/Elettronica o titolo equivalente; Esperienza pluriennale nell'ambito dell'avionica per spacecraft, dell'elettronica digitale ad alta velocità o di sistemi hardware embedded complessi; Esperienza comprovata nella progettazione di architetture distribuite che combinano processori, FPGA/SoC e interfacce ad alta velocità; Ottima conoscenza della lingua inglese, scritta e parlata; La conoscenza della lingua tedesca, scritta e parlata, costituisce un plus. Entra nel team Entrare in TXT PACE significa lavorare in un contesto internazionale e tecnologicamente avanzato, contribuendo allo sviluppo di soluzioni e sistemi complessi per il settore Space. Se il tuo profilo è in linea con la posizione, invia la tua candidatura e unisciti al nostro team. Cosa offriamo Inserimento in un team multidisciplinare e altamente qualificato. Progetti tecnologici di frontiera nel settore avionico. Ambiente professionale stimolante, con possibilità di crescita e sviluppo. Inquadramento contrattuale Tipologia: Contratto T. Indeterminato tedesco RAL: 65.000€ - 80.000€ Full-time Modalità ibrida (con sede in Germania) L'inquadramento verrà definito in fase di selezione sulla base del profilo individuato e in applicazione dell'IG Metall. TXT Group promuove le pari opportunità e la diversità. Accogliamo con favore le candidature di tutte le persone, indipendentemente da genere, età, origine, orientamento sessuale, disabilità o convinzioni personali, in conformità con l’Allgemeines Gleichbehandlungsgesetz (AGG). Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting Referrals …",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "68df81daed527b08",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/space-avionics-architect-at-txt-group-4467851448"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Quality Assurance Professional (m/w/d)*",
+   "company": "SCHOTT Pharma",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/quality-assurance-professional-m-w-d-at-schott-pharma-4485144689",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "Stellenbeschreibung: Über uns Die Gesundheit der Menschen ist wichtig. SCHOTT Pharma entwickelt Lösungen, die weltweit sichere und einfach anzuwendende Medikamente gewährleisten. Ein Team von 4.800 Mitarbeitenden aus über 60 Nationen trägt zur globalen Gesundheitsversorgung bei. Mit 17 Standorten weltweit ist das Unternehmen in Mainz ansässig, an der Frankfurter Börse gelistet und engagiert sich für nachhaltige Entwicklung. Ihre Aufgaben Verantwortlich für das operative Supplier Management, d.h. Qualifizierung, Überwachung, Entwicklung und Bewertung der Lieferanten Verantwortlich bei Lieferantenbeanstandungen, leiten von Untersuchungen und fachliche Prüfung der Ergebnisse Betreuung der Änderungsmeldungen von Lieferanten, d.h. Koordinieren und ggbfs. Umsetzung der Meldungen Fachliche Prüfung der Einkaufsspezifikationen Schnittstellenfunktion u.a. zu Global Q und zum strategischen Einkauf, um die werkübergreifenden Themen im Supplier Management mitzugestalten Initiierung und Leitung bereichsübergreifender Projekte sowie Verbesserungsinitiativen Unterstützung bei Kundenaudits und internen Audits Sicherstellung des QM-Reportings und kontinuierliche Verbesserung der Instrumente Mitwirkung bei Investigations und Prozessoptimierungen Ihr Profil Abgeschlossenes naturwissenschaftliches oder technisches Studium (Bachelor/Master), z. B. Chemie, Pharmazie oder Maschinenbau Weiterbildung im Bereich Pharma-/Medizintechnik mit Fokus auf Qualitätsmanagement Mindestens 5 Jahre Erfahrung im Qualitätsmanagement in einem regulierten Umfeld (Pharma/Medizintechnik) Fundierte Kenntnisse relevanter Standards und Richtlinien (cGMP, ISO 9001, ISO 15378, ISO 13485) Erfahrung in Prozessoptimierung, Risikoanalysen (FMEA, Ishikawa) und statistischer Software Verhandlungssicheres Deutsch und Englisch in Wort und Schrift Ihr Benefit So offen SCHOTT für Ihre Weiterentwicklung ist, so umfangreich ist unser Angebot an zusätzlichen Benefits. Von einem aktiven Gesundheitsmanagement, flexiblen Arbeitszeiten, bis zur betrieblichen Altersvorsorge, alles abgestimmt auf Ihre Ziele und Bedürfnisse. Entdecken Sie eine besondere Unternehmenskultur, in der alle Personen die Chancen haben, sich zu entfalten. Bei SCHOTT erwartet Sie eine einzigartige Unternehmenskultur, in der Menschlichkeit, Diversität und Inklusivität großgeschrieben werden. Denn wir wissen: motivierte und engagierte Mitarbeitende sind Voraussetzung für den Erfolg unseres Unternehmens. Gute Verkehrsanbindung; Ganzheitliches betriebliches Gesundheitsmanagement; Kantine; Kostenlose Parkplätze Ihr persönlicher Kontakt Es erwarten Sie sowohl interessante und herausfordernde Aufgaben in Feldern, die unsere Zukunft beeinflussen, als auch ein motiviertes und nettes Team. Wollen Sie mit uns erfolgreich sein? Dann senden Sie uns Ihre Bewerbung zu: SCHOTT Pharma Schweiz AG, Human Resources, Elina Dominioni *Bei SCHOTT zählt Ihre Persönlichkeit – nicht Geschlecht, Identität oder Herkunft. Wir bieten: Ganzheitliches betriebliches Gesundheitsmanagement Kostenlose Parkplätze Kantine Gute Verkehrsanbindung Show more Show less Seniority level Not Applicable Employment type Full-time Industries Glass, Ceramics and Concrete Manufacturing Referrals increase your chances of interviewing at SCHOTT Pharma by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "fc180bf7e30f2a50",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/quality-assurance-professional-m-w-d-at-schott-pharma-4485144689"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Schadenspezialist (w/m/d) Generalagentur Wil SG",
+   "company": "die Mobiliar",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/schadenspezialist-w-m-d-generalagentur-wil-sg-at-die-mobiliar-4354260521",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "Versicherung Generalagentur / Wil, Bütschwil, Ebnat-Kappel / Berufserfahrene / Unbefristet / 80% - 100% Das erwartet dich Bei uns zählt der Mensch - auch im Schadenfall. Du passt in unser motiviertes Schadenteam, wenn du mit Herz arbeitest, echte Nähe schätzt und Freude daran hast, Menschen zu helfen, wenn sie uns am meisten brauchen. Wir glauben daran, dass jeder Schadenfall eine Chance ist, Vertrauen zu stärken und Verantwortung zu übernehmen. Genau das macht unser Team in Wil SG aus. Wenn du offen kommunizierst, gerne anpackst und in hektischen Momenten ein Lachen behaltest, bist du bei uns richtig. Unsere Schadenabteilung ist der zentrale Servicebereich, um unser Leistungsversprechen gegenüber unseren Kunden einzulösen. Wir suchen deshalb per sofort oder nach Vereinbarung zur Verstärkung unserer Schadenteams einen Mitarbeitenden, der bereit ist, für unsere treuen Kundinnen und Kunden die Extrameile zu gehen. Das bewirkst du bei uns Im Zentrum deines Jobs steht die unkomplizierte Begleitung unserer Kundschaft im Schadenfall – von der Meldung bis zum Abschluss – inklusive Schadenbesichtigungen vor Ort, um unseren Kundinnen und Kunden schnell und unkompliziert zu helfen. Deine Aufmerksamkeit und Dienstleistungsorientierung setzt du gezielt in der Begleitung des gesamten Schadenprozesses zugunsten unserer Kundschaft ein. Mit deiner persönlichen Art, deinem Einsatz und deinen Ideen trägst du in verschiedenen Themenbereichen zur erfolgreichen Zusammenarbeit im Team bei und stehst mit internen und externen Ansprechpersonen, Unternehmen und Handwerkern in Kontakt. Du pflegst dabei einen engen Austausch mit deinem Team sowie allen Beteiligten im Schadenfall. Das bringst du mit Abgeschlossene Ausbildung in der Versicherungsbranche Abgeschlossene Ausbildung «Versicherungsvermittler/-in VBV» oder Bereitschaft diese zu absolvieren Berufserfahrung in der Schadenbearbeitung Sach-/Haftpflicht von Vorteil Freude am Kontakt und an der Begleitung unserer Kundinnen und Kunden im Schadenfall Proaktive und selbstständige Arbeitsweise Verantwortungsvolle, engagierte und offene Persönlichkeit Fliessende Deutschkenntnisse in Wort und Schrift, weitere Sprachen sind ein Plus Bei uns arbeiten Auf einer Generalagentur hast du Vorteile, die Grossbetriebe nicht haben: direkter Einfluss auf unseren 5-Sterne-Kundenservice kurze Entscheidungswege familiäres Umfeld in Kombination mit starken Strukturen der Mobiliar lokale Verwurzlung mit Agenturen an drei Standorten abwechslungsreicher Arbeitsalltag Unterstützung von internen und externen Weiterbildungsmöglichkeiten Neugierig? Fühlst du dich angesprochen? Dann möchten wir dich unbedingt kennenlernen. Sende uns deine Unterlagen oder ruf uns einfach an. Schweizerische Mobiliar Versicherungsgesellschaft Generalagentur Wil Manuel Josuran Sonnenhofstrasse 5 Postfach, 9500 Wil Nicole Hagmann Leiterin Schadendienst T 071 913 50 63 nicole.hagmann@mobiliar.ch Show more Show less Seniority level Not Applicable Employment type Full-time Industries Insurance Referrals increase your chances of interviewing at die Mobiliar by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "31 applicants"
+   },
+   "id": "962673661cc07bdc",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/schadenspezialist-w-m-d-generalagentur-wil-sg-at-die-mobiliar-4354260521"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Spezialist Energiewirtschaft und Netzentwicklung (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-energiewirtschaft-und-netzentwicklung-m-w-d-at-rocken%C2%AE-4485171166",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "Rolle Du möchtest die Energiezukunft aktiv mitgestalten und bewegst dich gerne an der Schnittstelle zwischen Elektrotechnik, Energiewirtschaft und regulatorischen Rahmenbedingungen ? Du erkennst relevante Entwicklungen frühzeitig, leitest daraus konkrete Massnahmen ab und bringst innovative Lösungen zur Nutzung von Netzflexibilitäten voran. Mit deiner Fachkompetenz, deinem Kommunikationsgeschick und deiner Projektleitungserfahrung unterstützt du die Weiterentwicklung unserer Netzinfrastruktur und stehst internen wie externen Partnern beratend zur Seite. Verantwortung Analyse und Beurteilung neuer gesetzlicher, regulatorischer und technischer Anforderungen in der Netz- und Hausinstallationstechnik Überführung von Vorgaben und strategischen Zielen in konkrete Massnahmen und Umsetzungskonzepte Entwicklung, Einführung und Weiterentwicklung von Lösungen zur netzdienlichen Nutzung von Flexibilitäten Fachliche Unterstützung und Beratung interner Stellen bei Fragen zu Flexibilitäten Planung und Durchführung von Fachschulungen für Mitarbeitende und externe Installationsbetriebe Ganzheitliche Bearbeitung des Vertragsmanagements von der Erstellung über Verhandlungen bis zur Abwicklung Unterstützung und Mitarbeit im Meldewesen Qualifikationen Abgeschlossene elektrotechnische Grundausbildung mit entsprechender Weiterbildung auf HF- oder FH-Stufe, beispielsweise als Techniker HF, eidg. dipl. Elektroinstallateur oder Elektroingenieur FH Erfahrung im elektrotechnischen beziehungsweise energiewirtschaftlichen Umfeld Vertrautheit mit Normen, Werkvorschriften und Branchendokumenten von VSE, ESTI und ElCom Idealerweise Fachkenntnisse im Bereich Flexibilitäten; alternativ hohe Lernbereitschaft und die Fähigkeit, sich selbstständig in regulatorische Themen einzuarbeiten Praxiserfahrung in der Projektleitung Benefits Flexible Arbeitszeitgestaltung Gute Verkehrsanbindung und Erreichbarkeit Markt- und leistungsgerechte Löhne Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten Offene Unternehmenskultur ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "027527ec3e7a9c5f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-energiewirtschaft-und-netzentwicklung-m-w-d-at-rocken%C2%AE-4485171166"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Materialprüfer:in ZfP – Winterthur",
+   "company": "Stadler",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/materialpr%C3%BCfer-in-zfp-%E2%80%93-winterthur-at-stadler-4485156573",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "DEINE AUFGABENBEREICHE Durchführung von zerstörungsfreien Prüfungen mittels Magnetpulverprüfung (MT) an Schweissbaugruppen, Guss- und Schmiedeteilen Beurteilung von Baugruppen gemäss Normen, Zeichnungen und Kundenvorgaben Dokumentation und Auswertung der Prüfergebnisse sowie Erstellung von Prüfberichten Identifikation, Bewertung und Meldung von Abweichungen und Qualitätsmängeln Unterstützung bei Ursachenanalysen und Korrekturmassnahmen Sicherstellung der Einhaltung von Qualitätsstandards sowie internen Vorschriften Enge Zusammenarbeit mit Schweissaufsicht, Produktion, Qualitätssicherung und Engineering Mitwirkung bei internen und externen Audits DEINE BERUFLICHEN ERFAHRUNGEN Abgeschlossene technische Berufsausbildung im Metall-, Maschinen- oder Fahrzeugbau (z. B. Anlagen- und Apparatebauer, Polymechaniker, Schlosser, Schweisser oder vergleichbar) Bereitschaft zur Schichtarbeit im 2-Schichtbetrieb Zertifizierung MT-Stufe 2 nach EN ISO 9712 Weitere Prüfverfahren (UT, UTPA, VT, PT) von Vorteil Ausbildung zum Schweissfachmann von Vorteil Fundierte Kenntnisse der relevanten Normen und Qualitätsanforderungen Erfahrung als Schweisser von Vorteil Kenntnisse im Lesen technischer Zeichnungen sowie im Umgang mit Prüfvorschriften und Normen Sicherer Umgang mit MS Office und digitalen Prüfsystemen Gute Deutschkenntnisse in Wort und Schrift Hohes Qualitätsbewusstsein sowie eine zuverlässige und strukturierte Arbeitsweise Teamfähigkeit sowie ein hohes Verantwortungsbewusstsein Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "42f30eb9583dce91",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/materialpr%C3%BCfer-in-zfp-%E2%80%93-winterthur-at-stadler-4485156573"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Sichtprüfer:in Schweisstechnik – Winterthur",
+   "company": "Stadler",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sichtpr%C3%BCfer-in-schweisstechnik-%E2%80%93-winterthur-at-stadler-4485171449",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "DEINE AUFGABENBEREICHE Durchführung von zerstörungsfreien Prüfungen mittels Sichtprüfung (VT) an Schweissbaugruppen, Guss- und Schmiedeteilen Beurteilung von Baugruppen gemäss Normen, Zeichnungen und Kundenvorgaben Dokumentation und Auswertung der Prüfergebnisse sowie Erstellung von Prüfberichten Identifikation, Bewertung und Meldung von Abweichungen und Qualitätsmängeln Unterstützung bei Ursachenanalysen und Korrekturmassnahmen Sicherstellung der Einhaltung von Qualitätsstandards sowie internen Vorschriften Enge Zusammenarbeit mit Schweissaufsicht, Produktion, Qualitätssicherung und Engineering Mitwirkung bei internen und externen Audits DEINE BERUFLICHEN ERFAHRUNGEN Abgeschlossene technische Berufsausbildung im Metall-, Maschinen- oder Fahrzeugbau (z. B. Anlagen- und Apparatebauer, Polymechaniker, Schlosser, Schweisser oder vergleichbar) Bereitschaft zur Schichtarbeit im 2-Schichtbetrieb Zertifizierung VT-Stufe 2 nach EN ISO 9712 Mehrjährige Erfahrung in der Sichtprüfung von Schweißkonstruktionen Weitere Prüfverfahren (UT, UTPA, VT, PT, MT) von Vorteil Erfahrung als Schweisser von Vorteil Gute Kenntnisse im Lesen von technischen Zeichnungen und Schweißnahtsymbolen Fundierte Kenntnisse der relevanten Normen und Qualitätsanforderungen Sicherer Umgang mit MS Office und digitalen Prüfsystemen Hohes Qualitätsbewusstsein sowie eine zuverlässige und strukturierte Arbeitsweise Teamfähige Persönlichkeit mit Durchsetzungsvermögen und Verantwortungsbewusstsein Gute Deutschkenntnisse in Wort und Schrift Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "1308578485bf4ae8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sichtpr%C3%BCfer-in-schweisstechnik-%E2%80%93-winterthur-at-stadler-4485171449"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Vice President Group Quality & EOHS 100% (f/m/d)",
+   "company": "Burckhardt Compression",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vice-president-group-quality-eohs-100%25-f-m-d-at-burckhardt-compression-4421563120",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "187f0df8530f8687",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vice-president-group-quality-eohs-100%25-f-m-d-at-burckhardt-compression-4421563120"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Integrationskraft / Einzelintegrationskraft m/w/d) für die Waldkita Oberholz in Rielasingen",
+   "company": "Diakonie Württemberg",
+   "location": "Rielasingen-Worblingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/integrationskraft-einzelintegrationskraft-m-w-d-f%C3%BCr-die-waldkita-oberholz-in-rielasingen-at-diakonie-w%C3%BCrttemberg-4485163648",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "Veröffentlicht am 31.10.2026 Aktualisiert am 01.11.2026 Stimmt, mit jungen Menschen zu arbeiten ist kein Kinderspiel. Wenn Kreativität Ihre Superpower ist und Sie es gewohnt sind, auch im größten Durcheinander die Ruhe zu bewahren, dann könnten Sie gut zu uns passen. Wir suchen offene Menschen mit Fantasie und Verstand, die sich mit Freude weiterentwickeln möchten – persönlich und fachlich. Dafür bilden wir starke Teams, in denen spürbar ist, dass alle an einem Strang ziehen. Wir sind eine große Hilfsorganisation mit Hauptsitz in Berlin. Zu unseren Aufgaben zählen u. a. Rettungs- und Sanitätsdienst, Pflegeangebote, Katastrophenschutz, soziale Dienste sowie die Arbeit mit Kindern und Jugendlichen. Weitere Informationen zu Einstiegsmöglichkeiten, Perspektiven und wie wir arbeiten: johanniter.de/karriere Arbeitgeber: Johanniter-Unfall-Hilfe e.V. Stellenart: Stelle für Fachkräfte Arbeitsfeld: Bildung / Erziehung Stellenumfang: Teilzeit Befristung: unbefristet Arbeitsort: 78239 Rielasingen-Worblingen Das erwartet Sie Individuelle Begleitung: Sie sichern die Teilhabe und Begleitung eines Kindes mit speziellem Unterstützungsbedarf im gesamten Waldalltag. Entwicklungsförderung: Sie unterstützen das Kind im lebenspraktischen Bereich, bei der Bewältigung des Terrains im Wald sowie in der sozial-emotionalen und sprachlichen Entwicklung. Schnittstellenarbeit: Sie arbeiten eng und partnerschaftlich mit der Gruppe, den Eltern und externen Fachdiensten (z. B. Therapeuten) zusammen. Krisenbegleitung: Sie bieten dem Kind Orientierung, Struktur und emotionale Sicherheit in herausfordernden Situationen. Das zeichnet Sie aus Qualifikation: Eine abgeschlossene Ausbildung als staatlich anerkannte/r Erzieher/in, Heilerziehungspfleger/in, Heilpädagog/in oder eine vergleichbare pädagogische Qualifikation nach den gesetzlichen Vorgaben. (Optional für Quereinsteiger: Auch motivierte Quereinsteiger mit Erfahrung in der Pflege oder Betreuung von Menschen mit Behinderung sind herzlich willkommen.) Naturbegeisterung: Sie sind absolut wetterfest, halten sich gerne im Wald auf und nutzen die Natur aktiv als Entwicklungsraum. Persönlichkeit: Sie zeichnen sich durch Empathie, Geduld, physische und psychische Belastbarkeit sowie ein hohes Maß an Spontanität und Klarheit aus. Teamgeist: Ein offener, vorurteilsfreier und transparenter Kommunikationsstil ist für Sie selbstverständlich. Das bieten wir Ihnen 30 Urlaubstage bei einer 5-Tage-Woche 13. Monatsgehalt attraktive Vergütung Fort- und Weiterbildungen betriebliche Altersvorsorge Das sollten Sie noch wissen Im Sinne der Gleichstellung und Chancengleichheit aller Mitarbeitenden begrüßen wir alle Bewerbungen von Interessierten, unabhängig von deren kultureller, religiöser und sozialer Herkunft, Geschlecht, Alter, Behinderung oder sexueller Identität. Einsatzort: Rielasingen-Worblingen Gehaltsinformation: AVR DWBO Anlage Johanniter Art der Anstellung: Teilzeit Stundenumfang: 7 Stunden / Woche Befristung: unbefristet Stellen-ID: J000035322 Kontakt Johanniter-Unfall-Hilfe e.V. Juliane Binnig www.johanniter.de 0173 2146872 Deutschland Kartendienst öffnen Bewerbung Bitte bewerben Sie sich online und nutzen Sie dafür unser Bewerbungsformular. Hier Online bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Civic and Social Organizations Referrals increase your chances of interviewing at Diakonie Württemberg by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "f0968abcfe2e83f3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/integrationskraft-einzelintegrationskraft-m-w-d-f%C3%BCr-die-waldkita-oberholz-in-rielasingen-at-diakonie-w%C3%BCrttemberg-4485163648"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Integrationskraft / Einzelintegrationskraft m/w/d) für die Waldkita Oberholz in Rielasingen",
+   "company": "Johanniter-Unfall-Hilfe e.V.",
+   "location": "Rielasingen-Worblingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/integrationskraft-einzelintegrationskraft-m-w-d-f%C3%BCr-die-waldkita-oberholz-in-rielasingen-at-johanniter-unfall-hilfe-e-v-4483943504",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "Veröffentlicht am 31. Oktober 2026 Arbeitsort 78239 Rielasingen-Worblingen Bundesland Baden-Württemberg Stellenumfang Teilzeit Befristung unbefristet Stimmt, mit jungen Menschen zu arbeiten ist kein Kinderspiel. Wenn Kreativität Ihre Superpower ist und Sie es gewohnt sind, auch im größten Durcheinander die Ruhe zu bewahren, dann könnten Sie gut zu uns passen. Wir suchen offene Menschen mit Fantasie und Verstand, die sich mit Freude weiterentwickeln möchten – persönlich und fachlich. Dafür bilden wir starke Teams, in denen spürbar ist, dass alle an einem Strang ziehen. Wir sind eine große Hilfsorganisation mit Hauptsitz in Berlin. Zu unseren Aufgaben zählen u. a. Rettungs- und Sanitätsdienst, Pflegeangebote, Katastrophenschutz, soziale Dienste sowie die Arbeit mit Kindern und Jugendlichen. Weitere Informationen zu Einstiegsmöglichkeiten, Perspektiven und wie wir arbeiten: johanniter.de/karriere Das erwartet Sie Individuelle Begleitung: Sie sichern die Teilhabe und Begleitung eines Kindes mit speziellem Unterstützungsbedarf im gesamten Waldalltag. Entwicklungsförderung: Sie unterstützen das Kind im lebenspraktischen Bereich, bei der Bewältigung des Terrains im Wald sowie in der sozial-emotionalen und sprachlichen Entwicklung. Schnittstellenarbeit: Sie arbeiten eng und partnerschaftlich mit der Gruppe, den Eltern und externen Fachdiensten (z. B. Therapeuten) zusammen. Krisenbegleitung: Sie bieten dem Kind Orientierung, Struktur und emotionale Sicherheit in herausfordernden Situationen. Das zeichnet Sie aus Qualifikation: Eine abgeschlossene Ausbildung als staatlich anerkannte/r Erzieher/in, Heilerziehungspfleger/in, Heilpädagog/in oder eine vergleichbare pädagogische Qualifikation nach den gesetzlichen Vorgaben. (Optional für Quereinsteiger: Auch motivierte Quereinsteiger mit Erfahrung in der Pflege oder Betreuung von Menschen mit Behinderung sind herzlich willkommen.) Naturbegeisterung: Sie sind absolut wetterfest, halten sich gerne im Wald auf und nutzen die Natur aktiv als Entwicklungsraum. Persönlichkeit: Sie zeichnen sich durch Empathie, Geduld, physische und psychische Belastbarkeit sowie ein hohes Maß an Spontanität und Klarheit aus. Teamgeist: Ein offener, vorurteilsfreier und transparenter Kommunikationsstil ist für Sie selbstverständlich. Das bieten wir Ihnen 30 Urlaubstage bei einer 5-Tage-Woche 13. Monatsgehalt attraktive Vergütung Fort- und Weiterbildungen betriebliche Altersvorsorge Das sollten Sie noch wissen Im Sinne der Gleichstellung und Chancengleichheit aller Mitarbeitenden begrüßen wir alle Bewerbungen von Interessierten, unabhängig von deren kultureller, religiöser und sozialer Herkunft, Geschlecht, Alter, Behinderung oder sexueller Identität. Einsatzort: Rielasingen-Worblingen Gehaltsinformation: AVR DWBO Anlage Johanniter Art der Anstellung: Teilzeit Stundenumfang: 7 Stunden / Woche Befristung: unbefristet Stellen-ID: J000035322 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Individual and Family Services Referrals increase your chances of interviewing at Johanniter-Unfall-Hilfe e.V. by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "103bd4b4c4c407f4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/integrationskraft-einzelintegrationskraft-m-w-d-f%C3%BCr-die-waldkita-oberholz-in-rielasingen-at-johanniter-unfall-hilfe-e-v-4483943504"
+   },
+   "first_seen": "2026-11-01"
+  },
+  {
+   "title": "Marketing Manager (m/w/d)",
+   "company": "Singener Wochenblatt GmbH & Co. KG Verlag",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/marketing-manager-m-w-d-at-singener-wochenblatt-gmbh-co-kg-verlag-4485902409",
+   "posted": "2026-10-31",
+   "salary": null,
+   "via": null,
+   "description": "Jobs Marketing / PR / Werbung Marketing Manager (m/w/d) Marketing Manager (m/w/d) Top Job Breyer GmbH Maschinenfabrik location 78224 Singen (Hohentwiel), Deutschland remote teilweise Home-Office Veröffentlicht Veröffentlicht: 22.10.2026 Marketing / PR / Werbung UNSER ANGEBOT Ein innovatives Umfeld in einem weltweit tätigen Unternehmen, teamorientiertes und kommunikatives Arbeiten und eine gute Einarbeitung in unser Team. n Wir bieten eine flexible Arbeitszeit­ gestaltung inklusive mobilem Arbeiten n Leistungsgerechte Vergütung mit Erfolgskomponente n Zahlreiche Benefits wie z.B. Bike-Leasing, Gesundheitsmanage­ ment, Altersvorsorge UNSERE PRODUKTE BREYER ist weltweit führend in der Entwicklung und Produktion von hoch­ wertigen Extrusionsanlagen für die kunststoffverarbeitende Industrie. Weitere Geschäftsfelder sind BREYER composites und BREYER energy solutions. UNSERE KUNDEN Unsere Kunden sind international und gehören zu den globalen Größen. BREYER- Anlagen finden weltweit Anerkennung. UNSER UNTERNEHMEN Wir sind ein erfolgreiches mittelständisches Familienunternehmen mit über 250 Mit­ arbeitenden. Der vorteilhafte Standort befindet sich im Süden Deutschlands in der Nähe des Bodensees und der Schweiz, einer landschaftlich sehr interessanten Umgebung. Zum Zweck der besseren Lesbarkeit verzichten wir auf eine geschlechterspezifische Schreibweise sowie auf Mehrfachbezeichnungen. Alle verwendeten Personenbezeichnungen sind geschlechtsneutral zu verstehen und beziehen sich auf alle Geschlechter gleichermaßen. Wir freuen uns auf Ihre Bewerbung unter Angabe Ihrer Entgeltvorstellung und des frühestmöglichen Eintrittstermins. KONTAKT & INFO PERSONALFRAGEN Petra Hör Telefon +49 7731 920-111 (vormittags) personal@breyer-extr.com IHRE HERAUSFORDERUNG n Eigenständige Marketingstruktur Aufbauen: BREYER bekannter machen, Leads managen, Kontakte für den Vertrieb aufbereiten (Sales Enablement) und Markttransparenz schaffen n Marketing- und Kommunikationsmaßnahmen von der Konzeption bis zur Umsetzung verantworten n Inhalte für Website und Social Media, Texte zu Produktneuheiten, Anzeigen, Präsentationen, Prospekte und Produktdokumentationen erstellen sowie Messestände gestalten n Nationale und internationale Messen, Events und Inhouse-Shows gemeinsam mit dem Vertrieb planen und organisieren n Aussagekräftige Marketing-Kennzahlen(KPIs) eigenständig entwickeln und etablieren n Externe Dienstleister für Web und Hosting steuern und deren Leistungen kontrollieren n Web-Analytics einrichten und eigenständig auswerten n SEO und GEO (Generative Engine Optimization für KI-Suchen) optimieren und operativ betreuen IHR PROFIL n Studium in Marketing, Wirtschaft oder Kommunikation oder vergleichbare Quali­ fikation mit nachgewiesener Berufserfahrung n Mindestens 3 Jahre B2B-Marketing- Erfahrung, nachweislich auch mit Lead- oder Datenprozessen n CRM- oder Marketing-Automation-System eigenständig eingeführt oder maßgeblich mitgestaltet n Nachweisliche Erfahrung mit Web-Analytics und Auswertung eigener Kennzahlen n Sehr gute Excel-Kenntnisse, sicherer Umgang mit Daten sowie Verständnis für Datenmodelle und Schnittstellen n Verhandlungssicheres Deutsch und Englisch n Verständnis für lange Kaufprozesse und Buying-Center mit mehreren Beteiligten, wie sie bei komplexen Investitionsgütern oder im Maschinen- und Anlagenbau üblich sind Marketing Manager (m/w/d) Vollzeit Standort Singen Homeoffice möglich Ab sofort BREYER GmbH Maschinenfabrik Georg-Fischer-Str. 40 D-78224 Singen www.breyer.worldKarriere by BREYER Original-Anzeige Art des Abschlusses Bachelor Diplom Fachwirt Master UNSER ANGEBOT Ein innovatives Umfeld in einem weltweit tätigen Unternehmen, teamorientiertes und kommunikatives Arbeiten und eine gute Einarbeitung in unser Team. n Wir bieten eine flexible Arbeitszeit­ gestaltung inklusive mobilem Arbeiten n Leistungsgerechte Vergütung mit Erfolgskomponente n Zahlreiche Benefits wie z.B. Bike-Leasing, Gesundheitsmanage­ ment, Altersvorsorge UNSERE PRODUKTE …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "acdc8e160ef2ad4e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/marketing-manager-m-w-d-at-singener-wochenblatt-gmbh-co-kg-verlag-4485902409"
+   },
+   "first_seen": "2026-11-01"
+  },
   {
    "title": "Pädagogische oder pflegerische Fachkraft für Assistenzleistung...",
    "company": "ZfP Südwürttemberg",
@@ -38,7 +350,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19200-sumvzpfzu5-S"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projekt Manager – BOS- Digitalfunk (m/w/d)",
@@ -62,7 +375,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projekt-manager-%E2%80%93-bos-digitalfunk-m-w-d-at-kontron-transportation-4483472906"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Leiter:in IT",
@@ -86,7 +400,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/leiter-in-it-at-baumann-unternehmensberatung-4483434979"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektleiter / Integrator (w/m/d) in der Gebäudetechnik - Immenstaad bei Friedrichshafen",
@@ -110,7 +425,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-integrator-w-m-d-in-der-geb%C3%A4udetechnik-immenstaad-bei-friedrichshafen-at-apleona-group-4483468198"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektleiter (m/w/d) Trägerfahrzeuge für Luftverteidigungssysteme",
@@ -134,7 +450,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-tr%C3%A4gerfahrzeuge-f%C3%BCr-luftverteidigungssysteme-at-diehl-defence-4484860669"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Netzwerkadministrator",
@@ -158,7 +475,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/netzwerkadministrator-at-macrogate-ip-systems-ag-4485613452"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Partnership Manager (m/w/d) - 100%",
@@ -182,7 +500,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/partnership-manager-m-w-d-100%25-at-ifolor-group-4485105206"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Campaign Manager (m/w/d) - 100%",
@@ -206,7 +525,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/campaign-manager-m-w-d-100%25-at-ifolor-group-4485105239"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektleiterin/Projektleiter Bauherrenvertretung",
@@ -230,7 +550,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiterin-projektleiter-bauherrenvertretung-at-kanton-thurgau-4484835613"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Sekretar (580), Sektor za Interreg",
@@ -254,7 +575,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sekretar-580-sektor-za-interreg-at-vlada-republike-slovenije-4483458187"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Technical Purchaser 100% (m/w/d)",
@@ -278,7 +600,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/technical-purchaser-100%25-m-w-d-at-rocken%C2%AE-4484887392"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektassistent/-in Bauadministration",
@@ -302,7 +625,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektassistent-in-bauadministration-at-sch%C3%B6b-ag-4485123491"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektleiter/in Erneuerbare Energien",
@@ -326,7 +650,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-erneuerbare-energien-at-drexel-group-ag-4485615127"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Team- und Projektleiter:in mit Potenzial Stv. Niederlassungsleiter:in 80-100% - Rapperswil",
@@ -350,7 +675,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/team-und-projektleiter-in-mit-potenzial-stv-niederlassungsleiter-in-80-100%25-rapperswil-at-afry-4485377250"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Leistungskoordinatorin / Leistungskoordinator",
@@ -374,7 +700,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leistungskoordinatorin-leistungskoordinator-at-kantonsspital-winterthur-4484847113"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Project Procurement Manager (f/m/d)",
@@ -398,7 +725,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/project-procurement-manager-f-m-d-at-leica-microsystems-4474848290"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektleiter:in Lüftung (alle)",
@@ -422,7 +750,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-l%C3%BCftung-alle-at-bkw-building-solutions-ag-4471601156"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Senior Customer Support Manager:in",
@@ -446,7 +775,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-customer-support-manager-in-at-seven-education-4481887065"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Leiter:in Netze – Infrastruktur und Unternehmensentwicklung (m/w/d)",
@@ -470,7 +800,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-netze-%E2%80%93-infrastruktur-und-unternehmensentwicklung-m-w-d-at-rocken%C2%AE-4483440930"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Fachspezialist Netz- und Installationstechnik (m/w/d)",
@@ -494,7 +825,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialist-netz-und-installationstechnik-m-w-d-at-rocken%C2%AE-4483444658"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Facility Services Manager 100%",
@@ -518,7 +850,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/facility-services-manager-100%25-at-iss-schweiz-ag-4484898052"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Spezialtüren (m/w/d)",
@@ -542,7 +875,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-spezialt%C3%BCren-m-w-d-at-rocken%C2%AE-4484887391"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Anlagenbau (m/w/d)",
@@ -566,7 +900,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-anlagenbau-m-w-d-at-rocken%C2%AE-4484891549"
    },
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-31",
+   "carried_over": true
   }
  ]
 }
