@@ -1,20 +1,386 @@
 {
- "generated_at": "2026-11-01T07:41:35+00:00",
+ "generated_at": "2026-11-02T07:48:16+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 167,
-   "linkedin": 209,
-   "jobroom": 29
+   "arbeitsagentur": 164,
+   "linkedin": 202,
+   "jobroom": 27
   },
-  "excluded": 325,
-  "unique": 64,
-  "new": 13,
-  "carried_over": 23
+  "excluded": 310,
+  "unique": 68,
+  "new": 15,
+  "carried_over": 36
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Chancengleichheit&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Integrationsmanagement&location=Konstanz%2C+Baden-Wurttemberg%2C+Germany&gl=de&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=40"
  },
  "jobs": [
+  {
+   "title": "Projektleiterin/Projektleiter Bauherrenvertretung 80–100%",
+   "company": "Kantonales Hochbauamt Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiterin-projektleiter-bauherrenvertretung-80%E2%80%93100%25-at-kantonales-hochbauamt-thurgau-4485980302",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d05c6c5a853e4e9f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiterin-projektleiter-bauherrenvertretung-80%E2%80%93100%25-at-kantonales-hochbauamt-thurgau-4485980302"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Spécialiste Services et support RH",
+   "company": "Bundesverwaltungsgericht – Federal Administrative Court",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sp%C3%A9cialiste-services-et-support-rh-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4485421924",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "95e84995d401b835",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sp%C3%A9cialiste-services-et-support-rh-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4485421924"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Fachspezialist/-in HR Services und Support",
+   "company": "Bundesverwaltungsgericht – Federal Administrative Court",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachspezialist-in-hr-services-und-support-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4485425468",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "St. Gallen, Schweiz (und Homeoffice) | 80-100% | Diesen Beitrag können Sie leisten Sie bearbeiten und kontrollieren Personal- und Lohnmutationen und stellen eine korrekte, termingerechte Verarbeitung sicher. Sie wickeln Sozialversicherungsgeschäfte ab und klären Fragen zu Zulagen, Drittleistungen und Lohnfortzahlung. Sie betreuen die Zeitwirtschaft und unterstützen Mitarbeitende und Vorgesetzte bei der Systemanwendung. Sie erstellen Auswertungen und führen Monats- und Jahresabstimmungen mit den zuständigen Stellen durch. Sie sichern die Datenqualität, entwickeln die zugeteilten Fachprozesse weiter und wirken an HR-Systemprojekten mit. Das macht Sie einzigartig Sie verfügen über eine kaufmännische Grundbildung mit Weiterbildung im Personalwesen; ein HR-Fachausweis oder eine Vertiefung in Payroll bzw. Sozialversicherungen ist von Vorteil. Sie bringen mehrjährige Erfahrung in der Personal- und Lohnadministration sowie Kenntnisse der Sozialversicherungen und Zeitwirtschaft mit. Sie arbeiten selbständig, genau und diskret und behalten auch bei anspruchsvollen Abklärungen und engen Fristen den Überblick. Sie überzeugen durch Ihr Zahlenverständnis, Ihre Dienstleistungsorientierung und Ihren sicheren Umgang mit HR-Systemen und Excel. Sie verfügen über gute aktive Kenntnisse einer zweiten Amtssprache. Auf den Punkt gebracht Sie verbinden Freude an Zahlen mit fundiertem HR-Fachwissen? Mit Ihrer sorgfältigen Arbeit sorgen Sie für korrekte Löhne, verlässliche Daten und einen kompetenten HR-Service in einem dreisprachigen Arbeitsumfeld. Das bieten wir Arbeiten für die Schweiz Wir setzen uns für das Erfolgsmodell Schweiz ein und arbeiten zum Wohl der Bevölkerung. Gelebte Vielfalt Dank Chancengleichheit entfalten wir unsere Kompetenzen und bringen unterschiedliche Perspektiven ein. Gesund am Arbeitsplatz Wir unterstützen und beraten unsere Mitarbeitenden im Bereich der physischen und psychischen Gesundheit. <a href=''https://www.stelle.admin.ch/stelle/de/home/bundesverwaltung/ihre-vorteile-auf-einen-blick.html'' target=''_blank''>Alle Benefits Das Bundesverwaltungsgericht mit Sitz in St. Gallen behandelt Beschwerden, die gegen Verfügungen von Bundesbehörden erhoben werden. Die Mehrheit seiner Urteile wird abschliessend entschieden, und von den beim Bundesgericht anfechtbaren wird nur eine Minderheit weitergezogen. Die hohe Akzeptanz seiner Urteile ist vor allem auf die hohe Qualität und angemessene Behandlungsdauer zurückzuführen. Hierfür bietet es seinen Mitarbeitenden modernste Arbeitsplätze, flexible Zeitmodelle und ein dreisprachiges Arbeitsumfeld an. Zusätzliche Informationen Bitte beachten Sie, dass es im Falle von Mehrfachbewerbungen innerhalb des Bundesverwaltungsgerichts zu einem Datenaustausch zwischen den an der jeweiligen Bewerbung beteiligten Personen kommen kann. Ihre Daten werden gemäss den geltenden Datenschutzbestimmungen verarbeitet, mit denen Sie sich durch Zustimmung der Datenschutzerklärung einverstanden erklären. Fragen zur Stelle Debora Rimoli +41 58 46 52647 Fragen zur Bewerbung Judith Alpiger +41 58 46 53190 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Law Practice Referrals increase your chances of interviewing at Bundesverwaltungsgericht – Federal Administrative Court by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2cb540df5a6005ff",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialist-in-hr-services-und-support-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4485425468"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Dozent Medinzinische Massagen",
+   "company": "Benedict-Schule St. Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/dozent-medinzinische-massagen-4485963483",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "613d0470e68bbecf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/dozent-medinzinische-massagen-4485963483"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Mitarbeiter:in Operations mit juristischem Schwerpunkt, Degree Programmes ES HSG (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-operations-mit-juristischem-schwerpunkt-degree-programmes-es-hsg-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4485953341",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f05f5f267f371882",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-operations-mit-juristischem-schwerpunkt-degree-programmes-es-hsg-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4485953341"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Senior Spezialist Compensation & Benefits (alle)",
+   "company": "SWICA Organisation de Santé",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-spezialist-compensation-benefits-alle-at-swica-organisation-de-sant%C3%A9-4484315002",
+   "posted": "2026-11-02",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "24727ae49ccdcb05",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-spezialist-compensation-benefits-alle-at-swica-organisation-de-sant%C3%A9-4484315002"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Marketing - Manager (m/w/d)",
+   "company": "EMIL EGGER AG",
+   "location": "Sankt Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/marketing-manager-m-w-d-at-emil-egger-ag-4484318505",
+   "posted": "2026-11-02",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1ac873c027f1a42e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/marketing-manager-m-w-d-at-emil-egger-ag-4484318505"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Standortleiter/in Bakery Bakery St. Gallen 100%",
+   "company": "Bakery Bakery",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/standortleiter-in-bakery-bakery-st-gallen-100%25-at-bakery-bakery-4483978531",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f31d39d30454f3e1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/standortleiter-in-bakery-bakery-st-gallen-100%25-at-bakery-bakery-4483978531"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Projektleiter Netzmanagement / Smart Grid (m/w/d)",
+   "company": "mamgo | Talente 🔗 Jobs",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-netzmanagement-smart-grid-m-w-d-at-mamgo-talente-%F0%9F%94%97-jobs-4485986785",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "Für unseren Kunden besetzen wir ab sofort folgende Position in Festanstellung. Der Dienstsitz kann flexibel an einem der folgenden Standorte gewählt werden: Rülzheim, Schifferstadt, Wangen im Allgäu, Singen (Hohentwiel) oder Bad Waldsee : Aufgabenprofil Entwicklung und Umsetzung innovativer Smart-Grid-Lösungen für Stromnetze Steuerung und Leitung von Projekten zur Digitalisierung und Modernisierung von Verteilnetzen Akquisition von Stadtwerken und Energieversorgern als Projektkunden Einführung und Weiterentwicklung digitaler Zwillinge für Stromnetze Analyse, Prüfung und Qualifizierung von Netzdaten Zusammenführung unterschiedlicher Datenquellen zu konsistenten Netzmodellen Planung und Begleitung von Pilotierungen, Roll-outs und Produktivsetzungen Koordination der Integration neuer Smart-Grid-Anwendungen in bestehende IT-Landschaften Beratung bei regulatorischen und technischen Fragestellungen im Umfeld der Energiewende Steuerung von Projektbudgets, Zeitplänen und Qualitätsstandards Qualifikationsprofil Abgeschlossenes Studium der Elektrotechnik, Energietechnik, Informationstechnik, Physik oder einer vergleichbaren Fachrichtung Alternativ abgeschlossene Weiterbildung zum Techniker oder Meister (m/w/d) mit mehrjähriger einschlägiger Berufserfahrung Mehrjährige Erfahrung in der Leitung von Softwareeinführungs- oder Digitalisierungsprojekten, idealerweise in der Energiebranche Kenntnisse in der Daten- und Informationsverarbeitung Grundlegendes Verständnis von Energieversorgungsnetzen, Smart Grids, Netzmodellen und Netzbetrieb Kenntnisse der Energiewirtschaft und ihrer Dienstleistungen von Vorteil Führerschein der Klasse B Zertifizierung im Projektmanagement oder Bereitschaft zum Erwerb Sehr gute Deutschkenntnisse in Wort und Schrift Hohe Eigenverantwortung, Organisationsstärke und Reisebereitschaft Wir bieten Vollständig arbeitgeberfinanzierte betriebliche Altersvorsorge 38-Stunden-Woche mit flexiblen Arbeitszeiten Bis zu drei Tage Homeoffice pro Woche 30 Urlaubstage sowie zusätzliche freie Tage an Heiligabend, Silvester und Fasching JobRad, Fahrtkostenzuschuss und Zuschüsse zur E-Mobilität IT-Leasing und attraktive Mitarbeitervorteile bei Kooperationspartnern Umfangreiche Gesundheitsangebote und Präventionsmaßnahmen Vielfältige Weiterbildungs- und Entwicklungsmöglichkeiten über Akademien und digitale Lernplattformen Moderne IT-Ausstattung und digitale Arbeitsumgebung Langfristige Karriereperspektiven innerhalb einer starken Unternehmensgruppe Über YER Deutschland Egal ob als Junior, Professional oder Führungskraft: Wir begleiten den gesamten Karriereweg. Bundesweit warten attraktive Jobs, insbesondere in den Bereichen Mobility, Tech und Energy. Unser Ziel ist es dabei stets, das Perfect Match zwischen Talenten und Unternehmen zu finden. Als Teil der YER Group wächst unser Angebot an internationalen Services stetig weiter und eröffnet auch berufliche Perspektiven über Ländergrenzen hinweg. Ob im Einsatz bei einem renommierten Kundenunternehmen oder im internen Team von YER - bei uns beginnt der Weg zum Traumjob! Interessiert? Dann freuen wir uns über eine aussagekräftige Bewerbung inkl. Gehaltsvorstellung und frühestem Eintrittstermin über unser Onlineportal. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at mamgo | Talente 🔗 Jobs by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "3e025f9f4bc43786",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-netzmanagement-smart-grid-m-w-d-at-mamgo-talente-%F0%9F%94%97-jobs-4485986785"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Fachangestellter für Bäderbetriebe (m/w/d)",
+   "company": "Bädergesellschaft Konstanz mbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/fachangestellter-f%C3%BCr-b%C3%A4derbetriebe-m-w-d-at-b%C3%A4dergesellschaft-konstanz-mbh-4485984113",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "80bb519b6bbd9ee9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/fachangestellter-f%C3%BCr-b%C3%A4derbetriebe-m-w-d-at-b%C3%A4dergesellschaft-konstanz-mbh-4485984113"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Svetovalec v Sektorju za okoljske statistike, v Oddelku za statistiko okolja in energetike",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-v-sektorju-za-okoljske-statistike-v-oddelku-za-statistiko-okolja-in-energetike-at-vlada-republike-slovenije-4485442067",
+   "posted": "2026-11-02",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Z izbranim kandidatom bomo sklenili pogodbo o zaposlitvi za določen čas, in sicer za čas trajanja materinskega in starševskega dopusta javne uslužbenke, s polnim delovnim časom. Izbranemu kandidatu se bodo na delovnem mestu svetovalec (izhodiščni plačni razred delovnega mesta/naziva je 17. plačni razred oziroma 2030,25 EUR bruto, pri čemer pridobi pravico do izplačila osnovne plače v vrednosti tega plačnega razreda postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju (Uradni list RS, št. 95/24)), pravice in dolžnosti določile glede na uradniški naziv svetovalec III. Izbrani kandidat bo delo opravljal v poslovnih prostorih SURS-a, Litostrojska cesta 54, Ljubljana. Zahteve za prijavo Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) ali najmanj visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) ali najmanj visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja) ali najmanj specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja), najmanj 7 mesecev delovnih izkušenj, znanje uradnega jezika, državljanstvo Republike Slovenije, ne smejo biti pravnomočno obsojeni zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in ne smejo biti obsojeni na nepogojno kazen zapora v trajanju več kot šest mesecev, zoper njih ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Izpolnjevanje teh pogojev kandidat dokazuje s predložitvijo pisne izjave. Delovne naloge Naloge Povzete Iz Sistemizacije Delovnega Mesta sodelovanje pri pripravi predpisov in drugih zahtevnejših gradiv, zbiranje, urejanje in priprava podatkov za oblikovanje zahtevnejših gradiv, samostojno oblikovanje manj zahtevnih gradiv s predlogi ukrepov, sodelovanje z drugimi organi, institucijami in uporabniki, samostojna priprava analiz, informacij, poročil in drugih gradiv, spremljanje predpisov delovnega področja, vodenje in odločanje v manj zahtevnih predpisanih postopkih delovnega področja, sodelovanje v projektnih skupinah, opravljanje drugih nalog podobne zahtevnost. Kandidat bo na delovnem mestu svetovalec opravljal naloge, povezane z rednim izvajanjem letnih statističnih raziskovanj s področja statistik okolja in statistik turizma, pri čemer bo spoznaval metodologijo in statistične postopke. Prav tako bo izvajal samostojne analize podatkov in pripravljal le-te za redna objavljanja ter nacionalna in mednarodna poročanja. Postopek prijave Kandidat vloži prijavo na priloženem obrazcu »Vloga za zaposlitev«, ki jo pošlje v zaprti ovojnici z označbo: »za javno objavo za prosto uradniško delovno mesto svetovalec, številka 1102-47/2026«, na naslov: SURS, Litostrojska 54, 1000 Ljubljana, in sicer v roku 8 dni po objavi na osrednjem spletnem mestu državne uprave GOV.SI in na spletni strani Zavoda RS za zaposlovanje. Zadnji dan za prijavo je 10. 11. 2026. Za pisno obliko prijave se šteje tudi elektronska oblika, poslana na elektronski naslov: gp.surs@gov.si, pri čemer veljavnost prijave ni pogojena z elektronskim podpisom. Neizbrani kandidati bodo o izboru pisno obveščeni najkasneje v osmih dneh po zaključenem postopku izbire, in sicer po elektronski poti na elektronski naslov kandidata, o katerem je kandidat seznanil delodajalca za namen obveščanja. Kontaktna oseba za dodatne informacije Marija Žerjav Prosen Kontaktna oseba za dodatne informacije o izvedbi javne objave 01 241 64 19 Marija.Zerjav-Prosen@gov.si Metka Pograjc Kontaktna oseba za dodatne informacije o delovnem področju 01 234 07 38 Metka.Pograjc@gov.si Besedilo in prijavni obrazec SURS besedilo svetovalec 205 2.11.2026 (docx, …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "65f2f3478a5f67ee",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-v-sektorju-za-okoljske-statistike-v-oddelku-za-statistiko-okolja-in-energetike-at-vlada-republike-slovenije-4485442067"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Head Building Physics Laboratory (a) 100%",
+   "company": "Geberit Schweiz",
+   "location": "Rapperswil-Jona, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/head-building-physics-laboratory-a-100%25-at-geberit-schweiz-4423950578",
+   "posted": "2026-11-01",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "990855842a7fed41",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/head-building-physics-laboratory-a-100%25-at-geberit-schweiz-4423950578"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Juristin / Jurist im Asylbereich, 50–100 %, vorerst befristet auf 1 Jahr",
+   "company": "Sozialamt",
+   "location": "8200 Schaffhausen",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/93ec5b4e-b87e-40af-871e-6c599552f058",
+   "posted": "2026-11-02",
+   "salary": null,
+   "via": null,
+   "description": "Zudem führt es die <em>Fachstelle</em> <em>Gleichstellung</em>, Gewaltprävention und Gewaltschutz. Die Dienststelle nimmt darüber hinaus im Auftrag des Bundes Aufgaben im Asyl- und Flüchtlingsbereich wahr.",
+   "extra": {
+    "canton": "SH",
+    "query": "Fachstelle Gleichstellung",
+    "workload": "50-100 %",
+    "permanent": false,
+    "jobroom_id": "93ec5b4e-b87e-40af-871e-6c599552f058"
+   },
+   "id": "1f3250a3ef6c1a06",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.job-room.ch/job-search/93ec5b4e-b87e-40af-871e-6c599552f058"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Leiter/in Kreditverarbeitung",
+   "company": "Raiffeisenbank Schänis-Amden",
+   "location": "8718 Schänis",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/2dcc2611-841d-436c-aa32-7a875f87c319/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-02",
+   "salary": null,
+   "via": null,
+   "description": "**Wir leben Vielfalt und <em>Chancengleichheit</em>**\nWir fördern die unterschiedlichen Perspektiven, Erfahrungen und Kompetenzen in unseren Teams. Denn diese Vielfalt macht uns besonders und trägt entscheidend zu unserem Erfolg bei.",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "9848c5e9-6cc9-4db3-9546-a30eff3b8a2d"
+   },
+   "id": "3bc902ade2dc772c",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/2dcc2611-841d-436c-aa32-7a875f87c319/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Fachspezialist/-in HR Services und Support",
+   "company": "Bundesverwaltungsgericht BVGer",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/edf49244-1019-4eeb-aace-dbdc9e6729cb/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-02",
+   "salary": null,
+   "via": null,
+   "description": ".\n*  **Gelebte Vielfalt** Dank <em>Chancengleichheit</em> entfalten wir unsere Kompetenzen und bringen unterschiedliche Perspektiven ein.\n*  **Gesund am Arbeitsplatz** Wir unterstützen und beraten unsere Mitarbeitenden im Bereich der physischen und psychischen Gesundheit.",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "c6b39e7e-a284-49f6-86de-6e19ba52d337"
+   },
+   "id": "ffd2ed6911ea13ae",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/edf49244-1019-4eeb-aace-dbdc9e6729cb/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-02"
+  },
   {
    "title": "Gesundheits- und Krankenpfleger (m/w/d)",
    "company": "Altenpflegeheim Maria Hilf",
@@ -37,7 +403,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/gesundheits-und-krankenpfleger-m-w-d-at-altenpflegeheim-maria-hilf-4485680886"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Verwaltungsleiter (m/w/d)",
@@ -61,7 +428,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/verwaltungsleiter-m-w-d-at-stadt-lindau-4485928508"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Leitung Hauptamt (w/m/d)",
@@ -85,7 +453,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/leitung-hauptamt-w-m-d-at-stadt-lindau-4485924725"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Space Avionics Architect",
@@ -109,7 +478,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/space-avionics-architect-at-txt-group-4467851448"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Quality Assurance Professional (m/w/d)*",
@@ -133,7 +503,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/quality-assurance-professional-m-w-d-at-schott-pharma-4485144689"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Schadenspezialist (w/m/d) Generalagentur Wil SG",
@@ -157,7 +528,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/schadenspezialist-w-m-d-generalagentur-wil-sg-at-die-mobiliar-4354260521"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Spezialist Energiewirtschaft und Netzentwicklung (m/w/d)",
@@ -181,7 +553,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-energiewirtschaft-und-netzentwicklung-m-w-d-at-rocken%C2%AE-4485171166"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Materialprüfer:in ZfP – Winterthur",
@@ -205,7 +578,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/materialpr%C3%BCfer-in-zfp-%E2%80%93-winterthur-at-stadler-4485156573"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Sichtprüfer:in Schweisstechnik – Winterthur",
@@ -229,7 +603,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sichtpr%C3%BCfer-in-schweisstechnik-%E2%80%93-winterthur-at-stadler-4485171449"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Vice President Group Quality & EOHS 100% (f/m/d)",
@@ -253,7 +628,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/vice-president-group-quality-eohs-100%25-f-m-d-at-burckhardt-compression-4421563120"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Integrationskraft / Einzelintegrationskraft m/w/d) für die Waldkita Oberholz in Rielasingen",
@@ -277,7 +653,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/integrationskraft-einzelintegrationskraft-m-w-d-f%C3%BCr-die-waldkita-oberholz-in-rielasingen-at-diakonie-w%C3%BCrttemberg-4485163648"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Integrationskraft / Einzelintegrationskraft m/w/d) für die Waldkita Oberholz in Rielasingen",
@@ -301,7 +678,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/integrationskraft-einzelintegrationskraft-m-w-d-f%C3%BCr-die-waldkita-oberholz-in-rielasingen-at-johanniter-unfall-hilfe-e-v-4483943504"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Marketing Manager (m/w/d)",
@@ -325,7 +703,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/marketing-manager-m-w-d-at-singener-wochenblatt-gmbh-co-kg-verlag-4485902409"
    },
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-01",
+   "carried_over": true
   },
   {
    "title": "Pädagogische oder pflegerische Fachkraft für Assistenzleistung...",
