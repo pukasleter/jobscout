@@ -1,580 +1,218 @@
 {
- "generated_at": "2026-11-03T08:01:37+00:00",
+ "generated_at": "2026-11-04T07:34:38+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 160,
+   "arbeitsagentur": 158,
    "linkedin": 250,
-   "jobroom": 25
+   "jobroom": 28
   },
-  "excluded": 341,
-  "unique": 81,
-  "new": 29,
+  "excluded": 355,
+  "unique": 67,
+  "new": 18,
   "carried_over": 0
  },
  "errors": {
-  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Kinder+Jugend+Familie&location=Kreuzlingen%2C+Thurgau%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=30"
+  "google_jobs": "429 Client Error: Too Many Requests for url: https://serpapi.com/search.json?engine=google_jobs&q=Doktorandin+Soziologie&location=Kreuzlingen%2C+Thurgau%2C+Switzerland&gl=ch&hl=de&api_key=334e3b434216f79ec971eb1c4a25cdb1e67fe80ad6fe3c44ea2df703645c49cd&lrad=30"
  },
  "jobs": [
   {
-   "title": "Integrationskraft / Einzelintegrationskraft m/w/d) für die Waldkita Oberholz in Rielasingen",
-   "company": "Johanniter-Unfall-Hilfe e.V. Landesverband Baden-Württemberg",
-   "location": "78239 Rielasingen-Worblingen",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14271-1649325-1-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "Integrationskraft / Einzelintegrationskraft m/w/d) für die Waldkita Oberholz in Rielasingen\nDie Stelle umfasst 7 Wochenstunden. Die Arbeitszeiten orientieren sich an den Betreuungszeiten des Kindes (vormittags). Die Stelle ist zunächst an die Bewilligung der Integrationsmaßnahme für das Kind gebunden. Wir sind ein zweigruppiger Waldkindergarten, in dem aktuell 30 Kinder im Alter von 3 Jahren bis zum Schuleintritt die Natur als ihren täglichen Bildungs- und Erlebnisraum entdecken. Unser Alltag findet bei fast jedem Wetter unter freiem Himmel statt. Ein wertschätzendes, partizipatives Miteinander und die ganzheitliche Förderung der Kinder stehen für unser Team an erster Stelle.\nStimmt, mit dynamischen  Menschen zu arbeiten ist kein Kinderspiel. Wenn Kreativität Ihre Superpower ist und Sie es gewohnt sind, auch im größten Durcheinander die Ruhe zu bewahren, dann könnten Sie gut zu uns passen. Wir suchen offene Menschen mit Fantasie und Verstand, die sich mit Freude weiterentwickeln möchten – persönlich und fachlich. Dafür bilden wir starke Teams, in denen spürbar ist, dass alle an einem Strang ziehen.\nEinsatzort: Rielasingen-Worblingen\nGehaltsinformation: AVR DWBO Anlage Johanniter\nArt der Anstellung: Teilzeit\nStundenumfang: 7 Stunden / Woche\nBefristung: unbefristet\nStellen-ID: J000035322\nDas bieten wir Ihnen\n- 30 Urlaubstage bei einer 5-Tage-Woche\n- Fort- und Weiterbildungen\n- attraktive Vergütung\n- betriebliche Altersvorsorge\n- 13. Monatsgehalt\nDas erwartet Sie\n- Individuelle Begleitung: Sie sichern die Teilhabe und Begleitung eines Kindes mit speziellem Unterstützungsbedarf im gesamten Waldalltag.\n- Entwicklungsförderung: Sie unterstützen das Kind im lebenspraktischen Bereich, bei der Bewältigung des Terrains im Wald sowie in der sozial-emotionalen und sprachlichen Entwicklung.\n- Schnittstellenarbeit: Sie arbeiten eng und partnerschaftlich mit der Gruppe, den Eltern und externen Fachdiensten (z. B. Therapeuten) zusammen.\n- Krisenbegleitung: Sie bieten dem Kind Orientierung, Struktur und emotionale Sicherheit in herausfordernden Situationen.\nDas zeichnet Sie aus\n- Qualifikation: Eine abgeschlossene Ausbildung als staatlich anerkannte/r Erzieher/in, Heilerziehungspfleger/in, Heilpädagog/in oder eine vergleichbare pädagogische Qualifikation nach den gesetzlichen Vorgaben. (Optional für Quereinsteiger: Auch motivierte Quereinsteiger mit Erfahrung in der Pflege oder Betreuung von Menschen mit Behinderung sind herzlich willkommen.)\n- Naturbegeisterung: Sie sind absolut wetterfest, halten sich gerne im Wald auf und nutzen die Natur aktiv als Entwicklungsraum.\n- Persönlichkeit: Sie zeichnen sich durch Empathie, Geduld, physische und psychische Belastbarkeit sowie ein hohes Maß an Spontanität und Klarheit aus.\n- Teamgeist: Ein offener, vorurteilsfreier und transparenter Kommunikationsstil ist für Sie selbstverständlich.\nDas sollten Sie noch wissen\nIm Sinne der Gleichstellung und Chancengleichheit aller Mitarbeitenden begrüßen wir alle Bewerbungen von Interessierten, unabhängig von deren kultureller, religiöser und sozialer Herkunft, Geschlecht, Alter, Behinderung oder sexueller Identität.\nAnsprechperson\nJuliane Binnig\nc/o Kinder- und Jugendförderteam Hegaustraße 60\n78239 Rielasingen-Worblingen\n01732146872\nWer wir sind\nWir sind eine große Hilfsorganisation mit Hauptsitz in Berlin. Zu unseren Aufgaben zählen u. a. Rettungs- und Sanitätsdienst, Pflegeangebote, Katastrophenschutz, soziale Dienste sowie die Arbeit mit Kindern und Jugendlichen. Weitere Informationen zu Einstiegsmöglichkeiten, Perspektiven und wie wir arbeiten: johanniter.de/karriere",
-   "extra": {
-    "refnr": "14271-1649325-1-S",
-    "query": "Gleichstellung",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "2822b666f58f9cdb",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14271-1649325-1-S"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Baumaschinenführer:in Stopftechnik",
-   "company": "Deutsche Bahn AG",
-   "location": "88045 Friedrichshafen",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1649545-1-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "Für über 500 verschiedene Berufe suchen wir motivierte Mitarbeitende. Und das in ganz Deutschland. Ob erfahrene Profis oder Berufsstarter:innen - wir bieten zahlreiche Einstiegs- und Weiterbildungsmöglichkeiten.\nDiese Tätigkeit lässt keine Möglichkeit des hybriden Arbeitens zu. Die tägliche Arbeit wird am festgelegten Bürostandort erbracht.\nZum nächstmöglichen Zeitpunkt suchen wir dich als Baumaschinenführer:in Stopftechnik (w/m/d) für die DB Bahnbau Gruppe GmbH am Standort Freiburg (Breisgau), Friedrichshafen, Heilbronn, Karlsruhe, Ludwigsburg, Offenburg, Saarbrücken, Tübingen oder Ulm.\nDeine Aufgaben:\n- Du führst und bedienst Maschinen der Stopftechnik auf wechselnden Baustellen\n- Zusammen mit deinem Trupp bist du für die Instandsetzung der Infrastruktur verantwortlich\n- Die eigenständige Mitarbeit bei der Instandsetzung sowie Bedarfsreparaturen der Maschinen gehören ebenfalls zu deinem Aufgabenfeld\n- Du arbeitest dich entsprechend deiner Erfahrung als Triebfahrzeugführer:in in das Bahnbaugeschäft ein und wirst zum:zur Maschinenbediener:in ausgebildet\nDein Profil:\n- Deine gewerblich-technische Berufsausbildung hast du erfolgreich abgeschlossen, z. B. als Baugeräteführer:in, Tiefbauer:in, Straßenbauer:in, Maurer:in, Kraftfahrer:in, Konstruktionsmechaniker:in, Mechatroniker:in, Kfz-Mechaniker:in, Industriemechaniker:in\n- Du besitzt einen Triebfahrzeugführerschein, hast Lust, den Bereich Bahnbau kennenzulernen und bist bereit, notwendige Qualifikationen und Baureihenberechtigungen zu erwerben\n- Verständnis für technische Zusammenhänge, die Bereitschaft zur Weiterbildung sowie Teamfähigkeit sind für dich selbstverständlich\n- Schicht- und Wechseldienst, auch an Sonn- und Feiertagen, machen dir nichts aus und du bist gerne deutschlandweit auf Montage unterwegs\n- Ein Führerschein der Klasse B rundet dein Profil ab\nDas ist uns wichtig:\nUnser Anspruch ist es, allen Kandidat:innen bei gleicher Eignung die gleichen Chancen für den Einstieg bei uns zu bieten. Wir fördern aktiv die Vielfalt und das Miteinander in unseren Teams. Wir schätzen jede Bewerbung, unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter, Dauer der Arbeitslosigkeit sowie sexueller Orientierung und Identität.\nDeine Vorteile\n* Wir bieten dir 16 Freifahrten innerhalb Deutschlands pro Jahr und weitere Fahrvergünstigungen wie z.B. DB Job-Ticket für deinen täglichen Arbeitsweg. Darüber hinaus gibt es günstige Mitnahmemöglichkeiten für Familie und Freunde.\n* Du kannst dir einer langfristigen Perspektive durch dein festes Arbeitsverhältnis in einem zukunftsorientierten Konzern sicher sein.\n* Faszinierende Projekte und Aufgaben – von spannenden regionalen Infrastrukturmaßnahmen bis hin zu den größten Baustellen Europas – fordern dein Können und warten auf deine Handschrift.\n* Du erhältst ein umfassendes und attraktives Montage-Paket für deine wechselnden Einsätze vor Ort. Dazu kommt ein Verpflegungszuschuss, dessen Höhe sich nach der Dauer der Abwesenheit richtet. Wir kümmern uns um Übernachtungen, wenn du unterwegs bist.\nChancengleichheit und selbstbestimmte Teilhabe Schwerbehinderter und Gleichgestellter sowie eine respektvolle Zusammenarbeit sind innerhalb des DB Konzerns fest verankerte Grundsätze. Deshalb werden schwerbehinderte und gleichgestellte Bewerber:innen bei gleicher Eignung bevorzugt berücksichtigt.",
-   "extra": {
-    "refnr": "12456-1649545-1-S",
-    "query": "Chancengleichheit",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "17325c2247911498",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1649545-1-S"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Digital PR & Social-Media-Manager (m/w/d)",
-   "company": "Messe Friedrichshafen GmbH",
+   "title": "Microsoft 365 Consultant - Collaboration & User Adoption (w/m/d)",
+   "company": "Bechtle",
    "location": "Friedrichshafen, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/digital-pr-social-media-manager-m-w-d-at-messe-friedrichshafen-gmbh-4485462780",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "Werde Teil unseres Teams und gestalte mit uns die Zukunft! Du liebst Social Media, denkst in Stories, Reels und Engagement-Rates und hast ein Gespür für relevante Themen? Du möchtest Menschen begeistern, Communities aufbauen und unseren Veranstaltungen digital eine starke Stimme geben? Dann bereichere unser Team! Wir suchen zum nächstmöglichen Zeitpunkt einen Digital PR & Social-Media-Manager (m/w/d) Dein neuer Job: Entwicklung, Steuerung und Weiterentwicklung der Social-Media- und Digital-PR-Strategie für ausgewählte Messen Konzeption, Erstellung und Ausspielung von kreativem Content für unsere digitalen Kanäle und Communities Betreuung, Ausbau und Weiterentwicklung unserer Social-Media-Plattformen sowie Analyse und Optimierung der Performance Aufbau und Pflege von Influencer- und Creator-Kooperationen Aktive Kommunikation mit unseren nationalen und internationalen Communities sowie Mitgestaltung eines modernen digitalen Markenauftritts Dieser abwechslungsreiche Job im Kommunikationsbereich unseres Unternehmens wäre genau das Richtige für Dich? Dann melde Dich bei uns! So überzeugst Du uns: Abgeschlossenes Studium im Bereich Kommunikation, Medien, Marketing oder eine vergleichbare Fachausbildung Erfahrung im Bereich Social Media, Digital PR oder Online-Kommunikation Fundierte Kenntnisse im Bereich Content-Planung und -Kreation (Bild, Video, Audio) Kreativität, Textsicherheit und Gespür für Trends, Zielgruppen und digitale Storytelling-Formate Erfahrung mit relevanten Social-Media-Tools Kenntnisse im sicheren und verantwortungsvollen Einsatz von KI-Tools für Recherche, Content-Erstellung und redaktionelle Workflows Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Eigeninitiative, Teamgeist, Organisationstalent und eine Hands-on-Mentalität Bereitschaft zum Wochenendeinsatz Bringst Du alles mit? Dann passt Du perfekt zu uns! Freu Dich auf: Vielseitige und spannende Aufgaben in einem abwechslungsreichen Umfeld Viel Gestaltungsfreiraum für eigene Kreativität und Ideen Maßgeschneiderte Weiterbildungsmöglichkeiten Flache Hierarchien und eine kollegiale Atmosphäre in einem sympathischen Team Flexibles Gleitzeitmodell und bis zu zwei Mobilarbeitstage pro Woche Attraktive Bezahlung (inkl. Zuschläge für Wochenend- und Feiertagsarbeit) Monatliche steuerfreie Arbeitgeberzuschüsse (Friedrichshafener Geschenkgutschein oder Zuschuss zum EGYM Wellpass) Exklusive Mitarbeitervorteile wie Zuschuss zur betrieblichen Altersvorsorge, Corporate Benefits, etc. Betriebliches Gesundheitsmanagement Teamevents und weitere diverse kostenlose Annehmlichkeiten 30 Tage Urlaub … und vieles mehr Haben wir Dein Interesse geweckt? Dann komm zu uns! Die Messe Friedrichshafen ist eine der führenden Messegesellschaften in Baden-Württemberg. Unser modernes Messegelände bietet viele Markt- und Wachstumschancen. Wenn Du Dich in einem erfolgreichen Unternehmen einbringen möchtest, freuen wir uns auf Dich. Bitte schicke Deine Bewerbungsunterlagen mit Motivationsschreiben und Lebenslauf sowie Angabe Deines frühesten Eintrittsdatums sowie Deiner Gehaltsvorstellung an: MESSE FRIEDRICHSHAFEN GMBH Personalabteilung Postfach 20 80 88010 Friedrichshafen oder per E-Mail an: jobs@messe-fn.de Show more Show less Seniority level Associate Employment type Full-time Industries Events Services Referrals increase your chances of interviewing at Messe Friedrichshafen GmbH by 2x See who you know",
-   "extra": {
-    "seniority": "Associate",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "70d74850de2f2cd4",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/digital-pr-social-media-manager-m-w-d-at-messe-friedrichshafen-gmbh-4485462780"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Wir suchen eine neue musikalische Leitung!",
-   "company": "Deutscher Harmonika-Verband e.V.",
-   "location": "Trossingen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/wir-suchen-eine-neue-musikalische-leitung%21-at-deutscher-harmonika-verband-e-v-4486498634",
+   "url": "https://de.linkedin.com/jobs/view/microsoft-365-consultant-collaboration-user-adoption-w-m-d-at-bechtle-4484681209",
    "posted": "2026-11-03",
    "salary": null,
    "via": null,
-   "description": "Der Akkordeon Club Jagsthausen e. V. sucht für sein 1. Orchester zum nächstmöglichen Zeitpunkt, spätestens zum 1. Januar 2027, eine engagierte und dynamische Dirigentin oder einen Dirigenten. Unser Orchester besteht aus sieben motivierten Musikerinnen und Musikern, die mit viel Freude am gemeinsamen Musizieren und einem hohen musikalischen Anspruch auf unser Jahreskonzert hinarbeiten. Unser Repertoire ist vielseitig und reicht von konzertanter und originaler Akkordeonmusik über gehobene Unterhaltungsmusik bis hin zu klassischen Werken. Wir proben aktuell dienstags von 20:00 bis 22:00 Uhr. Wir wünschen uns eine musikalische Leitung mit frischen Ideen, Kreativität und Freude daran, gemeinsam mit uns neue musikalische Wege zu gehen. Dabei sind wir offen für neue Impulse und freuen uns darauf, gemeinsam spannende musikalische Akzente zu setzen. Du hast Lust, eigene Ideen einzubringen, unser Orchester musikalisch weiterzuentwickeln und gemeinsam mit uns abwechslungsreiche Konzertprogramme zu gestalten? Dann freuen wir uns darauf, dich kennenzulernen! Interesse geweckt? Dann melde dich gerne bei uns. Wir freuen uns auf ein persönliches Gespräch und darauf, dich kennenzulernen! Kontakt Carolin Klappenecker (1. Vorsitzende) E-Mail: caro.klappenecker@yahoo.de Telefon: 0171 3811141 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Non-profit Organizations Referrals increase your chances of interviewing at Deutscher Harmonika-Verband e.V. by 2x See who you know",
+   "description": "In Deiner Mission Blühst Du Auf, Denn Moderne Zusammenarbeit ist deine Leidenschaft: Du berätst unsere Kunden rund um Teams, SharePoint, OneDrive und Copilot und zeigst ihnen, wie sich Microsoft 365 wirklich sinnvoll einsetzen lässt. Du schaust dir an, wie in den Teams unserer Kunden tatsächlich gearbeitet wird, und entwickelst daraus tragfähige Collaboration-Architekturen, die zur Organisation passen. Damit neue Tools nicht ungenutzt bleiben, treibst du gezielte User-Adoption- und Change-Maßnahmen voran – von der Kommunikation bis zum passenden Trainingskonzept. Copilot und KI-gestützte Zusammenarbeit bringst du den Menschen näher: Du begleitest die KI-Adoption so, dass die Mitarbeitenden den Mehrwert im Arbeitsalltag spüren. In Schulungen und Workshops für Endanwender und Key User steht immer der Mensch im Mittelpunkt – dein Ziel ist, dass unsere Kunden ihre Lösungen sicher und effizient nutzen. Auch unseren Vertrieb unterstützt du – mit überzeugenden Kundenpräsentationen und deinem Input bei der Angebotserstellung. Deine Skills? Mehr als interessant: Abgeschlossenes Studium – z. B. in Wirtschaftsinformatik, BWL, Kommunikations- oder Wirtschaftswissenschaften – oder eine vergleichbare Qualifikation. Entscheidend ist deine Affinität zu moderner Zusammenarbeit und Technologie. Fundiertes Wissen in Microsoft 365 Collaboration (Teams, SharePoint, OneDrive) und Office 365 sowie Erfahrung aus der Einführung und Umsetzung von M365-Projekten. Ein gutes Gespür dafür, Geschäftsprozesse mit modernen Kollaborationswerkzeugen zu optimieren, sowie Erfahrung mit User Adoption, Change Management und Anwenderschulungen. Know-Hot mit Microsoft Copilot und KI-gestützten Lösungen rundet dein Profil ab. Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift. Du begeisterst dich für moderne Zusammenarbeit und digitale Transformation, kommunizierst und präsentierst souverän und hast Freude daran, Menschen für neue Technologien zu gewinnen – strukturiert, teamorientiert und mit viel Eigeninitiative. Du Verdienst Echten Mehrwert. Freu Dich Deshalb Auf Weiterentwicklung: Mit einem umfangreichen Angebot der Bechtle Akademie, individueller Karriereplanung, Expert:innen- und Führungsprogrammen, Herstellerzertifizierungen und vielem mehr entwickelst du dich kontinuierlich weiter und bleibst niemals stehen. Rund-um-Sorglos-Paket: Deine Zukunft ist uns wichtig. Das zeigt unsere attraktive Berufsunfähigkeitsversicherung sowie unsere betriebliche Altersversorgung mit einer Bezuschussung von bis zu 100 Prozent. 30 Tage Urlaub: 6 Wochen freie Zeit, die du zur Erholung, Entspannung, zum Reisen und Füße hochlegen nutzen kannst. Modern Workplace: Am Arbeitsplatz der Zukunft erhältst du neuestes Technikequipment und arbeitest in einem innovativen Arbeitsumfeld. Team: Der Zusammenhalt innerhalb unseres vielseitigen Teams zeichnet uns aus. Verantwortung: Von Beginn an kannst du in spannenden Projekten viel bewegen und dein volles Potenzial ausschöpfen. Geschäftswagen: Profitiere von einem attraktiven und nachhaltigen Angebot an Fahrzeugen inklusive Tankkarte, die du auch privat nutzen kannst. Das erwartet dich im Bechtle IT-Systemhaus Bodensee: Neben den umfassenden Kompetenzen aus dem Bechtle Konzern bieten wir unseren Kunden Lösungen in den Bereichen IT-Security, Hybrid Datamanagement, Microsoft Cloud und Managed Services an. An unseren drei modern ausgestatteten Standorten in Friedrichshafen, Villingen-Schwenningen und Radolfzell arbeiten ca. 100 Kolleginnen und Kollegen mit viel Herzblut am Erfolg unserer Kunden.Unsere Unternehmenskultur zeichnet eine von Vertrauen und Wertschätzung geprägten Atmosphäre, viel Verantwortung und unternehmerischem Handeln aus. Human Resources | recruiting@bechtle.com Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Bechtle by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "88e11c5c983c65a8",
+   "id": "e00e78a0f9d09644",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/wir-suchen-eine-neue-musikalische-leitung%21-at-deutscher-harmonika-verband-e-v-4486498634"
+    "linkedin": "https://de.linkedin.com/jobs/view/microsoft-365-consultant-collaboration-user-adoption-w-m-d-at-bechtle-4484681209"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
-   "title": "Marketing Manager (m/w/d)",
-   "company": "Breyer GmbH Maschinenfabrik",
-   "location": "Singen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/marketing-manager-m-w-d-at-breyer-gmbh-maschinenfabrik-4484327860",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "d3b14ad9dd4fa59e",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/marketing-manager-m-w-d-at-breyer-gmbh-maschinenfabrik-4484327860"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Koordinator / Projektleiter (m/w/d) Next Generation Air Combat Systems",
-   "company": "Diehl Defence",
-   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/koordinator-projektleiter-m-w-d-next-generation-air-combat-systems-at-diehl-defence-4484610364",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "247ee996f2dc3ef2",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/koordinator-projektleiter-m-w-d-next-generation-air-combat-systems-at-diehl-defence-4484610364"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Stellvertretender Restaurantleiter (m/w/d)",
-   "company": "Hotel Maier",
+   "title": "M365 Consultant - Copilot & Microsoft AI (w/m/d)",
+   "company": "Bechtle",
    "location": "Friedrichshafen, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/stellvertretender-restaurantleiter-m-w-d-at-hotel-maier-4484349065",
-   "posted": "2026-11-02",
+   "url": "https://de.linkedin.com/jobs/view/m365-consultant-copilot-microsoft-ai-w-m-d-at-bechtle-4484683123",
+   "posted": "2026-11-03",
    "salary": null,
    "via": null,
-   "description": "Wir sind das Hotel Maier – ein urbanes Landhotel mit Haltung Seit vier Generationen sind wir Gastgeber mit Überzeugung. Was 1936 als kleines Café mit drei Gästezimmern begann, ist heute ein familiengeführtes Hotel mit klarer Haltung: Wir möchten bewusstes Reisen ermöglichen und gutes Arbeiten gestalten – für unsere Gäste und für unser Team. Unser Haus liegt in Friedrichshafen-Fischbach, nur wenige Schritte vom See entfernt. Hier verbinden wir ländliche Herzlichkeit mit urbaner Klarheit: 75 individuell eingerichtete Zimmer und vier Apartments , großzügige Tagungsräume in unserem architektonisch ausgezeichneten Hofhaus, ein weitläufiger Garten und unser À-la-carte-Restaurant „Speiserei“ mit regionaler Handschrift und handwerklichem Anspruch. Wir glauben an die Kraft guter Orte – Orte, die durch Atmosphäre, Substanz und Echtheit wirken. Deshalb setzen wir auf verlässliche Werte wie Kollegialität, Qualität, Verbindlichkeit und ein ehrliches Miteinander. Bei uns steht nicht der schnelle Effekt im Vordergrund, sondern nachhaltige Wirkung – für Gäste und Team . Seit 2024 gehört auch das Seegut Zeppelin zur Fennel Gruppe – ein zweiter Standort direkt am See, der Rückzug, Weite und Stille verkörpert. Beide Häuser sind durch eine gemeinsame Idee verbunden: Wir schaffen Räume, die in Erinnerung bleiben, weil sie stimmig sind – architektonisch, atmosphärisch und menschlich. Als Arbeitgeber setzen wir auf eine moderne, respektvolle und verbindliche Arbeitskultur. Wir arbeiten in klaren Strukturen mit flachen Hierarchien, legen Wert auf Kommunikation auf Augenhöhe und schaffen Raum für persönliche Entwicklung. Wir wissen: Gutes Arbeiten braucht Vertrauen, Zeit für Qualität – und Menschen, die mitgestalten wollen. Vielleicht sehen wir uns ja bald – bei uns am See. Anstellungsart: Vollzeit Aufgaben Wenn unsere Gäste an einen Aufenthalt in der Speiserei denken, sollen sie Dich als Ansprechpartner vor Augen haben und wissen, dass Du und Dein Team sie mit Charme, Aufmerksamkeit und Lässigkeit betreuen. Mit Deiner Gastfreundschaft hast Du ein strategisches Ziel vor Augen: Im Idealfall verlässt kein Gast unsere Gastronomie unzufrieden. Und Du hast ein engagiertes Team, das Dich dabei unterstützt. In der Speiserei servieren wir unser Frühstück à la carte, betreuen ganztägig Veranstaltungen im Gartensaal oder im Kabinett und bieten unseren Restaurantgästen täglich ein tolles Speisenangebot. Man könnte sagen, Dein Verantwortungsbereich umfasst das gesamte Erdgeschoss – wäre da nicht das kleine „gallische Dorf“ der Rezeption! Als stellvertretende:r Leiter:in des Restaurants hast Du die Fäden für den gesamten Servicebereich in der Hand. Du betreust Veranstaltungsanfragen gemeinsam mit der Reservierung und der Geschäftsleitung, organisierst die Arbeitsabläufe durch Erstellung von Function Sheets und die Einteilung der entsprechenden Schichten und bist aktiv mit dabei, wenn Du als Gastgeber:in gefragt bist. Hilfreich wäre es, wenn Du von Dir sagen könntest, dass Du einen guten Geschmack hast. Diesen kannst Du bei Empfehlungen aus unserer Weinkarte oder bei der Auswahl begleitender Biere oder auch alkoholfreier Getränke, die wir in Zukunft vermehrt selbst herstellen werden, einsetzen. Wenn Du eine Ausbildung zum Sommelier machen möchtest, können wir zu gegebener Zeit darüber sprechen. Da Du Dich gut auskennst, organisierst Du verschiedene Weiterbildungen für Deine und andere interessierte Mitarbeitende: von kurzen Zehn-Minuten-Schulungen bis hin zu Degustationsausflügen zu unseren Lieferanten und Produzenten. Du hast auch ein Talent für verschiedene administrative Aufgaben, wie zum Beispiel die Pflege der Gästedaten, die Restaurantkasse oder die Gestaltung der Speisekarte. Oder Du hast zumindest Interesse daran, Dich in diesem Bereich weiterzuentwickeln. Es gibt noch ein paar andere Aufgaben, aber die sind so selbstverständlich, dass wir sie hier nicht auflisten, sondern gerne persönlich besprechen. Profil Eine fundierte gastronomische Ausbildung mit …",
+   "description": "In Deiner Mission Blühst Du Auf, Denn Du bringst Microsoft Copilot bei unseren Kunden in den produktiven Einsatz: Du berätst, konzipierst und setzt um – damit aus dem Versprechen von KI ein echter Mehrwert im Arbeitsalltag wird. Gemeinsam mit unseren Kunden erarbeitest du konkrete KI-Use-Cases: Du erkennst, wo Copilot den größten Hebel hat, priorisierst die richtigen Szenarien und machst den Nutzen greifbar. In Ideation-Workshops holst du Fachbereiche und IT an einen Tisch, entwickelst gemeinsam Ideen und formst daraus tragfähige Lösungsansätze – verständlich, praxisnah und begeisternd. Deine Konzepte setzt du selbst um: mit Copilot für Microsoft 365, eigenen Agenten in Copilot Studio und maßgeschneiderten KI-Lösungen auf Basis von Azure AI Foundry – vom Prototyp bis zum Go-Live. Du willst mehr als nur mitlaufen: Du hast Lust, unser Copilot- und KI-Angebot aktiv mitzugestalten und weiterzuentwickeln – und wächst mit einem Thema, das gerade erst richtig Fahrt aufnimmt. Unseren Vertrieb unterstützt du aktiv – mit überzeugenden Kundenpräsentationen, fachlichem Input bei der Angebotserstellung und deinem Gespür für passende KI-Use-Cases. Deine Skills? Mehr als interessant: Abgeschlossenes Studium in Informatik, Wirtschaftsinformatik, Computer Science oder einem verwandten IT-Fach, alternativ eine Ausbildung zum Fachinformatiker für Systemintegration. Erfahrung als Consultant oder Engineer im Microsoft-365-Umfeld, Freude an der Kundenberatung und echte Begeisterung für KI und Microsoft Copilot. Hands-on-Wissen rund um Copilot für Microsoft 365, Copilot Studio und Azure AI Foundry – oder die klare Motivation, dich zügig in diese Themen einzuarbeiten. Über Zertifizierungen wie AI-102 oder MS-900 freuen wir uns zusätzlich. Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift. Du denkst unternehmerisch, kommunizierst souverän und hast Freude daran, Menschen für neue Technologien zu begeistern – mit Pioniergeist, Eigeninitiative und dem Willen, ein Thema von Anfang an mitzugestalten. Du Verdienst Echten Mehrwert. Freu Dich Deshalb Auf Weiterentwicklung: Mit einem umfangreichen Angebot der Bechtle Akademie, individueller Karriereplanung, Expert:innen- und Führungsprogrammen, Herstellerzertifizierungen und vielem mehr entwickelst du dich kontinuierlich weiter und bleibst niemals stehen. Rund-um-Sorglos-Paket: Deine Zukunft ist uns wichtig. Das zeigt unsere attraktive Berufsunfähigkeitsversicherung sowie unsere betriebliche Altersversorgung mit einer Bezuschussung von bis zu 100 Prozent. 30 Tage Urlaub: 6 Wochen freie Zeit, die du zur Erholung, Entspannung, zum Reisen und Füße hochlegen nutzen kannst. Modern Workplace: Am Arbeitsplatz der Zukunft erhältst du neuestes Technikequipment und arbeitest in einem innovativen Arbeitsumfeld. Team: Der Zusammenhalt innerhalb unseres vielseitigen Teams zeichnet uns aus. Abwechslung: In deinen eigenverantwortlich geführten Projekten kannst du unsere vielfältigen Kunden kennenlernen und erhältst Einblick in die unterschiedlichsten Branchen. Geschäftswagen: Profitiere von einem attraktiven und nachhaltigen Angebot an Fahrzeugen inklusive Tankkarte, die du auch privat nutzen kannst. Das erwartet dich im Bechtle IT-Systemhaus Bodensee: Neben den umfassenden Kompetenzen aus dem Bechtle Konzern bieten wir unseren Kunden Lösungen in den Bereichen IT-Security, Hybrid Datamanagement, Microsoft Cloud und Managed Services an. An unseren drei modern ausgestatteten Standorten in Friedrichshafen, Villingen-Schwenningen und Radolfzell arbeiten ca. 100 Kolleginnen und Kollegen mit viel Herzblut am Erfolg unserer Kunden.Unsere Unternehmenskultur zeichnet eine von Vertrauen und Wertschätzung geprägten Atmosphäre, viel Verantwortung und unternehmerischem Handeln aus. Human Resources | recruiting@bechtle.com Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Bechtle by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "16a63de80f3b531c",
+   "id": "c6182810894201a4",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/stellvertretender-restaurantleiter-m-w-d-at-hotel-maier-4484349065"
+    "linkedin": "https://de.linkedin.com/jobs/view/m365-consultant-copilot-microsoft-ai-w-m-d-at-bechtle-4484683123"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
-   "title": "Front Office Manager (m/w/d)",
-   "company": "Bora HotSpaResort",
+   "title": "Projektleiter (m/w/d) in der Angebotsphase",
+   "company": "Körber",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-in-der-angebotsphase-at-k%C3%B6rber-4487030282",
+   "posted": "2026-11-03",
+   "salary": null,
+   "via": null,
+   "description": "Ihre Rolle in unserem Team Als Projektleitung verantworten Sie die Angebotserstellung in der Projektakquisitionsphase unserer Projekte in der DACH-Region. Als Bid Manager / Angebotsprojektleiter haben Sie die Gesamtverantwortung für die Leitung und Steuerung von Angebotsprojekten sowie für die fachliche Führung interdisziplinärer Projektteams. Dabei verantworten Sie die Angebotskosten bzw. Ihr Projektbudget inklusive der zugehörigen Kalkulation. Sie analysieren Kundenanforderungen, koordinieren die Systemlösung und identifizieren/ bewerten Projektrisiken. Bei Angeboten geeigneter Größe und Komplexität übernehmen Sie auch die eigenständige technische Konzeption und Layoutplanung von Materialflussanlagen. Sie übernehmen die Detailplanung der Angebotserstellung (Angebotsstrategie, Terminplan, Angebotskosten und Zielpreis). Sie organisieren und leiten Angebotsmeilensteinsitzungen und präsentieren Ihren projektstatus dem Management. Ihr Profil Sie besitzen ein erfolgreich abgeschlossenes Ingenieurstudium der Fachrichtung Elektrotechnik, Maschinenbau, Wirtschaftsingenieurwesen oder eine vergleichbare Ausbildung mit spezifischer Erfahrung. Sie bringen fundierte Berufserfahrung im (Angebots-)Projektmanagement mit, idealerweise konnten Sie dabei bereits erste Erfahrung in der fachlichen Führung von kleineren und mittleren Teams sammeln. Kenntnisse im Bereich System- und Anlagentechnik von Materialfluss-systemen / Stückgutanlagen, vorzugsweise im Bereich Pakethandling sind von Vorteil. Sie verfügen über ein ausgeprägtes technisches Verständnis und haben Interesse daran, Ihre Kompetenzen in der technischen Konzeption und Planung von Materialflussanlagen weiter auszubauen. Sie sind ein engagierter, verantwortungsbewusster Teamplayer, der gesteckte Ziele und Verbesserungen immer im Auge behält und in der Lage ist, andere für gemeinsame Projekte zu begeistern. Sie haben interkulturelle Erfahrung und sind gegenüber Fremdem und Neuem aufgeschlossen. Sie beherrschen Deutsch und Englisch verhandlungssicher, weitere Fremdsprachen sind von Vorteil Ihre Vorteile „New Normal“ mit umfangreicher mobiler Arbeit möglich Attraktive Vorteile durch Tarifbindung (Urlaubs- und Weihnachtsgeld, Sonderurlaub, u.v.m.) Ein Employee Assistance Program (EAP) – vertrauliche Beratung und Unterstützung bei gesundheitlichen, beruflichen und persönlichen Herausforderungen Betriebliche Altersvorsorge Gute Anbindung an öffentliche Verkehrsmittel und Parkplatz vor Ort Betriebsgastronomie Betriebsarzt und Sozialberatung Passgenaue Weiterbildungsangebote Ihr Arbeitsumfeld bei Körber Körber Supply Chain Logistics ist ein führender Anbieter für innovative Produkte und Lösungen in den Bereichen Brief- und Paketautomation. Mit unseren Technologien werden täglich große Ströme an Briefen, Paketen oder anderen Gütern gesteuert und sortiert. Mit Hilfe unserer Software behalten unsere Kunden stets den Überblick entlang der gesamten Logistikkette. In internationalen Teams arbeiten wir weltweit an Innovationen für die Logistikbranche. In Deutschland sind wir an den Standorten Nürnberg, Konstanz und Frankfurt am Main vertreten. Jetzt bewerben und Teil unseres Teams werden! Bereit für den nächsten Schritt? Mit einem Klick auf „Jetzt bewerben“ kann es direkt losgehen! Solange die Position ausgeschrieben ist, ist eine Bewerbung jederzeit möglich. Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. Mehr zu unserer Kultur gibt es hier zu erfahren Kultur bei Körber - Vorbeischauen lohnt sich! Wir legen wert auf ein barrierefreies Arbeitsumfeld. Bewerbungen von Menschen mit Schwerbehinderung oder ihnen Gleichgestellten sind uns ausdrücklich willkommen. Wir freuen uns über eine freiwillige Angabe direkt in Deinem Lebenslauf oder Anschreiben, damit wir Dich im Prozess bestmöglich unterstützen können. Hier erfährst Du …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ecaec9f4ddc52f97",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-in-der-angebotsphase-at-k%C3%B6rber-4487030282"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Projektleiter (m/w/d) in der Angebotsphase",
+   "company": "Körber Supply Chain",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-in-der-angebotsphase-at-k%C3%B6rber-supply-chain-4487026484",
+   "posted": "2026-11-03",
+   "salary": null,
+   "via": null,
+   "description": "Ihre Rolle in unserem Team Als Projektleitung verantworten Sie die Angebotserstellung in der Projektakquisitionsphase unserer Projekte in der DACH-Region. Als Bid Manager / Angebotsprojektleiter haben Sie die Gesamtverantwortung für die Leitung und Steuerung von Angebotsprojekten sowie für die fachliche Führung interdisziplinärer Projektteams. Dabei verantworten Sie die Angebotskosten bzw. Ihr Projektbudget inklusive der zugehörigen Kalkulation. Sie analysieren Kundenanforderungen, koordinieren die Systemlösung und identifizieren/ bewerten Projektrisiken. Bei Angeboten geeigneter Größe und Komplexität übernehmen Sie auch die eigenständige technische Konzeption und Layoutplanung von Materialflussanlagen. Sie übernehmen die Detailplanung der Angebotserstellung (Angebotsstrategie, Terminplan, Angebotskosten und Zielpreis). Sie organisieren und leiten Angebotsmeilensteinsitzungen und präsentieren Ihren projektstatus dem Management. Ihr Profil Sie besitzen ein erfolgreich abgeschlossenes Ingenieurstudium der Fachrichtung Elektrotechnik, Maschinenbau, Wirtschaftsingenieurwesen oder eine vergleichbare Ausbildung mit spezifischer Erfahrung. Sie bringen fundierte Berufserfahrung im (Angebots-)Projektmanagement mit, idealerweise konnten Sie dabei bereits erste Erfahrung in der fachlichen Führung von kleineren und mittleren Teams sammeln. Kenntnisse im Bereich System- und Anlagentechnik von Materialfluss-systemen / Stückgutanlagen, vorzugsweise im Bereich Pakethandling sind von Vorteil. Sie verfügen über ein ausgeprägtes technisches Verständnis und haben Interesse daran, Ihre Kompetenzen in der technischen Konzeption und Planung von Materialflussanlagen weiter auszubauen. Sie sind ein engagierter, verantwortungsbewusster Teamplayer, der gesteckte Ziele und Verbesserungen immer im Auge behält und in der Lage ist, andere für gemeinsame Projekte zu begeistern. Sie haben interkulturelle Erfahrung und sind gegenüber Fremdem und Neuem aufgeschlossen. Sie beherrschen Deutsch und Englisch verhandlungssicher, weitere Fremdsprachen sind von Vorteil Ihre Vorteile „New Normal“ mit umfangreicher mobiler Arbeit möglich Attraktive Vorteile durch Tarifbindung (Urlaubs- und Weihnachtsgeld, Sonderurlaub, u.v.m.) Ein Employee Assistance Program (EAP) – vertrauliche Beratung und Unterstützung bei gesundheitlichen, beruflichen und persönlichen Herausforderungen Betriebliche Altersvorsorge Gute Anbindung an öffentliche Verkehrsmittel und Parkplatz vor Ort Betriebsgastronomie Betriebsarzt und Sozialberatung Passgenaue Weiterbildungsangebote Ihr Arbeitsumfeld bei Körber Körber Supply Chain Logistics ist ein führender Anbieter für innovative Produkte und Lösungen in den Bereichen Brief- und Paketautomation. Mit unseren Technologien werden täglich große Ströme an Briefen, Paketen oder anderen Gütern gesteuert und sortiert. Mit Hilfe unserer Software behalten unsere Kunden stets den Überblick entlang der gesamten Logistikkette. In internationalen Teams arbeiten wir weltweit an Innovationen für die Logistikbranche. In Deutschland sind wir an den Standorten Nürnberg, Konstanz und Frankfurt am Main vertreten. Jetzt bewerben und Teil unseres Teams werden! Bereit für den nächsten Schritt? Mit einem Klick auf „Jetzt bewerben“ kann es direkt losgehen! Solange die Position ausgeschrieben ist, ist eine Bewerbung jederzeit möglich. Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. Mehr zu unserer Kultur gibt es hier zu erfahren Kultur bei Körber - Vorbeischauen lohnt sich! Wir legen wert auf ein barrierefreies Arbeitsumfeld. Bewerbungen von Menschen mit Schwerbehinderung oder ihnen Gleichgestellten sind uns ausdrücklich willkommen. Wir freuen uns über eine freiwillige Angabe direkt in Deinem Lebenslauf oder Anschreiben, damit wir Dich im Prozess bestmöglich unterstützen können. Hier erfährst Du …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "ad8fb8b34abf6a8f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-in-der-angebotsphase-at-k%C3%B6rber-supply-chain-4487026484"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Manager Quality Systems (w/m/d)",
+   "company": "NDI Europe GmbH",
    "location": "Radolfzell, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/front-office-manager-m-w-d-at-bora-hotsparesort-4484352205",
-   "posted": "2026-11-02",
+   "url": "https://de.linkedin.com/jobs/view/manager-quality-systems-w-m-d-at-ndi-europe-gmbh-4487225586",
+   "posted": "2026-11-04",
    "salary": null,
    "via": null,
-   "description": "Über uns: bora HotSpaResort Wärme. Wasser. Leben. Das sind die drei verbindenden Elemente des bora HotSpaResort. Seit dem Frühjahr 2013 logieren unsere Gäste in den 84 Zimmern und Suiten, des 4* Superior Design-Hotels. Vital und modern, präsentiert sich das bora HotSpaResort und bietet seinen Gästen neben dem Restaurant „Rubin“ mit 130 Sitzplätzen, Nebenräumen und Terrasse, eine Skylounge mit Blick über das herrliche Seepanorama sowie 3 Event- und Seminarräume mit multifunktionalen Anwendungsmöglichkeiten. Auf über 8000qm können unsere Gäste in den weithin bekannten Saunawelten mit vielfältigen Wärme-Erlebnissen, dem japanischen Onsen-Bad oder dem Outdoor-Pool entspannen. Anstellungsart: Vollzeit Aufgaben To Do... Ihre Aufgaben: Sie sind als Abteilungsleiter maßgeblich am Erfolg des Hotels beteidigt. Sicherstellung eines stets reibungslosen Arbeitsablaufes und Gewährleistung eines optimalen Gästeservice in den Bereichen Front Office, Concierge & Reservierung Erstellung von Arbeits- und Urlaubsplänen sowie deren Überwachung aktive Betreuung von Gästen Einhaltung von Qualitätsstandards Übernahme von MOD-Diensten Kontrolle von PM-Konten Bearbeitung von Reklamationen Anlegen und Pflege der Stammdaten in der Hotelsoftware Steuerung Arr. und Rev.-Par Enge Zusammenarbeit mit den anderen Abteilungen Einarbeitung, Motivation, Schulung und Ausbildung der Mitarbeiter Zusammenarbeits mit OTA´s Pflege des PMS systems Enge Zusammenarbeit mit externen Revenueunternehmen Profil That´s me... abgeschlossene Ausbildung als Hotelfachfrau/-mann oder Hotelkauffrau/-mann Berufserfahrung im Bereich Front Office in der gehobenen Hotellerie (im 4 und 5 Sterne Bereich) bzw. in vergleichbarer Position wäre wünschenswert Sprachkenntnisse in Deutsch und Englisch; fließend in Wort und Schrift Führungsqualitäten und -erfahrung Kenntnisse in Protel und den MS-Office-Programmen freundliche, aufgeschlossene, motivierende, entgegenkommende und dienstleistungsorientierte Persönlichkeit Durchsetzungsvermögen, Verantwortungsbewusstsein und Organisationstalent Flexibilität, Entscheidungsfreudigkeit, Belastbarkeit gepflegtes Erscheinungsbild Erfahrung Im Revenuemanagement !!! Erfahrung in der Pflege von PMS system Erfahrung in Zusammenarbeit mit OTA´s Wir bieten Only for you... Betriebliche Altersvorsorge Faires Gehalt Mitarbeiterraten in den Private Selection Hotels Verpflegung während der Arbeitszeit (gesetzliche Versteuerung) Vergünstigungen im Restaurant und in der bora-Sauna Zuschuss gesetzliche Altersvorsorgung Zeiterfassung Sonn-, Nacht- und Feiertagszuschläge Team Ausflüge Super Team Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Hospitality Referrals increase your chances of interviewing at Bora HotSpaResort by 2x See who you know",
+   "description": "Manager Quality Systems (w/m/d) Inside Innovation in Therapie und Diagnose – dafür setzen wir uns ein. Als Marktführer für 3D-Tracking-Technologie vertrauen seit über 20 Jahren weltweit führende Medizintechnikunternehmen auf NDI. Mit unserer Hightech-Expertise entwickeln wir digitale Lösungen für moderne medizinische Anwendungen. An vier Standorten in Deutschland, Kanada, den USA und Hongkong arbeiten wir in einem internationalen Umfeld mit kurzen Wegen, offener Kommunikation und echter Teamkultur. Vielfalt, Vertrauen und Begeisterung prägen unsere Zusammenarbeit – hier kennt man sich, unterstützt sich und feiert Erfolge gemeinsam. Tasks Werden Sie Teil unseres Quality Teams und übernehmen Sie als Manager Quality Systems die fachliche und disziplinarische Führung des Quality Engineering Teams sowie die kontinuierliche Weiterentwicklung unseres Qualitätsmanagementsystems: Sie führen das Quality Engineering Team fachlich und disziplinarisch, planen Aufgaben, Kapazitäten und Prioritäten und stellen die Qualifikation und Weiterentwicklung Ihrer Mitarbeitenden sicher Sie pflegen und verbessern unser Qualitätsmanagementsystem kontinuierlich. Gemeinsam mit Regulatory Affairs übertragen Sie ISO 13485 und die geltenden regulatorischen Anforderungen in unsere Prozesse, schließen Compliance-Lücken und unterstützen standortübergreifend abgestimmte Qualitätsstandards Sie entwickeln und aktualisieren SOPs, Prozessbeschreibungen und Arbeitsanweisungen und koordinieren deren Freigabe, Schulung und fristgerechte Umsetzung. Darüber hinaus verantworten Sie Dokumentenlenkung, QMS-Änderungsmanagement und die Administration von Dot Compliance Sie planen und steuern das Auditprogramm, führen interne und Lieferantenaudits durch und begleiten Kunden- und Zertifizierungsaudits. Feststellungen bewerten Sie systematisch und verfolgen die zugeordneten Maßnahmen bis zum fristgerechten und wirksamen Abschluss Sie führen den CAPA-Prozess und stellen systematische Ursachenanalysen sowie Wirksamkeitsprüfungen sicher. Die Bearbeitung von Abweichungen und SCAR steuern Sie methodisch und verfolgen gemeinsam mit den zuständigen Funktionen Ursachen und Maßnahmen nach Sie analysieren QMS-Kennzahlen, leiten Trends und Handlungsbedarf ab und bereiten die Managementbewertung vor. Zudem leiten Sie Qualitätsverbesserungsprojekte und schulen Mitarbeitende zu QMS-Prozessen und Qualitätsmethoden Profile Sie verfügen über ein abgeschlossenes Hochschulstudium, vorzugsweise in Ingenieur- oder Naturwissenschaften oder einer vergleichbaren Fachrichtung Sie bringen mindestens fünf Jahre Berufserfahrung im Qualitätsbereich sowie praktische Verantwortung für QMS, Audits und CAPA mit Sie haben Erfahrung in fachlicher Team- oder Projektleitung. Disziplinarische Führungserfahrung sowie Weiterbildungen in Führung, Qualitätsmanagement oder Prozessverbesserung sind von Vorteil Sie wenden ISO 13485 sicher an und beherrschen Auditplanung, CAPA, Ursachenanalyse, Dokumentenlenkung und Änderungsmanagement. Eine Qualifikation als interner Auditor ist wünschenswert Sie sind mit QMS, Kennzahlen- und Datenanalysen sowie MS Office vertraut. Kenntnisse in Dot Compliance, Epicor und statistischen Verbesserungsmethoden sind von Vorteil Sie verfügen über sehr gute Deutsch- und Englischkenntnisse. Erfahrung in der Medizintechnik und standortübergreifender Zusammenarbeit ist wünschenswert Sie führen klar und verbindlich, kommunizieren adressatengerecht und arbeiten strukturiert, eigenständig und analytisch. Durchsetzungsvermögen, Konflikt- und Teamfähigkeit, Integrität sowie kontinuierliche Verbesserungsbereitschaft runden Ihr Profil ab Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Strategic Management Services Referrals increase your chances of interviewing at NDI Europe GmbH by 2x See who you know",
    "extra": {
-    "seniority": "Not Applicable",
+    "seniority": "Mid-Senior level",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "acb70c408f62f66f",
+   "id": "4bbcdafe31c733f8",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/front-office-manager-m-w-d-at-bora-hotsparesort-4484352205"
+    "linkedin": "https://de.linkedin.com/jobs/view/manager-quality-systems-w-m-d-at-ndi-europe-gmbh-4487225586"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
-   "title": "Produktmanager:in",
-   "company": "SymBio.",
-   "location": "Friedrichshafen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/produktmanager-in-at-symbio-4485728606",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "Produktmanager (m/w/d) Profil Abgeschlossenes Studium im technischen oder wirtschaftsingenieurwissenschaftlichen Bereich, idealerweise mit Bezug zum Produktmanagement, oder eine vergleichbare Qualifikation Erste praktische Erfahrung in der Betreuung und Weiterentwicklung technischer Produkte Ausgeprägtes Interesse an anspruchsvollen technischen Lösungen und innovativen Produktkonzepten Verständnis für betriebswirtschaftliche Zusammenhänge sowie die Fähigkeit, technische Anforderungen mit Markt- und Kundenbedürfnissen zu verbinden Erfahrung im Umgang mit Projektmanagement- und Dokumentationstools sowie gängigen Office-Anwendungen und ERP-Systemen Strukturierte, selbstständige und lösungsorientierte Arbeitsweise Kommunikationsstärke und Freude an der Zusammenarbeit mit unterschiedlichen Fachbereichen und internationalen Teams Sehr gute Deutschkenntnisse in Wort und Schrift Ausgeprägte Kundenorientierung, Eigeninitiative und Durchsetzungsvermögen Aufgaben Ganzheitliche Betreuung technischer Produkte über sämtliche Phasen ihres Lebenszyklus hinweg Koordination produktbezogener Themen an der Schnittstelle zwischen Entwicklung, Vertrieb, Marketing, Einkauf und Fertigung Planung und Steuerung neuer Produktvorhaben von der ersten Konzeptidee bis zur Markteinführung Strategische Weiterentwicklung des bestehenden Produktportfolios unter Berücksichtigung technischer und wirtschaftlicher Anforderungen Ausarbeitung und Pflege von Produktkonzepten, Roadmaps und strategischen Dokumentationen Unterstützung bei der Einführung neuer Produkte sowie bei der kontinuierlichen Optimierung bestehender Lösungen Durchführung von Markt- und Wettbewerbsanalysen zur Identifikation von Trends, Potenzialen und neuen Geschäftsmöglichkeiten Aufbereitung fundierter Entscheidungsgrundlagen für das Management hinsichtlich zukünftiger Produktentwicklungen und strategischer Ausrichtung Benefits Gleitzeit bei 40-Stunden-Woche Ein Tag Home Office in der Woche 30 Urlaubstage plus je ein halber freier Tag an Heiligabend und Silvester Urlaubs- und Weihnachtsgeld Überdurchschnittlich hoher Zuschuss zur betrieblichen Altersvorsorge Arbeitgeberzuschuss zu vermögenswirksamen Leistungen Job-Ticket E-Bike-Leasing Pilates, Umkleiden und Duschen Gratis Parken und Laden am Firmengelände (E-Ladesäulen) Bezuschusstes Mittagessen Mitarbeiterrabatte bei bekannten Marken Show more Show less Seniority level Associate Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at SymBio. by 2x See who you know",
-   "extra": {
-    "seniority": "Associate",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "c714853c7bd46f8c",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/produktmanager-in-at-symbio-4485728606"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Serviceleiter (m/w/d)",
-   "company": "GTB Gastro Team Bremen GmbH",
+   "title": "PMO Intern - Next-Generation Drone Development (d/f/m)",
+   "company": "Airbus Defence and Space",
    "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/serviceleiter-m-w-d-at-gtb-gastro-team-bremen-gmbh-4484329614",
-   "posted": "2026-11-02",
+   "url": "https://de.linkedin.com/jobs/view/pmo-intern-next-generation-drone-development-d-f-m-at-airbus-defence-and-space-4485025925",
+   "posted": "2026-11-04",
    "salary": null,
    "via": null,
-   "description": "HERZLICH WILLKOMMEN! Das ist unsere klare Botschaft – für alle Teamspieler:innen! Was kann es Schöneres geben, als an einem Ort zu arbeiten, an dem man herzlich willkommen ist? Bei uns erfährst Du Freundlichkeit, hast einen sicheren Arbeitsplatz, kannst Dich entfalten, Du selbst sein und wirst wertgeschätzt. Vielleicht sind wir genau deshalb der beste Arbeitgeber* unserer Branche?! Du willst dabei sein? Dann werde Teil unseres Aramark-Teams und bewirb Dich direkt bei uns als Serviceleiter (m⁠/⁠w⁠/⁠d) Immenstaad am Bodensee | Vollzeit Arbeitszeiten: Montag – Freitag Job-ID: 686422 Anstellungsart: Vollzeit Aufgaben Führung des Serviceteams in den von Aramark geführten gastronomischen Einrichtungen Organisation, Planung und Durchführung von Veranstaltungen Kommunikation mit unseren Gästen und Kunden Raumorganisation bei Konferenzen und Veranstaltungen Verantwortung für die Bestückung der Gasträume mit Geschirr, Speisen und Getränken Unterstützung der Betriebs- und Küchenleitung im Tagesgeschäft Erstellung der Dienstpläne, Angebotserstellung und Veranstaltungsabrechnung Profil Mehrjährige Serviceerfahrung – idealerweise im Konferenz- und/oder Veranstaltungsbereich Gastronomische Aus- oder Weiterbildung von Vorteil Qualitätsbewusstsein, Organisationstalent und hohe Kundenorientierung Sehr gute Deutsch- und kommunikationssichere Englischkenntnisse Wir bieten Attraktive tarifliche Vergütung plus Urlaubs- und Weihnachtsgeld Sicherer und unbefristeter Arbeitsplatz Geregelte Arbeitszeiten und freie Wochenenden Betriebliche Altersversorgung über unsere Pensionskasse Kostenfreie Verpflegung und Bereitstellung der Arbeitskleidung Vielfältige Weiterbildungs- und Karrieremöglichkeiten Echter Teamspirit und große Leidenschaft für das, was wir tun Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Events Services Referrals increase your chances of interviewing at GTB Gastro Team Bremen GmbH by 2x See who you know",
+   "description": "Job Description: In order to support Project Management Office, Airbus Defence and Space is looking for a PMO Intern - Next-Generation Drone Development (d/f/m) Are you looking for an internship and want to get to know the work of a PMO Intern - Next-Generation Drone Development? Then apply now! We look forward to you supporting us in Project Management Office as an intern (d/f/m)! Location: Friedrichshafen Start: 01.03.2027 Duration: 6 months Your location At the Airbus site in Friedrichshafen you will be working on innovation where others spend their holidays. Enjoy panoramic views of Lake Constance while having lunch in our canteen. And after work, join one of our many corporate sports groups to go running, sailing or skiing. Your Benefits Attractive salary and work-life balance with a 35-hour week (flexitime). A final thesis is possible after consultation with the department. Traveling within Europe is possible after consultation and agreement from the department. International environment with the opportunity to network globally. Work with modern/diversified technologies. At Airbus, we see you as a valuable team member and you are not hired to brew coffee, instead you are in close contact with the interfaces and are part of our weekly team meetings. Opportunity to participate in the Generation Airbus Community to expand your own network. Your Tasks And Responsibilities Project Coordination: Assisting the Project Manager in tracking milestones, deadlines, and resource allocation to ensure the program development stays on track. Engineering Support: Working closely with the Chief Engineer to organize technical documentation, track engineering changes, and ensure technical requirements are clearly communicated. Agile Facilitation: Supporting our Scrum ceremonies (Daily Stand-ups, Sprint Planning, Retrospectives) and helping the team maintain a healthy workflow. Tool Management: Acting as a \"Power User\" in training for our digital ecosystem-managing tasks in Jira, organizing documentation in Confluence, and streamlining communication via Google Workspace. Data & Reporting: Helping to visualize project progress through dashboards and status reports, turning raw data into actionable insights for leadership. Desired Skills And Qualifications Academic Background Currently enrolled in a Bachelor’s or Master’s degree program. Preferred fields: Industrial Engineering, Business Administration (with a technical focus), Aerospace Engineering, Management, or Information Technology. The \"Soft\" Skills (The most important part) The \"Organizer\" Mindset: You are the person in your friend group or study group who organizes the trips, the schedules, and the shared documents. You find satisfaction in bringing order to chaos. Proactive Ownership: You don't wait to be told what to do. If you see a spreadsheet that is messy or a Jira board that is outdated, you feel a natural urge to fix it. Technical Aptitude Language: Fluent in English; German is a plus Digital Fluency: Familiarity with (or a strong desire to master) Jira, Confluence, and Google Workspace. Please upload the following documents: cover letter, CV, relevant transcripts, enrolment certificate. Not a 100% match? No worries! Airbus supports your personal growth. Take your career to a new level and apply online now! #MYCYM This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth. Company: Airbus Defence and Space GmbH Employment Type: Internship Experience Level: Student Job Family: Programme & Project Management By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus. Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Volunteer",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "a3b3e5037639d3f7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/pmo-intern-next-generation-drone-development-d-f-m-at-airbus-defence-and-space-4485025925"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "ERP Application Manager Business Central (m/w/d)",
+   "company": "LIONSTEP",
+   "location": "Sirnach, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/erp-application-manager-business-central-m-w-d-at-lionstep-4486830558",
+   "posted": "2026-11-03",
+   "salary": null,
+   "via": null,
+   "description": "Einführung Wir arbeiten im direkten Auftrag von Rey Technology AG und verrechnen keine Vermittlungsgebühr. Was Diese Position Zu Bieten Hat Flexible Arbeitszeiten und Homeoffice-Möglichkeiten Eine zentrale Rolle mit langfristiger Verantwortung und Gestaltungsspielraum Viel Eigenverantwortung und direkter Austausch mit den Fachbereichen Kurze Entscheidungswege und ein modernes Arbeitsumfeld Möglichkeiten zur persönlichen und fachlichen Weiterentwicklung Spannende Aufgabe rund um Microsoft Dynamics 365 Business Central Interessiert? Dann buche jetzt einen Call mit uns! Job-Zusammenfassung Du kennst Dich mit Microsoft Dynamics 365 Business Central, Microsoft Dynamics NAV (Navision), Microsoft Dynamics 365 Finance & Operations oder SAP Business One aus und möchtest Prozesse aktiv verbessern und mitgestalten? Dann könnte diese Position spannend für Dich sein. Als Recruiting-Partner von Rey Technology AG suchen wir einen ERP Application Manager Business Central (m/w/d), 40–80%, am Standort Sirnach TG. Du betreust und optimierst Business Central, analysierst gemeinsam mit den Fachbereichen bestehende Geschäftsprozesse und setzt neue Anforderungen im System um. Dabei liegt der Fokus auf Konfiguration und Prozessoptimierung – nicht auf umfangreicher Softwareentwicklung. Dich erwartet eine langfristige Rolle mit viel Eigenverantwortung, Gestaltungsspielraum, kurzen Entscheidungswegen und Homeoffice-Möglichkeiten. Interesse? Dann vereinbare jetzt ein unverbindliches Erstgespräch mit uns! Was Du tun wirst Du betreust Microsoft Dynamics 365 Business Central und entwickelst das System laufend weiter. Du nimmst Anforderungen aus den Fachbereichen auf, analysierst bestehende Prozesse und findest pragmatische Lösungen. Du konfigurierst und optimierst Business Central und setzt kleinere technische Anpassungen um. Du betreust APIs und Schnittstellen zu weiteren Anwendungen. Du unterstützt bei der Optimierung digitaler Prozesse in iDIP. Du koordinierst Updates, Tests und Releases mit dem externen Business-Central-Partner und unterstützt Mitarbeitende bei Fragen. Was Dich für den Job auszeichnet Praktische Erfahrung mit Microsoft Dynamics 365 Business Central, Microsoft Dynamics NAV (Navision), Microsoft Dynamics 365 Finance & Operations oder SAP Business One Gutes Verständnis für Geschäftsprozesse, idealerweise in Logistik, Produktion oder Finanzen Erfahrung in der Konfiguration und Optimierung von Business Central oder einem ähnlichen ERP-System Technisches Grundverständnis für REST APIs, Schnittstellen und Code Selbstständige, pragmatische und lösungsorientierte Arbeitsweise Offene und kommunikative Persönlichkeit Fliessende Deutschkenntnisse für die interne Zusammenarbeit Gute Englischkenntnisse Ausbildung oder Studium in Wirtschaftsinformatik, Applikationsentwicklung oder eine vergleichbare praktische Qualifikation Nice to Have Erfahrung mit REST APIs, Schnittstellen und Systemintegrationen Prozesskenntnisse in Logistik, Produktion oder Finanzen Erfahrung mit Low-Code-Plattformen Erfahrung mit Updates, Tests und Releases iDIP-Kenntnisse sind nicht erforderlich Team Dich erwartet eine zentrale Rolle mit langfristiger Verantwortung und echtem Gestaltungsspielraum. Du profitierst von direktem Austausch mit den Fachbereichen und kurzen Entscheidungswegen. Bei Rey Technology AG arbeitest Du in einem Team, das gemeinsam anpackt und sich gegenseitig unterstützt, auch bei grösseren Vorhaben mit externen Partnern. Über das Unternehmen Rey Technology als inhabergeführtes Unternehmen steht für nachhaltige, zukunftsorientierte Automatisierungs- und Digitalisierungslösungen, partnerschaftliche Zusammenarbeit, fundiertes Know-how, langjährige Erfahrung und hohe Qualitätsansprüche. Seit über vier Jahrzehnten ist das Unternehmen führend in der Entwicklung und Integration komplexer Automatisierungs-, IT- und Digitalisierungslösungen im industriellen Umfeld. Ergänzend dazu bietet das Portfolio Dienstleistungen für IT-Lösungen für KMU und …",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "81534d1581956a15",
+   "id": "2993b4dd685087b3",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/serviceleiter-m-w-d-at-gtb-gastro-team-bremen-gmbh-4484329614"
+    "linkedin": "https://ch.linkedin.com/jobs/view/erp-application-manager-business-central-m-w-d-at-lionstep-4486830558"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
-   "title": "Gesamtleiter:in",
-   "company": "WILHELM AG",
-   "location": "Weinfelden, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/gesamtleiter-in-at-wilhelm-ag-4486032240",
-   "posted": "2026-11-03",
-   "salary": null,
-   "via": null,
-   "description": "Vielfalt leben. Gemeinsam gestalten. Die Stiftung Hofacker in Weinfelden TG bietet Menschen mit Beeinträchtigungen ein Zuhause sowie vielfältige Arbeits- und Beschäftigungsmöglichkeiten. Gelebte Vielfalt, Begegnungen auf Augenhöhe sowie Selbstbestimmung und Teilhabe stehen im Zentrum ihres Handelns. Für die Führung und Weiterentwicklung der Institution suchen wir eine engagierte und erfahrene Persönlichkeit als Gesamtleiter:in Sie führen die Stiftung Hofacker im Sinne ihres sozialen Auftrags und sorgen für einen wirtschaftlich soliden Betrieb. Gemeinsam mit den Leitungspersonen stellen Sie eine qualitativ hochwertige Betreuung und Begleitung sicher. Sie fördern eine konstruktive, bereichsübergreifende Zusammenarbeit und schaffen geeignete Rahmenbedingungen für die Weiterentwicklung der Mitarbeitenden. Als direkte Ansprechperson des Stiftungsrates gestalten Sie die strategische Weiterentwicklung mit und vertreten die Stiftung gegenüber Angehörigen, Behörden und weiteren Anspruchsgruppen. Sie überzeugen durch Führungskompetenz und Verständnis für Menschen mit Beeinträchtigungen und verfügen über eine heilpädagogische, pädagogische oder sozialpsychiatrische Ausbildung sowie mehrjährige Berufserfahrung im entsprechenden Umfeld. Sie bringen ausserdem ausgewiesene Führungserfahrung, betriebswirtschaftliche Kenntnisse und organisatorisches Geschick mit. Sie führen wertschätzend und verbindlich, kommunizieren klar und verstehen es, unterschiedliche Interessen zusammenzuführen. Veränderungsbereitschaft, Entscheidungsstärke und ein ausgeprägtes Verantwortungsbewusstsein zeichnen Sie aus. Es erwartet Sie eine vielseitige Führungsaufgabe mit grossem Gestaltungsspielraum und hoher gesellschaftlicher Bedeutung. Möchten Sie die Zukunft der Stiftung Hofacker aktiv mitgestalten? Ernst Wälter freut sich auf Ihre Bewerbungsunterlagen, die Sie bitte online einreichen. Absolute Diskretion ist garantiert. Wilhelm AG Bogenstrasse 7 9000 St. Gallen Telefon +41 71 227 90 00 www.wilhelm.ch Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Staffing and Recruiting Referrals increase your chances of interviewing at WILHELM AG by 2x See who you know",
-   "extra": {
-    "seniority": "Mid-Senior level",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "4b895b53e8149011",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/gesamtleiter-in-at-wilhelm-ag-4486032240"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Senior HR Manager 80-100% ASAP",
-   "company": "Robert Walters",
-   "location": "Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/senior-hr-manager-80-100%25-asap-at-robert-walters-4485773300",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "Unser Kunde, ein schnell wachsendes und international ausgerichtetes Scale-up mit Sitz in der Ostschweiz, sucht kurzfristig eine erfahrene HR-Persönlichkeit , welche die operative HR-Betreuung der Schweizer Organisation übernimmt. Die Position ist zunächst auf 12 Monate befristet, bietet eine Perspektive auf eine Festanstellung und die Chance, die Schweizer HR-Basis sowie den internationalen Aufbau mitzugestalten. Ihre Aufgaben Beratung und Betreuung von Mitarbeitenden und Führungskräften entlang des gesamten Employee Lifecycles Verantwortung für die operative Personaladministration von Eintritt bis Austritt, inkl. Arbeitsverträge, Vertragsänderungen, Mutationen, Abwesenheiten und Zeugnisse Erste Ansprechperson für HR-Fragen sowie Unterstützung bei arbeitsrechtlichen Fragestellungen und Koordination externer Fachstellen Recruiting-Unterstützung, Interviewkoordination und Onboarding in enger Zusammenarbeit mit der internen Recruiterin Koordination der Payroll mit dem externen Treuhand- bzw. Payroll-Partner sowie Mitwirkung bei der Prüfung eines vollständigen Payroll-Outsourcings Zusammenarbeit mit dem International HR Lead beim weiteren Aufbau von HR-Strukturen in mehreren internationalen Gesellschaften Mitarbeit in HR-Projekten, Prozessoptimierungen und Digitalisierung Anwendung und Weiterentwicklung von HR-AI-Tools, Workflows und Automationen Ihr Profil Mehrjährige Erfahrung als HR Manager oder HR Generalist mit fundiertem Know-how in der Schweizer HR-Praxis und Personaladministration Erfahrung in der Anwendung oder im Aufbau von HR-AI, Workflows oder Automationen Erfahrung in der Zusammenarbeit mit externen Treuhand- oder Payroll-Partnern Kurzfristig Verfügbar Recruiting-Erfahrung Fliessende Deutsch- und Englischkenntnisse Selbstständige, strukturierte und pragmatische Arbeitsweise mit hoher Eigenverantwortung, Diskretion und Verlässlichkeit Hands-on-Mentalität und Freude an einem schnelllebigen Scale-up-Umfeld Von Vorteil Erfahrung mit internationalen HR-Themen in Europa, Asien und/oder den USA Erfahrung mit Personio und/oder Leapsome HR-Weiterbildung (z. B. HR-Fachausweis oder vergleichbar) Was Sie erwartet Eine Rolle mit grossem Gestaltungsspielraum und echter Verantwortung in einem wachsenden, internationalen Unternehmen Die Möglichkeit, die Schweizer HR-Basis mitzuprägen und den internationalen Aufbau zu begleiten Moderner HR-Tech-Stack und Offenheit für AI und Automation Interessiert? Bewerben Sie sich noch heute über unsere Website - die Position wird kurzfristig besetzt. Show more Show less Seniority level Mid-Senior level Employment type Contract Industries Retail Health and Personal Care Products Referrals increase your chances of interviewing at Robert Walters by 2x See who you know",
-   "extra": {
-    "seniority": "Mid-Senior level",
-    "employment_type": "Contract",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "015919107ecc410e",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/senior-hr-manager-80-100%25-asap-at-robert-walters-4485773300"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Assistent:in to CIO – Bussnang",
-   "company": "Stadler",
-   "location": "Bussnang, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/assistent-in-to-cio-%E2%80%93-bussnang-at-stadler-4485783386",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "DEINE AUFGABENBEREICHE Unterstützung des CIO im operativen Tagesgeschäft sowie bei administrativen und organisatorischen Aufgaben Planung, Koordination sowie Vor- und Nachbereitung von Meetings, Workshops und Veranstaltungen Erstellung und Aufbereitung von Präsentationen, Berichten, Auswertungen und Entscheidungsgrundlagen Organisation und Koordination von Geschäftsreisen inklusive Terminabstimmungen und Spesenmanagement Planung und Betreuung interner sowie externer Besuche und Veranstaltungen im CIO-Umfeld Unterstützung bei Projekten und strategischen Initiativen innerhalb der IT-Organisation DEINE BERUFLICHEN ERFAHRUNGEN Abgeschlossene kaufmännische Ausbildung oder vergleichbare Qualifikation Mehrjährige Erfahrung in einer Assistenzfunktion auf Management- oder Geschäftsleitungsebene von Vorteil Kommunikationsstarke, proaktive und dienstleistungsorientierte Persönlichkeit mit ausgeprägtem Organisationsgeschick sowie einer strukturierten und selbstständigen Arbeitsweise Sicherer Umgang mit Microsoft 365, insbesondere PowerPoint, Excel und Teams Hohe Diskretion und Zuverlässigkeit im Umgang mit vertraulichen Informationen Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "3f3454bce110a463",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/assistent-in-to-cio-%E2%80%93-bussnang-at-stadler-4485783386"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Projektassistentin / Projektassistent",
-   "company": "Kanton Thurgau",
-   "location": "Frauenfeld, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektassistentin-projektassistent-at-kanton-thurgau-4483272087",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "Die Polizeischule Ostschweiz sucht vom 01. Dezember 2026 (oder nach Vereinbarung) bis 31. Juli 2027 (mit Option einer Verlängerung) eine/ einen Projektassistentin / Projektassistent 20–30% (Stundenlohn) Die Polizeischule Ostschweiz in Amriswil (PSO) bildet die Polizistinnen und Polizisten der Kantone Appenzell A.Rh. und Appenzell I.Rh., Graubünden, Schaffhausen, St. Gallen, Thurgau und Fürstentum Liechtenstein sowie der Städte Chur und St. Gallen aus. Die Polizeischule Ostschweiz soll zu den besten und modernsten Schulen gehören, was für die Konkurrenzfähigkeit des Polizeiberufs und die Attraktivität der Grundausbildung als Polizist und Polizistin von grosser Bedeutung ist. Im Rahmen der Weiterentwicklung unserer Schule haben wir das Projekt \"Polizeischule der Zukunft\" im Jahr 2024 gestartet. Da die bisherige Projektassistenz eine neue Funktion innerhalb der Schule übernimmt, suchen wir eine Assistenz, die uns mit Freude und Interesse in der Realisierungsphase dieses Projekts begleiten will. Deine Aufgaben Vorbereiten und Nachbereiten von Sitzungen Sitzungsteilnahme in unterschiedlichen Gremien Verfassen von Konzepten, Berichten und Communiqués Administrative Unterstützung der Projektleitung Kreieren von Grafiken Dein Profil Freude an der Mitarbeit im Projekt IT-Affinität Strukturierte Arbeitsweise Freude an der Organisation und Planung Bereitschaft flexible Arbeitseinsätze zu leisten (innerhalb der üblichen Bürozeiten) Kreativität und die Fähigkeit, komplexe Sachverhalte grafisch darzustellen Unser Angebot Dich erwartet eine verantwortungsvolle und vielseitige Funktion in einem offenen, engagierten Team mit kurzen Entscheidungswegen. Wir pflegen eine wertschätzende Zusammenarbeit auf Augenhöhe, in der du ernst genommen wirst und deine Ideen aktiv einbringen kannst. Deine Tätigkeit ist sinnstiftend und leistet einen direkten Beitrag zur Ausbildung zukünftiger Polizistinnen und Polizisten. Haben wir Dein Interesse geweckt? Dann freuen wir uns auf Deine vollständige Online-Bewerbung. Dein Kontakt Daria Schmucki, daria.schmucki@pso.schule / 058 346 14 50 Show more Show less Seniority level Not Applicable Employment type Part-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "70dd2a12e229bd50",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektassistentin-projektassistent-at-kanton-thurgau-4483272087"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Betriebsleitung Bäder 80 - 100 % (Ganzjahresanstellung)",
-   "company": "Stadt Arbon",
-   "location": "Arbon, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/betriebsleitung-b%C3%A4der-80-100-%25-ganzjahresanstellung-at-stadt-arbon-4486123733",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "Arbon ist mit über 16'000 Einwohnerinnen und Einwohnern die drittgrösste Stadt des Kantons Thurgau. Die ehemalige Industriestadt hat sich in den vergangenen Jahren zu einem attraktiven Wohn-, Arbeits- und Ferienort sowie zu einem beliebten Ausflugsziel in der Ostschweiz entwickelt. Rund 140 Mitarbeitende sind in der Verwaltung, dem Werkhof sowie diversen Aussenstellen tätig. Für das Schwimm- und Strandbad suchen wir per 1. Januar 2027 oder nach Vereinbarung eine Betriebsleitung Bäder 80 - 100 % (Ganzjahresanstellung) Das Schwimmbad mit Seezugang liegt direkt am See. Es verfügt über ein 50- und 33-Meter Schwimmbecken, ein Nichtschwimmer- sowie ein Kinderplanschbecken und hat einen Grillplatz. Die Riesenrutschbahn sowie der ein- bis zehn-Meter hohe Sprungturm sorgen für Action. Das Strandbad Buchhorn ist aufgrund der ruhigen und idyllischen Lage am Bodensee sowie der historischen Badhütte vom Schweizer Heimatschutz als eines der schönsten Bäder der Schweiz ausgezeichnet worden. Es hat eine grosse Liegewiese, ein Kinderplanschbecken sowie einen grossen Spielplatz. Ihre Verantwortung Hauptverantwortlich für die operative Leitung des Schwimmbads sowie des Strandbads Arbon Fachliche und personelle Führung des Schwimm- sowie Strandbads (Badmeister/innen, Badwachen, Mitarbeitende Kasse sowie Reinigung) inklusive Planung und Koordination der Personaleinsätze (Erstellung der Dienstpläne) Rekrutierung, Einführung und Schulung von fest- sowie saisonal angestelltem Personal Verantwortlich für einen reibungslosen Aufsichtsdienst und Einhaltung von Hygienestandards sowie ein gepflegtes Erscheinungsbild der Anlagen Sicherstellen einer effizienten und wirksamen Alarmorganisation inkl. Rettung, Erste Hilfe und Einleiten von lebensrettenden Sofortmassnahmen in Notfällen sowie Sicherstellung der Ausbildung für alle Mitarbeitenden Betreuung und Wartung der technischen Anlagen und Installationen sowie Sicherstellung der Wasserqualität Ihre Kompetenzen Gültiges Brevet Schweizer Badmeister:in (Grundkurs), Modul Seerettung, Grundkurs für Fachbewilligung Badewasserdesinfektion sowie BLS-AED-Kurs Zusatzausbildung Badangestelltenkurs (BAKU), oder die Bereitschaft dies zu absolvieren Mehrjährige Berufserfahrung als Badmeister/in sowie idealerweise mehrjährige Erfahrung in der Führung eines Teams Bereitschaft für unregelmässige Arbeitszeiten (Abend- und Wochenendeinsätze) Ausgeprägtes Qualitäts- und Dienstleistungsverständnis in Verbindung mit wirtschaftlichem Denken und Handeln Gute IT-Anwenderkenntnisse Stilsichere Deutschkenntnisse in Wort und Schrift Handwerkliches Geschick Unser Angebot Arbeitsplatz direkt am Bodensee Eine vielschichtige Herausforderung in einem engagierten Team Individuelle Weiterentwicklung durch Beteiligung an Weiterbildungen Personalanlässe für die Teamförderung Weitere Auskünfte erteilt Ihnen gerne Herr Fabian Wilhelmsen, Leiter Abteilung Freizeit/Sport/Liegenschaften, Telefon 071 447 14 51. Wir freuen uns auf Ihre vollständigen Bewerbungsunterlagen. Show more Show less Seniority level Associate Employment type Full-time Industries Community Development and Urban Planning Referrals increase your chances of interviewing at Stadt Arbon by 2x See who you know",
-   "extra": {
-    "seniority": "Associate",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "30039506097a049f",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/betriebsleitung-b%C3%A4der-80-100-%25-ganzjahresanstellung-at-stadt-arbon-4486123733"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Abacus Projektberater HR (m/w/d)",
-   "company": "Rocken®",
-   "location": "Schaffhausen, Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/abacus-projektberater-hr-m-w-d-at-rocken%C2%AE-4486005193",
-   "posted": "2026-11-03",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "502e108c94e7ac1b",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/abacus-projektberater-hr-m-w-d-at-rocken%C2%AE-4486005193"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "ProjektleiterIn HLKS m/w",
-   "company": "W+L Partner AG",
-   "location": "Rapperswil-Jona, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiterin-hlks-m-w-at-w%2Bl-partner-ag-4484389340",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "06bf935737db3a71",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiterin-hlks-m-w-at-w%2Bl-partner-ag-4484389340"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Eventmanager 100% (m/w/d)",
-   "company": "Universität St.Gallen (HSG)",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/eventmanager-100%25-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4479718562",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "Ihre Aufgaben Als Co-Projektleitung verantwortest Du gemeinsam mit einer weiteren Person das Projektmanagement der HSG Talents, HSG Banking Days und HSG Career Days – von der Planung über die Durchführung bis zur Nachbearbeitung. Dabei verstehst Du Dich nicht nur als Organisator/in, sondern auch als Gastgeber/in für Unternehmen und Studierende. Du stehst gerne in Kontakt mit den teilnehmenden Unternehmen und betreibst zusammen mit dem Team die Akquise für die Events Du übernimmst die Verantwortung für die HSG Talents Career Fair, das Herzstück der HSG Talents, und steuerst deren Planung, Organisation und Durchführung. Du übernimmst den Lead für das Sponsoring unserer Events. Gemeinsam mit unserem Studierendenteam betreust Du bestehende Partnerschaften, gewinnst neue Sponsoren und entwickelst das Sponsoring weiter. Du führst ein Studierenden-Team, das Dich bei der Eventorganisation unterstützt, und begleitest es als Sparringspartner/in und Coach. Du behältst die Budgets Deiner Events im Blick, kontrollierst Kosten und Erträge, stellst die Einhaltung der definierten Budgets sicher und erstellst nach Abschluss der Events die entsprechenden Rechnungen. Du bringst eigene Ideen ein, erkennst Optimierungspotenziale und entwickelst unsere Events und Formate gemeinsam mit dem Team kontinuierlich weiter. Ihr Profil Eins ist uns ganz wichtig: Du bist Teamplayer/in und Netzwerker/in, kommunizierst gerne und bringst Dich aktiv in unser CSC-Team ein. Du verfügst über ein abgeschlossenes Studium oder eine Berufsausbildung mit entsprechender Weiterbildung im Bereich Projekt- oder Eventmanagement sowie über mehr als 5 Jahre Berufserfahrung im Eventmanagement. Du arbeitest selbständig, strukturiert und proaktiv, treibst Deine Themen eigenständig voran und stimmst Dich eng mit Deiner Co-Projektleitung und dem Team ab. Du trittst gegenüber Unternehmen professionell und verbindlich auf und hast ein Gespür für unterschiedliche Bedürfnisse und Anspruchsgruppen. Du schätzt ein ausgewogenes Arbeitsumfeld zwischen Routineaufgaben und gleichzeitig kreativen Lösungsansätzen. Deshalb hast du ein Auge fürs Detail, verlierst aber das Big Picture nicht aus den Augen. Du besitzt ein Flair für Zahlen und Budgets und behältst auch bei mehreren Projekten, Unternehmen und Deadlines gleichzeitig den Überblick und einen kühlen Kopf. Du bist es gewohnt, strategische Konzepte zu entwickeln und diese in die Praxis umzusetzen. Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden Dein Profil ab. Der Bereich Career & Corporate Services der Universität St.Gallen (HSG) versteht sich als Kompetenzcenter rund um die Themen Rekrutierung und Karriere. Wir sind ein dynamisches Team mit insgesamt 14 Experten/innen mit einer Leidenschaft für Karrierethemen. Ehrgeizig, kreativ und neugierig stellen wir uns immer wieder neuen Herausforderungen. Wir bleiben am Ball, nehmen Trends auf und entwickeln unsere Angebote für Studierende und Unternehmen ständig weiter. Wir freuen uns auf Ihre Online-Bewerbung gerne unter Angabe der Stellen-ID Inspirierendes Arbeitsumfeld An der HSG als führende Wirtschaftsuniversität Europas agieren wir in einem unternehmerisch denkenden Umfeld und Sie treffen auf hochqualifizierte, ambitionierte Expert*innen regional und international. Beispielsweise profitieren Sie von einer modernen IT-Infrastruktur und in unserer Bibliothek via HSGswisscovery von einem schweizweiten Zugang zum wissenschaftlichen Informationsbestand. Weiterbildung Wir unterstützen interne und externe Weiterbildungsmöglichkeiten. Unser internes Weiterbildungsprogramm bietet Ihnen praxisnahe, engagierte und didaktisch ausgereifte Wissensvermittlung in Form von Seminaren, E-Learnings, Coachings und kollegialer Beratung. Aufgabenspezifische externe Weiterbildungen unterstützen wir finanziell und zeitlich. Netzwerk Wir fördern unsere Kultur der bereichsübergreifenden Zusammenarbeit und schaffen Raum für das Knüpfen wertvoller Beziehungen – auch zu externen Partner*innen. …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "78 applicants"
-   },
-   "id": "1cec65efa40702a9",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/eventmanager-100%25-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4479718562"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Projektleiter:in technische Bauteile",
-   "company": "Jarusel Recruiting",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-technische-bauteile-at-jarusel-recruiting-4484363485",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "b7891287e026eb45",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-technische-bauteile-at-jarusel-recruiting-4484363485"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Leiter Agentur (alle)",
-   "company": "SWICA Organisation de Santé",
-   "location": "Schaffhausen, Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/leiter-agentur-alle-at-swica-organisation-de-sant%C3%A9-4413240767",
-   "posted": "2026-11-03",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "4dd49af5d2f05615",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-agentur-alle-at-swica-organisation-de-sant%C3%A9-4413240767"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Legal Counsel (alle)",
-   "company": "SWICA Organisation de Santé",
-   "location": "Winterthur, Zurich, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/legal-counsel-alle-at-swica-organisation-de-sant%C3%A9-4484622533",
-   "posted": "2026-11-03",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "4abde7e11142be1d",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/legal-counsel-alle-at-swica-organisation-de-sant%C3%A9-4484622533"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Global Services Process Excellence Manager (Fixed-Term Contract, 12 Months)",
+   "title": "Technical Project Leader R&D",
    "company": "Bühler Group",
    "location": "Uzwil, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/global-services-process-excellence-manager-fixed-term-contract-12-months-at-b%C3%BChler-group-4485722788",
-   "posted": "2026-11-02",
+   "url": "https://ch.linkedin.com/jobs/view/technical-project-leader-r-d-at-b%C3%BChler-group-4486089358",
+   "posted": "2026-11-03",
    "salary": null,
    "via": null,
-   "description": "",
+   "description": "Gestalten Sie die nächste Generation unserer Waagen- und Dosiersysteme aktiv mit. Als Technical Project Leader R&D übernehmen Sie die technische Gesamtverantwortung für anspruchsvolle Entwicklungsprojekte und begleiten den gesamten Produktentstehungsprozess – von der Definition der Anforderungen über die Konzeption, Erprobung und Validierung bis hin zur detaillierten Umsetzung und erfolgreichen Markteinführung. Dabei bringen Sie interdisziplinäre Teams zusammen und entwickeln innovative Lösungen für die Anforderungen unserer Kunden und Märkte. Hier werden Sie brillieren Sie übernehmen die technische Gesamtverantwortung für Entwicklungsprojekte im Bereich Waagen- und Dosiersysteme Sie führen und koordinieren interdisziplinäre Projektteams in einer standort- und funktionsübergreifenden Matrixorganisation Sie erarbeiten technische Konzepte und setzen Markt-, Kunden- und Produktanforderungen in innovative und umsetzbare Lösungen um Sie arbeiten eng mit relevanten Schnittstellen zusammen, darunter Product Management, interne Kunden, Supply Chain Management sowie Manufacturing & Logistics Sie planen, koordinieren und bewerten Tests, Prototypen und Validierungsversuche, berichten die Ergebnisse an das Management und relevante Stakeholder und leiten Steering Committees Das sind die erforderlichen Fähigkeiten Abgeschlossenes Studium an einer Fachhochschule oder Universität in Systemtechnik, Mechatronik oder einer vergleichbaren Fachrichtung Mehrjährige Erfahrung in der Produktentwicklung sowie in der technischen Leitung oder Koordination von Entwicklungsprojekten in interdisziplinären Projektteams und Matrixorganisationen Sehr gutes technisches Verständnis in Mechanik, Mechatronik und Maschinenentwicklung sowie idealerweise Kenntnisse in Sensorik, Steuerungs- und Antriebstechnik Gute 3D-CAD-Kenntnisse, vorzugsweise in Autodesk Inventor, gute Deutsch- und Englischkenntnisse in Wort und Schrift sowie eine Reisebereitschaft von 10–15 % Proaktive, verantwortungsbewusste und umsetzungsstarke Persönlichkeit mit hoher Eigeninitiative, Hands-on-Mentalität, Teamfähigkeit, Organisationstalent, Belastbarkeit und Entscheidungsfreude – auch unter Zeitdruck Personalrestaurant VIVA Wir bieten unseren Mitarbeitenden ein tägliches Fitnessmenü ab 9, 00 CHF. Attraktives Mobilitätskonzept Wir bieten ein OSTWIND ZVV / Z-Pass + Halbtax für 365 CHF + 400CHF ÖV-Guthaben sowie ein attraktives Erstklass-Abonnement oder kostenlose Parkplätze. Health-Port Wir setzen uns für Gesundheitsprävention durch Laboranalysen, Massagen, Ernährungsberatung, Physiotherapie, Gruppenkurse sowie einen Betriebsarzt ein. Attraktiver Ferienanspruch Ausreichend Zeit für Erholung und persönliche Interessen - wir bieten von 25 bis zu 30 Tage Ferien pro Jahr abhängig vom Lebensjahr. Arbeitgeberfinanzierter Pensionsplan Die Bühler Pensionskasse bietet ihren Mitarbeitenden eine eigenständige Pensionskasse, die eine verlässliche finanzielle Abischerung im Ruhestand sicherstellt: www.pk-buhler.ch Handy-Abonnements Wir bieten Spezialkonditionen bei Handyabonnements über Mobilezone bei Sunrise und Swisscom. Haben Sie Fragen? Wir beantworten sie gerne! Franziska Oertel HR Recruiting and Marketing Specialist Kontaktformular Auf LinkedIn verbinden Nützliche Links für Sie Bewerbungsverfahren Vielfalt, Gleichbehandlung und Inklusion Unsere TOP-Werte Lassen Sie uns bei Bühler gemeinsam etwas bewirken! Zwei Milliarden Menschen essen täglich Lebensmittel, die auf Anlagen von Bühler hergestellt wurden. Eine Milliarde Menschen reisen in Fahrzeugen, deren Teile mit Technologien von Bühler produziert wurden. Mit jeder Entscheidung verfolgt Bühler das Ziel, die Bedürfnisse von Wirtschaft, Mensch und Natur in Einklang zu bringen. So entwickeln wir Lösungen, die nachhaltige Geschäftsmöglichkeiten in der globalen Lebensmittel-, Futtermittel- und Mobilitätsindustrie eröffnen. Wir wollen Innovationen für eine bessere Welt schaffen, mit besonderem Fokus auf gesunde, sichere und nachhaltige Lösungen. Deshalb …",
    "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
    },
-   "id": "27bbb010fce10fce",
+   "id": "7842201ccf350067",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/global-services-process-excellence-manager-fixed-term-contract-12-months-at-b%C3%BChler-group-4485722788"
+    "linkedin": "https://ch.linkedin.com/jobs/view/technical-project-leader-r-d-at-b%C3%BChler-group-4486089358"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
-   "title": "MES Business Unit Lead",
-   "company": "Johnson & Johnson Innovative Medicine",
-   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "title": "Senior Projektleiterin / Senior Projektleiter - Schwerpunkt Medical Devices & Applications",
+   "company": "Helbling Technik",
+   "location": "Wil, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/mes-business-unit-lead-at-johnson-johnson-innovative-medicine-4486412433",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "ba0dba61aeffb194",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/mes-business-unit-lead-at-johnson-johnson-innovative-medicine-4486412433"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Senior Project Manager, Tech Ops",
-   "company": "CSL",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/senior-project-manager-tech-ops-at-csl-4486470988",
+   "url": "https://ch.linkedin.com/jobs/view/senior-projektleiterin-senior-projektleiter-schwerpunkt-medical-devices-applications-at-helbling-technik-4476681006",
    "posted": "2026-11-03",
    "salary": null,
    "via": null,
@@ -584,21 +222,45 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "b6a895f180569fe4",
+   "id": "cab575f1df3c1414",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/senior-project-manager-tech-ops-at-csl-4486470988"
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-projektleiterin-senior-projektleiter-schwerpunkt-medical-devices-applications-at-helbling-technik-4476681006"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
-   "title": "Senior Abacus HR Consultant (m/w/d)",
-   "company": "Rocken®",
+   "title": "Frequently asked questions",
+   "company": "Techify",
    "location": "Winterthur, Zurich, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/senior-abacus-hr-consultant-m-w-d-at-rocken%C2%AE-4486002257",
+   "url": "https://ch.linkedin.com/jobs/view/frequently-asked-questions-at-techify-4487231142",
+   "posted": "2026-11-04",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "92f48810de0a1f86",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/frequently-asked-questions-at-techify-4487231142"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Abacus Consultant im Key Customer Team (a) 80% - 100% in St. Gallen",
+   "company": "Axept Business Software AG",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/abacus-consultant-im-key-customer-team-a-80%25-100%25-in-st-gallen-at-axept-business-software-ag-4486314250",
    "posted": "2026-11-03",
    "salary": null,
    "via": null,
@@ -608,112 +270,190 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "3f9315941f8d9ca4",
+   "id": "0f032077b65bba0c",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/senior-abacus-hr-consultant-m-w-d-at-rocken%C2%AE-4486002257"
+    "linkedin": "https://ch.linkedin.com/jobs/view/abacus-consultant-im-key-customer-team-a-80%25-100%25-in-st-gallen-at-axept-business-software-ag-4486314250"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
-   "title": "Manager (m/w/d) Systemintegration und Verifikation für Kommunikationssysteme",
-   "company": "Diehl Defence",
-   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/manager-m-w-d-systemintegration-und-verifikation-f%C3%BCr-kommunikationssysteme-at-diehl-defence-4484339749",
-   "posted": "2026-11-02",
-   "salary": null,
-   "via": null,
-   "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­ar­bei­te­rin­nen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unseren Standort Diehl Defence GmbH & Co. KG in Überlingen am Bodensee suchen wir einen: Manager (m/w/d) Systemintegration und Verifikation für Kommunikationssysteme Aufgaben In dieser Funktion sind Sie projektübergreifend für die Integration und Verifikation von Kommunikations­systemen in Systeme der bodengebundenen Luftverteidigung verantwortlich. Sie definieren Lastenhefte und begleiten bzw. steuern die Abnahme von Nach- oder Zusatz­entwicklungen bei verschiedenen (militärischen) Zulieferern. Zudem entwickeln Sie Kommunikations­konzepte für bodengebundene Luftverteidigungs­systeme. Dabei begleiten Sie die Projekte von der Angebotsphase bis zur Abwicklung des Vertrags und fungieren als technischer Ansprechpartner (m/w/d) bei Kundengesprächen. Sie planen und koordinieren als Hauptansprechpartner (m/w/d) die Integrations- und Verifikationsarbeiten mit den verschiedenen internen und externen Stakeholdern. Als technischer Verantwortlicher (m/w/d) für die Kommunikations­systeme arbeiten Sie hands-on mit Versuchsaufbauten und an realer Hardware im Rahmen von Boden- und Flugtests eng mit den Zulieferern und Kunden zusammen. Außerdem wirken Sie bei der Planung und Durchführung von (internen und externen) Versuchskampagnen mit. Profil Ein abgeschlossenes Studium der Elektrotechnik, Informatik, Nachrichtentechnik oder einer vergleichbaren Fachrichtung ist die ideale Voraussetzung für diese Position. Sie verfügen über Interesse an digitalen Kommunikations­systemen, insbesondere im militärischen Umfeld. Sie besitzen Grundkenntnisse in Bezug auf Projektmanagement und Anforderungs­management. Wirtschaftliche Grundkenntnisse, Kommunikationsstärke und Durchsetzungs­vermögen setzen wir voraus. Gute Englischkenntnisse in Wort und Schrift, Reisebereitschaft (auch international), eine selbstständige und flexible Arbeitsweise im Team sowie Hands-on-Mentalität runden Ihr Profil ab. Wir bieten Berufliche & persönliche Weiter­entwicklung Tarifliche Vergütung Flexible Arbeits­zeiten Onboarding-Programm Familienunternehmen Hinweis: Bewerbungen schwerbehinderter Menschen werden bei gleicher Eignung bevorzugt behandelt. Bei Interesse geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "dc2d652ac0ee00be",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/manager-m-w-d-systemintegration-und-verifikation-f%C3%BCr-kommunikationssysteme-at-diehl-defence-4484339749"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Project Leader (m/w/d) – M&A and Strategic Partnership",
-   "company": "Rolls-Royce Power Systems",
-   "location": "Friedrichshafen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/project-leader-m-w-d-%E2%80%93-m-a-and-strategic-partnership-at-rolls-royce-power-systems-4486486422",
-   "posted": "2026-11-03",
-   "salary": null,
-   "via": null,
-   "description": "Stellenbeschreibung Aufgaben - Das können Sie von uns erwarten: Verantwortung für die Planung, Steuerung und Umsetzung nationaler und internationaler M&A-Projekte entlang des gesamten Transaktionsprozesses. Durchführung und Koordination von Unternehmensbewertungen, Due-Diligence-Prozessen sowie Vertragsverhandlungen. Identifikation, Analyse und Bewertung potenzieller Akquisitions-, Beteiligungs- und Kooperationsmöglichkeiten. Entwicklung und Umsetzung von Wachstumsstrategien durch strategische Partnerschaften, Joint Ventures und Allianzen. Steuerung interdisziplinärer Projektteams sowie Zusammenarbeit mit internen Fachbereichen und externen Beratern. Erstellung von Business Cases, Marktanalysen und Entscheidungsvorlagen für das Top-Management. Begleitung von Post-Merger-Integration-Projekten zur Realisierung von Synergien und nachhaltigem Unternehmenserfolg. Aufbau und Pflege eines belastbaren Netzwerks zu potenziellen Zielunternehmen, Investoren und strategischen Partnern. Beobachtung von Markt-, Wettbewerbs- und Technologietrends zur Identifikation neuer Geschäftschancen. Sicherstellung einer professionellen Stakeholder-Kommunikation auf Management- und Geschäftsführungsebene. Qualifikation und Fähigkeiten - Was wir benötigen: Erfolgreich abgeschlossenes Studium im Bereich Betriebswirtschaft, Finance, Wirtschaftswissenschaften oder vergleichbar. Mehrjährige Berufserfahrung in M&A, Corporate Development, Strategy Consulting, Investment Banking oder Private Equity. Fundierte Kenntnisse in Unternehmensbewertung, Financial Modeling, Due Diligence und Transaktionsmanagement. Nachweisbare Erfahrung in der Leitung nationaler und internationaler M&A-Projekte über den gesamten Transaktionsprozess. Expertise in der Entwicklung strategischer Partnerschaften, Joint Ventures und Wachstumsinitiativen. Erfahrung in Markt- und Unternehmensanalysen sowie der Erstellung von Business Cases und Management-Entscheidungsvorlagen. Ausgeprägte Verhandlungs-, Kommunikations- und Stakeholder-Management-Fähigkeiten auf Management- und Executive-Ebene. Analytische, unternehmerische und ergebnisorientierte Persönlichkeit mit verhandlungssicheren Deutsch- und Englischkenntnissen. Warum Rolls-Royce Power Systems – Das bieten wir Ihnen: Gesunde und faire Arbeitsbedingungen (Metall- und Elektroindustrie) Betriebseigene Krankenkasse BKK MTU für unsere Mitarbeitenden und Familienangehörigen Umfangreiches betriebliches Gesundheitsmanagement inklusive Firmenfitnessprogramm (EGYM Wellpass) Attraktive betriebliche Altersvorsorge – Mit uns für das Alter sparen! Berufsunfähigkeitsversicherung – Absicherung für alle Fälle! Mobilitätsunterstützung im Alltag – JobTicket und Jobrad Corporate Benefits Programm – Attraktive Mitarbeiterrabatte auf zahlreiche starke Marken Wir sind ein Arbeitgeber, der sich für Chancengleichheit einsetzt. Wir setzen uns für die Entwicklung einer vielfältigen Belegschaft und eines integrativen Arbeitsumfelds ein. Wir glauben, dass Menschen mit unterschiedlichen Hintergründen und Kulturen uns unterschiedliche Perspektiven geben. Und je mehr Perspektiven wir haben, desto erfolgreicher werden wir sein. Durch den Aufbau einer Kultur des Respekts und der Wertschätzung geben wir jedem, der hier arbeitet, die Möglichkeit, sein volles Potenzial auszuschöpfen. Ihr Ansprechpartner Lena Messmer careers@ps.rolls-royce.com Hinweis: Bitte bewerben Sie sich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. auch E-Mail) können nicht berücksichtigt werden. Vertragsart Permanent Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Machinery Manufacturing Referrals increase your chances of interviewing at Rolls-Royce Power Systems by 2x See who you know",
-   "extra": {
-    "seniority": "Mid-Senior level",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "87ae6bf943830f5c",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/project-leader-m-w-d-%E2%80%93-m-a-and-strategic-partnership-at-rolls-royce-power-systems-4486486422"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Project Leader (m/w/d) – M&A and Strategic Partnership",
-   "company": "Rolls-Royce",
-   "location": "Friedrichshafen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/project-leader-m-w-d-%E2%80%93-m-a-and-strategic-partnership-at-rolls-royce-4486010755",
-   "posted": "2026-11-03",
-   "salary": null,
-   "via": null,
-   "description": "Job Description Aufgaben - Das können Sie von uns erwarten: Verantwortung für die Planung, Steuerung und Umsetzung nationaler und internationaler M&A-Projekte entlang des gesamten Transaktionsprozesses. Durchführung und Koordination von Unternehmensbewertungen, Due-Diligence-Prozessen sowie Vertragsverhandlungen. Identifikation, Analyse und Bewertung potenzieller Akquisitions-, Beteiligungs- und Kooperationsmöglichkeiten. Entwicklung und Umsetzung von Wachstumsstrategien durch strategische Partnerschaften, Joint Ventures und Allianzen. Steuerung interdisziplinärer Projektteams sowie Zusammenarbeit mit internen Fachbereichen und externen Beratern. Erstellung von Business Cases, Marktanalysen und Entscheidungsvorlagen für das Top-Management. Begleitung von Post-Merger-Integration-Projekten zur Realisierung von Synergien und nachhaltigem Unternehmenserfolg. Aufbau und Pflege eines belastbaren Netzwerks zu potenziellen Zielunternehmen, Investoren und strategischen Partnern. Beobachtung von Markt-, Wettbewerbs- und Technologietrends zur Identifikation neuer Geschäftschancen. Sicherstellung einer professionellen Stakeholder-Kommunikation auf Management- und Geschäftsführungsebene. Qualifikation Und Fähigkeiten - Was Wir Benötigen Erfolgreich abgeschlossenes Studium im Bereich Betriebswirtschaft, Finance, Wirtschaftswissenschaften oder vergleichbar. Mehrjährige Berufserfahrung in M&A, Corporate Development, Strategy Consulting, Investment Banking oder Private Equity. Fundierte Kenntnisse in Unternehmensbewertung, Financial Modeling, Due Diligence und Transaktionsmanagement. Nachweisbare Erfahrung in der Leitung nationaler und internationaler M&A-Projekte über den gesamten Transaktionsprozess. Expertise in der Entwicklung strategischer Partnerschaften, Joint Ventures und Wachstumsinitiativen. Erfahrung in Markt- und Unternehmensanalysen sowie der Erstellung von Business Cases und Management-Entscheidungsvorlagen. Ausgeprägte Verhandlungs-, Kommunikations- und Stakeholder-Management-Fähigkeiten auf Management- und Executive-Ebene. Analytische, unternehmerische und ergebnisorientierte Persönlichkeit mit verhandlungssicheren Deutsch- und Englischkenntnissen. Warum Rolls-Royce Power Systems – Das Bieten Wir Ihnen Gesunde und faire Arbeitsbedingungen (Metall- und Elektroindustrie) Betriebseigene Krankenkasse BKK MTU für unsere Mitarbeitenden und Familienangehörigen Umfangreiches betriebliches Gesundheitsmanagement inklusive Firmenfitnessprogramm (EGYM Wellpass) Attraktive betriebliche Altersvorsorge – Mit uns für das Alter sparen! Berufsunfähigkeitsversicherung – Absicherung für alle Fälle! Mobilitätsunterstützung im Alltag – JobTicket und Jobrad Corporate Benefits Programm – Attraktive Mitarbeiterrabatte auf zahlreiche starke Marken Wir sind ein Arbeitgeber, der sich für Chancengleichheit einsetzt. Wir setzen uns für die Entwicklung einer vielfältigen Belegschaft und eines integrativen Arbeitsumfelds ein. Wir glauben, dass Menschen mit unterschiedlichen Hintergründen und Kulturen uns unterschiedliche Perspektiven geben. Und je mehr Perspektiven wir haben, desto erfolgreicher werden wir sein. Durch den Aufbau einer Kultur des Respekts und der Wertschätzung geben wir jedem, der hier arbeitet, die Möglichkeit, sein volles Potenzial auszuschöpfen. Ihr Ansprechpartner Lena Messmer careers@ps.rolls-royce.com Hinweis: Bitte bewerben Sie sich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. auch E-Mail) können nicht berücksichtigt werden. Type of Contract Permanent Show more Show less Seniority level Not Applicable Employment type Full-time Industries Industrial Machinery Manufacturing Referrals increase your chances of interviewing at Rolls-Royce by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "b6d1bb2ba1935b4e",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/project-leader-m-w-d-%E2%80%93-m-a-and-strategic-partnership-at-rolls-royce-4486010755"
-   },
-   "first_seen": "2026-11-03"
-  },
-  {
-   "title": "Mitarbeiter:in Administration & Organisation 40-50 %",
-   "company": "ZHAW",
-   "location": "8400 Winterthur",
+   "title": "Microsoft AI & Data Consultant 80–100% (a)",
+   "company": "scopewyse AG",
+   "location": "St Gallen, Switzerland",
    "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/ef8bd720-1f49-42c1-b442-4006b62e62e5/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-02",
+   "url": "https://ch.linkedin.com/jobs/view/microsoft-ai-data-consultant-80%E2%80%93100%25-a-at-scopewyse-ag-4484685474",
+   "posted": "2026-11-03",
    "salary": null,
    "via": null,
-   "description": "Die ZHAW setzt sich für geschlechtergemischte und diverse Teams ein, um <em>Gleichstellung</em>, Vielfalt und Innovation zu fördern.",
+   "description": "",
    "extra": {
-    "canton": "ZH",
-    "query": "Fachstelle Gleichstellung",
-    "workload": "40-50 %",
-    "permanent": true,
-    "jobroom_id": "83478985-0f42-4bdb-a7c6-938a6dc240a3"
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
    },
-   "id": "9e28d16011f0ad96",
+   "id": "1090608572d2a05b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/microsoft-ai-data-consultant-80%E2%80%93100%25-a-at-scopewyse-ag-4484685474"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Document Control & Training Specialist",
+   "company": "BD",
+   "location": "Vilters-Wangs, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/document-control-training-specialist-at-bd-4487032081",
+   "posted": "2026-11-03",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "10ffc4f17d728445",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/document-control-training-specialist-at-bd-4487032081"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Fachplaner Gebäudeautomation (m/w/d)",
+   "company": "Rocken®",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachplaner-geb%C3%A4udeautomation-m-w-d-at-rocken%C2%AE-4486097159",
+   "posted": "2026-11-03",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "fb3b199d74383e9c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachplaner-geb%C3%A4udeautomation-m-w-d-at-rocken%C2%AE-4486097159"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Juristin / Jurist im Asylbereich, 50-100 %, vorerst befristet auf 1 Jahr",
+   "company": "Schaffhauser Polizei",
+   "location": "8200 Schaffhausen",
+   "country": "CH",
+   "url": "https://recruitingapp-2876.umantis.com/Vacancies/1873/Description/1",
+   "posted": "2026-11-03",
+   "salary": null,
+   "via": null,
+   "description": "Zudem führt es die <em>Fachstelle</em> <em>Gleichstellung</em>, Gewaltprävention und Gewaltschutz. Die Dienststelle nimmt darüber hinaus im Auftrag des Bundes Aufgaben im Asyl- und Flüchtlingsbereich wahr.",
+   "extra": {
+    "canton": "SH",
+    "query": "Fachstelle Gleichstellung",
+    "workload": "50-100 %",
+    "permanent": false,
+    "jobroom_id": "e2718205-59af-4624-babd-22afeb94b0cb"
+   },
+   "id": "e055a162f9c3406d",
    "sources": [
     "jobroom"
    ],
    "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/ef8bd720-1f49-42c1-b442-4006b62e62e5/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+    "jobroom": "https://recruitingapp-2876.umantis.com/Vacancies/1873/Description/1"
    },
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Leiterin / Leiter Kantonales Sozialamt, 100 %",
+   "company": "Sozialamt",
+   "location": "8200 Schaffhausen",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/66268ff5-6cc9-4a70-8eae-021144703713",
+   "posted": "2026-11-03",
+   "salary": null,
+   "via": null,
+   "description": "Zudem führt es die <em>Fachstelle</em> <em>Gleichstellung</em>, Gewaltprävention und Gewaltschutz und nimmt darüber hinaus im Auftrag des Bundes und der Gemeinden Aufgaben im Asyl- und Flüchtlingsbereich wahr. Das Amt ist dem Departement des Innern zugeordnet.",
+   "extra": {
+    "canton": "SH",
+    "query": "Fachstelle Gleichstellung",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "66268ff5-6cc9-4a70-8eae-021144703713"
+   },
+   "id": "7cca073036873616",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.job-room.ch/job-search/66268ff5-6cc9-4a70-8eae-021144703713"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Koordinator/in Aus- & Weiterbildung 60%",
+   "company": "Johanneum, Neu St. Johann",
+   "location": "9652 Neu St. Johann",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/6bb6f782-3412-4696-ae85-7dc55a841a2b",
+   "posted": "2026-11-04",
+   "salary": null,
+   "via": null,
+   "description": "Studierende und Ausbildende\n• Schnittstellenmanagement zu Ausbildungsverantwortlichen, Fachbereichen, Bildungspartnern und HR\n• Weiterbildungssteuerung: Planung, Organisation und Koordination interner/externer Schulungen, Kurse und Tagungen für Mitarbeitende\n• Standards & Tools aufbauen/pflegen (Vorlagen, <em>Evaluation</em>",
+   "extra": {
+    "canton": "SG",
+    "query": "Evaluation",
+    "workload": "60-60 %",
+    "permanent": true,
+    "jobroom_id": "6bb6f782-3412-4696-ae85-7dc55a841a2b"
+   },
+   "id": "48708d60ea3341f1",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.job-room.ch/job-search/6bb6f782-3412-4696-ae85-7dc55a841a2b"
+   },
+   "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Projektleiter:in Hochbau – Bauherrenvertretung und Bauleitung",
+   "company": "Stadtverwaltung Frauenfeld",
+   "location": "8500 Frauenfeld",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/db8691ce-017e-4343-8812-934d94ee23d9/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-04",
+   "salary": null,
+   "via": null,
+   "description": "* Leitung und Steuerung von Umbau\\- und Sanierungsprojekten sowie teilweise von Neubauprojekten\n* Bauherrenseitiges Projektmanagement über alle Phasen hinweg \\- von der Planung bis zur schlüsselfertigen Übergabe\n* Begleitung und Kontrolle der Bauausführung vor Ort\n* <em>Evaluation</em>, Führung und Koordination",
+   "extra": {
+    "canton": "TG",
+    "query": "Evaluation",
+    "workload": "60-100 %",
+    "permanent": true,
+    "jobroom_id": "66998a9d-797d-47e9-94cf-56dba02a7741"
+   },
+   "id": "c5f0398f1ad640fe",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/db8691ce-017e-4343-8812-934d94ee23d9/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-04"
   }
  ]
 }
