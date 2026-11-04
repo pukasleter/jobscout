@@ -1,5 +1,5 @@
 # ============================================================
-# Job-Agent – Konfiguration v6.2 (Stand: 09.10.2026)
+# Job-Agent – Konfiguration v6.4 (Stand: 04.11.2026)
 # Das inhaltliche Profil steckt NICHT hier, sondern im Prompt der
 # Claude-Aufgabe. Hier nur: wonach gesucht und was hart aussortiert wird.
 # ============================================================
@@ -39,6 +39,13 @@ queries:
     - "Familienförderung"
     - "Promotionsstelle Soziologie"
     - "Wissenschaftliche Mitarbeiterin Soziologie"
+    # Übergangsjobs (nur Teilzeit bis 80 % interessant – filtert Claude)
+    - "Personalreferentin Teilzeit"
+    - "Personalsachbearbeitung Teilzeit"
+    - "Recruiting Teilzeit"
+    - "Personalentwicklung"
+    - "Buchhaltung Teilzeit"
+    - "Lohnbuchhaltung Teilzeit"
   ch:
     - "Projektleiterin Bildung"
     - "Fachspezialistin Gesellschaft"
@@ -55,6 +62,9 @@ queries:
     - "Doktorandin Soziologie"
     - "Diversity"
     - "Fachstelle Integration"
+    - "HR Fachfrau"
+    - "Personalassistentin"
+    - "Sachbearbeiterin Buchhaltung"
 
 # ------------------------------------------------------------
 # Regionen – kein Auto, nur ÖV. Zürich bewusst NICHT im Standard-Radius.
@@ -94,10 +104,10 @@ sources:
     fetch_details: true
 
   serpapi:
-    enabled: true
-    # 80 Kombinationen (Begriff x Ort); 8 pro Tag -> alle ~10 Tage einmal durch.
-    # Google Jobs listet Anzeigen meist mehrere Wochen, daher reicht das.
-    max_requests_per_run: 8
+    enabled: false        # Kontingent aufgebraucht (altes Abo) – aus, bis es wieder Suchen gibt
+    # Gratis-Kontingent: 100 Suchen/Monat. Der Sammler läuft täglich -> max. 3
+    # pro Lauf (31 x 3 = 93). Jede der 80 Kombinationen kommt ca. einmal im Monat dran.
+    max_requests_per_run: 3
 
   linkedin:
     enabled: true
@@ -140,9 +150,12 @@ exclude:
     # Vertrieb/Akquise
     - "vertrieb|sales|verkäuf|verkauf|außendienst|aussendienst|key account|account manag|akquise|call ?center|telefonist|kundenberater|kundenservice"
     # Buchhaltung/Kasse/Abrechnung
-    - "buchhalt|kassier|finanzbuchh|lohnbuchh|entgeltabrechn|payroll|controller|steuerfach|bilanz"
+    # (seit 11/2026: Buchhaltung/Kasse/Lohn bei Teilzeit bis 80 % ok – entscheidet Claude)
+    - "controller|steuerfach|bilanz"
     # klassische HR-Administration / Sachbearbeitung
-    - "personalsachbearb|personalreferent|hr[- ]?referent|hr[- ]?generalist|hr[- ]?business|hr[- ]?administrat|personaladministr|personalverwaltung|verwaltungsfachang|bürokauf|kaufm.*angestellte|assistenz der geschäftsführung|sekretär|empfang"
+    # (seit 11/2026 entfernt: HR/Personal, Sachbearbeitung, Assistenz – bei
+    #  Teilzeit bis 80 % jetzt ok; Claude entscheidet anhand des Umfangs)
+    - "empfang|rezeption"
     # Technik/Ingenieurwesen/IT
     - "ingenieur|engineer|techniker|informatik|software|entwickler|developer|devops|elektro|mechatron|konstrukt"
     # Führung (aktuell nicht gesucht)
