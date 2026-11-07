@@ -1,268 +1,99 @@
 {
- "generated_at": "2026-11-06T08:00:53+00:00",
+ "generated_at": "2026-11-07T07:20:05+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 209,
    "google_jobs": "deaktiviert",
    "linkedin": 250,
-   "jobroom": 42
+   "jobroom": 40
   },
-  "excluded": 372,
-  "unique": 111,
-  "new": 37,
+  "excluded": 252,
+  "unique": 36,
+  "new": 29,
   "carried_over": 0
  },
- "errors": {},
+ "errors": {
+  "arbeitsagentur": "HTTPSConnectionPool(host='rest.arbeitsagentur.de', port=443): Max retries exceeded with url: /jobboerse/jobsuche-service/pc/v4/app/jobs?was=Projektkoordination&wo=Konstanz&umkreis=40&veroeffentlichtseit=2&size=50&page=1&angebotsart=1&zeitarbeit=false (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPEC"
+ },
  "jobs": [
   {
-   "title": "Referent*in für Kommunikation im Projekt „Village Lab“ (w/m/d)",
-   "company": "Universität Konstanz",
-   "location": "78464 Konstanz",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-4y8g7dijq9-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "# Referent*in für Kommunikation im Projekt „Village Lab“ (w/m/d)\n### ### (Teilzeit 50 %, bis E 13 TV-L)\n## ## Kennziffer 2026/223. **Die Stelle umfasst 50 % der regelmäßigen wöchentlichen Arbeitszeit einer oder eines Vollbeschäftigten und ist zum nächstmöglichen Zeitpunkt befristet bis zum 30.06.2030 zu besetzen. Die Stelle ist im wissenschaftsunterstützenden Bereich angesiedelt und der Abteilung Studium und Lehre zugeordnet.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\n**Village Lab** wird von der Stiftung Innovation in der Hochschullehre im Rahmen des Programms „Die Welt ist mein Campus“ gefördert und unter der Leitung des Prorektors für Lehre umgesetzt.\nMenschen mit akademischer Ausbildung tragen in besonderer Weise Verantwortung für die Demokratie. Mit dem Projekt „Village Lab“ baut die Universität Konstanz einen fächerübergreifenden Studienschwerpunkt „Demokratie“ auf. Studierende aller Studiengänge setzen sich dort praxisnah mit ihrer Rolle als demokratisch Handelnde auseinander – ergänzend zu den fachlichen Inhalten ihres Studiums. Die Universität geht dafür mit verschiedenen Akteuren in ländlichen Räumen Partnerschaften ein, um ihren Studierenden und Lehrenden authentische Lernanlässe durch co-kreative Teilhabe an realen demokratischen Aushandlungsprozessen zu ermöglichen.\nAls Referent*in für Projektkommunikation machen Sie Village Lab nach innen und außen sichtbar und tragen dazu bei, Lehrende und Studierende für diese Projekte zu gewinnen. Sie arbeiten eng mit der Projektkoordination, den beteiligten Einrichtungen der Universität und den Partnerkommunen in ganz Deutschland zusammen.\n## Ihre Aufgaben\n- Entwicklung und Umsetzung des Kommunikationskonzepts für Village Lab\n- Presse- und Medienarbeit in den Partnerregionen\n- Aufbau und Pflege der Projekt-Website, der Social-Media-Kanäle öffentlichen Projekt-Wikis\n- Mediale Begleitung der Village-Lab-Projekte, Einholung von Einwilligungen für Bild- und Tonaufnahmen\n- Konzeption und Organisation von Ausstellungen, Auftakt- und Abschlussveranstaltungen von Teilprojekten\n- Kampagnen zur Gewinnung von Studierenden und Lehrenden in Zusammenarbeit mit den beteiligten Einrichtungen\n- Mitwirkung an Projekttagungen und der Open-Access-Abschlusspublikation\n- Abstimmung mit der Hochschulkommunikation (Corporate Design) und Umsetzung der Vorgaben des Fördermittelgebers\n## Ihr Profil\n- Abgeschlossenes wissenschaftliches Hochschulstudium (Master, Diplom (Univ.), Magister oder Staatsexamen), z. B. in Kommunikations-, Medien-, Sozial- oder Kulturwissenschaften\n- Einschlägige Erfahrung in Presse- und Öffentlichkeitsarbeit, Redaktion oder Content-Produktion, z. B. aus Beruf, Volontariat, Praktika, freier Mitarbeit oder studentischen Medien\n- Sicherer Umgang mit Content-Management-Systemen, Social Media und gängigen Medienwerkzeugen\n- Reflektierter Einsatz KI-gestützter Werkzeuge unter Beachtung von Datenschutz und Urheberrecht\n- Interesse an Demokratiebildung und ländlichen Räumen\n- Sehr gute Deutschkenntnisse in Wort und Schrift (mindestens C1)\n- Kreativität, Teamfähigkeit, Ambiguitätstoleranz und eine strukturierte Arbeitsweise\n- Bereitschaft zu Dienstreisen in die Partnerregionen\n- Von Vorteil: Erfahrung in der Organisation von Veranstaltungen und in der Wissenschafts- oder Hochschulkommunikation\n## Wir bieten Ihnen\n- Gestaltungs- und Entwicklungsmöglichkeiten in einem außergewöhnlichen …",
-   "extra": {
-    "refnr": "19772-4y8g7dijq9-S",
-    "query": "Projektkoordination",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "c6a337852a6edf79",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-4y8g7dijq9-S"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Verwaltungsangestellte*r in den Wissenschaftliche Werkstätten ...",
-   "company": "Universität Konstanz",
-   "location": "78464 Konstanz",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-2cviyi6gml-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "# Verwaltungsangestellte*r in den Wissenschaftliche Werkstätten (w/m/d)\n### ### (Teilzeit 50 %, bis E 6 TV-L)\n**Kennziffer 2026/222.**\nDie Stelle ist zum **nächstmöglichen Zeitpunkt** befristet bis zum 29.02.2028 zu besetzen. Eine Verlängerung wird angestrebt.\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\nDie Abteilung **Wissenschaftliche Werkstätten** der Universität Konstanz mit 50 Mitarbeitenden und 18 Azubis sorgen mit technischem Know-how und kreativen Lösungen für den Erfolg von Forschung und Lehre.\n## Ihre Aufgaben\n- Allgemeine Sekretariats- und Querschnittsaufgaben der Abteilung Wissenschaftliche Werkstätten\n- Koordination aller Verwaltungsaufgaben mit der Personalabteilung\n- Organisation der Termine mit externen Personen\n- Unterstützung der Azubis in allen verwaltungstechnischen Angelegenheiten\n- Assistenz der Abteilungsleitung\n- Koordination der Beschaffung der Persönlichen Schutzausrüstung der Beschäftigten der Wissenschaftlichen Werkstätten\n- Verwaltung und Beschaffung von Büromaterial für die Abteilung\n## Ihr Profil\n- Abgeschlossene Ausbildung zur / zum Verwaltungsfachangestellte*n oder gleichwertige Kenntnisse und Erfahrungen\n- Beherrschung der gängigen Office-Software (Word, Excel, PowerPoint etc.) sowie sicherer Umgang mit dem Internet\n- Sichere Beherrschung der deutschen und englischen Sprache in Wort und Schrift\n- Fähigkeit zum selbstständigen und zuverlässigen Arbeiten\n- Organisationsgeschick\n- Soziale Kompetenz und freundliches Auftreten\n## Wir bieten Ihnen\n- **Moderne Arbeitswelt:** flexible Zeiten für eine gute Work-Life-Balance\n- **Eigenverantwortliches Arbeiten** mit Gestaltungsspielraum\n- **Starke Teamkultur** in einem freundlichen und anregenden Arbeitsumfeld\n- **Familienfreundlichkeit**\n- **Umfassende Benefits:** Hochschulsport, Hansefit, JobRad und Corporate Benefits\n- **Attraktiver Mobilitätszuschuss** zum JobTicket BW/Deutschlandticket\n- **Vielfältige Fortbildungsangebote** zur persönlichen Weiterentwicklung\n- **Großartige Region** mit hohem Freizeitwert\n- **Sichere Zukunft:** Tarifliche Vergütung (TV-L je nach persönlichen Voraussetzungen bis Entgeltgruppe 6) sowie eine betriebliche Altersvorsorge (VBL)\n[](https://www.uni-konstanz.de/personalabteilung/stellenangebote-1/die-universitaet-konstanz-als-arbeitgeberin/)\nInformationen erhalten Sie über Herrn Harald Kautz, Tel. Nr.+49 7531 88-2409, <harald.kautz@uni-konstanz.de> und über das Internet: [www.uni.kn./wisswerk](http://www.uni.kn./wisswerk).\nWir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum **26.11.2026** über unser [Online-Bewerbungsportal](https://stellen.uni-konstanz.de/de/jobposting/7cc9f274928c2ac7a16890bb5ff3b43d941daabc0/apply).\nDie Universität Konstanz engagiert sich für Gleichstellung, Diversity sowie die Vereinbarkeit von Beruf und Familie. Menschen mit einer Schwerbehinderung werden bei entsprechender Eignung vorrangig eingestellt (<sbv@uni-konstanz.de>, +49 7531 88-4016).",
-   "extra": {
-    "refnr": "19772-2cviyi6gml-S",
-    "query": "Gleichstellung",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "39fc4e8f1acef52d",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-2cviyi6gml-S"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Quereinstieg Deeskalationskraft im Sicherheitsdienst für Krankenhäuser & Einrichtungen (m/w/d)",
-   "company": "EDUVIA Bildungsakademie GmbH",
-   "location": "Constance, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/quereinstieg-deeskalationskraft-im-sicherheitsdienst-f%C3%BCr-krankenh%C3%A4user-einrichtungen-m-w-d-at-eduvia-bildungsakademie-gmbh-4486713096",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Quereinstieg Deeskalationskraft im Sicherheitsdienst für Krankenhäuser & Einrichtungen (m/w/d) in Konstanz Sicherheit schaffen. Menschen unterstützen. Zukunft gestalten. Du möchtest einen Beruf mit Sinn ausüben und Menschen in herausfordernden Situationen unterstützen? Du bleibst ruhig, wenn andere die Nerven verlieren, und möchtest einen echten Unterschied machen? Dann werde Teil unseres Teams als Deeskalationskraft im Sicherheitsdienst für Krankenhäuser, psychiatrische Einrichtungen, Jugendhilfeeinrichtungen und soziale Träger. Quereinsteiger sind ausdrücklich willkommen! Verdienst: 18–25 € pro Stunde (je nach Qualifikation und Einsatzbereich) Deeskalation von Konflikt- und Krisensituationen Betreuung und Begleitung von Patienten, Bewohnern und Klienten Unterstützung von Pflege- und Betreuungspersonal in schwierigen Situationen Präventive Präsenz zur Vermeidung von Eskalationen Dokumentation relevanter Ereignisse Durchsetzung von Hausordnungen und Sicherheitsrichtlinien Ansprechpartner für Mitarbeiter, Besucher und Bewohner So geht es weiter Bewerbung: Sende Lebenslauf oder kurze Nachricht mit Kontaktdaten und Verfügbarkeit. Wir bestätigen den Eingang. Keine §34a? Wir beraten zu Kursen und Prüfungsterminen, damit du schnell einsatzfähig wirst. Kennenlernen: Kurzes Telefon- oder Vor-Ort-Gespräch zu Einsatzort, Arbeitszeiten und nächsten Schritten. Einarbeitung: Strukturierte Einführung, praxisnahe Schulungen und Begleitung durch erfahrene Kolleg:innen. Start: Du startest im Team; wir bieten Feedback und Weiterbildung. Jetzt bewerben! Per Karriereformular oder E‑Mail. Quereinsteiger willkommen. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Wellness and Fitness Services Referrals increase your chances of interviewing at EDUVIA Bildungsakademie GmbH by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "5ec91e7d2a5830cc",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/quereinstieg-deeskalationskraft-im-sicherheitsdienst-f%C3%BCr-krankenh%C3%A4user-einrichtungen-m-w-d-at-eduvia-bildungsakademie-gmbh-4486713096"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Projektleiter magnetische Messtechnik (m/w/d)",
-   "company": "N.O.C Engineering GmbH",
+   "title": "Sachbearbeiter Straßenrecht und Verwaltungsverfahren (m/w/d)",
+   "company": "Landratsamt Bodenseekreis",
    "location": "Friedrichshafen, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/projektleiter-magnetische-messtechnik-m-w-d-at-n-o-c-engineering-gmbh-4486205811",
+   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-stra%C3%9Fenrecht-und-verwaltungsverfahren-m-w-d-at-landratsamt-bodenseekreis-4488445759",
    "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Zusammenfassung Planung und Koordination von Projekten und Versuchen zur magnetischen Vermessung von Baugruppen Beschreibung Planung und Koordination von Projekten und Versuchen zur magnetischen Vermessung von Baugruppen Zentraler Planungsexperte für die Organisation, Durchführung und Bewertung von Versuchen im Bereich der magnetischen Vermessung Beratung und Abstimmung mit Lieferanten, Kunden und internen Bereichen bezüglich erreichbarer magnetischer Signaturen. Gestaltung von Prozessen und Abläufen bezüglich Erstellung und Handhabung magnetisch behandelten Produkten sowie die Beschaffung von notwendigem Equipment Mitarbeit bei der Weiterentwicklung der Messtechnik und Behandlungstechnik im Bereich Magnetismus. Anforderungen Erfolgreich abgeschlossenes Studium im Bereich Physik, Elektrotechnik, Messtechnik oder vergleichbare Qualifizierung Solide Berufserfahrung im Bereich der magnetischen Messtechnik Hands on Mentalität Analytisches Denkvermögen sowie selbständige und strukturierte Arbeitsweise Zielorientierung, pragmatische Herangehensweise Teamfähigkeit und Durchsetzungs-/ Überzeugungsvermögen Kenntnisse im Projektmanagement IT- und Technikaffinität Sehr gute Deutsch- und Englischkenntnisse Was wir bieten Gesunde und faire Arbeitsbedingungen durch Tarifbindung (Metall- und Elektroindustrie) Betriebseigene Krankenkasse für unsere Mitarbeitenden und Familienangehörigen Umfangreiches betriebliches Gesundheitsmanagement inklusive Firmenfitnessprogramm (EGYM Wellpass) Attraktive betriebliche Altersvorsorge – Mit uns für das Alter sparen! Berufsunfähigkeitsversicherung – Absicherung für alle Fälle! Mobilitätsunterstützung im Alltag – JobTicket und Jobrad Corporate Benefits Programm – Attraktive Mitarbeiterrabatte auf zahlreiche starke Marke Über den Kunden internationaler Motorenhersteller Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at N.O.C Engineering GmbH by 2x See who you know",
+   "description": "Landratsamt Bodenseekreis Sachbearbeiter Straßenrecht und Verwaltungsverfahren (m/w/d) Friedrichshafen Aufgabe Erarbeitung von Stellungnahmen zu Bauleitplanungen, zum Anbaurecht und im Rahmen der Beteiligung als Träger öffentlicher Belange Stellungnahmen in wasser- und umweltrechtlichen Verfahren Erstellung und Bearbeitung von Vereinbarungen mit Dritten Durchführung straßenrechtlicher Verfahren, insbesondere bei Widmungen, Umstufungen und Abstufungen sowie bei der Festsetzung von Ortsdurchfahrtsgrenzen Bearbeitung von Kanalisations- und Bordsteinbeiträgen für Bundes-, Landes- und Kreisstraßen Qualifikation Sie verfügen über ein Studium im gehobenen nichttechnischen Verwaltungsdienst oder eine Weiterbildung zur Verwaltungsfachwirt/in oder einen vergleichbaren Abschluss. Idealerweise bringen Sie Erfahrungen aus einer Straßenbauverwaltung, einer unteren Verwaltungsbehörde oder einer kommunalen Bau- beziehungsweise Planungsverwaltung mit. Kenntnisse im Verwaltungsrecht sowie im Straßen-, Bauplanungs- oder Umweltrecht sind von Vorteil. Sie arbeiten selbstständig, sorgfältig und lösungsorientiert und verfügen über ein sicheres schriftliches und mündliches Ausdrucksvermögen. Sie überzeugen durch Kommunikationsfähigkeit, Verhandlungsgeschick, Teamorientierung, gute EDV Kenntnisse und ein freundliches Auftreten. Die vollständige Anzeige finden Sie beim Klick auf den Onlinebewerbungs-Button oder unter folgendem Link: https://jobs.jobware.net/v/0057?jw_result_piid=064983441&jw_chl_seg=NLINKEDIN Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Landratsamt Bodenseekreis by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "10af8ab68b8098df",
+   "id": "ee8fcb85634e6fa0",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-magnetische-messtechnik-m-w-d-at-n-o-c-engineering-gmbh-4486205811"
+    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-stra%C3%9Fenrecht-und-verwaltungsverfahren-m-w-d-at-landratsamt-bodenseekreis-4488445759"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "HR Generalist (m/w/d)",
-   "company": "Huxley",
-   "location": "Constance, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/hr-generalist-m-w-d-at-huxley-4487759815",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "HR Generalist (m/w/d) Deine Aufgaben Betreuung von Mitarbeitenden und Führungskräften entlang des gesamten Employee Lifecycles Erstellung von Arbeitsverträgen, Vertragsänderungen und weiteren HR-Dokumenten Unterstützung bei arbeitsrechtlichen Fragestellungen und HR-Compliance-Themen Begleitung von On- und Offboarding Prozessen Zusammenarbeit mit externen Partnern, beispielsweise im Bereich Payroll Mitwirkung bei der Optimierung von HR-Prozessen und Richtlinien Unterstützung bei HR-Projekten und organisatorischen People-Themen Direkte Zusammenarbeit mit dem CHRO bei operativen und strategischen HR-Themen Das bringst du mit Mehrere Jahre Berufserfahrung im Personalbereich Gute Kenntnisse operativer HR-Prozesse Erste Erfahrung im deutschen Arbeitsrecht Strukturierte und eigenständige Arbeitsweise Hohe Kommunikationsstärke und Serviceorientierung Sehr gute Deutsch- und Englischkenntnisse Was mein Kunde bietet Direkte Zusammenarbeit mit dem CHRO Moderne Unternehmenskultur mit kurzen Entscheidungswegen Hybrides Arbeiten und flexible Arbeitszeiten Viel Gestaltungsspielraum und Entwicklungsmöglichkeiten Habe ich Dein Interesse wecken können? Als Personalberaterin begleite ich HR-Professionals bei ihrem nächsten Karriereschritt. Du bist bereit für Deine nächste Herausforderung als HR Generalist (m/w/d) in Konstanz? Dann freue ich mich auf Deine Bewerbung. Deine Ansprechpartnerin: Kim Tufan SThree_Germany is acting as an Employment Agency in relation to this vacancy. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Manufacturing Referrals increase your chances of interviewing at Huxley by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "ece63bfe23564547",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/hr-generalist-m-w-d-at-huxley-4487759815"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Technischer Redakteur (m/w/d)",
-   "company": "Bertrandt Group",
-   "location": "Friedrichshafen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/technischer-redakteur-m-w-d-at-bertrandt-group-4486597616",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Wir sind Bertrandt. Ein eigenständiger und internationaler Engineering Dienstleister mit langjähriger Expertise. Mit branchenübergreifendem Know-how und einem ganzheitlichen System- und Produktverständnis schaffen wir technologische Lösungen entlang der gesamten Wertschöpfungskette. Wir beschäftigen uns mit den Trendthemen Digitalisierung, E-Mobilität und Autonome Systeme hauptsächlich für die Branchen Automotive, Luftfahrt, Defence und Maschinenbau und ermöglichen hier konsequent die Entstehung passgenauer Lösungen. Tag für Tag – mit rund 12.000 Mitarbeiterinnen und Mitarbeitern an mehr als 50 Standorten weltweit. Was Sie Erwartet Erstellung von Betriebs-, Montage- und technischen Anleitungen für Maschinen und Anlagen Überarbeitung, Prüfung und Ergänzung bestehender technischer Dokumentationen Erstellung, Standardisierung und Prüfung von Sicherheits- und Warnhinweisen Recherche und Klärung technischer Sachverhalte in enger Abstimmung mit den Fachbereichen Zusammenarbeit mit Produktmanagement, Konstruktion, Schulung, Service und externen Übersetzungsdienstleistern Mitwirkung bei der Weiterentwicklung und Optimierung von Softwaretools und Prozessen für die technische Dokumentation Was Sie mitbringen Abgeschlossene Ausbildung oder Studium im Bereich Technische Dokumentation / Technische Redaktion, alternativ eine Weiterbildung zum Techniker (m/w/d) oder eine vergleichbare Qualifikation Praxiserfahrung in der technischen Dokumentation im Maschinen- oder Anlagenbau Kenntnisse im Bereich CE-konforme Dokumentation sowie relevanter Maschinenbau- und ATEX-Anforderungen Wünschenswert: Erfahrung mit Schema oder vergleichbarer Dokumentationssoftware Wünschenswert: Grundkenntnisse in HTML sowie Erfahrung im Umgang mit 3D-Daten Fließende Deutsch- und gute Englischkenntnisse Kommunikationsstärke, eine strukturierte Arbeitsweise und Freude an der Zusammenarbeit im Team Bertrandt legt großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf den Erfahrungen und Fähigkeiten der Bewerber*innen. Schwerbehinderte Menschen bzw. gleichgestellte Menschen im Sinne des SGB IX sind herzlich willkommen und werden bei gleicher Eignung bevorzugt eingestellt. Sie sind interessiert? Wir freuen uns über Ihre Bewerbung! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Engineering Services Referrals increase your chances of interviewing at Bertrandt Group by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "cfa6554df711916e",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/technischer-redakteur-m-w-d-at-bertrandt-group-4486597616"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Svetovalec (293), Sektor za javni red in tujce",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
+   "title": "Sicherheitsbeauftragte/r Strasseninfrastruktur (SIBE)",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/svetovalec-293-sektor-za-javni-red-in-tujce-at-vlada-republike-slovenije-4486938216",
+   "url": "https://ch.linkedin.com/jobs/view/sicherheitsbeauftragte-r-strasseninfrastruktur-sibe-at-kanton-thurgau-4487307509",
    "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Nudimo varno, urejeno in stabilno zaposlitev v okolju javne uprave, možnost strokovnega in osebnega razvoja z usposabljanji, zagotavljanje pravice do odklopa, ki prispeva k lažjemu usklajevanju poklicnega in zasebnega življenja, koriščenje počitniških kapacitet v okviru razpisov v državni upravi, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv svetovalec III, z možnostjo napredovanja v uradniški naziv svetovalec II in svetovalec I, uvrstitev v 17. izhodiščni plačni razred naziva, kar znaša 2.030,25 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge zbiranje, urejanje in priprava podatkov za oblikovanje zahtevnejših gradiv, samostojno oblikovanje manj zahtevnih gradiv s predlogi ukrepov, vodenje in odločanje v zahtevnih upravnih postopkih na prvi stopnji, opravljanje drugih upravnih nalog podobne zahtevnosti, izdajanje dovoljenj za prebivanje tujcem v Republiki Sloveniji, izdajanje dovoljenj za javne prireditve in javne shode, izdajanje dovoljenj za zbiranje prostovoljnih prispevkov, ugotavljanje in sprejem v državljanstvo Republike Slovenije, ugotavljanje dejanskega stalnega in začasnega prebivališča, registracija društev in urejanje statusa društev. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja), 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja), 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja), 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 7 mesecev delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena, pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela, vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželena Znanja In Osebnostne Lastnosti natančnost, zanesljivost, odgovornost, komunikativnost, samostojnost in organiziranost pri delu, poznavanje računalniških orodij, znanje tujih jezikov, sposobnost dela s strankami. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani. Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje …",
+   "description": "Sie möchten mit Ihrer Arbeit zur Sicherheit der vielfältigen Nutzer von Verkehrsinfrastrukturen beitragen? Das Kantonale Tiefbauamt betreut rund 740 km Kantonsstrassen – und Sie sorgen mit verlässlicher Prüfung und Durchsetzung aller sicherheitsrelevanten Anforderungen dafür, dass die Kantonsstrassen für alle sicher sind. Schwachstellen eruieren Sie mit umfangreichen Datenerhebungen und -analysen und Sie entwickeln darauf basierend Verbesserungsvorschläge und unterstützen die Umsetzung. Für unsere Abteilung Projekt Management Verkehr suchen wir eine selbstständige Persönlichkeit, die ihr Fachwissen in ein vielseitiges Aufgabenfeld einbringen will. Sicherheitsbeauftragte/r Strasseninfrastruktur (SIBE) 80–100% Ihre Aufgaben Systematische Sicherheitsbeurteilung des bestehenden Kantonsstrassennetzes (RSI, EUM, BSM, NSM) Begleitung und Beurteilung von Planungen (RIA, RSA) Zusammenarbeit und Unterstützung der Projektleitenden, Arbeitsgruppen, Kommissionen und Behörden bei Verkehrssicherheitsfragen Führen von Katastern mit sicherheitsrelevanten Inhalten (Fussgängerstreifen-, Rückhaltesystemkataster etc.). Das bringen Sie mit Eine abgeschlossene Fachhochschulausbildung in den Bereichen Raumplanung oder Verkehr oder eine vergleichbare Qualifikation und Weiterbildungen im Bereich Verkehrs- bzw. Strassensicherheit (ISSI) Einige Jahre Erfahrung in der Planung und / oder Überwachung der Verkehrssicherheit Umsichtiger, adressatengerechter Umgang mit den vielfältigen Anspruchsgruppen Verhandlungsgeschick und Durchsetzungsvermögen Vernetztes, analytisches Denken und zielorientiertes Arbeiten zur Entwicklung von Lösungen Gute Fachkenntnisse im Bereich Normen und Gesetzeswesen Freude am Einbringen der eigenen Fachkompetenz im Austausch mit Projektverantwortlichen Darauf können Sie sich freuen Eine strukturierte und sorgfältige Einführung in Ihr Aufgabengebiet Weiterbildungsmöglichkeiten und Entwicklungsperspektiven Ein modernes Arbeitsumfeld mit attraktiven Anstellungsbedingungen Gestalten Sie mit uns eine sichere Verkehrsinfrastruktur im Thurgau. Wir freuen uns auf Ihre Bewerbung. Ihr Kontakt Peter Imbach, Abteilungsleiter Projekt Management Verkehr, T 058 345 79 47 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "b31e13a67f2813e5",
+   "id": "7e1a5f10268b15ff",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-293-sektor-za-javni-red-in-tujce-at-vlada-republike-slovenije-4486938216"
+    "linkedin": "https://ch.linkedin.com/jobs/view/sicherheitsbeauftragte-r-strasseninfrastruktur-sibe-at-kanton-thurgau-4487307509"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Uradni veterinar (DM 358) Oddelek za varno hrano v Območnem uradu Ptuj, Inšpekcija za varno hrano, veterinarstvo in varstvo rastlin",
+   "title": "Naturwissenschaftler/in als Leiter/in Dienste",
+   "company": "Kanton Thurgau",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/naturwissenschaftler-in-als-leiter-in-dienste-at-kanton-thurgau-4484866772",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Das Kantonale Laboratorium sucht per 01. März 2027 oder nach Vereinbarung eine/einen Naturwissenschaftler/in als Leiter/in Dienste 80–100% Das Kantonale Laboratorium kontrolliert Lebensmittel sowie Trink-, Bade- und Duschwasser und vollzieht die Chemikaliengesetzgebung. Als Kontrollbehörde führt das Kantonale Laboratorium Inspektionen in Betrieben durch und untersucht Proben im kantonseigenen Labor, um die Bevölkerung vor Täuschung und gesundheitlichen Risiken zu schützen. Ihre Aufgaben Führung der neue geschaffenen Abteilung Dienste mit den Bereichen Sekretariat, Hausdienst und IT. Strategische Weiterentwicklung der administrativen Prozesse, Infrastruktur und IT-Landschaft, Schnittstelle zu den Fachabteilungen Unterstützung Kantonschemiker und Fachabteilungen sowie selbstständige lebensmittelrechtlichen Beurteilungen und Führen von lebensmittelrechtlichen Verfahren Öffentlichkeit und Medienarbeit Ihr Profil Hochschulabschluss in Naturwissenschaften oder Lebensmitteltechnologie, idealerweise bereits Erfahrung in Lebensmittelrecht oder Verwaltungsprozesse Vielseitiges Organisationstalent mit Affinität zu technischen Themen Führungserfahrung Ausgeprägtes Interesse an lebensmittelrechtlichen Fragestellungen Teamplayer/in mit Gestaltungswillen, strukturierter und exakter Denk- und Arbeitsweise und hohem Qualitätsbewusstsein Sehr gute mündliche und schriftliche Ausdrucksfähigkeit in Deutsch Diplom für die amtliche Lebensmittelkontrolle (DAL) oder Bereitschaft, dieses berufsbegleitend zu erlangen Unser Angebot Eine anspruchsvolle, vielseitige und verantwortungsvolle Fach- und Führungsaufgabe in einem dynamischen Umfeld mit viel Gestaltungsspielraum und kurzen Wegen Spannende und abwechslungsreiche Herausforderungen im lebensmittelrechtlichen Vollzug Praxisnahe Aus- und Weiterbildungsmöglichkeiten zur fachlichen und persönlichen Entwicklung Attraktive Anstellungsbedingungen in einem modernen Labor und Verwaltungsumfeld Teil eines dynamischen, erfahrenen und hochmotivierten Teams Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung. Ihr Kontakt Dr. Simon J. Dünki, Kantonschemiker, 058 345 53 00 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9b2a0b6dc9cb60b0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/naturwissenschaftler-in-als-leiter-in-dienste-at-kanton-thurgau-4484866772"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Svetovalec (DM 532) v Oddelku za varno hrano v Območnem uradu Ptuj, Inšpekciji za varno hrano, veterinarstvo in varstvo rastlin",
    "company": "Vlada Republike Slovenije",
    "location": "Münsterlingen, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/uradni-veterinar-dm-358-oddelek-za-varno-hrano-v-obmo%C4%8Dnem-uradu-ptuj-in%C5%A1pekcija-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4486743009",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Opis delovnega mesta Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: visokošolsko univerzitetno izobraževanje (prejšnje)/visokošolska univerzitetna izobrazba (prejšnja) – Veterinarstvo; magistrsko izobraževanje (druga bolonjska stopnja)/magistrska izobrazba (druga bolonjska stopnja) – Veterinarstvo najmanj 5 let delovnih izkušenj(1), osnovna raven znanja tujega jezika, opravljen strokovni izpit za inšpektorja(2), znanje iz 84. člena Zakona o veterinarskih merilih skladnosti(3), državljanstvo Republike Slovenije, ne smejo biti pravnomočno obsojeni zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in ne smejo biti obsojeni na nepogojno kazen zapora v trajanju več kot šest mesecev, zoper kandidata ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Kot delovne izkušnje se šteje delovna doba na delovnem mestu, za katero se zahteva ista raven izobrazbe, in čas pripravništva na isti ravni izobrazbe, ne glede na to, ali je bila pogodba o zaposlitvi sklenjena oziroma pripravništvo opravljeno pri istem ali pri drugem delodajalcu. Za delovne izkušnje se štejejo tudi delovne izkušnje, ki jih je oseba pridobila z opravljanjem del na delovnem mestu, za katero se zahteva za eno raven nižja izobrazba, razen pripravništva na takem delovnem mestu. Kot delovne izkušnje se upošteva tudi delo brez sklenjene pogodbe o zaposlitvi na enaki stopnji zahtevnosti, kot je delovno mesto, za katero oseba kandidira. Delovne izkušnje se dokazujejo s pogodbo o zaposlitvi oziroma z verodostojno listino, iz katerih sta razvidna obdobje opravljanja in zahtevnost dela ter raven izobrazbe, ki se zahteva za opravljanje tega dela. V skladu z 84. členom Zakona o veterinarskih merilih skladnosti mora kandidat imeti pet let delovnih izkušenj na delovnih mestih, kjer je zahtevana izobrazba doktorja veterinarske medicine. Za inšpektorja se lahko izjemoma imenuje oseba, ki nima opravljenega strokovnega izpita za inšpektorja, vendar mora ta izpit opraviti najkasneje v šestih mesecih od dneva imenovanja za inšpektorja. V skladu z Zakonom o veterinarskih merilih skladnosti (ZVMS) kandidat, ki nima pridobljenih znanj iz 84. člena ZVMS, lahko le te pridobi tekom poskusnega dela v UVHVVR. Opraviti mora trimesečno poskusno delo, ki zajema praktično usposabljanje v trajanju najmanj 200 ur, ko dela pod nadzorom drugih uradnih veterinarjev. Zahteve za prijavo Prijava Mora Vsebovati pisno izjavo o izpolnjevanju pogoja glede zahtevane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, datum (dan, mesec, leto) zaključka izobraževanja ter ustanova, na kateri je bila izobrazba pridobljena; pisno izjavo o vseh dosedanjih zaposlitvah, iz katere je razvidno izpolnjevanje pogoja glede zahtevanih delovnih izkušenj; v izjavi kandidat navede datum sklenitve in datum prekinitve delovnega razmerja pri posameznemu delodajalcu, ter kratko opiše delo in raven zahtevnosti dela, ki ga je opravljal pri tem delodajalcu; pisno izjavo o izpolnjevanju pogoja opravljenega strokovnega izpita za inšpektorja, če ga je opravil; pisno izjavo o izpolnjevanju pogoja glede pridobljenih znanj iz 84. člena Zakona o veterinarskih merilih skladnosti, če jih ima; pisno izjavo o izpolnjevanju pogoja o osnovnem znanju tujega jezika; pisno izjavo kandidata, da: je državljan Republike Slovenije, ni bil pravnomočno obsojen zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in da ni bil obsojen na nepogojno kazen zapora v trajanju več kot šest mesecev, zoper njega ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti; izjavo, da za namen te javne objave dovoljuje Upravi RS za varno hrano, veterinarstvo in varstvo rastlin pridobitev podatkov iz prve in prejšnje točke tega razpisa iz uradnih evidenc. Delovne naloge Naloge, Ki Se Opravljajo Na Tem Delovnem Mestu, So opravljanje veterinarskih pregledov in …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "f3aff74c60bd5305",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/uradni-veterinar-dm-358-oddelek-za-varno-hrano-v-obmo%C4%8Dnem-uradu-ptuj-in%C5%A1pekcija-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4486743009"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Leiterin / Leiter Hospitality Management",
-   "company": "Psychiatrie St.Gallen",
-   "location": "Wil, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/leiterin-leiter-hospitality-management-at-psychiatrie-st-gallen-4485382539",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Deine Aufgaben Du führst den Bereich Hospitality Management an den Standorten Wil und St. Gallen fachlich und personell. Dazu gehören die Teams Reinigung und Spezialreinigung, Patientenhotellerie sowie Textilmanagement. Die operative Organisation und wirtschaftliche Steuerung der Dienstleistungen liegen in deiner Verantwortung. Dabei stehen Qualität, Nachhaltigkeit und Kundenzufriedenheit im Mittelpunkt. Du stellst die Einhaltung von Hygiene-, Sicherheits- und Qualitätsstandards sicher und entwickelst diese kontinuierlich weiter. Mit neuen Ideen und gezielten Verbesserungen gestaltest du die Weiterentwicklung des Bereichs aktiv mit. Du förderst deine Mitarbeitenden, stärkst ihre Kompetenzen und schaffst Perspektiven für ihre berufliche Entwicklung. Gemeinsam mit deinen Teams definierst und erreichst du klare Ziele. Dabei sorgst du für eine transparente Kommunikation und eine konstruktive Zusammenarbeit. Du entwickelst zukunftsorientierte Konzepte und Dienstleistungen und übernimmst Verantwortung in strategischen Projekten. Die Optimierung von Prozessen sowie die enge Zusammenarbeit mit anderen Bereichen gehören ebenfalls zu deinem Aufgabenfeld. Dein Profil Du verfügst über einen Fachhochschulabschluss in Facility Management mit Vertiefung Hospitality Management oder eine Ausbildung als Betriebsleiterin bzw. Betriebsleiter Facility Management HF verbunden mit entsprechender Berufserfahrung. Deine mehrjährige Führungs- und Managementerfahrung zeichnet dich aus, und empathische Führungspersönlichkeit überzeugst du mit ausgeprägten Leadership-Fähigkeiten und hoher Kundenorientierung.. Erfahrung im Schweizer Gesundheitswesen ist von Vorteil, insbesondere im psychiatrischen Umfeld. Du bringst Kenntnisse in Reporting und Controlling sowie Erfahrung im Projektmanagement mit. Du denkst unternehmerisch, handelst lösungsorientiert und begeisterst dich für Qualität, Innovation und nachhaltige Entwicklungen. Family und Work-Life-Balance Gleitzeit Bandbreitenmodelle Teilzeitarbeit Jobsharing, Topsharing Mutter-, Vaterschaftsurlaub Vergünstigung Kinderbetreuung (Wil, Pfäfers) Berufliche Qualifikation Ausbildungen Fortbildungen Weiterbildungen Interne Schulungen Geschenke zu persönlichen Anlässen Eintritt Hochzeit Geburt Jubiläum Austritt Pensionierung Verpflegung am Arbeitsplatz Vergünstigung Mittagsmenu Obst, Wasser, Kaffee Mobilität Ökobonus Firmenparkplätze Mobiltelefone Personalzimmer Monetäre Leistungen Leistungsprämien Treueprämien Vermittlungsprämien Spesenentschädigung Mitarbeiterförderung Mitarbeitendengespräch Komepenzportfolio Karriere-und Laufbahnförderung Team- und Kulturbildung Personalfest Weihnachtsessen Teamtag Wohlbefinden Yoga Wanderungen Fitnessraum Gesundheit Gesundheits App Grippe- und Zeckenimpfung Dein Lohn Die genaue Lohnhöhe richtet sich nach deiner Ausbildung und Berufserfahrung. Im Verlauf des Auswahlverfahrens werden wir deinen Lohn aufgrund der kantonalen Lohnrichtlinien festlegen. Bewerberinnen und Bewerber, die noch nicht über die erforderlichen Kenntnisse oder Erfahrungen verfügen, können im Einzelfall auch unterhalb der Lohnbandbreite eingestuft werden. Die weitere Lohnentwicklung richtet sich nach deinen Leistungen und findet jeweils im Rahmen der Lohnrunde per 1. Januar unter Berücksichtigung des freigegebenen Budgets statt. Deine Kontaktpersonen Ronald Gangfuss Leiter Betrieb und Beschaffung +41 58 178 11 28 ronald.gangfuss@psychiatrie-sg.ch Nelly Howald HR Business Partner +41 58 178 11 22 nelly.howald@psychiatrie-sg.ch Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Mental Health Care Referrals increase your chances of interviewing at Psychiatrie St.Gallen by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "1cbad6323177e3d7",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/leiterin-leiter-hospitality-management-at-psychiatrie-st-gallen-4485382539"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Fahrzeugaufbereiter - Car Support Staff (m/w/d) 90%",
-   "company": "SIXT",
-   "location": "Winkeln, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/fahrzeugaufbereiter-car-support-staff-m-w-d-90%25-at-sixt-4479298673",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Du hast Benzin im Blut? Du kannst es kaum erwarten mit hochwertigen Luxus-Fahrzeugen zu arbeiten? Dann haben wir den Traumjob für Dich. Wir suchen zum nächstmöglichen Zeitpunkt einen überzeugenden und qualifizierten Car Support Staff. Komm ab sofort in unser Team am Hauptbahnhof in St.Gallen und mache unsere Kunden glücklich! YOURS TO OWN Fahrzeugaufbereitung und -reinigung unter Einhaltung unserer SIXT Qualitätsstandards Fahrzeugzustellung, -abholung und -übergabe an Deine Kunden Enge Zusammenarbeit mit Deinen Kollegen in unseren Stationen Sicherstellung unserer SIXT Service Standards und Dokumentation von Schäden an unseren Fahrzeugen DEINE FÄHIGKEITEN ZÄHLEN Führerausweis Du fährst gerne Auto und besitzt einen gültigen B-Führerausweis Praktische Erfahrung Du bist als Quereinsteiger willkommen, Deine Erfahrung in der Automobil- und Dienstleistungsbranche ist von Vorteil Kommunikation Du verfügst über gute Deutschkenntnisse zur einwandfreien Kommunikation und sprichst auch Englisch Arbeitsweise Du arbeitest serviceorientiert, motiviert und verantwortungsbewusst Teamgeist Du steckst mit Deiner positiven Ausstrahlung Deine Kollegen an und bist ein Teamplayer WAS WIR DIR BIETEN Exklusive Mitarbeitervorteile Du geniesst einen SIXT-Parkplatz, Rabatte auf SIXT rent, share, ride und SIXT+, sowie Partner-Rabatte für Reisen, Sport, Kosmetik, Kleidung und mehr Zusätzlicher Urlaub Feiere Deinen Geburtstag mit einem zusätzlichen Urlaubstag, den wir Dir schenken Work-Life-Balance & Flexibilität Massgeschneiderte Arbeitspläne, die rechtzeitig bekannt gegeben werden, bieten Dir Planungssicherheit und unterstützen Deine Work-Life-Balance Refer-a-Friend Teile Deinen SIXT Spirit mit Freunden und hole sie ins Team Orange für Deine Prämie von CHF 2.500,- brutto DiverSIXTy Kultur Erlebe unsere Unternehmenskultur der Akzeptanz, Wertschätzung und des Respekts für alle Über uns: Wir sind ein weltweit führender Mobilitätsdienstleister mit einem Umsatz von 4,3 Milliarden Euro und rund 9.000 Mitarbeitern weltweit. Unsere Mobilitätsplattform ONE vereint unsere Produkte SIXT rent (Autovermietung), SIXT share (Carsharing), SIXT ride (Taxi-, Fahr- und Chauffeurservices), SIXT+ (Auto Abo) und gibt unseren Kunden Zugang zu unserer Flotte von 360.000 Fahrzeugen, den Services von 4.000 Kooperationspartnern und rund 5 Millionen Fahrern weltweit. Zusammen mit unseren Franchise-Partnern sind wir in mehr als 100 Ländern an 2.000 Vermietstationen präsent. Bei SIXT stehen ein erstklassiges Kundenerlebnis sowie ein herausragender Kundenservice an erster Stelle. Wir setzen auf echtes Unternehmertum und langfristige Stabilität und richten unsere Unternehmensstrategie mit Weitsicht aus. Starte mit uns durch und bewirb Dich jetzt! Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Travel Arrangements Referrals increase your chances of interviewing at SIXT by 2x See who you know",
-   "extra": {
-    "seniority": "Mid-Senior level",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "85dc889e70763db1",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/fahrzeugaufbereiter-car-support-staff-m-w-d-90%25-at-sixt-4479298673"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Medizinische Masseur:in",
-   "company": "Medbase Gruppe",
-   "location": "Wil, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/medizinische-masseur-in-at-medbase-gruppe-4487751435",
-   "posted": "2026-11-05",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-dm-532-v-oddelku-za-varno-hrano-v-obmo%C4%8Dnem-uradu-ptuj-in%C5%A1pekciji-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4486977711",
+   "posted": "2026-11-06",
    "salary": null,
    "via": null,
    "description": "",
@@ -271,46 +102,22 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "22d3463af219d68d",
+   "id": "2769201bca5b69b4",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/medizinische-masseur-in-at-medbase-gruppe-4487751435"
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-dm-532-v-oddelku-za-varno-hrano-v-obmo%C4%8Dnem-uradu-ptuj-in%C5%A1pekciji-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4486977711"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Schleifer (m/w/d) - 100%",
-   "company": "Belimed Life Science",
-   "location": "Sulgen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/schleifer-m-w-d-100%25-at-belimed-life-science-4485832072",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Die Belimed Life Science AG mit Hauptsitz in Sulgen (CH) ist als eigenständige Aktiengesellschaft innerhalb der SteelcoBelimed Gruppe tätig. Die international agierende Unternehmensgruppe SteelcoBelimed Life Science beschäftigt weltweit über 500 Mitarbeitende und zählt zu den führenden Anbietern im Sonderanlagenbau zur maschinellen Reinigung und Sterilisation in den Bereichen Life Science, Pharma, Biopharma und Kosmetik. Die SteelcoBelimed Life Science Gruppe beschäftigt zusammen mit der Business Units SteelcoBelimed Infection Control weltweit mehr als 2200 Mitarbeitende an 27 Standorten in Europa, Amerika und Asien. Lust auf Arbeiten mit heissem Dampf und reinstem Wasser? Dann bewerben Sie sich bei uns. Ihre Aufgaben Einsatz im allgemeinen Apparatebau, rationelle und selbständige Anfertigung der Produkte nach den Fertigungsunterlagen gemäss Auftrag des Vorgesetzten, Prüfung der Arbeiten nach den Richtlinien des QS-Systems. Hauptaufgaben Schleifen und Glasperlstrahlen von Kammern, Türen und weiteren Produkten Beherrschen des Oberflächen-Messgerätes / Ausfüllen der dazugehörigen Schleifprotokolle Fertigung der Produkte gemäss den Fertigungsunterlagen unter Einhaltung der notwendigen Qualität Flexibler und vielseitiger Einsatz in verwandten Produktionsbereichen Multiflexibler Einsatz von anverwandten Produktionsarbeiten Ihr Profil Grundausbildung in einer Metallverwandten Branche Mehrjährige Berufserfahrung im Bereich Metallbearbeitung aus dem industriellen Umfeld Gutes technisches Verständnis Erfahrung in der Verarbeitung von Edelstahl Gute bis sehr gute Deutschkenntnisse in Wort und Schrift Körperlich robust und belastbar Unser Angebot Bei uns erwartet Sie mehr als nur ein Arbeitsplatz – Sie werden Teil eines Teams, das Zusammenhalt, Entwicklung und Freude an der Arbeit lebt. Wir unterstützen Sie aktiv auf Ihrem Karriereweg, fördern Ihre Weiterbildung und Sprachkenntnisse und sorgen mit einer abteilungsübergreifenden Einarbeitung und individuellen Einführungsplänen für einen gelungenen Start. Neben spannenden Aufgaben profitieren Sie von attraktiven Benefits: vergünstigten Fitnessabos, kostenlosen Parkplätzen, Rabatten auf Miele-Produkte, vollem Lohn bei Mutter- und Vaterschaftsurlaub sowie 90 Tagen 100 % Lohnfortzahlung bei Unfall oder Krankheit. Und weil Erfolg im Team noch schöner ist, geniessen wir gemeinsame Momente – ob beim Kaffee zwischendurch oder bei der Feierabendrunde am hauseigenen Kulturplatz. Werden Sie Teil unseres erfolgreichen Teams und bringen Sie Ihre Karriere voran. ONLINE BEWERBEN → Show more Show less Seniority level Not Applicable Employment type Full-time Industries Machinery Manufacturing Referrals increase your chances of interviewing at Belimed Life Science by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "60346115ff03a72c",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/schleifer-m-w-d-100%25-at-belimed-life-science-4485832072"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Leitende/-n Med. Praxisassistenten/-in Ambulatorium Frauenklinik",
-   "company": "Kantonsspital Frauenfeld",
+   "title": "Fachexpertin/Fachexperte Sonderpädagogik",
+   "company": "Kanton Thurgau",
    "location": "Frauenfeld, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/leitende-n-med-praxisassistenten-in-ambulatorium-frauenklinik-at-kantonsspital-frauenfeld-4485214573",
-   "posted": "2026-11-05",
+   "url": "https://ch.linkedin.com/jobs/view/fachexpertin-fachexperte-sonderp%C3%A4dagogik-at-kanton-thurgau-4485728951",
+   "posted": "2026-11-06",
    "salary": null,
    "via": null,
    "description": "",
@@ -319,262 +126,382 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "f2243c34b32ee112",
+   "id": "3f3cb6bfa1c09320",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/leitende-n-med-praxisassistenten-in-ambulatorium-frauenklinik-at-kantonsspital-frauenfeld-4485214573"
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachexpertin-fachexperte-sonderp%C3%A4dagogik-at-kanton-thurgau-4485728951"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Leiter:in Wohnen",
-   "company": "WILHELM AG",
+   "title": "Kreisförster / Kreisförsterin",
+   "company": "Kanton Thurgau",
    "location": "Frauenfeld, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/leiter-in-wohnen-at-wilhelm-ag-4486589838",
-   "posted": "2026-11-05",
+   "url": "https://ch.linkedin.com/jobs/view/kreisf%C3%B6rster-kreisf%C3%B6rsterin-at-kanton-thurgau-4486049007",
+   "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Wohnangebote gestalten. Menschen stärken. Unsere Auftraggeberin ist eine soziale Institution im Kanton Thurgau, die Menschen mit Beeinträchtigungen begleitet. Sie setzt sich für eine selbstbestimmte Lebensgestaltung und die Teilhabe am gesellschaftlichen Leben ein. Für die Führung und Weiterentwicklung des Wohnbereichs suchen wir eine erfahrene Persönlichkeit als Leiter:in Wohnen Gemeinsam mit den Teamleitungen entwickeln Sie bedürfnisorientierte, inklusive Wohnangebote weiter und sichern die Qualität gemäss den fachlichen und kantonalen Vorgaben. Sie steuern die Rekrutierung und Personalentwicklung und tragen die Budget- und Kostenstellenverantwortung. Sie berichten an die Gesamtleitung und fördern im Leitungsteam die bereichsübergreifende Zusammenarbeit. Zudem pflegen Sie den Austausch mit Angehörigen, gesetzlichen Vertretungen, Fach- und Amtsstellen. Sie überzeugen durch Führungskompetenz und fachliche Sicherheit und verfügen über eine heilpädagogische, pädagogische, pflegerische oder sozialpsychiatrische Ausbildung sowie mehrjährige Berufserfahrung. Eine Ausbildung in Personalführung und entsprechende Führungserfahrung ergänzen Ihr Profil. Sie bringen betriebswirtschaftliche Kenntnisse und Erfahrung in der Qualitätssicherung mit und nutzen digitale Arbeits- und Führungsinstrumente sicher. Sie führen wertschätzend und verbindlich, kommunizieren klar und begleiten Veränderungen umsichtig. Es erwartet Sie eine verantwortungsvolle Führungsaufgabe mit Gestaltungsspielraum, in der Sie zur Lebensqualität der begleiteten Menschen beitragen. Möchten Sie zeitgemässe Wohnangebote mitgestalten? Ernst Wälter freut sich auf Ihre Bewerbungsunterlagen, die Sie bitte online einreichen. Absolute Diskretion ist garantiert. Wilhelm AG Bogenstrasse 7 9000 St. Gallen Telefon +41 71 227 90 00 www.wilhelm.ch Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Staffing and Recruiting Referrals increase your chances of interviewing at WILHELM AG by 2x See who you know",
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9ed3c72830771c0f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kreisf%C3%B6rster-kreisf%C3%B6rsterin-at-kanton-thurgau-4486049007"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Projektleitung Naturgefahren (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleitung-naturgefahren-m-w-d-at-kanton-st-gallen-4486980216",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Aufgrund eines Stellenwechsels suchen wir zur Verstärkung im Amt für Wasser und Energie ab Frühjahr 2027 oder nach Vereinbarung eine Ihre Aufgaben Projektleitung bei der Nachführung der Naturgefahrenkarten, bei kommunalen Einsatzplanungen sowie spezifischen Fragestellungen bei Naturereignissen Beratung der Bevölkerung, der Gemeinden und der kantonalen Fachstellen bei der Umsetzung der Gefahrenkarten Überarbeitung von Grundlagen wie themenspezifische Leitfäden, Arbeitshilfen sowie der Wegleitung Naturgefahrenanalyse Aufsicht über die Stauanlagensicherheit, unter anderem durch die Begleitung von Kontrollen und die Erstellung eines Jahresberichts zuhanden des Bundesamtes für Energie Was Sie auszeichnet Hochschul- oder Fachhochschulabschluss im Umwelt-, Ingenieurwesen oder einer vergleichbaren Fachrichtung Berufserfahrung und Kenntnisse im Bereich Naturgefahren oder Stauanlagen Erfahrung im Projektmanagement Motivation, Initiative und Teamgeist Selbstständige Arbeitsweise, Sozialkompetenz und sicheres Auftreten Unsere Benefits Verantwortungsvolle und vielseitige Tätigkeit in einer hochaktuellen Thematik Viel Raum für Eigeninitiative und die fachliche Mitgestaltung eines zukunftsrelevanten Themengebiets Spannende, abwechslungsreiche und interdisziplinäre Projekte mit verschiedenen Anspruchsgruppen Ein motiviertes, kollegiales Team sowie moderne und flexible Arbeitsbedingungen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "6cd376cbc021014b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleitung-naturgefahren-m-w-d-at-kanton-st-gallen-4486980216"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Sachbearbeiter/-in Soziales 80 - 100 %",
+   "company": "Gemeinde Uzwil",
+   "location": "Uzwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-soziales-80-100-%25-at-gemeinde-uzwil-4486260040",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Uzwil: Mit rund 14'800 Einwohnerinnen und Einwohnern die fünftgrösste Gemeinde im Kanton St. Gallen. Attraktiver und vielfältiger Arbeits- und Wohnort. Eine innovative, dienstleistungsorientierte und leistungsfähige Gemeinde trägt ihren Teil zu einem dynamischen und lebenswerten Umfeld bei. Dazu gehört auch, sich um die sozialen Belange der Bevölkerung zu kümmern. Diese wichtige Aufgabe erfüllt die Abteilung Soziales. Ihre Themen sind nebst der wirtschaftlichen Sozialhilfe das Asyl- und Flüchtlingswesen, das Alimenteninkasso und die Alimentenbevorschussung sowie die AHV-Zweigstelle. Sind Sie schon Profi in der wirtschaftlichen Sozialhilfe? Oder sind Sie interessiert, sich in dieses Gebiet einzuarbeiten? Suchen Sie eine Herausforderung, bei der es nicht nur auf Ihr Fachwissen, sondern auch auf Ihre persönlichen Fähigkeiten ankommt? Arbeiten Sie gerne selbstständig und schätzen dennoch den Austausch im Team? Dann kommen Sie zu uns! Ihre Aufgaben - Prüfen von Gesuchen um wirtschaftliche Sozialhilfe - Vorbereitung und Vollzug von Entscheiden - Erstellen von Verfügungen und Budgets - Auszahlen der Sozialhilfe - Betreuen und Beraten der Klientinnen und Klienten am Schalter und Telefon - Einholen von Gutachten und Berichten Ihr Profil - abgeschlossene kaufmännische Ausbildung, vorzugsweise in der Branche Öffentliche Verwaltung - abgeschlossene Gemeindefachschule mit Vertiefung Sozialhilfe und/oder abgeschlossene Weiterbildung im Sozialversicherungsbereich erwünscht - mehrjährige Berufserfahrung in einer vergleichbaren Funktion von Vorteil - aufgeschlossene, empathische und emotional belastbare Persönlichkeit mit Lebenserfahrung Unser Angebot - eine verantwortungsvolle und sinnstiftende Tätigkeit in einem spannenden und dynamischen Umfeld - attraktive und zeitgemässe Arbeits- und Anstellungsbedingungen - Felder zur persönlichen und beruflichen Weiterentwicklung Möchten Sie mehr über diese abwechslungsreiche und interessante Stelle erfahren? Katja Eigenmann, Leiterin Soziales, informiert Sie gerne und freut sich auf Ihren Anruf (071 950 40 57). Ihre Bewerbung senden Sie bitte bis am 27. November 2026 an die Gemeinde Uzwil, Monika Lehner, monika.lehner@uzwil.ch. Wir sind gespannt auf Sie! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Gemeinde Uzwil by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e1bf463e44adc30a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-soziales-80-100-%25-at-gemeinde-uzwil-4486260040"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Projektleiter:in Fundraising (w/m/d) (60 %)",
+   "company": "Aqua Viva",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-fundraising-w-m-d-60-%25-at-aqua-viva-942036023",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c066dd479dac9764",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-fundraising-w-m-d-60-%25-at-aqua-viva-942036023"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "HR-Business Partner (m/w/d)",
+   "company": "SÜDKURIER GmbH Medienhaus",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/hr-business-partner-m-w-d-at-s%C3%BCdkurier-gmbh-medienhaus-4488176033",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Deine Aufgaben Du berätst und unterstützt die Führungskräfte in allen Angelegenheiten im definierten Betreuungsbereich des Personalwesens. Du arbeitest vertrauensvoll und lösungsorientiert mit dem Betriebsrat zusammen. Du stellst die operative, werteorientierte Umsetzung aller beschlossenen Organisations- und Personalprozesse sicher. Du verantwortest die Umsetzung personalrelevanter Maßnahmen unter Einhaltung gesetzlicher und arbeitsrechtlicher Vorgaben. Du wirkst bei der Personalplanung mit. Nicht zuletzt gestaltest Du aktiv Projekte mit, die den gesamten HR-Bereich in eine zukunftsweisende Richtung lenken. Dein Profil Du verfügst idealerweise über ein abgeschlossenes Studium im Bereich Personalwesen, Wirtschaftswissenschaften oder eine andere vergleichbare Qualifikation. Weiter bringst Du bereits mehrjährige Berufserfahrung als HR-Referent (m/w/d) oder HR-Business Partner (m/w/d) mit. Die Bereiche Arbeitsrecht und Betriebsverfassungsrecht beherrschst Du sicher. Organisation, Verantwortungsbewusstsein und eine eigenständige, lösungsorientierte Arbeitsweise zeichnen Dich aus. Eine ausgeprägte Kommunikationsfähigkeit, hohe Selbstreflexion, echtes Teamplay sowie eine hohe Sozialkompetenz unterstreichen Deinen Charakter. Wir bieten Dir Eigeninitiative und Raum zum Mitgestalten: Du übernimmst verantwortungsvolle und spannende Aufgaben und kannst Deine Expertise in vielversprechenden Projekten aktiv einbringen. Unterstützung und Teamplay werden großgeschrieben! Dich erwarten ein kollegiales Umfeld und ein hervorragendes Betriebsklima. Du erhältst eine professionelle und strukturierte Einarbeitung durch das HR-Team. Gezielte berufliche Weiterbildungen und Schulungen fördern Deine persönliche Entwicklung. Ein attraktives Gehalt, 30 Tage Urlaub sowie ein unbefristeter Arbeitsvertrag sind selbstverständlich, ebenso wie eine moderne technische Ausstattung. Weiter erwarten Dich diverse Zuschüsse zur Kita, Jobticket, vergünstigte Abonnements der Medienangebote sowie eine betriebliche Altersvorsorge. Neben Corporate Benefits und der Möglichkeit ein JobRad zu nutzen, kannst Du mit Epassi an vielen verschiedenen Sportangeboten teilnehmen! Flexible Arbeitszeiten und die Möglichkeit auf Homeoffice runden das Angebot ab. Für uns zählt der Mensch, nicht das Geschlecht! Wir sind überzeugt, dass Vielfalt eine Bereicherung ist und lehnen jede Form von Diskriminierung ab. Dein Ansprechpartner Martina Nixdorf Head of HR Business Partner Tel.: +49 931 6001-231 Dein Weg zu uns#1 Deine Bewerbung Bewerbe Dich online bei uns. Ob Anschreiben oder ein kurzes Video - entscheide, wie Du dich gerne präsentieren möchtest. Ergänze noch Deinen Lebenslauf und Deine Zeugnisse, so können wir uns ein erstes Bild von Dir machen. #2 Unser Feedback Du erhältst umgehend eine Eingangsbestätigung. Innerhalb von einer Woche melden wir uns per E-Mail oder telefonisch bei Dir mit unserem Feedback. #3 Unser Kennenlernen Passt der erste Eindruck, findet ein erstes Gespräch - meist per Video - in der Regel schon innerhalb einer Woche statt. Sind wir überzeugt, laden wir Dich zu einem zweiten Termin vor Ort ein. Lief das ebenfalls gut, laden wir Dich zum Probearbeiten ein, bei dem Du das Team und Deine Arbeitsumgebung kennen lernen kannst. #4 Dein Onboarding Haben beide Seiten festgestellt, dass es passt, erhältst Du Deinen Arbeitsvertrag. 4 Wochen vor Arbeitsbeginn erhältst Du eine Welcome Mail mit allen Infos zu Deinem 1. Arbeitstag. Dein 1. Arbeitstag beginnt mit einem Welcome Meeting. Anschließend lernst Du alles Wichtige im Rahmen eines Onboarding Plans kennen. Erfahre mehr Die Mediengruppe Pressedruck ist ein Familienunternehmen und zählt zu den führenden Medienhäusern in Deutschland. Mit ihren regionalen Qualitätsmedien – der Augsburger Allgemeinen inklusive Allgäuer Zeitung, der Main-Post in Würzburg sowie dem SÜDKURIER in Konstanz – erreicht sie bei einer täglichen Druckauflage von rund 450.000 Exemplaren etwa 1,3 Millionen Leser. Unser Bereich Shared Services bündelt …",
    "extra": {
     "seniority": "Mid-Senior level",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "8e0a7d4b902729ac",
+   "id": "acd3823456083bd0",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-wohnen-at-wilhelm-ag-4486589838"
+    "linkedin": "https://de.linkedin.com/jobs/view/hr-business-partner-m-w-d-at-s%C3%BCdkurier-gmbh-medienhaus-4488176033"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Wundexperten/-in",
-   "company": "Spital Thurgau AG",
-   "location": "Frauenfeld, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/wundexperten-in-at-spital-thurgau-ag-4484225442",
-   "posted": "2026-11-05",
+   "title": "Qualitätsmanager Altenpflege (m/w/d)",
+   "company": "Diakonie Württemberg",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-altenpflege-m-w-d-at-diakonie-w%C3%BCrttemberg-4487306992",
+   "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Wir suchen für die Chirurgische Wundsprechstunde im Kantonsspital Frauenfeld per 1. Februar 2027 oder nach Vereinbarung eine/n Wundexperten/-in 30%-50% Du übernimmst: Behandlung von chronischen und akuten Wunden im interdisziplinären Team Begleitung der Wundbetroffenen und/oder deren Umfeld Organisation der eigenen Sprechstunde Erstellung von Wundberichten Leistungsabrechnung nach TARDOC Du bringst mit: Pflegefachperson mit Ausbildung als dipl. Wundexperten/-in WEX SAfW oder als zertifizierte/r Wundmanager/-in ZWM oder mit MAS in Wound Care, Fachhochschule oder universitäres Diplom mit Schwerpunkt Wundbehandlung Mehrjährige Berufserfahrung von Vorteil Kenntnis der fachspezifischen Methoden und Verfahren, Arbeitsmittel und Materialien Sichere Kommunikation mit unterschiedlichen Anspruchsgruppen Kundenorientierung Flexibel, belastbar und teamfähig KISIM, SAP und IBI-Care Kenntnisse sind von Vorteil Darauf darfst du dich freuen: Wir bieten dir viel Eigenverantwortung und ein breites Aufgabengebiet mit Fokus auf Teamwork. Es erwartet dich eine moderne Infrastruktur in einem zukunfts­orientierten und erfolgreichen Dienstleistungsunternehmen. Auf Wunsch mit Parkplatz, sehr guter ÖV-Anbindung, firmeneigener Kita und gutem Personalrestaurant. Deine Kontaktperson: «Möchtest du mehr über diese spannende Stelle erfahren? Ich freue mich über deine Kontaktaufnahme.» Samira Rodrigues Teamleiterin +41 58 144 13 85 Die Spital Thurgau AG stellt sich vor Zum erfolgreichen Unternehmen Spital Thurgau AG gehören die Kantonsspitäler in Frauenfeld und Münsterlingen, die Psychiatrischen Dienste Thurgau in Münsterlingen und Weinfelden sowie die Klink St. Katharinental für Rehabilitation und Langzeitpflege in Diessenhofen. Ebenfalls betreiben wir zentrale medizinische und administrative Dienste und Institute. Wir bieten ein umfassendes Leistungsangebot und investieren stetig in die hochwertige Infrastruktur. Unseren rund 3500 Mitarbeitenden bieten wir attraktive Arbeitsumgebungen, interdisziplinäre Zusammenarbeit und gezielte Entwicklungsmöglichkeiten. Wir bevorzugen Direktbewerbungen, Stellenvermittler verzichten bitte auf eine Kontaktaufnahme. Show more Show less Seniority level Not Applicable Employment type Part-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Spital Thurgau AG by 2x See who you know",
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9f5f967e5f8977ed",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-altenpflege-m-w-d-at-diakonie-w%C3%BCrttemberg-4487306992"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Qualitätsmanager Altenpflege (m/w/d)",
+   "company": "Evangelische Heimstiftung GmbH",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-altenpflege-m-w-d-at-evangelische-heimstiftung-gmbh-4487302017",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "414e2d1e5e4394c8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-altenpflege-m-w-d-at-evangelische-heimstiftung-gmbh-4487302017"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Mitarbeiter (m/w/d) im hauswirtschaftlichen Bereich",
+   "company": "Malteser in Deutschland",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-im-hauswirtschaftlichen-bereich-at-malteser-in-deutschland-4486295336",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "50a32253e32080b2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-im-hauswirtschaftlichen-bereich-at-malteser-in-deutschland-4486295336"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Sachbearbeiter / Sachbearbeiterin Autoflotte / Mobilität (m/w/d) 40%",
+   "company": "Lidl Switzerland",
+   "location": "Weinfelden, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiter-sachbearbeiterin-autoflotte-mobilit%C3%A4t-m-w-d-40%25-at-lidl-switzerland-4479808975",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Einleitung Du liebst die Strasse, Ästhetik und brennst für Premium-Mobilität? Du willst nicht einfach nur Daten pflegen, sondern als operatives Drehkreuz dafür sorgen, dass unsere Flotte aus den stilvollsten und aktuellsten BMW-Modellen reibungslos auf Schweizer Strassen rollt? Vom ersten Klick bei der Bestellung über die tägliche Koordination bis hin zum erfolgreichen Verkauf begleitest du den gesamten Lebenszyklus unserer Fahrzeugflotte im Tagesgeschäft. Werde zum unverzichtbaren Teil unseres Mobilitätsteams. Deine Aufgaben Organisation und Koordination von operativen Fuhrparkaufgaben Ansprechpartner für Fragen rund um den Fuhrpark Koordination von Fahrzeugübergaben und -wechseln Beschaffung und Veräusserung von Fahrzeugen Bearbeitung des Schadenmanagements Bearbeitung von Verwarnungen und Bussgeldern Allgemeine Verwaltungs- und Sekretariatsaufgaben Mitarbeit als Fahrer für die Geschäftsleitung Dein Profil Abgeschlossene kaufmännische Berufsbildung Erste Berufserfahrung in der Auto-Branche von Vorteil Teamplayer mit Hands-on-Mentalität Selbständige und eigenverantwortliche Arbeitsweise Organisationstalent, Durchsetzungsvermögen, hohe Flexibilität und Belastbarkeit Sehr gute Deutschkenntnisse, Kenntnisse einer weiteren Landessprache von Vorteil Führerausweis Kategorie B zwingend erforderlich Wir bieten Bei Lidl Schweiz ist Raum für Ambitionen und Innovationen. Gestalte aktiv mit. Wachse täglich auf beruflicher sowie persönlicher Ebene. Auf deine abwechslungsreichen und interessanten Aufgaben bereiten wir dich mit einer intensiven Einarbeitung vor. Zudem bieten wir dir die Sicherheit einer Festanstellung, ein tolles Team, die Vorzüge des Lidl-GAVs, eine hervorragende berufliche Vorsorge sowie weitere attraktive Benefits. Nutze die Chance & bewirb dich jetzt online! Hinweis für Personaldienstleister: Wir berücksichtigen ausschliesslich Direktbewerbungen. Show more Show less Seniority level Not Applicable Employment type Part-time Industries Retail Referrals increase your chances of interviewing at Lidl Switzerland by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Part-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "80dc0973f9e9a86b",
+   "id": "59db12fae4529682",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/wundexperten-in-at-spital-thurgau-ag-4484225442"
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-sachbearbeiterin-autoflotte-mobilit%C3%A4t-m-w-d-40%25-at-lidl-switzerland-4479808975"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Svetovalec (DM 548) v Območnem uradu Murska Sobota, Inšpekciji za varno hrano, veterinarstvo in varstvo rastlin",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
+   "title": "Learning & Development Specialist 80 - 100%",
+   "company": "Group Micarna",
+   "location": "Bazenheid, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/svetovalec-dm-548-v-obmo%C4%8Dnem-uradu-murska-sobota-in%C5%A1pekciji-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4486943211",
+   "url": "https://ch.linkedin.com/jobs/view/learning-development-specialist-80-100%25-at-group-micarna-4487340405",
    "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Opis delovnega mesta SVETOVALEC (DM 548) v Območnem uradu Murska Sobota, za določen čas enega leta, s polnim delovnim časom. Zahteve za prijavo Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja); najmanj visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja); najmanj visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja); najmanj specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja). najmanj 7 mesecev delovnih izkušenj(1), opravljen strokovni izpit iz upravnega postopka (2), osnovna raven znanja tujega jezika, državljanstvo Republike Slovenije, ne smejo biti pravnomočno obsojeni zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in ne smejo biti obsojeni na nepogojno kazen zapora v trajanju več kot šest mesecev, zoper kandidata ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Kot delovne izkušnje se šteje delovna doba na delovnem mestu, za katero se zahteva ista raven izobrazbe, in čas pripravništva na isti ravni izobrazbe, ne glede na to, ali je bila pogodba o zaposlitvi sklenjena oziroma pripravništvo opravljeno pri istem ali pri drugem delodajalcu. Za delovne izkušnje se štejejo tudi delovne izkušnje, ki jih je oseba pridobila z opravljanjem del na delovnem mestu, za katero se zahteva za eno raven nižja izobrazba, razen pripravništva na takem delovnem mestu. Kot delovne izkušnje se upošteva tudi delo brez sklenjene pogodbe o zaposlitvi na enaki stopnji zahtevnosti, kot je delovno mesto, za katero oseba kandidira. Delovne izkušnje se dokazujejo s pogodbo o zaposlitvi oziroma z verodostojno listino, iz katerih sta razvidna obdobje opravljanja in zahtevnost dela ter raven izobrazbe, ki se zahteva za opravljanje tega dela. Zahtevane delovne izkušnje se skrajšajo za tretjino v primeru, da ima kandidat univerzitetno izobrazbo ali visoko strokovno izobrazbo s specializacijo oz. magisterijem znanosti (prejšnjim) ali magistrsko izobrazbo (druga bolonjska stopnja). Pri izbranem kandidatu se bo preverjalo, ali ima opravljen strokovni izpit iz upravnega postopka. V nasprotnem primeru bo moral izbrani kandidat izpit iz upravnega postopka opraviti najkasneje v šestih mesecih od sklenitve delovnega razmerja za delovno mesto, kjer je strokovni izpit iz upravnega postopka določen kot pogoj za zasedbo delovnega mesta. Delovne naloge Naloge, Ki Se Opravljajo Na Tem Delovnem Mestu, So pomoč pri pripravi predpisov in drugih zahtevnejših gradiv, zbiranje, urejanje in priprava podatkov za oblikovanje zahtevnejših gradiv, samostojno oblikovanje manj zahtevnih gradiv s predlogi ukrepov, vodenje in odločanje v zahtevnih upravnih postopkih na prvi stopnji, jemanje uradnih vzorcev pomoč pri izvajanju inšpekcijskih nalog s področja dela organa, oblikovanje poročil o stanju na področju dela inšpekcijskega organa, vodenje predpisanih in internih evidenc s področja nadzora inšpekcijskega organa, strokovna pomoč, opravljanje drugih upravnih nalog podobne zahtevnosti. Prednosti pri izbiri Prednost pri izbiri bodo imeli kandidati s končano izobrazbo veterine. Postopek prijave Prijava na prosto delovno mesto mora biti obvezno pripravljena in oddana na prijavnem obrazcu z oznako UVHVVR prijavni obrazec, št. DM 548, ki je priloga te javne objave, z natančno izpolnjenimi vsemi rubrikami in lastnoročno podpisanimi izjavami. Kandidat lahko po lastni presoji obrazcu prijave priloži tudi kratek življenjepis. Kontaktna oseba za dodatne informacije Karmen Korošec Zadnikar 01 300 13 22 karmen.korosec-zadnikar@gov.si Mojca Rupnik predstojnica Območni urad Murska Sobota 02 521 43 40 mojca.rupnik@gov.si Besedilo in prijavni obrazec UVHVVR prijavni …",
+   "description": "",
    "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
    },
-   "id": "7658d27465d5c7c8",
+   "id": "bcae1d6ead083cee",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-dm-548-v-obmo%C4%8Dnem-uradu-murska-sobota-in%C5%A1pekciji-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4486943211"
+    "linkedin": "https://ch.linkedin.com/jobs/view/learning-development-specialist-80-100%25-at-group-micarna-4487340405"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Stationsleiter/-in Chirurgie/Orthopädie",
-   "company": "Kantonsspital Münsterlingen",
-   "location": "Münsterlingen, Thurgau, Switzerland",
+   "title": "Wohn- und Alltagsbegleitung | 30% – 50% | Stundenlohn oder Festanstellung",
+   "company": "Quellenhof-Stiftung",
+   "location": "Winterthur, Zurich, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/stationsleiter-in-chirurgie-orthop%C3%A4die-at-kantonsspital-m%C3%BCnsterlingen-4487516829",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Neue Herausforderung gesucht? Du entscheidest und gestaltest gerne aktiv mit? Dann bewirb Dich bei uns! Wir suchen ab dem 1. März 2027 oder nach Vereinbarung eine/n Stationsleiter/-in Chirurgie/Orthopädie 100% Mitgestalten, Einfluss nehmen, entwickeln und Ansprechpartner für ein motiviertes Team sein--> Suchst Du ein Arbeitsumfeld, das mehr ist als nur ein Ort des täglichen Wirkens? Bei uns erlebst Du ein inspirierendes Arbeitsklima. Unsere Unternehmenskultur zeichnet sich durch Zusammenhalt, Respekt, Wertschätzung und ein starkes \"WIR\" aus. Du übernimmst Die direkte Führung eines Teams verschiedener pflegerischer Berufsgruppen und unterschiedlicher Generation Du bist nicht nur für die Sicherstellung des Stationsbetriebs verantwortlich, sondern beteiligst dich aktiv an der Qualitätssicherung und Weiterentwicklung der Station und der gesamten Klinik für Chirurgie und Orthopädie Du nimmst aktiv Einfluss auf strukturelle und prozessuale Gegebenheiten und unterstützt dein Team bei der persönlichen Weiterentwicklung Ziel- und lösungsorientiertes Arbeiten im interdisziplinären Behandlungsteam Anleitung und Begleitung von Lernenden und neuen Mitarbeitern Du bringst mit Du verfügst über eine abgeschlossene Berufsausbildung als Pflegefachperson HF / FH und hast bereits mehrjährige praktische Erfahrung in der Pflege im Akutspital. Idealerweise im Bereich Chirurgie/Orthopädie Du bringst \"Leadership\" mit und hast Führungserfahrung Erfahrung in einem Schweizer Akutspital ist eine gute Voraussetzung für diese anspruchsvolle Stelle Du bist kreativ, initiativ und belastbar, arbeitest gerne teamorientiert, interdisziplinär und bist lösungsorientiert ausgerichtet? - Du nimmst gerne direkt Einfluss und es bereitet dir Freude zu gestalten und zu entwickeln? Vernetztes Denken und hohes Verantwortungsbewusstsein zeichnen dich aus? -> Dann freuen wir uns auf deine Bewerbung! Darauf darfst du dich freuen Wir bieten dir einen interessanten, sehr lebhaften und abwechslungsreichen Arbeitsplatz in wunderschöner Umgebung. Du bist auf einer 20-Bettenstation eingesetzt und betreust primär Patienten*innen der Fachbereiche Chirurgie und Orthopädie. Du erhältst bei uns eine sorgfältige Einführung und Deine berufliche Weiterentwicklung wird durch ein umfassendes Fort- und Weiterbildungsangebot sichergestellt und von uns gewünscht. Gerne ermöglichen wir Dir einen Schnuppertag zum gegenseitigen Kennenlernen. Falls du noch weitere Informationen zu dieser spannenden Stelle benötigen solltest, zögere bitte nicht uns telefonisch oder per Mail zu kontaktieren. Deine Kontaktperson «Falls du noch weitere Informationen zu dieser spannenden Stelle benötigen solltest, zögere bitte nicht uns telefonisch oder per Mail zu kontaktieren.» Daniel Heeb Bereichsleiter Pflege Chirurgie/Orthopädie +41 58 144 20 96 Das Kantonsspital Münsterlingen stellt sich vor Das Kantonsspital Münsterlingen ist ein Unternehmen der Spital Thurgau AG. Wir sind ein Akutspital mit rund 300 Betten, bieten ein umfassendes Leistungsangebot und investieren stetig in unsere hochwertige Infrastruktur. Wir bieten Ihnen attraktive Arbeitsumgebungen, interdisziplinäre Zusammenarbeit und gezielte Entwicklungsmöglichkeiten. Zur erfolgreichen Spital Thurgau AG zählen rund 4100 Mitarbeitende an verschiedensten Unternehmensstandorten. Wir bevorzugen Direktbewerbungen, Stellenvermittler verzichten bitte auf eine Kontaktaufnahme. ALLE UNSERE OFFENEN STELLEN Show more Show less Seniority level Not Applicable Employment type Full-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Kantonsspital Münsterlingen by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "2e9e322ebb627d04",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/stationsleiter-in-chirurgie-orthop%C3%A4die-at-kantonsspital-m%C3%BCnsterlingen-4487516829"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Načelnik upravne enote (117), Upravna enota Slovenske Konjice",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-117-upravna-enota-slovenske-konjice-at-vlada-republike-slovenije-4486934320",
+   "url": "https://ch.linkedin.com/jobs/view/wohn-und-alltagsbegleitung-30%25-%E2%80%93-50%25-stundenlohn-oder-festanstellung-at-quellenhof-stiftung-4488147092",
    "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Nudimo možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležbo na konferencah s področja dela, zagotavljanje pravice do odklopa, ki prispeva k lažjemu usklajevanju poklicnega in zasebnega življenja, kolektivno dodatno pokojninsko zavarovanje, imenovanje na razpisani položaj za obdobje 5 let z možnostjo ponovnega imenovanja, uvrstitev v 47. plačni razred delovnega mesta, kar znaša 4.927,96 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje upravne enote, načrtovanje, organiziranje, nadzorovanje dela v organu in usklajevanje dela med notranje organizacijskimi enotami, odločanje o zadevah z delovnega področja organa in opravljanje najzahtevnejših strokovnih nalog v organu, odločanje o pravicah in obveznostih iz delovnega razmerja javnih uslužbencev, vodenje in sodelovanje v najzahtevnejših projektnih skupinah, oblikovanje sistemskih rešitev in najzahtevnejših gradiv z delovnega področja upravne enote, odločanje v najzahtevnejših upravnih postopkih na prvi stopnji, opravljanje drugih najzahtevnejših nalog. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj izobrazbo, pridobljeno po študijskem programu druge stopnje, oziroma izobrazbo, ki ustreza ravni izobrazbe, pridobljene po študijskih programih druge stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven slovenskega ogrodja kvalifikacij, 7 let delovnih izkušenj, funkcionalna znanja upravnega vodenja in upravljanja kadrovskih virov, dovoljenje za dostop do tajnih podatkov stopnje - Zaupno v skladu z Zakonom o tajnih podatkih (Uradni list RS, št. 50/06 - uradno prečiščeno besedilo, 9/10, 60/11, 8/20 in 18/23 - ZDU-10), znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na posebni javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani. Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 23. 11. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Posebna natečajna komisija, ki jo imenuje minister, pristojen za javno upravo, pred začetkom izbirnega postopka določi merila za izbiro in metode preverjanja strokovne usposobljenosti kandidatov, pri čemer je med merili za izbiro določeno najmanj poznavanje pristojnosti in področje dela upravnih enot. V izbirnem postopku bo posebna natečajna komisija ugotovila, kateri kandidati so glede …",
+   "description": "",
    "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
    },
-   "id": "cdbb33b8148a93ec",
+   "id": "d2918e281f87681d",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-117-upravna-enota-slovenske-konjice-at-vlada-republike-slovenije-4486934320"
+    "linkedin": "https://ch.linkedin.com/jobs/view/wohn-und-alltagsbegleitung-30%25-%E2%80%93-50%25-stundenlohn-oder-festanstellung-at-quellenhof-stiftung-4488147092"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Načelnik upravne enote (188), Upravna enota Škofja Loka",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
+   "title": "HR Assistenz 60 % (m/w/d)",
+   "company": "Work Selection",
+   "location": "Winterthur, Zurich, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-188-upravna-enota-%C5%A1kofja-loka-at-vlada-republike-slovenije-4486938218",
+   "url": "https://ch.linkedin.com/jobs/view/hr-assistenz-60-%25-m-w-d-at-work-selection-4488410616",
    "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Nudimo možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležbo na konferencah s področja dela, zagotavljanje pravice do odklopa, ki prispeva k lažjemu usklajevanju poklicnega in zasebnega življenja, kolektivno dodatno pokojninsko zavarovanje, imenovanje na razpisani položaj za obdobje 5 let z možnostjo ponovnega imenovanja, uvrstitev v 47. plačni razred delovnega mesta, kar znaša 4.927,96 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje upravne enote, načrtovanje, organiziranje, nadzorovanje dela v organu in usklajevanje dela med notranjimi organizacijskimi enotami, odločanje o zadevah z delovnega področja organa in opravljanje najzahtevnejših strokovnih nalog v organu, odločanje o pravicah in obveznostih iz delovnega razmerja javnih uslužbencev, vodenje in sodelovanje v najzahtevnejših projektnih skupinah, oblikovanje sistemskih rešitev in najzahtevnejših gradiv z delovnega področja upravne enote, odločanje v najzahtevnejših upravnih postopkih na prvi stopnji, opravljanje drugih najzahtevnejših nalog. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj izobrazbo, pridobljeno po študijskem programu druge stopnje, oziroma izobrazbo, ki ustreza ravni izobrazbe, pridobljene po študijskih programih druge stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven slovenskega ogrodja kvalifikacij, 7 let delovnih izkušenj, funkcionalna znanja upravnega vodenja in upravljanja kadrovskih virov, dovoljenje za dostop do tajnih podatkov stopnje - Zaupno v skladu z Zakonom o tajnih podatkih (Uradni list RS, št. 50/06 - uradno prečiščeno besedilo, 9/10, 60/11, 8/20 in 18/23 - ZDU-10), znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na posebni javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani. Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 23. 11. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Posebna natečajna komisija, ki jo imenuje minister, pristojen za javno upravo, pred začetkom izbirnega postopka določi merila za izbiro in metode preverjanja strokovne usposobljenosti kandidatov, pri čemer je med merili za izbiro določeno najmanj poznavanje pristojnosti in področje dela upravnih enot. V izbirnem postopku bo posebna natečajna komisija ugotovila, kateri kandidati so glede …",
+   "description": "",
    "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
    },
-   "id": "062e2b587681cd58",
+   "id": "e7586415af3853b5",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-188-upravna-enota-%C5%A1kofja-loka-at-vlada-republike-slovenije-4486938218"
+    "linkedin": "https://ch.linkedin.com/jobs/view/hr-assistenz-60-%25-m-w-d-at-work-selection-4488410616"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Lehrperson im Fachbereich Integration (m/w/d)",
-   "company": "Kanton St.Gallen",
+   "title": "HR Fachspezialist:in 60–80 %, 6 Monate befristet ab Januar 2027",
+   "company": "Abraxas Informatik AG",
    "location": "St Gallen, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/lehrperson-im-fachbereich-integration-m-w-d-at-kanton-st-gallen-4486794083",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "bd298af95d2404a3",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/lehrperson-im-fachbereich-integration-m-w-d-at-kanton-st-gallen-4486794083"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Digital Business Project Manager",
-   "company": "Darwin Recruitment",
-   "location": "Wil, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/digital-business-project-manager-at-darwin-recruitment-4486771271",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "e604585a9c961402",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/digital-business-project-manager-at-darwin-recruitment-4486771271"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Content Creator auf Stundenbasis (m/w/d)",
-   "company": "Arana Care",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/content-creator-auf-stundenbasis-m-w-d-at-arana-care-4486220006",
+   "url": "https://ch.linkedin.com/jobs/view/hr-fachspezialist-in-60%E2%80%9380-%25-6-monate-befristet-ab-januar-2027-at-abraxas-informatik-ag-4480147324",
    "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "",
+   "description": "Du liebst es, wenn administrative Prozesse wie am Schnürchen laufen und möchtest der erste positive Eindruck für unsere neuen Teammitglieder sein? Dann bist du bei uns genau richtig! Unser motiviertes HR-Team sucht ab Januar 2027 für 6 Monate temporäre Unterstützung in einem Pensum von 60-80%. In dieser Rolle übernimmst du Aufgaben aus der HR-Administration mit einem klaren Schwerpunkt auf dem Onboardingprozess. Wenn du strukturiert arbeitest und dich in einem dynamischen Umfeld wohlfühlst, wollen wir dich unbedingt kennenlernen! Deine Rolle Onboarding-Administration: Komplette administrative Abwicklung von Neueintritten von A bis Z Vertragswesen: Erstellen von Arbeitsverträgen, Vereinbarungen und Eintrittsunterlagen Arbeitsbewilligungen: Einholen und Koordinieren von Arbeitsbewilligungen für ausländische Mitarbeitende Systemerfassung: Erfassen und Pflegen aller eintrittsrelevanten Daten in SAP HCM und SuccessFactors Stammdatenpflege: Laufende Aktualisierung und Mutation von Personalstammdaten Dossierpflege: Digitale Archivierung und Pflege der HR-Personaldossiers Sonderprojekte: Mitwirkung und administrative Unterstützung bei aktuellen HR-Projekten Dein Profil Abgeschlossene Weiterbildung zur HR-Assistentin, bevorzugt Weiterbildung zur HR-Fachfrau fundierte Berufserfahrung in der HR-Administration fundierte und praxiserprobte Erfahrung mit SAP HCM und SuccessFactors Du arbeitest strukturiert, zuverlässig und behältst auch bei mehreren Aufgaben den Überblick Mit deiner offenen, hilfsbereiten Art gehst du gerne auf Menschen zu und bringst zudem eine gute Portion Humor mit Du kommunizierst stilsicher auf Deutsch, Französischkenntnisse sind von Vorteil Deine Benefits Bis zu 60 % Home-Office bei einem 100 %-Pensum möglich 41h Woche mit flexiblen Arbeitszeiten bei einem Vollzeitpensum Mind. 25 Tage Ferien pro Jahr Wir pflegen eine offene Du-Kultur – fühl dich also frei, uns deine Bewerbung gerne direkt in der Du-Form zu schicken. Show more Show less Seniority level Associate Employment type Temporary Industries IT Services and IT Consulting and Information Services Referrals increase your chances of interviewing at Abraxas Informatik AG by 2x See who you know",
    "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
+    "seniority": "Associate",
+    "employment_type": "Temporary",
+    "applicants": "Be among the first 25 applicants"
    },
-   "id": "309ca9a54f0df9da",
+   "id": "b77c96e57503c52d",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/content-creator-auf-stundenbasis-m-w-d-at-arana-care-4486220006"
+    "linkedin": "https://ch.linkedin.com/jobs/view/hr-fachspezialist-in-60%E2%80%9380-%25-6-monate-befristet-ab-januar-2027-at-abraxas-informatik-ag-4480147324"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Marketing-Assistent*in im Bereich Markom Stab 40 - 50%",
-   "company": "Genossenschaft Migros Ostschweiz",
-   "location": "Gossau, St Gallen, Switzerland",
+   "title": "International HR Operations & Global Mobility Specialist (w/m/d) Teilzeit oder Vollzeit",
+   "company": "Helvetia Schweiz",
+   "location": "St Gallen, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/marketing-assistent-in-im-bereich-markom-stab-40-50%25-at-genossenschaft-migros-ostschweiz-4486746992",
-   "posted": "2026-11-05",
+   "url": "https://ch.linkedin.com/jobs/view/international-hr-operations-global-mobility-specialist-w-m-d-teilzeit-oder-vollzeit-at-helvetia-schweiz-4488420126",
+   "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "",
+   "description": "50% - 100% Gestalte internationale Karrieren und ermögliche globale Zusammenarbeit Du möchtest Menschen bei grenzüberschreitenden Karriereschritten begleiten und einen sichtbaren Beitrag zu einem international vernetzten Unternehmen leisten? Dann erwartet dich eine spannende Rolle an der Schnittstelle von HR Operations, Global Mobility und internationaler Zusammenarbeit. Als Teil unseres Group HR Teams sorgst du dafür, dass internationale Anstellungen, Transfers und Entsendungen professionell, effizient und compliant umgesetzt werden. Dabei arbeitest du mit Mitarbeitenden, Führungskräften und spezialisierten Partnern auf mehreren Kontinenten zusammen und prägst die internationale Employee Experience aktiv mit. Was du bewirkst Du ermöglichst Mitarbeitenden und Führungskräften erfolgreiche internationale Einsätze und begleitest sie bei Transfers, Entsendungen und grenzüberschreitenden Anstellungen. Du verantwortest zentrale internationale HR Operations für unsere Standorte in Miami, Liechtenstein, Singapur und UK und sorgst für eine nahtlose Employee Experience. Du berätst Führungskräfte und interne Stakeholder als Trusted Advisor bei Fragestellungen rund um Global Mobility, Payroll, Immigration und internationale Beschäftigungsmodelle. Du steuerst die Zusammenarbeit mit internen Fachbereichen sowie externen Experten aus Payroll, Tax, Immigration und Relocation und bringst unterschiedliche Interessen erfolgreich zusammen. Du schaffst Transparenz durch aussagekräftige Reports und Analysen und unterstützt fundierte Entscheidungen in einem internationalen Umfeld. Du gestaltest die Weiterentwicklung unserer internationalen HR Operations- und Mobility-Prozesse aktiv mit und treibst moderne, zukunftsorientierte Lösungen voran. Was du mitbringst Mehrjährige Erfahrung im internationalen HR Umfeld mit Schwerpunkt HR Operations, Global Mobility oder International Employment. Leidenschaft für internationale Zusammenarbeit und Freude daran, Menschen bei wichtigen Karriere- und Lebensschritten zu begleiten. Ausgeprägte Beratungs- und Stakeholder Management Kompetenz sowie die Fähigkeit, komplexe Themen verständlich und lösungsorientiert zu vermitteln. Eine proaktive, strukturierte Persönlichkeit mit hohem Qualitätsanspruch, Verantwortungsbewusstsein und Diskretion. Interesse an internationalen HR-Themen wie Payroll, Immigration, Compliance und grenzüberschreitenden Arbeitsverhältnissen. Sehr gute Deutsch- und Englischkenntnisse sowie digitale Affinität und Freude daran, Prozesse aktiv weiterzuentwickeln. Zusammenarbeit, die etwas bewegt Wir glauben an Zusammenarbeit auf Augenhöhe, gegenseitiges Vertrauen und Menschen, die Verantwortung übernehmen wollen. Unterschiedliche Perspektiven helfen uns, bessere Lösungen zu entwickeln - für unsere Kundinnen und Kunden genauso wie für uns als Team. Kontakt Alice-Alexandra Kall Recruiting Partner Deine Führungskraft Hans-Caspar Schegg Head HR Business Partnering Group & Executives Show more Show less Seniority level Not Applicable Employment type Full-time Industries Insurance Referrals increase your chances of interviewing at Helvetia Schweiz by 2x See who you know",
    "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
    },
-   "id": "040d651191b27f74",
+   "id": "e7169ed86bb960a2",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/marketing-assistent-in-im-bereich-markom-stab-40-50%25-at-genossenschaft-migros-ostschweiz-4486746992"
+    "linkedin": "https://ch.linkedin.com/jobs/view/international-hr-operations-global-mobility-specialist-w-m-d-teilzeit-oder-vollzeit-at-helvetia-schweiz-4488420126"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Freelancer Sicherheitsdienst (m/w/d)",
-   "company": "VGS Schweiz AG",
+   "title": "Recruiter (m/w/d)",
+   "company": "Careerplus",
    "location": "St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/freelancer-sicherheitsdienst-m-w-d-at-vgs-schweiz-ag-4487776170",
-   "posted": "2026-11-05",
+   "url": "https://ch.linkedin.com/jobs/view/recruiter-m-w-d-at-careerplus-4486245542",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Deine Aufgaben Du berätst deine Kund:innen kompetent während des gesamten Recruiting-Prozesses und verstehst ihre Bedürfnisse genau. Du betreust Kandidat:innen von der Bewerbung bis zum Vorstellungsgespräch und gibst ihnen das nötige Selbstvertrauen für ihren nächsten Karriereschritt. Du akquirierst neue Kunden und pflegst bestehende Beziehungen nachhaltig, um dein Portfolio stetig auszubauen. Du erstellst kreative Stelleninserate und nutzt Active Sourcing, um passende Talente für offene Positionen zu gewinnen. Du organisierst deinen Arbeitsalltag selbstständig, koordinierst Termine für Kund:innen und Kandidat:innen und behältst die KPI-Ziele im Blick. Du verhandelst Verträge und Zusammenarbeit auf Augenhöhe und unterstützt Unternehmen strategisch bei der erfolgreichen Besetzung ihrer Vakanzen. Das Wünschen Wir Uns Von Dir Freude am Umgang mit Menschen: Du trittst sicher auf, bist offen und empathisch im Kontakt mit Kandidat:innen und Kund:innen. Selbstständigkeit & Organisation: Du planst deinen Arbeitsalltag eigenverantwortlich und behältst auch bei mehreren Projekten den Überblick. Teamgeist & Engagement: Du arbeitest gerne im Team, bist motiviert und möchtest gemeinsam Erfolge erzielen. Neugier & Lernbereitschaft: Du möchtest dich fachlich und persönlich weiterentwickeln und Neues lernen. Deine Voraussetzungen Abgeschlossenes Studium oder eine kaufmännische Ausbildung mit Weiterbildung (z. B. Verkaufsfachfrau/-mann mit eidg. FA, Dipl. Betriebswirtschafter/in HF) Erste Einblicke in den Dienstleistungsbereich von Vorteil, aber nicht zwingend Stilsichere Deutschkenntnisse, gute Englischkenntnisse Dein Arbeitsort wechselt zwischen Zürich und St.Gallen , wo du die Rekrutierung sowie die Betreuung von Fach- und Führungskräften übernimmst. Wir freuen uns auf deine vollständige Bewerbung (Lebenslauf, Arbeitszeugnisse, Zertifikat) direkt online oder per E-Mail an s.hofmeier@careerplus.ch. Bei Fragen oder Unklarheiten steht dir Sabine Hofmeier unter Tel. 079 891 82 12 gerne zur Verfügung. Arbeitsort: St.Gallen. Kontakt: Sabine Hofmeier, s.hofmeier@careerplus.ch, +41 79 891 82 12 ID: 675549_intern Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Referrals increase your chances of interviewing at Careerplus by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b34079c9168dc442",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/recruiter-m-w-d-at-careerplus-4486245542"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "SiAs Sicherheitsassistent*in 80 - 100%",
+   "company": "Group Micarna",
+   "location": "Bazenheid, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sias-sicherheitsassistent-in-80-100%25-at-group-micarna-4486510737",
+   "posted": "2026-11-06",
    "salary": null,
    "via": null,
    "description": "",
@@ -583,22 +510,166 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "f6402544fb6a7697",
+   "id": "84dfd3d153e688eb",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/freelancer-sicherheitsdienst-m-w-d-at-vgs-schweiz-ag-4487776170"
+    "linkedin": "https://ch.linkedin.com/jobs/view/sias-sicherheitsassistent-in-80-100%25-at-group-micarna-4486510737"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Projektmitarbeiter:in 3D-Laserscanning",
-   "company": "scanner4you",
+   "title": "Begleitperson (w) | 30% – 50% | Stundenlohn in Meilen",
+   "company": "Quellenhof-Stiftung",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/begleitperson-w-30%25-%E2%80%93-50%25-stundenlohn-in-meilen-at-quellenhof-stiftung-4488134672",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "teilen posten mitteilen teilen Menschen mit psychischen Erkrankungen oder kognitiven Beeinträchtigungen sowie ihre Angehörigen stehen im Alltag oft vor grossen Herausforderungen. Mit unserem Angebot SEBE ambulant begleiten wir Erwachsene mit einer IV-Rente, damit sie möglichst selbstständig und selbstbestimmt in ihrer eigenen Wohnung und im vertrauten Umfeld leben können. Wir legen Wert auf die Förderung alltäglicher Kompetenzen und eine individuelle Unterstützung. Für die Begleitung und Betreuung eines jungen Mannes mit Downsyndrom suchen wir in einem Privathaushalt in Meilen ZH eine engagierte Persönlichkeit. Eintritt per sofort oder nach Vereinbarung . Begleitperson (w) | 30% – 50% | Stundenlohn in Meilen Deine Aufgaben Du betreust und unterstützt einen jungen Mann mit kognitiven und psychischen Beeinträchtigungen Du begleitest ihn aktiv durch den Alltag und motivierst ihn zu Bewegung Du dokumentierst deine Begleitarbeit Bei Abwesenheit der Stellenpartnerin ist nach Absprache ein höheres Pensum möglich Aktuelle Einsatzzeiten: Montag, Mittwoch und / oder Donnerstag 11.30 – 18.00 Uhr oder nach Vereinbarung Dein Profil Erfahrung in der Begleitung und Unterstützung von Personen Du bist eine lebensfrohe Person mit hoher Sozialkompetenz Du bist empathisch und hast ein feines Gespür, anderen eine Freude zu bereiten Du hast Freude an gemeinsamen Aktivitäten und Ausflügen Du arbeitest gerne selbstständig und bist verantwortungsbewusst Du sprichst Deutsch (mind. Niveau B2) Wohnort in der Nähe von Meilen ZH von Vorteil Du identifizierst dich mit dem christlichen Glauben und mit unserem Leitbild Suchtmittelfrei (inkl. Nichtrauchen während Arbeitszeit) Wir bieten Gute Einarbeitung in neue Tätigkeit Sinngebender Arbeitsalltag und wertschätzendes Arbeitsklima Möglichkeit für einen Quereinstieg in die Begleitarbeit Beziehungsgestaltung statt „Taktarbeit“ Vertrauen, Eigenständigkeit und Gestaltungsspielraum Fachlichen Rückhalt Interessiert? Dann freuen wir uns, dich kennenzulernen. Deine Fragen beantwortet Susanne Gysin gerne unter 052 245 13 48. Arbeitgeber*in Quellenhof-Stiftung Tätigkeit Diverse (NGO/NPO) Karrierelevel Berufserfahrene Pensum Teilzeit Eintrittsdatum Nach Vereinbarung Quellenhof-Stiftung | Barbara-Reinhart-Strasse 20 | 8404 Winterthur Kontaktadresse Quellenhof-Stiftung Barbara-Reinhart-Strasse 20, Winterthur - 8404 Lydia Peier 052 245 13 21 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Civic and Social Organizations Referrals increase your chances of interviewing at Quellenhof-Stiftung by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "91c0de77af8137db",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/begleitperson-w-30%25-%E2%80%93-50%25-stundenlohn-in-meilen-at-quellenhof-stiftung-4488134672"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "HR Payroll & Reporting",
+   "company": "HOLY FASHION GROUP",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/hr-payroll-reporting-at-holy-fashion-group-4453149292",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Yes it is EXCITING - to work with us. We are people with E motion and passion who strive for e X cellent results, driven by su C ess and I ndependent thinking, intrinsically motivated. We work successfully in a T eam, always looking for I nnovative ideas in order to statisfy our co N sumers at the highest level, and we are not afraid also to show a healthy dose of G uts in our daily work. This is what we and our three successful brands JOOP!, Strellson and windsor. stand for. For our headquarters in Kreuzlingen/Switzerland we are looking for employees who will actively shape the future of the HOLY FASHION GROUP, so apply now as HR Payroll & Reporting Do you have a good head for numbers, enjoy working with HR data, and want to combine Payroll, HR Administration and HR Controlling? Then this varied position offers you the opportunity to combine operational HR responsibilities with analytical tasks and actively contribute to the further development of our HR processes. In this role, you will support us in the areas of Payroll, HR Administration, Reporting and HR Controlling – both nationally and internationally. Your key responsibilities include: Managing, coordinating and supporting the monthly payroll process for our employees across several countries Maintaining employee master data, time management and payroll data while ensuring a high level of data quality and accuracy Acting as a point of contact for employees, HR Business Partners and external partners regarding payroll- and HR-related matters Supporting HR Controlling in day-to-day operations as well as with recurring and ad hoc topics Preparing, analysing and further developing HR evaluations, statistics, KPIs and reports Analysing and preparing HR data as a basis for operational and strategic decision-making Supporting month-end and year-end closing activities as well as internal and external audits Contributing to the further development and optimisation of payroll, reporting and HR processes What You Bring Completed commercial or business-related vocational training, a university degree or a comparable qualification Professional experience in HR Administration, Payroll, HR Controlling or a comparable HR environment Knowledge of payroll as well as wage tax and social security legislation within a European context is an advantage Confident use of a common HR or payroll system, ideally SAP HR Very good MS Excel skills and a strong understanding of numbers, data and their interrelationships Good written and spoken German skills Strong analytical skills and an interest in HR Controlling, Reporting and the preparation of meaningful HR KPIs A structured, accurate and independent way of working An interest in developing existing processes and contributing to new solutions Strong communication and teamwork skills, combined with a service- and solution-oriented approach Our Benefits Our employees are a key part of our success. That’s why we create a work environment that supports health, well-being, personal development, and a healthy work-life balance. Kids’ Room For unexpected childcare needs, our parent-child office provides employees with a flexible solution to balance work and family life. Events Company events bring colleagues from across all departments together to connect and celebrate shared successes. Free Parking All employees have access to free parking directly at our headquarters. Clean Eating & Employee Restaurant At our employee restaurant HOME, we offer a varied selection of fresh, balanced, and healthy meals every day. Employee Discounts Employees benefit from attractive discounts on our brands’ high-quality products in our own stores and outlets. Excellent Public Transport Connections Thanks to our central location, our headquarters are easily accessible by public transport. Fitness & Sports From yoga and circuit training to cardio tennis, employees can enjoy a wide range of sports classes led by professional trainers. A fully equipped fitness room with …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "89 applicants"
+   },
+   "id": "223c30bfe94f2261",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/hr-payroll-reporting-at-holy-fashion-group-4453149292"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Svetovalec (428), Sektor za javne listine",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-428-sektor-za-javne-listine-at-vlada-republike-slovenije-4486978610",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji, zagotavljanje pravice do odklopa, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv svetovalec III, z možnostjo napredovanja v uradniški naziv svetovalec II in svetovalec I, uvrstitev v 17. izhodiščni plačni razred naziva, kar znaša 2.030,25 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje zahtevnih upravnih postopkov z delovnega področja, sprejemanje vlog in plačil upravnih storitev, overitev lastnoročnega podpisa, prepisa ali kopije dokumenta, garantnega pisma, vodenje podatkov v evidencah in registrih ter izdajanje potrdil iz enostavnih evidenc, opravljanje drugih upravnih nalog podobne zahtevnosti, delo na okencih, kjer se sprejemajo vloge strank s področja sektorja (npr. vloge tujcev, potne listine, osebne izkaznice, vozniško dovoljenje in druge vloge s področja poslovanja upravne enote) in vodijo zahtevni upravni postopki s področja sektorja. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja) oziroma 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) oziroma 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) oziroma 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 7 mesecev delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 14. 11. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Izbirni postopek se izvaja v dveh delih. Prvi del izvaja Center za kadre, kjer kandidati opravljajo pisni preizkus osnovnega poznavanja državne ureditve in …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "8444e28b87a35297",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-428-sektor-za-javne-listine-at-vlada-republike-slovenije-4486978610"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Pharma-Assistent / Pharma-Assistentin (w/m/d)",
+   "company": "Amavita",
+   "location": "Niklausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/pharma-assistent-pharma-assistentin-w-m-d-at-amavita-4488172799",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b0f30692c26f60cf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/pharma-assistent-pharma-assistentin-w-m-d-at-amavita-4488172799"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Sicherheitsmitarbeiter Verkehrsdienst (m/w/d) 1 - 40%",
+   "company": "AEB Sicherheitsdienst GmbH",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sicherheitsmitarbeiter-verkehrsdienst-m-w-d-1-40%25-at-aeb-sicherheitsdienst-gmbh-4486246001",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d5a2d06f99548573",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sicherheitsmitarbeiter-verkehrsdienst-m-w-d-1-40%25-at-aeb-sicherheitsdienst-gmbh-4486246001"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Klavierlehrer:in",
+   "company": "Privatklavierunterricht Ramchandani",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/klavierlehrer-in-4488152596",
+   "posted": "2026-11-06",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "95284f616857c8fa",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/klavierlehrer-in-4488152596"
+   },
+   "first_seen": "2026-11-07"
+  },
+  {
+   "title": "Management Associate (m/f/d)",
+   "company": "MF Group AG",
    "location": "St Gallen, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektmitarbeiter-in-3d-laserscanning-at-scanner4you-4487758713",
-   "posted": "2026-11-05",
+   "url": "https://ch.linkedin.com/jobs/view/management-associate-m-f-d-at-mf-group-ag-4488488451",
+   "posted": "2026-11-07",
    "salary": null,
    "via": null,
    "description": "",
@@ -607,312 +678,40 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "fcb3995d3cf695ca",
+   "id": "9c4234e5ab2ec603",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektmitarbeiter-in-3d-laserscanning-at-scanner4you-4487758713"
+    "linkedin": "https://ch.linkedin.com/jobs/view/management-associate-m-f-d-at-mf-group-ag-4488488451"
    },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
-   "title": "Načelnik upravne enote (322), Upravna enota Ptuj",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-322-upravna-enota-ptuj-at-vlada-republike-slovenije-4486937276",
-   "posted": "2026-11-06",
-   "salary": null,
-   "via": null,
-   "description": "Nudimo možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležbo na konferencah s področja dela, zagotavljanje pravice do odklopa, ki prispeva k lažjemu usklajevanju poklicnega in zasebnega življenja, kolektivno dodatno pokojninsko zavarovanje, imenovanje na razpisani položaj za obdobje 5 let z možnostjo ponovnega imenovanja, uvrstitev v 48. plačni razred delovnega mesta, kar znaša 5.075,79 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje upravne enote, načrtovanje, organiziranje, nadzorovanje dela v organu in usklajevanje dela med notranjimi organizacijskimi enotami, odločanje o zadevah z delovnega področja organa in opravljanje najzahtevnejših strokovnih nalog v organu, odločanje o pravicah in obveznostih iz delovnega razmerja javnih uslužbencev, vodenje in sodelovanje v najzahtevnejših projektnih skupinah, oblikovanje sistemskih rešitev in najzahtevnejših gradiv z delovnega področja upravne enote, odločanje v najzahtevnejših upravnih postopkih na prvi stopnji, opravljanje drugih najzahtevnejših nalog. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj izobrazbo, pridobljeno po študijskem programu druge stopnje, oziroma izobrazbo, ki ustreza ravni izobrazbe, pridobljene po študijskih programih druge stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven slovenskega ogrodja kvalifikacij, 7 let delovnih izkušenj, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, dovoljenje za dostop do tajnih podatkov stopnje ZAUPNO v skladu z Zakonom o tajnih podatkih (Uradni list RS, št. 50/06 — uradno prečiščeno besedilo, 9/10, 60/11, 8/20 in 18/23 — ZDU-10), funkcionalna znanja upravnega vodenja in upravljanja kadrovskih virov. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na posebni javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani. Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 23. 11. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Posebna natečajna komisija, ki jo imenuje minister, pristojen za javno upravo, pred začetkom izbirnega postopka določi merila za izbiro in metode preverjanja strokovne usposobljenosti kandidatov, pri čemer je med merili za izbiro določeno najmanj poznavanje pristojnosti in področje dela upravnih enot. V izbirnem postopku bo posebna natečajna komisija ugotovila, kateri kandidati so glede …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "a386920bee2f83b8",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-322-upravna-enota-ptuj-at-vlada-republike-slovenije-4486937276"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Načelnik upravne enote (124), Upravna enota Radovljica",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-124-upravna-enota-radovljica-at-vlada-republike-slovenije-4486922990",
-   "posted": "2026-11-06",
-   "salary": null,
-   "via": null,
-   "description": "Nudimo možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležbo na konferencah s področja dela, zagotavljanje pravice do odklopa, ki prispeva k lažjemu usklajevanju poklicnega in zasebnega življenja, kolektivno dodatno pokojninsko zavarovanje, imenovanje na razpisani položaj za obdobje 5 let z možnostjo ponovnega imenovanja, uvrstitev v 47. plačni razred delovnega mesta, kar znaša 4.927,96 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge vodenje upravne enote, načrtovanje, organiziranje, nadzorovanje dela v organu in usklajevanje dela med notranjimi organizacijskimi enotami, odločanje o zadevah z delovnega področja organa in opravljanje najzahtevnejših strokovnih nalog v organu, odločanje o pravicah in obveznostih iz delovnega razmerja javnih uslužbencev, vodenje in sodelovanje v najzahtevnejših projektnih skupinah, oblikovanje sistemskih rešitev in najzahtevnejših gradiv z delovnega področja upravne enote, odločanje v najzahtevnejših upravnih postopkih na prvi stopnji, opravljanje drugih najzahtevnejših nalog. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj izobrazbo, pridobljeno po študijskem programu druge stopnje, oziroma izobrazbo, ki ustreza ravni izobrazbe, pridobljene po študijskih programih druge stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven slovenskega ogrodja kvalifikacij, 7 let delovnih izkušenj, funkcionalna znanja upravnega vodenja in upravljanja kadrovskih virov, dovoljenje za dostop do tajnih podatkov stopnje - Zaupno v skladu z Zakonom o tajnih podatkih (Uradni list RS, št. 50/06 - uradno prečiščeno besedilo, 9/10, 60/11, 8/20 in 18/23 - ZDU-10), znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na posebni javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani. Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 23. 11. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Posebna natečajna komisija, ki jo imenuje minister, pristojen za javno upravo, pred začetkom izbirnega postopka določi merila za izbiro in metode preverjanja strokovne usposobljenosti kandidatov, pri čemer je med merili za izbiro določeno najmanj poznavanje pristojnosti in področje dela upravnih enot. V izbirnem postopku bo posebna natečajna komisija ugotovila, kateri kandidati so glede …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "ef2fd8c982a8cb87",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-124-upravna-enota-radovljica-at-vlada-republike-slovenije-4486922990"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Načelnik upravne enote (1000), Upravna enota Maribor",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-1000-upravna-enota-maribor-at-vlada-republike-slovenije-4486921998",
-   "posted": "2026-11-06",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "5142bc30bd31bb40",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/na%C4%8Delnik-upravne-enote-1000-upravna-enota-maribor-at-vlada-republike-slovenije-4486921998"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Schnupperlehre Kauffrau/mann (m/f/d)",
-   "company": "Variosystems",
-   "location": "Steinach, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/schnupperlehre-kauffrau-mann-m-f-d-at-variosystems-4424752071",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "705a0afd4faae4db",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/schnupperlehre-kauffrau-mann-m-f-d-at-variosystems-4424752071"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Objektmanager:in Cleaning 100%",
-   "company": "ISS Schweiz AG",
-   "location": "Winterthur, Zurich, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/objektmanager-in-cleaning-100%25-at-iss-schweiz-ag-4486787210",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Breites Angebot an internen Weiterentwicklungsmöglichkeiten Mitarbeiterfeiern und Wertschätzungsprogramme Attraktive eigene ISS Schweiz Pensionskasse Günstige Mobil-Abos von Swisscom für die ganze Familie Personal-Angebotsplattform mit attraktiven Vergünstigungen und Sonderkonditionen Strukturiertes Onboarding in der Anfangsphase Show more Show less Seniority level Not Applicable Employment type Full-time Industries Facilities Services Referrals increase your chances of interviewing at ISS Schweiz AG by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "233feaaf1bcd8ab8",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/objektmanager-in-cleaning-100%25-at-iss-schweiz-ag-4486787210"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Sozialarbeiter/in",
-   "company": "Direktion der Justiz und des Innern Kanton Zürich",
-   "location": "Winterthur, Zurich, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/sozialarbeiter-in-at-direktion-der-justiz-und-des-innern-kanton-z%C3%BCrich-4486702539",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "e9624320c6ba6a38",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/sozialarbeiter-in-at-direktion-der-justiz-und-des-innern-kanton-z%C3%BCrich-4486702539"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Produktionsmitarbeiter (m/w/d) Medizintechnik (temporär 6-12 Monate)",
-   "company": "Zimmer Biomet",
-   "location": "Winterthur, Zurich, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-medizintechnik-tempor%C3%A4r-6-12-monate-at-zimmer-biomet-4486594808",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "d5fd6824ccadfb61",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-medizintechnik-tempor%C3%A4r-6-12-monate-at-zimmer-biomet-4486594808"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Wissenschaftliche:r Mitarbeiter:in Versorgungsforschung / Health Services Research 70-100 %",
-   "company": "ZHAW",
-   "location": "8400 Winterthur",
-   "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/20723c77-64cb-4900-bc53-209d1f962afb/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "Höglinger**\nCo\\-Leiter <em>Fachstelle</em> Versorgungsforschung\n  **Binner**\nRecruiting Manager\n ![ Hochschule für Angewandte Wissenschaften]()\n*\n*\n*\n ![ Hochschule für Angewandte Wissenschaften]()\n*\n*\n*\njidf962afbjm jit1145jm jiy26jm",
-   "extra": {
-    "canton": "ZH",
-    "query": "Fachstelle Gleichstellung",
-    "workload": "70-100 %",
-    "permanent": true,
-    "jobroom_id": "7b30dc0a-d226-49d3-945e-5c2eb8810fa9"
-   },
-   "id": "229ed8317847b967",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/20723c77-64cb-4900-bc53-209d1f962afb/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Vorsitz der Bankleitung",
-   "company": "Raiffeisenbank Untersee-Rhein",
-   "location": "8264 Eschenz",
-   "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/6f2f186b-59f4-4713-a141-0248c8472aec/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-06",
-   "salary": null,
-   "via": null,
-   "description": "**Wir leben Vielfalt und <em>Chancengleichheit</em>**\nWir fördern die unterschiedlichen Perspektiven, Erfahrungen und Kompetenzen in unseren Teams. Denn diese Vielfalt macht uns besonders und trägt entscheidend zu unserem Erfolg bei.",
-   "extra": {
-    "canton": "TG",
-    "query": "Chancengleichheit",
-    "workload": "80-100 %",
-    "permanent": true,
-    "jobroom_id": "2c002f64-f250-4a40-aefe-201c93fb0c10"
-   },
-   "id": "c6e5ece7e2327541",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/6f2f186b-59f4-4713-a141-0248c8472aec/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Case Manager/in zentrales Patientenmanagement 80-100% Stellendetails | HOCH Health Ostschweiz",
-   "company": "Kantonsspital St. Gallen",
+   "title": "Mitarbeiter/in Fachdienst Sozialabklärung der KESB",
+   "company": "Soziale Dienste Stadt St. Gallen",
    "location": "9000 St. Gallen",
    "country": "CH",
-   "url": "https://jobs.h-och.ch/job/St_-Gallen-Case-Managerin-zentrales-Patientenmanagement-80-100/1454233033/",
-   "posted": "2026-11-05",
+   "url": "https://www.sozialinfo.ch/arbeitsmarkt/stellenportal/mitarbeiter-in-fachdienst-sozialabklarung-der-kesb-xyoWUaaW/",
+   "posted": "2026-11-06",
    "salary": null,
    "via": null,
-   "description": "Praxisassistent/in EFZ, Pharma-Assistent/in EFZ oder <em>Fachfrau</em>/-mann Gesundheit EFZ\n *  Erfahrung in einer ähnlichen Funktion vorzugsweise im Spitalumfeld&nbsp;\n *  Versiert in der medizinischen Terminologie und sehr gute Deutschkenntnisse in Wort und Schrift&nbsp;\n *  Ausgeprägte Kunden- und Serviceorientierung",
+   "description": "<em>Chancengleichheit</em> ist für uns selbstverständlich.\nDas bieten wir\nWir bieten Ihnen eine vielseitige, verantwortungsvolle, selbständige und interessante Tätigkeit.",
    "extra": {
     "canton": "SG",
-    "query": "HR Fachfrau",
-    "workload": "80-100 %",
+    "query": "Chancengleichheit",
+    "workload": "70-70 %",
     "permanent": true,
-    "jobroom_id": "9fafd55b-e011-4249-8acb-702b8336e8c0"
+    "jobroom_id": "8553bc40-eee6-42ee-87f9-fe69d86b9bc1"
    },
-   "id": "351eb234315100de",
+   "id": "67abae5c7dbbfe72",
    "sources": [
     "jobroom"
    ],
    "links": {
-    "jobroom": "https://jobs.h-och.ch/job/St_-Gallen-Case-Managerin-zentrales-Patientenmanagement-80-100/1454233033/"
+    "jobroom": "https://www.sozialinfo.ch/arbeitsmarkt/stellenportal/mitarbeiter-in-fachdienst-sozialabklarung-der-kesb-xyoWUaaW/"
    },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Personalberater/in RAV Heerbrugg",
-   "company": "Kanton St. Gallen",
-   "location": "9435 Heerbrugg",
-   "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/6aa6acbc-f5df-4527-bacb-44921299c04d/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "/\\-mann, Sozialversicherungs\\-<em>Fachfrau</em>/\\-mann oder die Bereitschaft die Weiterbildung zur/zum <em>HR</em>\\-<em>Fachfrau</em>/\\-mann (Fachrichtung B) in Angriff zu nehmen\n* Berufserfahrung aus der Personalvermittlung, Personalberatung, anspruchsvollen Kundenberatung oder enger Bezug zur Sozialversicherung\n* Empathische",
-   "extra": {
-    "canton": "SG",
-    "query": "HR Fachfrau",
-    "workload": "80-100 %",
-    "permanent": true,
-    "jobroom_id": "b13f5364-0682-4a7f-adc1-b37558aa29ae"
-   },
-   "id": "ca574ea86868b8df",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/6aa6acbc-f5df-4527-bacb-44921299c04d/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
-   },
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Maschinenführer:in Operator:in",
-   "company": "KELLER Pressure",
-   "location": "8404 Winterthur",
-   "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/dafb46e6-4127-439d-97bc-b45e1bdfe3b3/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-05",
-   "salary": null,
-   "via": null,
-   "description": "* KELLER Pressure\nFrau\n<em>HR</em>\\-<em>Fachfrau</em>\n*\n*\n* KELLER Pressure\nFrau\n<em>HR</em>\\-<em>Fachfrau</em>\n*\n*\njidbdfe3b3jm jit1145jm jiy26jm",
-   "extra": {
-    "canton": "ZH",
-    "query": "HR Fachfrau",
-    "workload": "100-100 %",
-    "permanent": true,
-    "jobroom_id": "a12034fc-59ec-4040-85aa-2062230f832e"
-   },
-   "id": "521668d558128e48",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/dafb46e6-4127-439d-97bc-b45e1bdfe3b3/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
-   },
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   }
  ]
 }
