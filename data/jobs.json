@@ -1,20 +1,625 @@
 {
- "generated_at": "2026-11-07T07:20:05+00:00",
+ "generated_at": "2026-11-08T07:31:59+00:00",
  "stats": {
   "raw_per_source": {
+   "arbeitsagentur": 210,
    "google_jobs": "deaktiviert",
-   "linkedin": 250,
-   "jobroom": 40
+   "linkedin": 232,
+   "jobroom": 33
   },
-  "excluded": 252,
-  "unique": 36,
-  "new": 29,
-  "carried_over": 0
+  "excluded": 354,
+  "unique": 94,
+  "new": 25,
+  "carried_over": 29
  },
- "errors": {
-  "arbeitsagentur": "HTTPSConnectionPool(host='rest.arbeitsagentur.de', port=443): Max retries exceeded with url: /jobboerse/jobsuche-service/pc/v4/app/jobs?was=Projektkoordination&wo=Konstanz&umkreis=40&veroeffentlichtseit=2&size=50&page=1&angebotsart=1&zeitarbeit=false (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPEC"
- },
+ "errors": {},
  "jobs": [
+  {
+   "title": "Mitarbeiter*in i-Punkt (w/m/d)",
+   "company": "Universität Konstanz",
+   "location": "78464 Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-03hklej66n-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# Mitarbeiter*in i-Punkt (w/m/d)\n### ### (Vollzeit, bis E 6 TV-L)\n**Kennziffer 2026/224. Die Ganztagsstelle ist in der Abteilung Facility Management zum nächstmöglichen Termin unbefristet zu besetzen. Die Stelle ist grundsätzlich teilbar.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\nDie **Abteilung Facility Management (FM)** mit etwa 100 Mitarbeiterrinnen und Mitarbeitern stellt mit vielfältigen Dienstleistungen die Gebäude mit Ihren umfangreichen technischen Infrastrukturen für einen modernen Forschungs- und Lehrbetrieb auf einer Nutzfläche von ca. 120.000 m2 bereit.\nDer i-Punkt betreibt und überwacht im Schichtbetrieb alle Versorgungs- und Sicherheitsanlagen der Universität Konstanz. Die Stelle umfasst neben den technischen Aufgaben auch zahlreiche organisatorische Aufgabenstellungen.\n## Ihre Aufgaben\n- Pflege der von der GLT überwachten Datenpunkte\n- Entgegennahme, Bewertung und Weitermeldung von Störungen und Alarmmeldungen\n- Beobachtung und Bewertung der Anlagentechnik hinsichtlich Verfügbarkeit, Auslastung etc.\n- Kontrolle der Brandmeldeanlage und im Notfall Zusammenarbeit mit der Feuerwehr\n- Schlüsselausgabe an Fremdfirmen\n- Bereitstellung von Auskunftsdiensten\n- Zusammenarbeit mit dem Wachdienst\n- Durchführung der Zutrittskontrolle\n- Bearbeitung von Schweißerlaubnisscheinen und Anträgen zur Brandmelderabschaltung\n## Ihr Profil\n- Sehr gutes technisches Verständnis\n- PC-Kenntnisse sowie ein hohes Maß an Kommunikations- und Teamfähigkeit\n- Organisationstalent\n- Eine abgelegte Prüfung als Schutz- und Sicherheitskraft ist von Vorteil, jedoch nicht Bedingung\n- Englische Sprachkenntnisse sind wünschenswert\n## Wir bieten Ihnen\n- Ein attraktives und vielseitiges Arbeitsgebiet bei einem großen und krisenfesten Arbeitgeber in einem engagierten Team\n- Mitarbeit in einem engagierten, kollegialen Team\n- Fortbildungsangebote, Angebote der Personalentwicklung sowie der Gesundheits- und Familienförderung\n- Angebote des Hochschulsports\n- Hanseﬁt und Corporate Beneﬁts\n- Zuschuss zum JobTicket BW, Deutschlandticket\n- JobBike BW\n- Betriebliche Altersvorsorge (VBL)\n- Eingruppierung nach den tariﬂichen Bestimmungen des TV-L (je nach persönlichen Voraussetzungen bis Entgeltgruppe 6 TV-L)\n[](https://www.uni-konstanz.de/personalabteilung/stellenangebote-1/die-universitaet-konstanz-als-arbeitgeberin/)\nNähere Auskünfte erteilt Frau Judith Eschberger unter der Tel.-Nr. +49 7531 88-3330 oder Herr Axel Wolff unter +49 7531 88-2536.\nWir freuen uns auf Ihre Bewerbung mit den üblichen Unterlagen bis zum **13.11.2026** über unser [Online-Bewerbungsportal](https://stellen.uni-konstanz.de/de/jobposting/253c49d35db806c0825eb8fd152e8a0d618e31250/apply).\nDie Universität Konstanz engagiert sich für Gleichstellung, Diversity sowie die Vereinbarkeit von Beruf und Familie. Sie strebt eine Erhöhung des Anteils von Frauen im ausgeschriebenen Bereich an ([uni.kn/chancengleichheit](https://www.uni-konstanz.de/gleichstellungsreferat/chancengleichheit-im-wissenschaftsunterstuetzenden-bereich/)) . Menschen mit einer Schwerbehinderung werden bei entsprechender Eignung vorrangig eingestellt ([sbv@uni-konstanz.de], +49 7531 88-4016).",
+   "extra": {
+    "refnr": "19772-03hklej66n-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "03d7992958c72724",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-03hklej66n-S"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Einrichtungsleitung für den Waldkindergarten Sonnentau in Ebenweiler /m/w/d)",
+   "company": "Johanniter-Unfall-Hilfe e.V. Landesverband Baden-Württemberg",
+   "location": "88370 Ebenweiler",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14271-1651740-1-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Einrichtungsleitung für den Waldkindergarten Sonnentau in Ebenweiler /m/w/d)\nStimmt, mit dynamischen  Menschen zu arbeiten ist kein Kinderspiel. Wenn Kreativität Ihre Superpower ist und Sie es gewohnt sind, auch im größten Durcheinander die Ruhe zu bewahren, dann könnten Sie gut zu uns passen. Wir suchen offene Menschen mit Fantasie und Verstand, die sich mit Freude weiterentwickeln möchten – persönlich und fachlich. Dafür bilden wir starke Teams, in denen spürbar ist, dass alle an einem Strang ziehen.\nEinsatzort: Ebenweiler\nGehaltsinformation: AVR DWBO Anlage Johanniter\nArt der Anstellung: Teilzeit\nStundenumfang: 26h/ Woche mit Aussicht auf 36 Stunden\nBefristung: unbefristet\nStellen-ID: J000035450\nDas bieten wir Ihnen\n- 30 Urlaubstage bei einer 5-Tage-Woche\n- Fort- und Weiterbildungen\n- attraktive Vergütung\n- Vermögenswirksame Leistungen\n- Fahrrad-Leasing\n- betriebliche Altersvorsorge\n- Fachberatung\n- 13. Monatsgehalt\n- zusätzlicher freier Tag an Heiligabend und Silvester\nDas erwartet Sie\n- eigenverantwortliche Leitung einer 2-gruppigen Kita (AM und Kiga) inklusive Mitarbeiter-Team\n- Bildung und Erziehung der Kinder nach unserem pädagogischen Konzept\n- Mitarbeit bei der kontinuierlichen konzeptionellen Weiterentwicklung\n- Beobachtung und Dokumentation der Lern- und Entwicklungsprozesse der Kinder Erziehungspartnerschaftliche Zusammenarbeit mit den Eltern\n- Betreuung und Bildung von Kindern im Alter von 3 Jahren bis zum Schuleintritt\n- Waldpädagogik\n- Naturkindergarten mitgestalten von Anfang an\nDas zeichnet Sie aus\n- Einsatzbereitschaft\n- Eigenverantwortung für Leitungssufgaben\n- Organisation und Koordination des Tagesablaufs\n- Verantwortungsbewusstsein\n- Flexibilität\n- Spaß im Umgang mit Kindern\n- Naturverbundenheit sowie Wind- und Wetterfestigkeit rund ums Jahr\n- Lust darauf, unsere Einrichtung bei der Kinderbetreuung und im Team aktiv mitzugestalten\n- abgeschlossene pädagogische Ausbildung nach § 7 KitaG BW\n- Organisationstalent\n- solide PC-Kenntnisse\nDas sollten Sie noch wissen\nIm Sinne der Gleichstellung und Chancengleichheit aller Mitarbeitenden begrüßen wir alle Bewerbungen von Interessierten, unabhängig von deren kultureller, religiöser und sozialer Herkunft, Geschlecht, Alter, Behinderung oder sexueller Identität.\nAnsprechperson\nJasmin Runge\nUnterwaldhauserstr. 2\n88370 Ebenweiler\n01737556277\nWer wir sind\nWir sind eine große Hilfsorganisation mit Hauptsitz in Berlin. Zu unseren Aufgaben zählen u. a. Rettungs- und Sanitätsdienst, Pflegeangebote, Katastrophenschutz, soziale Dienste sowie die Arbeit mit Kindern und Jugendlichen. Weitere Informationen zu Einstiegsmöglichkeiten, Perspektiven und wie wir arbeiten: johanniter.de/karriere",
+   "extra": {
+    "refnr": "14271-1651740-1-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "f3e5e277edc7b292",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14271-1651740-1-S"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "BESCHÄFTIGTE/R IM BÜRODIENST IN TEILZEIT 50 – 75 % (w/m/d)",
+   "company": "Polizeipräsidium Ravensburg Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003975733-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Dem **Polizeipräsidium Ravensburg** mit rund 1250 Mitarbeiterinnen und Mitarbeitern obliegt die Sicherheit in den Landkreisen Ravensburg, Sigmaringen und im Bodenseekreis.\nBei der Verwaltung, Referat Recht und Datenschutz des Polizeipräsidiums Ravensburg am **Dienstort  Weingarten** ist zum nächstmöglichen Zeitpunkt **eine** **unbefristete Teilzeitstelle 50 – 75 %** als\n## Beschäftigte/r im Bürodienst (w/m/d)\nals Tarifbeschäftigte/r zu besetzen.\n**VERWALTUNG, REFERAT RECHT UND DATENSCHUTZ**\nDas Referat Recht und Datenschutz ist neben dem Referaten Personal, sowie Finanzen- und Haushalt, eines von drei Referaten in der Verwaltung des Polizeipräsidiums Ravensburg.\nDas Referat ist zuständig für allgemeine Rechtsberatung innerhalb der Dienststelle sowie für die Vertretung der Dienststelle vor Arbeits-, Zivil- und Verwaltungsgerichten. Ihm obliegt die Dienst- und Fachaufsicht in Rechtsangelegenheiten. Weitere Aufgaben sind u.a. das Beschwerdemanagement, das Schadensrecht sowie die Informationssicherheit. Unsere Mitarbeitenden haben die unterschiedlichsten beruflichen Hintergründe.\n**IHRE AUFGABEN**\nZu den Aufgabenschwerpunkten gehören insbesondere:\nv  Vorzimmer des Verwaltungsleiters\nv  Prüfung von eingehenden Rechtsanwaltsrechnungen (Gebühren)\nv  Stellen von Kostenfestsetzungsanträgen bei Gericht\nv  Bearbeitung des Posteingangs (u. a. EGVP) sowie des Funktionspostfaches\nv  Erledigung von Schreibarbeiten und Rechtsrecherchen\nv  Führung von Übersichten und Listen\nv  Terminorganisation, Überwachung/Berechnung von Fristen (intern, gerichtlich)\nv  Unterstützung und Zuarbeit für die Sachbearbeiter/innen in unterschiedlichen Sachgebieten des Referats\nv  Protokollführung bei diversen Besprechungen\nv  sonstige administrative Tätigkeiten\nv  weitere Aufgaben auf Weisung\n**IHR PROFIL**\nv  Erfolgreich abgeschlossene mindestens dreijährige Ausbildung als Rechtsanwalts- oder Notarfachangestellte/r oder vergleichbare Ausbildung (z.B. Justizfachangestellte/r, Verwaltungsfachangestellte/r)\nv  Sehr gute EDV-Kenntnisse (MS-Office)\nv  Kenntnisse im Bereich Gerichtskosten (GVG) und Rechtsanwaltsvergütung (RVG)\nv  gute mündliche und schriftliche Ausdrucksfähigkeit\nv  Kenntnisse im Umgang mit juristischen Datenbanken (beck-online, juris)\nv  Kooperations- und Teamfähigkeit\nv  Einsatzbereitschaft\nv  Serviceorientiertes Handeln\nv  Kommunikationsfähigkeit und Aufgeschlossenheit\nv  Eigenständiges und selbstverantwortliches Arbeiten\nv  Organisationsgeschick\nv  Zuverlässigkeit\n **WIR BIETEN IHNEN**\nv  Eine verantwortungsvolle, abwechslungsreiche sowie herausfordernde Tätigkeit\nv  Ein unbefristetes Beschäftigungsverhältnis\nv  Bezahlung nach **Entgeltgruppe 6 TV – L**\nv  Einen sicheren und interessanten Arbeitsplatz mit planbaren und verlässlichen Rahmenbedingungen\nv  Als Teil der Polizei Baden-Württemberg spannende Einblicke in die Polizeiarbeit\nv  Unterstützung der Vereinbarkeit von Beruf und Familie durch flexible Arbeitszeitgestaltung im Rahmen der dienstlichen Möglichkeiten\nv  Unterstützung Ihrer Mobilität mit dem JobTicket BW und JobBike BW\nv  Betriebliche Altersvorsorge (VBL)\nv  Attraktive Angebote unseres Betrieblichen Gesundheitsmanagements\n**BESONDERE HINWEISE**\nDas Polizeipräsidium Ravensburg engagiert sich für Chancengleichheit i. S. d. Gesetzes zur Verwirklichung der Chancengleichheit von Frauen und Männern im öffentlichen Dienst in Baden-Württemberg (ChancenG).\nBewerbungen von schwerbehinderten und ihnen gleichgestellten behinderten Menschen werden ausdrücklich begrüßt und bei im Wesentlichen gleicher Eignung bevorzugt eingestellt. Es steht Ihnen frei, im Rahmen Ihrer Bewerbung auf eine eventuell vorliegende Schwerbehinderung oder Gleichstellung mit schwerbehinderten Menschen i.S.v. § 2 Abs. 2 und 3 SGB IX hinzuweisen, wenn diese Eigenschaft im Bewerbungsverfahren besondere Berücksichtigung finden soll.\nVor einer Einstellung bei einer Polizeibehörde ist eine Abfrage der Personendaten in den polizeilichen Informationssystemen des Landeskriminalamtes …",
+   "extra": {
+    "refnr": "10001-1003975733-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "5fa22cc6f952d0b6",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003975733-S"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Revisor:in Busverkehr",
+   "company": "Deutsche Bahn AG",
+   "location": "88045 Friedrichshafen",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1651513-1-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Für über 500 verschiedene Berufe suchen wir motivierte Mitarbeitende. Und das in ganz Deutschland. Ob erfahrene Profis oder Berufsstarter:innen - wir bieten zahlreiche Einstiegs- und Weiterbildungsmöglichkeiten.\nAls Revisor:in Busverkehr erwartet dich jeden Tag eine abwechslungsreiche Tätigkeit, bei der du wohnortnah arbeitest, für eine sichere und angenehme Reise unserer Fahrgäste sorgst und bei Herausforderungen einen kühlen Kopf bewahrst.\nZum nächstmöglichen Zeitpunkt suchen wir dich als Revisor:in Busverkehr (w/m/d) für die Regionalverkehr Alb-Bodensee GmbH in Friedrichshafen und Umgebung.\nDeine Aufgaben:\n- Du führst Prüfungen und Tätigkeiten zur Einhaltung der Unternehmerpflichten eigenständig durch und dokumentierst diese zuverlässig (sowohl in Regie als auch bei Auftragnehmern)\n- Die Teamleiter im Fahrpersonal unterstützt du bei Kontrollen zur Einhaltung der Sozialvorschriften\n- Du schulst und unterweist mitarbeitende im Fahrdienst im Rahmen von Begleitfahrten und dokumentierst diese Maßnahmen sorgfältig\n- Auch die Stammdatenpflege, unter anderem in ZA-ARC, gehört zu deinen Aufgaben\nDein Profil:\n- Du hast ein sicheres Auftreten, kombiniert mit einem hohen Maß an Selbstständigkeit und ausgeprägter Kommunikationsstärke\n- Fundierte Kenntnisse in DF Bus und BO Kraft bringst du mit\n- Du hast Erfahrung im Verkehrswesen sowie unternehmerisches Denken und Handeln und gute Kenntnisse des Verkehrsgebietes\n- Einen Führerschein der Klassen B und D\n- Gute EDV-Kenntnisse, insbesondere im Umgang mit MS Office (Excel und Word) bringst du mit\nDas ist uns wichtig:\nUnser Anspruch ist es, allen Kandidat:innen bei gleicher Eignung die gleichen Chancen für den Einstieg bei uns zu bieten. Wir fördern aktiv die Vielfalt und das Miteinander in unseren Teams. Wir schätzen jede Bewerbung, unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter, Dauer der Arbeitslosigkeit sowie sexueller Orientierung und Identität.\nDeine Vorteile\n* Bei uns können alle DB Mitarbeitenden günstig shoppen. Jeden Monat findest du auf dem DB Reisemarkt neue Angebote, wie z.B. Mobilfunkverträge, Versicherungen, Vergünstigungen bei Hotelketten, Mode und Lifestyle.\n* Wir bieten dir viel, denn du gibst immer 100 Prozent: ein marktübliches Gehaltspaket mit in der Regel unbefristeten Arbeitsverträgen und Beschäftigungssicherung sowie viele Extras und eine betriebliche Altersvorsorge.\n* Du kannst dir einer langfristigen Perspektive durch dein festes Arbeitsverhältnis in einem zukunftsorientierten Konzern sicher sein.\n* Im digitalen Bereich bist du dank einem mobilen Endgerät, das du gerne auch privat nutzen kannst, immer bestens ausgestattet.\n* Bis zu 40 Tage Urlaub: Bei uns kannst du selbst entscheiden, ob du mehr Urlaub nehmen, deine Arbeitszeit verkürzen oder gerne mehr verdienen möchtest. Je nachdem, wie es zu deinem Leben passt.\nChancengleichheit und selbstbestimmte Teilhabe Schwerbehinderter und Gleichgestellter sowie eine respektvolle Zusammenarbeit sind innerhalb des DB Konzerns fest verankerte Grundsätze. Deshalb werden schwerbehinderte und gleichgestellte Bewerber:innen bei gleicher Eignung bevorzugt berücksichtigt.",
+   "extra": {
+    "refnr": "12456-1651513-1-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "0053e2b7b050a933",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1651513-1-S"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Coordinator Occupational Health & Safety (m/w/d)",
+   "company": "ifm",
+   "location": "Tettnang, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/coordinator-occupational-health-safety-m-w-d-at-ifm-4477702068",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "Nur das, was man liebt, macht man wirklich mit 100% Leidenschaft und Herzblut. Als potenzieller Arbeitgeber fordern wir dazu auf, das zu tun, was man liebt. Und wir bieten dafür das Spielfeld. In einem internationalen, innovativen Unternehmen, in dem jede:r persönliche Stärken und Leidenschaften ausleben kann. Mit einer Arbeit, die sinnvoll ist, mit vielfältigen Aufgabenbereichen, Respekt, Offenheit, Vielfalt, Mut und Wertschätzung sowie viel Freiraum, sich weiterzuentwickeln. Denn bei ifm zu arbeiten heißt: Do what you love. Coordinator Occupational Health & Safety (m/w/d) Kennziffer: 939 Die Aufgabe Als Coordinator Occupational Health & Safety (m/w/d) in Teilzeit (20 Wochenstunden) unterstützen Sie unser Team bei organisatorischen und administrativen Aufgaben rund um die Arbeitssicherheit. Dabei Übernehmen Sie Insbesondere Folgende Aufgaben Organisation, Dokumentation und administrative Unterstützung im Bereich Arbeitssicherheit Dokumentation von Arbeitsunfällen, Beinahe-Ereignissen und sicherheitsrelevanten Vorkommnissen Eigenständige Bearbeitung standardisierter Prozesse und Vorgänge Vor- und Nachbereitung verschiedener Maßnahmen und Themen des Arbeits- und Gesundheitsschutzes Unterstützung allgemeiner Verwaltungs- und Serviceprozesse innerhalb des Unternehmens Das Profil Abgeschlossene Berufsausbildung, vorzugsweise im kaufmännischen oder administrativen Bereich Erste Berufserfahrung von Vorteil Sicherer Umgang mit standardisierten und administrativen Arbeitsabläufen Sorgfältige, strukturierte und zuverlässige Arbeitsweise Organisationsgeschick und ein gutes Verständnis für dokumentarische Prozesse sowie eine Sensibilität für das Themengebiet der Arbeitssicherheit Freundliches und serviceorientiertes Auftreten Gute Kommunikationsfähigkeit und Freude am Kontakt mit internen und externen Ansprechpersonen Wir Bieten Sicherheit eines international tätigen Familienunternehmens Individuelle fundierte Einarbeitung Betriebliche Altersvorsorge Vielfältige Angebote zur persönlichen und fachlichen Weiterbildung in der hauseigenen ifm Lernfabrik Betriebliches Gesundheitsmanagement und diverse Fitness- und Sportangebote Flexible Arbeitszeiten mit Gleitzeitkonto Individuelle Home Office & Remote Angebot Unternehmensprämie, Weihnachts- und Urlaubsgeld Kinderferienbetreuung Modernes und vielfältiges Betriebsrestaurant mit Außenterrasse u.v.m. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Automation Machinery Manufacturing Referrals increase your chances of interviewing at ifm by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "7aa2068f4fc6b8d7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/coordinator-occupational-health-safety-m-w-d-at-ifm-4477702068"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Sicherheitsmitarbeiter / Doorman (m/w/d) Quereinsteiger Willkommen!",
+   "company": "EDUVIA Bildungsakademie GmbH",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sicherheitsmitarbeiter-doorman-m-w-d-quereinsteiger-willkommen%21-at-eduvia-bildungsakademie-gmbh-4487603595",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4eb596f7a374ddad",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sicherheitsmitarbeiter-doorman-m-w-d-quereinsteiger-willkommen%21-at-eduvia-bildungsakademie-gmbh-4487603595"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Senior HR Business Partner",
+   "company": "SPS",
+   "location": "Neukirch-Egnach, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-hr-business-partner-at-sps-4487623734",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "WIR VERBINDEN DIE PHYSISCHE UND DIE DIGITALE WELT SPS ist ein führender Outsourcing-Anbieter für Business Process Services, innovativer Dienstleistungen im intelligenten Datenmanagement sowie für die hybride Arbeitswelt. Schweizer Qualität, kombiniert mit globaler Präsenz, tiefer Branchenkenntnis und neusten Technologien, machen SPS zu einem verlässlichen Partner für die Transformation von Unternehmen. Mit ganzheitlichen End-to-End-Lösungen unterstützt SPS Unternehmen dabei, ihre Geschäftsprozesse effizienter, agiler und zukunftsorientiert zu gestalten. Über 8.000 Mitarbeitende und spezialisierte Partner betreuen Kunden in mehr als 20 Ländern – mit einem Schwerpunkt auf den Branchen Banken, Versicherungen und Gesundheit. DEINE AUFGABEN Die Stelle bietet einen attraktiven Mix zwischen hands-on HR-Tasks und projektorientierten Tätigkeiten im nationalen wie auch teilweise internationalen Kontext: Verantwortung für die Umsetzung der SPS HR-Strategie und die Steuerung der HR-Prozesse im zugeordneten Betreuungsbereich „Enterprise Workplace Solutions“ Beratung und Coaching von Führungskräften und Mitarbeitenden in personal-, führungs- und organisationsbezogenen Fragen Begleitung von Veränderungsprozessen und Leitung von Integrations- und Reorganisationsprojekten, insbesondere bei neuen Kundenmandaten sowie Standort- und Serviceveränderungen Steuerung der jährlichen Lohnrunde sowie des Performance-, Talent- und Nachfolgemanagements Beratung in arbeits- und sozialversicherungsrechtlichen Fragen unter Berücksichtigung dezentraler und kundenspezifischer Einsatzbedingungen Fallmanagement und Begleitung anspruchsvoller Konflikt-, Gesundheits- und Disziplinarfälle Durchführung von Führungskräfteschulungen und Sicherstellung einer professionellen, kundenorientierten HR-Servicequalität Weiterentwicklung von HR-Prozessen und des betrieblichen Gesundheitsmanagements sowie Mitarbeit in nationalen und internationalen SPS HR-Projekten DEIN PROFIL Höhere Ausbildung mit Schwerpunkt Human Resources, Betriebswirtschaft oder Arbeitspsychologie; eine HR-Weiterbildung wie zB HR-Fachmann /-frau ist von Vorteil mehrjährige Erfahrung als HR Business Partner, idealerweise in einem internationalen Dienstleistungs-, Outsourcing- oder Workplace-Management-Umfeld Erfahrung in der Betreuung kundenorientierter Geschäftseinheiten oder Profitcenter sowie gutes unternehmerisches und finanzielles Verständnis Praxis in Reorganisationen, Integrationen und anspruchsvollen Veränderungsprozessen, vorzugsweise bei Kundenmandaten oder Betriebsübergängen Fundierte Kenntnisse des Schweizer Arbeits- und Sozialversicherungsrechts Erfahrung in Organisationsentwicklung, Performance Management, Talententwicklung und Nachfolgeplanung Sehr gute Deutsch- und Englischkenntnisse; Französisch ist von Vorteil Ausgeprägte Beratungs- und Kommunikationskompetenz sowie sicheres Auftreten gegenüber Führungskräften, Teams und Kunden Umsetzungsstarke, lösungsorientierte und integre Persönlichkeit mit strukturierter Arbeitsweise und hoher Kundenorientierung Sicherer Umgang mit modernen HR-Systemen; Erfahrung mit HR-Kennzahlen ist von Vorteil Deine Benefits Zukunftsorientierter Arbeitgeber, der die digitale Transformation von Unternehmen aktiv vorantreibt Dynamisches Arbeitsumfeld in einem Schweizer Unternehmen mit globaler Präsenz flexible und hybride Arbeitsmöglichkeiten mit bis zu zwei Homeoffice-Tagen pro Woche Beiträge an Reka-Gutscheine sowie attraktive Gesundheits- und Fitnessangebote Zuschüsse für ÖV-Abos und gratis Business Halbtax-Abo Attraktive Mitarbeitendenrabatte auf zahlreiche Marken und Produkte Vielfältige Möglichkeiten zur fachlichen und persönlichen Weiterentwicklung Offene und kollegiale Unternehmenskultur mit flachen Hierarchien und kurzen Entscheidungswegen Wir setzen uns aktiv für Gleichstellung und Diversität ein. Alle qualifizierten Bewerbenden werden unabhängig von Geschlecht, Geschlechtsidentität, Alter, Herkunft, Religion, sexueller Orientierung oder Beeinträchtigung …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "bc668eb47a3de8e5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-hr-business-partner-at-sps-4487623734"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Experte Finanzplanung (w/m/d) Region St. Gallen und Rheintal Teilzeit/Vollzeit",
+   "company": "Helvetia Schweiz",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/experte-finanzplanung-w-m-d-region-st-gallen-und-rheintal-teilzeit-vollzeit-at-helvetia-schweiz-4402151628",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "50-100% Gemeinsam neue Massstäbe setzen und die Zukunft gestalten – das bedeutet für uns mehr, als Aufgaben einfach abzuarbeiten. Hier arbeitest du mit Menschen zusammen, die Verantwortung übernehmen, hohe Ansprüche haben und den Mut mitbringen, neue Wege zu gehen. Bei uns findest du ein Umfeld, in dem Vertrauen und Leistung Hand in Hand gehen und deine Ideen, deine Initiative und dein Beitrag zählen. So hast du die Möglichkeit, wirklich etwas zu bewegen für unsere Kundinnen und Kunden, dein Team und deine persönliche Entwicklung. Was du bewirkst Fachliche Expertise: Als versierte:r Versicherungsberater:in mit Schwerpunkt im Vorsorge- und Finanzgeschäft kennst du die Branche und ihre Produkte. Du berätst unsere Kunden und Kundinnen erarbeitest Finanz- und Pensionsplanungen, begleitest und befähigst unsere Kundenberater:innen, gibst Schulungen und bist erste Ansprechperson für Fragen hinsichtlich der Vorsorge Marktanalyse: Du führst Marktanalysen durch und erarbeitest Marktbearbeitungsstrategien, um Potenziale und Chancen im Bereich Vorsorge und Finanzen zu identifizieren und zu nutzen Ausbau Vorsorge- und Finanzen: Du bist von Anfang an dabei und massgeblich daran beteiligt den Bereich rund um Versicherungs- und Banklösungen (z.B. Vermögensverwaltung, Fonds) in Vorsorge und Vermögen aufzubauen und mitzugestalten. Das Planen von Marketingmassnahmen, die Umsetzung sowie das Controlling liegen weiter in deiner Verantwortung Kundenbeziehungen aufbauen: Du pflegst enge Beziehungen zu den von dir betreuten Kundenberaterinnen und Kundenberatern, unterstützt sie auf ihrem Erfolgsweg und baust dein Netzwerk innerhalb der Helvetia sowie im Markt aktiv aus. Teamarbeit: Als Mitglied unserer Experten-Community Vorsorge und Vermögen leistest du einen wesentlichen Beitrag zur fachlichen und verkäuferischen Weiterentwicklung der Themen bei Helvetia Was du mitbringst Fachwissen: Du verfügst über eine fundierte Ausbildung oder ein Studium sowie mehrjährige Berufserfahrung in der Finanzdienstleistungsbranche Unternehmergeist: Du bist enthusiastisch sowie begeisterungsfähig, hast Freude an Aufbauarbeit und an der Zusammenarbeit mit unterschiedlichen Stakeholdern Kommunikationsstärke: Du bist ein ein:e ausgezeichnete:r Kommunikator:in und kannst komplexe Sachverhalte verständlich vermitteln Analytisches Denken: Du hast ein Flair für Zahlen, denkst vernetzt und verfügst über Organisations- und Planungsstärke Kundenorientierung: Die Zufriedenheit deiner Kundinnen und Kunden liegt dir am Herzen und du setzt alles daran, ihre Bedürfnisse bestmöglich zu erfüllen Bereit, Kundinnen und Kunden mit Leidenschaft zu begeistern und mit uns zu wachsen? Dann setze dein Talent gezielt ein und bewirb dich jetzt! Zusammenarbeit, die etwas bewegt Wir glauben an Zusammenarbeit auf Augenhöhe, gegenseitiges Vertrauen und Menschen, die Verantwortung übernehmen wollen. Unterschiedliche Perspektiven helfen uns, bessere Lösungen zu entwickeln - für unsere Kundinnen und Kunden genauso wie für uns als Team. Kontakt Cajus Schuppli Recruiting Partner +41 58 280 5286 Deine Führungskraft Sandro Soldano Verkaufsleiter Show more Show less Seniority level Not Applicable Employment type Full-time Industries Insurance Referrals increase your chances of interviewing at Helvetia Schweiz by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "222bd03edfab9f90",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/experte-finanzplanung-w-m-d-region-st-gallen-und-rheintal-teilzeit-vollzeit-at-helvetia-schweiz-4402151628"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Experte Finanzplanung (w/m/d) Region St. Gallen-Thurgau Teilzeit/Vollzeit",
+   "company": "Helvetia Schweiz",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/experte-finanzplanung-w-m-d-region-st-gallen-thurgau-teilzeit-vollzeit-at-helvetia-schweiz-4386848540",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b2257b621705db34",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/experte-finanzplanung-w-m-d-region-st-gallen-thurgau-teilzeit-vollzeit-at-helvetia-schweiz-4386848540"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Mitarbeiter*in Visual Merchandising Hardgoods 60% (m/w/d)",
+   "company": "Manor AG",
+   "location": "Rapperswil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-visual-merchandising-hardgoods-60%25-m-w-d-at-manor-ag-4477726136",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b458f3483d36bb8b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-visual-merchandising-hardgoods-60%25-m-w-d-at-manor-ag-4477726136"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Sachbearbeiter Mitgliederadministration",
+   "company": "well come FIT Group",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiter-mitgliederadministration-at-well-come-fit-group-4488731700",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "Wir suchen Verstärkung für unsere Zentrale in Frauenfeld! Sachbearbeiter Mitgliederadministration & Kundenservice (m/w/d) Du arbeitest gerne strukturiert, bist zuverlässig und schätzt klare, wiederkehrende Aufgaben? Du hast Freude am Kontakt mit Menschen und suchst eine langfristige Tätigkeit in einem unkomplizierten Team? Dann freuen wir uns, dich kennenzulernen! Deine Aufgaben Erfassung und Verwaltung unserer Mitgliederabonnemente Bearbeitung von Aboänderungen, Time-Stops und Mitgliedschaftspausen Telefonische Betreuung unserer Mitglieder Beantwortung von Kundenanfragen per E-Mail Pflege und Kontrolle unserer Mitgliederdaten Allgemeine administrative Arbeiten in unserer Zentrale Das bringst du mit Kaufmännische Erfahrung oder Praxis in der Administration Freude an sorgfältiger, strukturierter und wiederkehrender Arbeit Freundlicher und geduldiger Umgang mit Kunden Gute Deutschkenntnisse in Wort und Schrift Sicherer Umgang mit dem Computer Selbstständige, zuverlässige und genaue Arbeitsweise Das bieten wir Eine langfristige Tätigkeit in unserer Zentrale in Frauenfeld Klare Aufgaben und eine sorgfältige Einarbeitung Ein kollegiales und unkompliziertes Arbeitsumfeld Flexible Arbeitszeitmodelle und Pensum nach Vereinbarung Einen sicheren Arbeitsplatz in einer wachsenden Schweizer Fitnessgruppe Auch Wiedereinsteiger, Quereinsteiger mit administrativer Erfahrung und berufserfahrene Personen sind bei uns herzlich willkommen. Uns sind Zuverlässigkeit, Genauigkeit und Freude an der täglichen Arbeit wichtiger als ein beeindruckender Lebenslauf. 📍 Arbeitsort: well come FIT AG, Frauenfeld Deine Ansprechpartnerin: Nicole Müller nm@wellcomefit.ch CAO – Chief Administrative Officer Leiterin Administration | Mitglied der Geschäftsleitung well come FIT GROUP Interessiert? Wir freuen uns auf deine Bewerbung! Show more Show less Seniority level Entry level Employment type Full-time Industries Wellness and Fitness Services Referrals increase your chances of interviewing at well come FIT Group by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e2a00b6668f06c99",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-mitgliederadministration-at-well-come-fit-group-4488731700"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "BI Specialist – Financial Reporting & Data Analytics",
+   "company": "Hügli Nahrungsmittel GmbH",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/bi-specialist-%E2%80%93-financial-reporting-data-analytics-at-h%C3%BCgli-nahrungsmittel-gmbh-4471493323",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "6c4af45f450e6423",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/bi-specialist-%E2%80%93-financial-reporting-data-analytics-at-h%C3%BCgli-nahrungsmittel-gmbh-4471493323"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Projektmanager (m/w/d)",
+   "company": "CIRCOR International, Inc.",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektmanager-m-w-d-at-circor-international-inc-4462894203",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ee00ce6b6b9298d9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-m-w-d-at-circor-international-inc-4462894203"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Gesamtprojektleiter (m/w/d) Dezentrale Energieanlagen & Kraftwerksprojekte",
+   "company": "N.O.C Engineering GmbH",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/gesamtprojektleiter-m-w-d-dezentrale-energieanlagen-kraftwerksprojekte-at-n-o-c-engineering-gmbh-4486666138",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "77fbe0d64c95dc2c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/gesamtprojektleiter-m-w-d-dezentrale-energieanlagen-kraftwerksprojekte-at-n-o-c-engineering-gmbh-4486666138"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "M&A Associate | Renewable Energy (m/w/d)",
+   "company": "esmeraPartners GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/m-a-associate-renewable-energy-m-w-d-at-esmerapartners-gmbh-4486640717",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "0c254f8f0ca4dafb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/m-a-associate-renewable-energy-m-w-d-at-esmerapartners-gmbh-4486640717"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Limnologe (m/w/d) Limnologische Analytik und Gewässermonitoring",
+   "company": "Zweckverband Bodensee-Wasserversorgung",
+   "location": "Sipplingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/limnologe-m-w-d-limnologische-analytik-und-gew%C3%A4ssermonitoring-at-zweckverband-bodensee-wasserversorgung-4486638471",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "31c0a75a202b7d60",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/limnologe-m-w-d-limnologische-analytik-und-gew%C3%A4ssermonitoring-at-zweckverband-bodensee-wasserversorgung-4486638471"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Werkschutzkraft (m/w/d) – Einstieg ohne Erfahrung möglich!",
+   "company": "EDUVIA Bildungsakademie GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/werkschutzkraft-m-w-d-%E2%80%93-einstieg-ohne-erfahrung-m%C3%B6glich%21-at-eduvia-bildungsakademie-gmbh-4487608574",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "72b152490abeb960",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/werkschutzkraft-m-w-d-%E2%80%93-einstieg-ohne-erfahrung-m%C3%B6glich%21-at-eduvia-bildungsakademie-gmbh-4487608574"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Projektleiter / AVOR Holzbau",
+   "company": "Krattiger Holzbau AG | Krattiger Konzept AG",
+   "location": "Amriswil, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-avor-holzbau-at-krattiger-holzbau-ag-krattiger-konzept-ag-4488493995",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "231a9d2b01d12eca",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-avor-holzbau-at-krattiger-holzbau-ag-krattiger-konzept-ag-4488493995"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Rayonleiter:in Nonfood",
+   "company": "Coop",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/rayonleiter-in-nonfood-at-coop-4479370398",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4f3eba146728d773",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/rayonleiter-in-nonfood-at-coop-4479370398"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Stv. Rayonleiter:in Früchte/Gemüse",
+   "company": "Coop",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/stv-rayonleiter-in-fr%C3%BCchte-gem%C3%BCse-at-coop-4479372295",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5c402ca2e00aad78",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/stv-rayonleiter-in-fr%C3%BCchte-gem%C3%BCse-at-coop-4479372295"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Quereinsteiger im Sicherheitsbereich (m/w/d)",
+   "company": "EDUVIA Bildungsakademie GmbH",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/quereinsteiger-im-sicherheitsbereich-m-w-d-at-eduvia-bildungsakademie-gmbh-4487615173",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "82779b4fb1b3f981",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/quereinsteiger-im-sicherheitsbereich-m-w-d-at-eduvia-bildungsakademie-gmbh-4487615173"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Production Planner",
+   "company": "La Prairie Switzerland",
+   "location": "Berneck, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/production-planner-at-la-prairie-switzerland-4454070069",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "Für unser Planungs-Team suchen wir ab sofort oder nach Vereinbarung eine zielorientierte, affine und belastbare Persönlichkeit als Produktionsplaner/-in 100%: Deine Mission: Als Production Planner bist du für die E2E Produktionsplanung am Standort verantwortlich und stellst sicher, dass Produktionsprioritäten realistisch, transparent und wirksam in die operative Umsetzung gebracht werden. In dieser Funktion bist du die zentrale Schnittstelle zwischen Produktion, Qualität, Logistik, sowie Supply Planning und Komponentenplanung. Produktionsplanung & Steuerung: Verantwortung für operative und taktische E2E Planung inklusive Priorisierung, Terminierung und Abstimmung mit der Produktion Hauptansprechpartner für die Produktion in allen planungsrelevanten Themen inkl. aktiver Teilnahme an Shopfloor-Formaten Erstellung, Pflege und Steuerung von Produktionsaufträgen im ERP-System Abacus Sicherstellung eines stabilen und realistischen Produktionsplans unter Berücksichtigung von Materialverfügbarkeit, Kapazitäten, Qualitätsfreigaben und operativen Restriktionen und Abhängigkeiten Aktives Management von Terminabweichungen, Engpässen und Risiken inklusive transparenter Kommunikation an relevante Stakeholder Daten, Systeme & Planungsqualität: Sicherstellung einer hohen Planungsqualität durch genaue Prüfung und Nachverfolgung von Stammdaten, Materialverfügbarkeit und produktionsrelevanten Abhängigkeiten Identifikation und Absicherung kritischer Planungsparameter, um frühzeitig eine saubere und belastbare mittelfristige Planungsgrundlagen zu schaffen Sehr sicherer Umgang mit komplexen Datenstrukturen, manuellen Schnittstellen und systemübergreifenden Zusammenhängen Prozessmanagement & Optimierung: Identifikation von Schwachstellen, Ineffizienzen und Fehlerquellen in den heutigen Abläufen sowie Entwicklung nachhaltiger Verbesserungen mit dem Ziel, Abläufe robuster, transparenter und effizienter zu gestalten Verantwortung für regelmäßige Auswertungen, Analyse und Präsentation relevanter Produktionskennzahlen, sowie Einführung und Weiterentwicklung geeigneter Kennzahlen, Reports und Auswertungsmöglichkeiten zur besseren Steuerung Beitrag zur Weiterentwicklung der Produktionsstrategie und der Planungsorganisation Dein Profil: Abgeschlossenes Studium in Betriebswirtschaft, Wirtschaftsingenieurwesen, Supply Chain Management oder vergleichbar Mehrjährige relevante Berufserfahrung in der Produktionsplanung eines produzierenden Unternehmens, idealerweise in FMCG Starkes analytisches Denkvermögen und sehr gutes Verständnis für komplexe Planungszusammenhänge Resilient, strukturiert und präzise auch in einem dynamischen und anspruchsvollen Umfeld Kommunikationsstark und teamfähig mit ausgeprägtem Stakeholder- und Expectation-Management Hoher Anspruch an Prozessverbesserung und Bereitschaft, den Status quo konstruktiv zu challengen Hohe IT-Affinität sowie sehr gute Excel-Kenntnisse und solide ERP-Erfahrung, idealerweise mit Abacus und/oder SAP, Power Bi Sehr gute Deutsch- und gute Englischkenntnisse Bereitschaft, jeden Tag vor Ort zu sein Was Dich bei uns erwartet: Abwechslungsreiche Aufgaben mit Verantwortung Kollegiales, internationales Team mit flachen Hierarchien Attraktiver Standort im Dreiländereck (CH/AT/DE) 40 h-Woche 5 Wochen Ferien, ab dem 50. Altersjahr 6 Wochen Ferien Die Welt von La Prairie ist nur ein paar Schritte entfernt: Mache den nächsten Schritt in deiner Laufbahn, werde Teil unseres Teams in Berneck SG und bewirb dich jetzt über unser Bewerberportal. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Personal Care Product Manufacturing Referrals increase your chances of interviewing at La Prairie Switzerland by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "88 applicants"
+   },
+   "id": "38540ad941b14bff",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/production-planner-at-la-prairie-switzerland-4454070069"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Technical Project Lead Embedded Systems (m/w/d)",
+   "company": "Onyx Circle",
+   "location": "Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technical-project-lead-embedded-systems-m-w-d-at-onyx-circle-4470485096",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5c2d0df3a52685e1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technical-project-lead-embedded-systems-m-w-d-at-onyx-circle-4470485096"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Projektleiter:in Kunstbauten 80-100% - Winterthur",
+   "company": "AFRY",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-kunstbauten-80-100%25-winterthur-at-afry-4334680094",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1b0ad19cd01b120c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-kunstbauten-80-100%25-winterthur-at-afry-4334680094"
+   },
+   "first_seen": "2026-11-08"
+  },
+  {
+   "title": "Leiterin / Leiter Kantonales Sozialamt, 100 %",
+   "company": "Kanton Schaffhausen",
+   "location": "8200 Schaffhausen",
+   "country": "CH",
+   "url": "https://www.sozialinfo.ch/arbeitsmarkt/stellenportal/leiterin-leiter-kantonales-sozialamt-100-y8oWEGqd/",
+   "posted": "2026-11-07",
+   "salary": null,
+   "via": null,
+   "description": "Zudem führt es die <em>Fachstelle</em> <em>Gleichstellung</em>, Gewaltprävention und Gewaltschutz und nimmt darüber hinaus im Auftrag des Bundes und der Gemeinden Aufgaben im Asyl- und Flüchtlingsbereich wahr. Das Amt ist dem Departement des Innern zugeordnet.",
+   "extra": {
+    "canton": "SH",
+    "query": "Fachstelle Gleichstellung",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "a9945e6f-62a0-4151-b5e9-3dcabe4ab8c1"
+   },
+   "id": "85d7269070c7afea",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.sozialinfo.ch/arbeitsmarkt/stellenportal/leiterin-leiter-kantonales-sozialamt-100-y8oWEGqd/"
+   },
+   "first_seen": "2026-11-08"
+  },
   {
    "title": "Sachbearbeiter Straßenrecht und Verwaltungsverfahren (m/w/d)",
    "company": "Landratsamt Bodenseekreis",
@@ -37,7 +642,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-stra%C3%9Fenrecht-und-verwaltungsverfahren-m-w-d-at-landratsamt-bodenseekreis-4488445759"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Sicherheitsbeauftragte/r Strasseninfrastruktur (SIBE)",
@@ -61,7 +667,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sicherheitsbeauftragte-r-strasseninfrastruktur-sibe-at-kanton-thurgau-4487307509"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Naturwissenschaftler/in als Leiter/in Dienste",
@@ -85,7 +692,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/naturwissenschaftler-in-als-leiter-in-dienste-at-kanton-thurgau-4484866772"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Svetovalec (DM 532) v Oddelku za varno hrano v Območnem uradu Ptuj, Inšpekciji za varno hrano, veterinarstvo in varstvo rastlin",
@@ -109,7 +717,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-dm-532-v-oddelku-za-varno-hrano-v-obmo%C4%8Dnem-uradu-ptuj-in%C5%A1pekciji-za-varno-hrano-veterinarstvo-in-varstvo-rastlin-at-vlada-republike-slovenije-4486977711"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Fachexpertin/Fachexperte Sonderpädagogik",
@@ -133,7 +742,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachexpertin-fachexperte-sonderp%C3%A4dagogik-at-kanton-thurgau-4485728951"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Kreisförster / Kreisförsterin",
@@ -157,7 +767,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/kreisf%C3%B6rster-kreisf%C3%B6rsterin-at-kanton-thurgau-4486049007"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Projektleitung Naturgefahren (m/w/d)",
@@ -181,7 +792,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleitung-naturgefahren-m-w-d-at-kanton-st-gallen-4486980216"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter/-in Soziales 80 - 100 %",
@@ -205,7 +817,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-soziales-80-100-%25-at-gemeinde-uzwil-4486260040"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Projektleiter:in Fundraising (w/m/d) (60 %)",
@@ -229,7 +842,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-fundraising-w-m-d-60-%25-at-aqua-viva-942036023"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "HR-Business Partner (m/w/d)",
@@ -253,7 +867,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/hr-business-partner-m-w-d-at-s%C3%BCdkurier-gmbh-medienhaus-4488176033"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Qualitätsmanager Altenpflege (m/w/d)",
@@ -277,7 +892,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-altenpflege-m-w-d-at-diakonie-w%C3%BCrttemberg-4487306992"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Qualitätsmanager Altenpflege (m/w/d)",
@@ -301,7 +917,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-altenpflege-m-w-d-at-evangelische-heimstiftung-gmbh-4487302017"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter (m/w/d) im hauswirtschaftlichen Bereich",
@@ -325,7 +942,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-im-hauswirtschaftlichen-bereich-at-malteser-in-deutschland-4486295336"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter / Sachbearbeiterin Autoflotte / Mobilität (m/w/d) 40%",
@@ -349,7 +967,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-sachbearbeiterin-autoflotte-mobilit%C3%A4t-m-w-d-40%25-at-lidl-switzerland-4479808975"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Learning & Development Specialist 80 - 100%",
@@ -373,7 +992,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/learning-development-specialist-80-100%25-at-group-micarna-4487340405"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Wohn- und Alltagsbegleitung | 30% – 50% | Stundenlohn oder Festanstellung",
@@ -397,7 +1017,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/wohn-und-alltagsbegleitung-30%25-%E2%80%93-50%25-stundenlohn-oder-festanstellung-at-quellenhof-stiftung-4488147092"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "HR Assistenz 60 % (m/w/d)",
@@ -421,7 +1042,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/hr-assistenz-60-%25-m-w-d-at-work-selection-4488410616"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "HR Fachspezialist:in 60–80 %, 6 Monate befristet ab Januar 2027",
@@ -445,7 +1067,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/hr-fachspezialist-in-60%E2%80%9380-%25-6-monate-befristet-ab-januar-2027-at-abraxas-informatik-ag-4480147324"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "International HR Operations & Global Mobility Specialist (w/m/d) Teilzeit oder Vollzeit",
@@ -469,7 +1092,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/international-hr-operations-global-mobility-specialist-w-m-d-teilzeit-oder-vollzeit-at-helvetia-schweiz-4488420126"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Recruiter (m/w/d)",
@@ -493,7 +1117,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/recruiter-m-w-d-at-careerplus-4486245542"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "SiAs Sicherheitsassistent*in 80 - 100%",
@@ -517,7 +1142,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sias-sicherheitsassistent-in-80-100%25-at-group-micarna-4486510737"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Begleitperson (w) | 30% – 50% | Stundenlohn in Meilen",
@@ -541,7 +1167,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/begleitperson-w-30%25-%E2%80%93-50%25-stundenlohn-in-meilen-at-quellenhof-stiftung-4488134672"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "HR Payroll & Reporting",
@@ -565,7 +1192,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/hr-payroll-reporting-at-holy-fashion-group-4453149292"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Svetovalec (428), Sektor za javne listine",
@@ -589,7 +1217,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-428-sektor-za-javne-listine-at-vlada-republike-slovenije-4486978610"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Pharma-Assistent / Pharma-Assistentin (w/m/d)",
@@ -613,7 +1242,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/pharma-assistent-pharma-assistentin-w-m-d-at-amavita-4488172799"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Sicherheitsmitarbeiter Verkehrsdienst (m/w/d) 1 - 40%",
@@ -637,7 +1267,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sicherheitsmitarbeiter-verkehrsdienst-m-w-d-1-40%25-at-aeb-sicherheitsdienst-gmbh-4486246001"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Klavierlehrer:in",
@@ -661,7 +1292,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/klavierlehrer-in-4488152596"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Management Associate (m/f/d)",
@@ -685,7 +1317,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/management-associate-m-f-d-at-mf-group-ag-4488488451"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter/in Fachdienst Sozialabklärung der KESB",
@@ -711,7 +1344,8 @@
    "links": {
     "jobroom": "https://www.sozialinfo.ch/arbeitsmarkt/stellenportal/mitarbeiter-in-fachdienst-sozialabklarung-der-kesb-xyoWUaaW/"
    },
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-07",
+   "carried_over": true
   }
  ]
 }
