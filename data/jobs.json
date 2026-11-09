@@ -1,19 +1,187 @@
 {
- "generated_at": "2026-11-08T07:31:59+00:00",
+ "generated_at": "2026-11-09T08:07:12+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 210,
+   "arbeitsagentur": 206,
    "google_jobs": "deaktiviert",
-   "linkedin": 232,
-   "jobroom": 33
+   "linkedin": 215,
+   "jobroom": 28
   },
-  "excluded": 354,
-  "unique": 94,
-  "new": 25,
-  "carried_over": 29
+  "excluded": 360,
+  "unique": 69,
+  "new": 7,
+  "carried_over": 54
  },
  "errors": {},
  "jobs": [
+  {
+   "title": "Sicherheitsfachkraft (SiFa) für Arbeitsschutz (m/w/d)",
+   "company": "SiGeHo GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sicherheitsfachkraft-sifa-f%C3%BCr-arbeitsschutz-m-w-d-at-sigeho-gmbh-4488816479",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e2c653d4359760a3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sicherheitsfachkraft-sifa-f%C3%BCr-arbeitsschutz-m-w-d-at-sigeho-gmbh-4488816479"
+   },
+   "first_seen": "2026-11-09"
+  },
+  {
+   "title": "Leitung (w/m/d) Kontaktlinsenstudio",
+   "company": "Fielmann Group",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leitung-w-m-d-kontaktlinsenstudio-at-fielmann-group-4441818761",
+   "posted": "2026-11-08",
+   "salary": null,
+   "via": null,
+   "description": "Du liebst die Augenoptik und insbesondere die Kontaktlinsenanpassung und möchtest dein Fachwissen in einer verantwortungsvollen Rolle einsetzen, die moderne Technik, hohe Qualitätsstandards und echte Kundennähe verbindet? Als Leitung Kontaktlinsenstudio gestaltest du den fachlichen Bereich aktiv mit, führst dein Team kompetent und arbeitest in einem Umfeld, das Professionalität, Service und Zusammenarbeit großschreibt. Das erwartet dich bei uns. Deine Aufgaben. Mit Engagement setzt du dich für die Zufriedenheit unserer Kundinnen und Kunden ein und stellst eine hohe Beratungsqualität sicher. Du übernimmst die Leitung des Kontaktlinsenstudios sowie die fachliche Führung deines Teams. Dein Fachwissen rund um Kontaktlinsen bringst du aktiv in Beratung, Anpassung und Weiterentwicklung des Bereichs ein. In der individuellen Beratung verbindest du augenoptische Kompetenz mit Einfühlungsvermögen und Serviceorientierung. Mit modernster Technik führst du präzise Messungen am Auge durch und erklärst die Ergebnisse verständlich. Warum wir uns auf dich freuen. Dein Profil. Du hast eine abgeschlossene Ausbildung in der Augenoptik. Mehrjährige Praxiserfahrung in der Augenoptik sowie in der Kontaktlinsenanpassung bringst du mit. Der empathische und wertschätzende Umgang mit Menschen bereitet dir Freude. Selbstständige, strukturierte und verantwortungsbewusste Arbeitsweise zeichnet dich aus. Als Teamplayer schätzt du eine kooperative und kollegiale Zusammenarbeit. Neuen Technologien und modernen Arbeitsweisen begegnest du offen und interessiert. Wir geben alles. Deine Vorteile. Attraktive Vergütung, 13. Gehalt, Prämienzahlungen. Jährliches Budget: 1.500 € für Fielmann-Produkte für dich und deine Familie. Mitarbeiteraktien, vermögenswirksame Leistungen sowie zahlreiche weitere Benefits. Bei uns entwickelst du dich kontinuierlich weiter: z. B. in der Fielmann Akademie Schloss Plön, in unseren regionalen Weiterbildungszentren oder über modernes E-Learning. Ein zukunftssicheres Arbeitsumfeld, das Innovation und Wachstum mit einer familiären Teamkultur verbindet. Klingt nach einem Job, in dem du deine Stärken zeigen kannst? Deine Bewerbung über unser Karriereportal ist in wenigen Minuten erledigt. Am besten gleich mit angeben: dein mögliches Startdatum und deine Gehaltsvorstellungen. Wir freuen uns darauf, dich kennenzulernen! Die Fielmann-Gruppe ist weltweit das drittgrößte Unternehmen der augenoptischen Branche. Das börsennotierte Familienunternehmen versorgt über ein Omnichannel-Geschäftsmodell seine Kunden mit Brillen, Kontaktlinsen und Hörsystemen. #category_d Show more Show less Seniority level Not Applicable Employment type Full-time Industries Retail Referrals increase your chances of interviewing at Fielmann Group by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "bc40d0baed52f66f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leitung-w-m-d-kontaktlinsenstudio-at-fielmann-group-4441818761"
+   },
+   "first_seen": "2026-11-09"
+  },
+  {
+   "title": "Leiter/in Hypothekarberatung Thurgau | Franchise Partner/in",
+   "company": "Resolve",
+   "location": "Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-hypothekarberatung-thurgau-franchise-partner-in-at-resolve-4475693518",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "Franchise Partner / Entrepreneur (m/w/d) Hypothekarberatung & Finanzierungslösungen – Region Kanton Thurgau. Build your own mortgage advisory business. Powered by Resolve. Resolve ist ein wachsendes Fintech im Schweizer Hypothekarmarkt. Wir kombinieren eine skalierbare digitale Infrastruktur mit exzellenter Beratung und einem starken Banken- und Partnernetzwerk. Im Rahmen unserer Expansion vergeben wir exklusive Franchise-Partnerschaften in ausgewählten Regionen der Schweiz. Diese Position ist kein Angestelltenverhältnis, sondern eine unternehmerische Beteiligung mit klarer Struktur, klaren Prozessen und echtem Ertragspotenzial. Das Angebot – Ihre unternehmerische Chance Rolle: Franchise Partner / Unternehmer Geschäftsmodell: Eigene Beratungseinheit unter der Marke Resolve Vergütung: Leistungsbasiertes Revenue-Share-Modell (kein Fixgehalt, kein Deckel) Ihr Geschäft – was Sie konkret aufbauen Als Franchise Partner von Resolve: Führen Sie Ihre eigene Resolve-Agentur in Ihrer Region Nutzen Sie Marke, IT-Systeme, CRM, Academy und Prozesse von Resolve Beraten Sie Kunden ganzheitlich (Hypothek, Risiko, Steuern, Vorsorge) Strukturieren Sie Finanzierungen mit Zugriff auf ein zentral verhandeltes Banken-Netzwerk Entwickeln Sie aktiv Ihr B2B-Netzwerk (Makler, Entwickler, Notare, Treuhänder) Rekrutieren und entwickeln Sie eigene Mitarbeitende Skalieren Sie Ihr Geschäft mit klaren KPIs und Performance-Tracking Unsere Leistung – was Resolve liefert Zugang zu einem der grössten Banken- und Finanzierungspartnernetzwerke der Schweiz Höhere Kommissionen durch Skaleneffekte State-of-the-art Tech-Stack & CRM Nationale Markenpräsenz & qualifizierte Leads Initial Training + laufende Academy-Module Regionaler Coach (Qualität, Performance, Bankkoordination) Backoffice-Support (Finance, HR, Operations) Klare Prozesse, Qualitätsstandards und 4-Augen-Kontrolle Optionale Beteiligungs- oder Exit-Perspektiven innerhalb der Gruppe Resolve ist Infrastruktur und Enabler. Sie sind Unternehmer. Was wir erwarten Mehrjährige Erfahrung im Hypothekar-, Bank-, Versicherungs- oder Brokerage-Umfeld Fundierte Kenntnisse des Schweizer Immobilien- und Finanzierungsmarktes Unternehmerisches Mindset mit Wachstumsanspruch Hohe Eigenverantwortung und Leistungsbereitschaft Digitale Affinität und systematisches Arbeiten Bereitschaft zur Exklusivität innerhalb der Consulting-Aktivitäten gemäss Vertrag Starke lokale Verankerung oder klares Netzwerkpotenzial Wir suchen keine Angestellten. Wir suchen Partner mit Ambition, Marktanteile zu gewinnen. Warum dieses Modell attraktiv ist Deutlich bessere Konditionen als Einzelberater Professionelle Unterstützung des schweizweiten Berater Netzwerks statt Einzelkämpfer-Positionierung Skalierbares Geschäft statt reiner Beratungstätigkeit Zugang zu Premium- und Spezialfinanzierungen über zentrales Experten Team Exit-Option durch Gruppenintegration Show more Show less Seniority level Not Applicable Employment type Full-time Industries Financial Services, Banking, and Insurance Referrals increase your chances of interviewing at Resolve by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5c6d7376eaed5162",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-hypothekarberatung-thurgau-franchise-partner-in-at-resolve-4475693518"
+   },
+   "first_seen": "2026-11-09"
+  },
+  {
+   "title": "Sachbearbeiter/in Administration 80-100% (m/w/d)",
+   "company": "Swiss Photovoltaik GmbH",
+   "location": "Oberriet, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-administration-80-100%25-m-w-d-at-swiss-photovoltaik-gmbh-4488836258",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "UNSERE MISSION: ENERGIE. EINFACH Seit 2008 gestalten wir die Energiewende in der Ostschweiz aktiv mit. Mit rund 38 Mitarbeitenden und über 2'000 realisierten Photovoltaikprojekten gehören wir zu den führenden Anbietern der Region. Was uns ausmacht? Langjährige Erfahrung, fundiertes Know-How und der Anspruch, nachhaltige Energielösungen einfach und zuverlässig umzusetzen. Damit wir auch in Zukunft gemeinsam Energie bewegen können, suchen wir Menschen, die mit uns anpacken, mitdenken und die Energiewende mitgestalten wollen. DEINE AUFGABEN BEI UNS: Selbständige Abwicklung der gesamten Projektadministration im Bereich Photovoltaik; von der Eröffnung des Projekts bis zu dessen Abschluss Bearbeitung und Koordination von Bau- und Anschlussgesuchen, Fördergesuchen, Beglaubigungen sowie weiterer projektspezifischer Unterlagen Pflege und Aktualisierung von Projektdaten im ERP-System sowie Führen von Checklisten und Übersichten Aktive Mitarbeit bei der Weiterentwicklung und Optimierung administrativer Abläufe und Prozesse Ansprechperson für interne und externe Partner bei administrativen Fragen rund um unsere Projekte Administrative und organisatorische Unterstützung der Leiterin Administration bzw. des Administrationsteams Allgemeine Sekretariatsaufgaben inkl. Telefondienst Mitbetreuung und Ausbildung des KV-Lernenden WENN DU DIESE FRAGEN MIT JA BEANTWORTEN KANNST: Bringst du eine abgeschlossene Ausbildung als Kauffrau/Kaufmann EFZ mit? Konntest du bereits erste Erfahrungen im Baubereich, bestenfalls sogar im PV-Bereich, sammeln? Arbeitest du selbständig, strukturiert und genau? Ist dein Blick immer kunden- und serviceorientiert und du stellst dich deiner Verantwortung? Bist du ein verlässliches und teamfähiges „Arbeitsgspänli“, welches auch in hektischen Zeiten den Überblick behält? ...DANN BIST DU BEI UNS GENAU RICHTIG. ﻿WAS WIR DIR BIETEN: Flache Hierarchien und ein kollegiales Team 5 Wochen Ferien Leistungsgerechte und faire Entlöhnung Aus- und Weiterbildungsmöglichkeiten Regelmässige Teamevents Show more Show less Seniority level Entry level Employment type Full-time Industries Electric Power Generation Referrals increase your chances of interviewing at Swiss Photovoltaik GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "faf88d8f120a2622",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-administration-80-100%25-m-w-d-at-swiss-photovoltaik-gmbh-4488836258"
+   },
+   "first_seen": "2026-11-09"
+  },
+  {
+   "title": "Prozessfachmann",
+   "company": "Gi Group",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/prozessfachmann-at-gi-group-4486370678",
+   "posted": "2026-11-08",
+   "salary": null,
+   "via": null,
+   "description": "Drehscheibenfunktion zwischen Produktion, Einkauf und Arbeitsvorbereitung Sie fühlen sich sowohl in der Werkstatt als auch im Büro wohl? Sie denken vernetzt, packen mit an und behalten auch bei unterschiedlichen Aufgaben den Überblick? Dann könnten Sie genau die Persönlichkeit sein, die wir suchen. Für ein Werkstattbüro suchen wir einen vielseitigen Generalisten mit technischem Hintergrund in der Metallbearbeitung. In dieser abwechslungsreichen Schlüsselposition übernehmen Sie Verantwortung in den Bereichen Einkauf, Arbeitsvorbereitung, Produktion und Qualitätswesen und tragen aktiv zur Optimierung der Abläufe bei. Prozessfachmann / Betriebsfachmann Werkstattbüro (m/w/d) 80-100% Deine Aufgaben Einkauf: Stellvertretung des Mitarbeiters Einkauf bei dessen Abwesenheit Abwicklung des Bestellwesens mit ERP-System und Lagerverwaltungssoftware Mitarbeit bei der jährlichen Inventur Unterstützung bei der Beschaffung von Material und Betriebsmitteln Arbeitsvorbereitung (AVOR) Stellvertretung des Mitarbeiters AVOR bei dessen Abwesenheit Erstellung und Pflege von Arbeitsplänen Unterstützung im Bereich Arbeitssicherheit Erstellung von Checklisten, Auswertungen und Statistiken Produktionsunterstützung Unterstützung des Produktionsleiters Mitarbeit bei der Optimierung von Abläufen Koordination zwischen Büro und Fertigung Was du für diese spannende und sehr abwechslungsreiche Stelle mitbringen musst sind folgende Punkte: Technische Grundausbildung Erfahrung in der Produktion, AVOR oder Produktionsplanung Gute IT- und ERP-Kenntnisse Selbständige, organisierte und lösungsorientierte Persönlichkeit Sehr gute Deutschkenntnisse in Wort und Schrift Wir freuen uns auf Deine Bewerbungsunterlagen und sichern Dir die nötige Diskretion zu. Kontakt Gi Group St. Gallen Patrick Erni Deputy Branch Manager +41 71 228 66 65 patrick.erni@gigroup.com Show more Show less Seniority level Not Applicable Employment type Full-time Industries Staffing and Recruiting Referrals increase your chances of interviewing at Gi Group by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "cbb2928fd940584f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/prozessfachmann-at-gi-group-4486370678"
+   },
+   "first_seen": "2026-11-09"
+  },
+  {
+   "title": "Mitarbeiter/in Rechnungswesen (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-rechnungswesen-m-w-d-at-rocken%C2%AE-4487667132",
+   "posted": "2026-11-08",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF75'000 - 85'000 Dein neuer Arbeitgeber ist in der Baustoffbranche tätig. Wir bringen Talente und führende Arbeitgeber in diesem Bereich zusammen. Wenn du mehr über das Unternehmen und die Stelle erfahren möchtest, dann bewirb dich jetzt auf die Stelle. Rolle Unser Kunde ist ein international ausgerichtetes Industrieunternehmen, das sich auf die Entwicklung und Herstellung hochwertiger Verpackungsmaschinen und Abfüllanlagen spezialisiert hat. Die Lösungen kommen insbesondere in der Lebensmittel- und Getränkeindustrie zum Einsatz und ermöglichen eine effiziente, sichere und hygienische Verarbeitung sowie Verpackung verschiedenster Produkte. Technologische Innovation, Präzision und hohe Qualitätsstandards bilden die Grundlage des Unternehmenserfolgs. Dich erwartet ein technisch anspruchsvolles Arbeitsumfeld mit internationaler Ausrichtung und vielfältigen Entwicklungsmöglichkeiten. Du arbeitest mit unterschiedlichen Fachbereichen zusammen und erhältst Einblick in innovative Technologien und komplexe Produktionsprozesse. Teamarbeit, Eigenverantwortung und kontinuierliche Weiterentwicklung bieten Dir die Möglichkeit, Deine Fähigkeiten einzubringen und aktiv an zukunftsorientierten Lösungen mitzuwirken. Verantwortung Du betreust eigenständig die laufende Buchführung verschiedener in- und ausländischer Gruppengesellschaften – von der Hauptbuchhaltung bis zu Debitoren und Kreditoren. Bei MWST-Abrechnungen arbeitest du mit und unterstützt deren korrekte Aufbereitung. Du wirkst bei periodischen Abschlussarbeiten mit und hilfst, Monats- und Jahresabschlüsse termingerecht vorzubereiten. Du gibst dein Wissen gerne weiter und unterstützt die praktische Ausbildung eines Lernenden. Durch deine Bereitschaft zur Stellvertretung trägst du zu einem reibungslosen Ablauf im Finanzteam bei. Qualifikationen Eine abgeschlossene kaufmännische Grundausbildung bildet deine Basis. Du arbeitest strukturiert, verantwortungsbewusst und selbstständig. Mit den gängigen MS-Office-Programmen gehst du routiniert um. Dank deiner Kommunikationsstärke gelingt dir die Zusammenarbeit mit unterschiedlichen Ansprechpersonen. Gute Deutschkenntnisse bringst du mit. Benefits Eingespieltes und dynamisches Team Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten Attraktive Mitarbeiterrabatte Komfortables Büro mit moderner Infrastruktur ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "c2b25e6ea08706b9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-rechnungswesen-m-w-d-at-rocken%C2%AE-4487667132"
+   },
+   "first_seen": "2026-11-09"
+  },
+  {
+   "title": "Fachperson Steuern (m/w/d)",
+   "company": "Rocken®",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachperson-steuern-m-w-d-at-rocken%C2%AE-4487651774",
+   "posted": "2026-11-08",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF90'000 - 100'000 Dein zukünftiger Arbeitgeber ist im Bereich Steuer- und Wirtschaftsberatung tätig. Als Experten im Recruiting für diese Branche begleiten wir dich zu deinem nächsten Karriereschritt. Wenn du mehr über das Unternehmen und die Stelle erfahren möchtest, dann bewirb dich jetzt auf die Stelle. Rolle Unser Kunde ist ein international tätiges Beratungsunternehmen, das Unternehmen in steuerlichen, rechtlichen, finanziellen und betriebswirtschaftlichen Fragen begleitet. Mit einem interdisziplinären Dienstleistungsangebot unterstützt die Organisation nationale und internationale Kunden bei unternehmerischen Herausforderungen, komplexen Projekten und der Weiterentwicklung ihrer Geschäftsprozesse. Dich erwartet ein vielseitiges Arbeitsumfeld mit spannenden Kundenmandaten und internationaler Ausrichtung. Fachlicher Austausch, hohe Qualitätsansprüche und eine enge Zusammenarbeit über verschiedene Kompetenzbereiche hinweg prägen den Arbeitsalltag. Gleichzeitig bietet Dir das Unternehmen die Möglichkeit, Verantwortung zu übernehmen und Deine Expertise gezielt auszubauen. Verantwortung Du bist Ansprechperson für steuerliche Anliegen von natürlichen und juristischen Personen und unterstützt sie bei nationalen sowie grenzüberschreitenden Fragestellungen. Du verantwortest die Erstellung von Steuerdeklarationen und beantwortest allgemeine steuerrechtliche Fragen deiner Mandanten. Du kontrollierst Steuerrechnungen und Veranlagungen, prüfst deren Richtigkeit und leitest bei Bedarf geeignete Schritte ab. Du bearbeitest Anfragen aus dem internationalen Netzwerk und leistest fachliche Unterstützung bei internen Teamaufgaben. Du wirkst bei bereichsübergreifenden Vorhaben mit und koordinierst dich mit Fachpersonen aus BPO, Audit und Legal. Qualifikationen Du hast eine solide kaufmännische Grundausbildung abgeschlossen und bringst grosses Interesse an Steuern und steuerlicher Beratung mit. Du denkst vernetzt, erkennst relevante Zusammenhänge schnell und findest dich auch in neue Themengebiete rasch ein. Du übernimmst gerne Verantwortung, arbeitest lösungsorientiert und organisierst deine Aufgaben selbstständig. Du bist teamorientiert, engagiert und schätzt die Zusammenarbeit mit unterschiedlichen Fachbereichen. Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift. Benefits Beteiligung an gesundheitlichen Massnahmen Homeoffice Markt- und leistungsgerechte Löhne Komfortables Büro mit moderner Infrastruktur Flache Hierarchien ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "4eba6b2a7d33f797",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-steuern-m-w-d-at-rocken%C2%AE-4487651774"
+   },
+   "first_seen": "2026-11-09"
+  },
   {
    "title": "Mitarbeiter*in i-Punkt (w/m/d)",
    "company": "Universität Konstanz",
@@ -37,7 +205,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-03hklej66n-S"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Einrichtungsleitung für den Waldkindergarten Sonnentau in Ebenweiler /m/w/d)",
@@ -62,7 +231,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14271-1651740-1-S"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "BESCHÄFTIGTE/R IM BÜRODIENST IN TEILZEIT 50 – 75 % (w/m/d)",
@@ -87,7 +257,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003975733-S"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Revisor:in Busverkehr",
@@ -112,7 +283,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1651513-1-S"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Coordinator Occupational Health & Safety (m/w/d)",
@@ -136,7 +308,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/coordinator-occupational-health-safety-m-w-d-at-ifm-4477702068"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Sicherheitsmitarbeiter / Doorman (m/w/d) Quereinsteiger Willkommen!",
@@ -160,7 +333,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/sicherheitsmitarbeiter-doorman-m-w-d-quereinsteiger-willkommen%21-at-eduvia-bildungsakademie-gmbh-4487603595"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Senior HR Business Partner",
@@ -184,7 +358,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-hr-business-partner-at-sps-4487623734"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Experte Finanzplanung (w/m/d) Region St. Gallen und Rheintal Teilzeit/Vollzeit",
@@ -208,7 +383,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/experte-finanzplanung-w-m-d-region-st-gallen-und-rheintal-teilzeit-vollzeit-at-helvetia-schweiz-4402151628"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Experte Finanzplanung (w/m/d) Region St. Gallen-Thurgau Teilzeit/Vollzeit",
@@ -232,7 +408,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/experte-finanzplanung-w-m-d-region-st-gallen-thurgau-teilzeit-vollzeit-at-helvetia-schweiz-4386848540"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter*in Visual Merchandising Hardgoods 60% (m/w/d)",
@@ -256,7 +433,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-visual-merchandising-hardgoods-60%25-m-w-d-at-manor-ag-4477726136"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter Mitgliederadministration",
@@ -280,7 +458,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-mitgliederadministration-at-well-come-fit-group-4488731700"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "BI Specialist – Financial Reporting & Data Analytics",
@@ -304,7 +483,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/bi-specialist-%E2%80%93-financial-reporting-data-analytics-at-h%C3%BCgli-nahrungsmittel-gmbh-4471493323"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Projektmanager (m/w/d)",
@@ -328,7 +508,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-m-w-d-at-circor-international-inc-4462894203"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Gesamtprojektleiter (m/w/d) Dezentrale Energieanlagen & Kraftwerksprojekte",
@@ -352,7 +533,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/gesamtprojektleiter-m-w-d-dezentrale-energieanlagen-kraftwerksprojekte-at-n-o-c-engineering-gmbh-4486666138"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "M&A Associate | Renewable Energy (m/w/d)",
@@ -376,7 +558,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/m-a-associate-renewable-energy-m-w-d-at-esmerapartners-gmbh-4486640717"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Limnologe (m/w/d) Limnologische Analytik und Gewässermonitoring",
@@ -400,7 +583,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/limnologe-m-w-d-limnologische-analytik-und-gew%C3%A4ssermonitoring-at-zweckverband-bodensee-wasserversorgung-4486638471"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Werkschutzkraft (m/w/d) – Einstieg ohne Erfahrung möglich!",
@@ -424,7 +608,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/werkschutzkraft-m-w-d-%E2%80%93-einstieg-ohne-erfahrung-m%C3%B6glich%21-at-eduvia-bildungsakademie-gmbh-4487608574"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Projektleiter / AVOR Holzbau",
@@ -448,7 +633,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-avor-holzbau-at-krattiger-holzbau-ag-krattiger-konzept-ag-4488493995"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Rayonleiter:in Nonfood",
@@ -472,7 +658,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/rayonleiter-in-nonfood-at-coop-4479370398"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Stv. Rayonleiter:in Früchte/Gemüse",
@@ -496,7 +683,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/stv-rayonleiter-in-fr%C3%BCchte-gem%C3%BCse-at-coop-4479372295"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Quereinsteiger im Sicherheitsbereich (m/w/d)",
@@ -520,7 +708,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/quereinsteiger-im-sicherheitsbereich-m-w-d-at-eduvia-bildungsakademie-gmbh-4487615173"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Production Planner",
@@ -544,7 +733,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/production-planner-at-la-prairie-switzerland-4454070069"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Technical Project Lead Embedded Systems (m/w/d)",
@@ -568,7 +758,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/technical-project-lead-embedded-systems-m-w-d-at-onyx-circle-4470485096"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Projektleiter:in Kunstbauten 80-100% - Winterthur",
@@ -592,7 +783,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-kunstbauten-80-100%25-winterthur-at-afry-4334680094"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Leiterin / Leiter Kantonales Sozialamt, 100 %",
@@ -618,7 +810,8 @@
    "links": {
     "jobroom": "https://www.sozialinfo.ch/arbeitsmarkt/stellenportal/leiterin-leiter-kantonales-sozialamt-100-y8oWEGqd/"
    },
-   "first_seen": "2026-11-08"
+   "first_seen": "2026-11-08",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter Straßenrecht und Verwaltungsverfahren (m/w/d)",
