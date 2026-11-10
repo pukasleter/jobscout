@@ -1,0 +1,1155 @@
+{
+ "generated_at": "2026-11-10T08:31:10+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 208,
+   "google_jobs": "deaktiviert",
+   "linkedin": 250,
+   "jobroom": 28
+  },
+  "excluded": 358,
+  "unique": 109,
+  "new": 47,
+  "carried_over": 0
+ },
+ "errors": {},
+ "jobs": [
+  {
+   "title": "LEHRKRAFT (M/W/D) FÜR ELEMENTARE MUSIKPÄDAGOGIK (EMP)",
+   "company": "Stadtverwaltung Konstanz",
+   "location": "Konstanz",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003987390-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die Musikschule Konstanz, 1984 gegründet, ist ein Betriebsteil des kommunalen Eigenbetriebs OMK (Orchesterkultur und Musikbildung Konstanz).\n86 engagierte Lehrkräfte unterrichten in nahezu 1.900 Belegungen fast alle musikalischen Facetten. Die Musikschule fördert nicht nur talentierte SchülerInnen in einer speziellen Begabtenklasse, sondern kooperiert auch mit allgemeinbildenden Schulen, Musikvereinen und kirchlichen Einrichtungen. Zudem engagiert sich die Musikschule in der frühkindlichen Bildung durch Kooperationen mit Kitas, einschließlich des Landesförderprogramms SBS (Singen - Bewegen - Sprechen). Projekte wie „Kultur macht stark“ sowie Seniorenarbeit und die Unterstützung von Menschen mit Beeinträchtigungen sind ebenfalls Teil des vielfältigen Angebots. Die Musikschule ist an 28 Orten in Konstanz präsent und hat ihren Hauptsitz in einem zentral gelegenen denkmalgeschützten ehemaligen Kloster. Die Musikschule Konstanz trägt somit aktiv zur kulturellen Bildung und Integration in der Region bei.\nKlingt interessant für Sie? Dann freuen wir uns auf Ihre Bewerbung.\nDIE MUSIKSCHULE KONSTANZ SUCHT ZUM 01.03.2027:\n**LEHRKRAFT (M/W/D) FÜR ELEMENTARE MUSIKPÄDAGOGIK (EMP)**\n### Mit den Aufgabenschwerpunkten:\n- Unterricht in allen Formaten der elementaren Musikpädagogik im Vorschulalter und darüber hinaus (Eltern-Kind-Gruppen, musikalische Früherziehung etc.)\n- Je nach Qualifikation Unterricht in einem instrumentalen Zweitfach. Ergänzend kann auch Unterricht im Förderprogramm \"Kolibri\" des Landes im Fach \"Singen-Bewegen-Sprechen\" hinzukommen\n- Mitarbeit bei der Entwicklung neuer Angebote und Vorbereitung von Veranstaltungen und Aufführungen\n### DAS BIETEN WIR:\n- Eine unbefristete Teilzeitstelle (19,5 Std./Woche) mit allen Leistungen des öffentlichen Dienstes\n- Eine Vergütung nach EG 9b TVöD (1.889 € – 2.656 €)\n- Die Mitarbeit in einer modernen, erfolgreichen Bildungseinrichtung mit rund 1.900 SchülerInnen\n- Eine kollegiale Arbeitsatmosphäre mit einem künstlerisch und pädagogisch hoch qualifizierten Kollegium mit vielen Möglichkeiten, sich künstlerisch und pädagogisch zu entfalten\n- Ein attraktives Arbeitsumfeld in einem eigenen, sehr gut ausgestatteten historischen Gebäude in zentraler Lage von Konstanz\n- Jahressonderzahlung und Leistungsentgelt\n- Betriebliche Altersvorsorge\n- **Mobilitätszuschuss:**\nJobticket-Zuschuss zum ÖPNV\n- **Betriebliche Gesundheitsförderung:**\nIhre Gesundheit liegt uns am Herzen. Daher bieten wir verschiedene Gesundheitsförderungsprogramme an – inklusive Firmenfitness mit Epassi (ehemals Hansefit)\n- Fachliche Weiterbildungsmöglichkeiten\n### DAS BRINGEN SIE MIT:\n- Ein abgeschlossenes musikpädagogisches Hochschulstudium im Fach \"Elementare Musikpädagogik\" oder einen vergleichbaren Abschluss\n- Eventuell ein instrumentales Zweitfach und/oder ein SBS-Zertifikat\n- Motivation,  Engagement und Teamfähigkeit\n- Interesse an Kooperationsprojekten\n- Offenheit für neue Unterrichtskonzepte und -ideen\n**KONTAKT:**\nBei Fragen zum Aufgabengebiet:\nDieter Dörrenbächer\nMusikschule Konstanz\n07531 80231 0\n**BEWERBUNG & WEITERE INFOS:**\nBewerben Sie sich bis zum **22.11.2026** unter Angabe der **Kennzahl 713-2026**.\nDie Stadtverwaltung Konstanz als Unterzeichnerin der Charta der Vielfalt fördert Gleichstellung und Diversität. Daher laden wir alle qualifizierten Personen ein, sich um die ausgeschriebene Position zu bewerben, unabhängig von Geschlecht, ethnischer und sozialer Herkunft, Religion / Weltanschauung, Behinderung, Alter sowie sexueller Identität.\nDie Vorstellungsgespräche sind für den 07.12., 08.12. und 10.12.2026 vorgesehen.\nWeitere Infos zum Arbeitgeber Stadt Konstanz finden Sie unter [konstanz.de/karriere](https://www.konstanz.de/karriere/).\nDas Stellenangebot mit der Möglichkeit zur direkten Online-Bewerbung finden Sie unter [Lehrkraft (m/w/d) für elementare Musikpädagogik (EMP) | Bewerbungsportal](https://konstanz.bewerbung.dvvbw.de/2748-lehrkraft-m-w-d-fuer-elementare-musikpaedagogik-emp/de/job.html).",
+   "extra": {
+    "refnr": "10001-1003987390-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "56d60a31e841b282",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003987390-S"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Sachgebietsleitung Personalentwicklung (m/w/d)",
+   "company": "Stadt Ravensburg",
+   "location": "88212 Ravensburg, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208604387-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Wir suchen Sie als\n### Sachgebietsleitung Personalentwicklung (m/w/d)\n**zum nächstmöglichen Zeitpunkt**\n**Ihre Aufgaben in unserem Hauptamt**\n- Sie leiten ein Team von 5 Mitarbeitenden und sind somit u.a. für die Themen Personalentwicklung, Ausbildung, Betriebliches Gesundheitsmanagement, Arbeitsschutz und Arbeitszeit verantwortlich\n- Sie stärken die Bindung unserer Mitarbeitenden durch die Entwicklung und Umsetzung geeigneter Personalentwicklungs- und Retentionsmaßnahmen\n- Sie gestalten die Arbeitgeberattraktivität der Stadt Ravensburg aktiv mit, entwickeln unsere Arbeitgebermarke weiter und konzipieren Maßnahmen des Personalmarketings und der Öffentlichkeitsarbeit\n- Sie analysieren und optimieren unsere Recruiting-Prozesse und entwickeln Sourcing Strategien\n**Wir erwarten von Ihnen**\n- abgeschlossenes Studium in gehobenen nichttechnischen Verwaltungsdienst (Diplom-Verwaltungswirt/in bzw. Bachelor of Arts Public Management) oder ein abgeschlossenes Hochschulstudium mit Schwerpunkt Personalmanagement\n- idealerweise Berufserfahrung in den Bereichen Personalgewinnung, Personalentwicklung oder Personalmarketing\n- Fähigkeit, komplexe Fragestellungen strukturiert zu analysieren und praxisnahe sowie zielgruppengerechte Lösungen zu entwickeln\n- Freude an der konzeptionellen Gestaltung neuer Themen und Projekte sowie an deren erfolgreicher Umsetzung\n- Gespür für eine ansprechende und zielgruppengerechte Kommunikation\n- Fähigkeit, Mitarbeitende für eigenverantwortliches Handeln zu gewinnen und Veränderungsprozesse aktiv zu gestalten\n**Wir bieten Ihnen**\n- eine Anstellung im Beamtenverhältnis bis Bes.-Gr. A 12 oder eine tarifliche Anstellung bis Entgeltgruppe 11 TVöD (je nach Erfahrungsstufe von 4.269,64€ bis 6.326,77€); alle Beträge sind monatliche Bruttowerte bei Vollzeitbeschäftigung\n- flexible Arbeitszeiten mit der Möglichkeit zum mobilen Arbeiten\n- Zuschuss zum Job-Deutschland-Ticket oder bei Fahrradnutzung\n- Betriebssport- und Firmenfitnessangebote, u. a. EGYM Wellpass\n- zusätzliches Leistungsentgelt, Jahressonderzahlungen, betriebliche Zusatzversorgung und Vermögenswirksame Leistungen.\nMein Ravensburg - für diese Stadt tragen wir gerne die Verantwortung!\nMit über 800 Kolleginnen und Kollegen schaffen wir Großes!  Wir sind mo­dern und innovativ und leben Zusammenhalt und gegenseitige Wertschät­zung. Bewegen Sie die Stadt mit uns!\nNähere Auskünfte erhalten Sie von Martina Link, Tel. 0751 82-1312.\nBewerben Sie sich jetzt über unser Online-Portal - spätestens jedoch bis **29.11.2026&#32;**unter **www.ravensburg.de/jobs**.  Dort finden Sie auch wei­tere Informationen zur Bezahlung.\nMachen ist wie wollen - nur viel besser.  Wir freuen uns auf Sie!",
+   "extra": {
+    "refnr": "10000-1208604387-S",
+    "query": "Personalentwicklung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "ae580f9c2a08d4dc",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208604387-S"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Kaufmännische Fachkraft Buchhaltung & Personal (m/w/d), Teilzeit 60-80 %",
+   "company": "freiraum - Faszination Garten",
+   "location": "78244 Gottmadingen",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208597899-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "**Wir planen und bauen hochwertige Gärten im Hegau, Bodensee und rund um Schaffhausen.**\n**Unser Team aus 12 Personen, davon 5 Azubis, braucht im Büro Verstärkung.**\n**&#32;**\n**Sie halten uns kaufmännisch den Rücken frei, damit draußen gute Arbeit entsteht.**\n**Ihre Aufgaben bei uns:**\n- Vorbereitende Buchhaltung und Belegaufbereitung für unser Steuerbüro\n- Personalverwaltung: Einstellungen und Austritte, Personalunterlagen\n- Stundenzettel prüfen und an das Steuerbüro weitergeben\n- Prüfung  und Überwachung von Kundenrechnungen, Mahnwesen\n**Sie bringen mit:**\n- Abgeschlossene kaufmännische Ausbildung\n- Berufserfahrung in Buchhaltung und in der Personalverwaltung\n- Kenntnisse von DATEV wären von Vorteil, sind aber nicht zwingend nötig\n- Sie arbeiten selbstständig, genau und zuverlässig\n**Das bieten wir:**\n- Teilzeit mit mindestens 60%, Einteilung nach Absprache\n- Mobiles Arbeiten teilweise möglich\n- Kleiner Betrieb, kurze Wege, direkter Draht zur Geschäftsführung\n- Leistungsgerechte Bezahlung\n- Arbeitsvertrag nach dem Manteltarifvertrag des Garten und Landschaftsbau\nMöchten Sie Ihre Fachkompetenz flexibel in ein dynamisches Team einbringen?\n**Wir freuen uns auf Ihre Kontaktaufnahme!**",
+   "extra": {
+    "refnr": "10000-1208597899-S",
+    "query": "Buchhaltung Teilzeit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "b2776fce44c8d58d",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208597899-S"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Agenturleiter/in Allbranchenversicherung Agentur Winterthur",
+   "company": "Visana Versicherungen",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/agenturleiter-in-allbranchenversicherung-agentur-winterthur-at-visana-versicherungen-4487908332",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5cdc5adc9ea2065a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/agenturleiter-in-allbranchenversicherung-agentur-winterthur-at-visana-versicherungen-4487908332"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Zentraler Praxisanleiter (m/w/d)",
+   "company": "Gesundheitsverbund Landkreis Konstanz",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/zentraler-praxisanleiter-m-w-d-at-gesundheitsverbund-landkreis-konstanz-4487161559",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "Sie sind Pflegefachkraft (m/w/d) und geben Ihr Wissen gerne an andere weiter? Dann gestalten Sie mit uns die Zukunft der Pflege! Als Praxisanleiter:in begleiten Sie unsere Auszubildenden im Arbeitsalltag, fördern ihre fachliche Entwicklung und sorgen für eine strukturierte, praxisnahe Ausbildung. Als Gesundheitsverbund Landkreis Konstanz mit Standorten in Singen, Konstanz, Engen und Gailingen geben wir alles für die Gesundheit unserer Patientinnen und Patienten, von der Vorsorge über die Akutmedizin und Pflege bis hin zur Rehabilitation. Zentraler Praxisanleiter (m/w/d) für verschiedene Fachbereiche am Klinikum Konstanz in Voll- oder Teilzeit zum nächstmöglichen Zeitpunkt Was Sie erwartet: Sie tragen die Verantwortung für die betriebliche Pflegeausbildung Sie sind Ansprechpartner:in für die Auszubildenden Methodisch und fachlich auf hohem Niveau fördern Sie die Auszubildenden und Pflegestudierenden zu eigenverantwortlichem Handeln und unterstützen sie in der Klärung und Entwicklung der Rolle einer professionellen Pflegekraft Planung und Durchführung der gesetzlich vorgeschriebenen, individuellen Praxisanleitungszeiten der Auszubildenden und Studierenden fällt ebenfalls in Ihren Zuständigkeitsbereich Sie führen alle erforderlichen Fachgespräche mit den Auszubildenden im Rahmen der Einsätze Sie wirken bei praktischen Probe- und Zwischenprüfungen sowie als Fachprüfende:r bei den praktischen Examina mit Sie unterstützen bei der Gestaltung und Weiterentwicklung der praktischen Ausbildungsinhalte Sie initiieren Projekte im Bereich der betrieblichen Bildung oder nehmen an solchen aktiv teil Sie gestalten Einarbeitungsprozesse und fördern persönliche Entwicklung Teilnahme an Berufsinformationsveranstaltungen, Praxisanleitungskonferenzen und berufspädagogischen Fortbildungen im Rahmen der gesetzlichen Verpflichtung sind für Sie selbstverständlich Wer Sie sind: Sie haben eine dreijährige Pflegeausbildung erfolgreich abgeschlossen Sie verfügen über eine abgeschlossene Weiterbildung zur/zum Praxisanleiter:in Idealerweise haben Sie ein Studium Pflegewissenschaft oder Pflegepädagogik auf Bachelorniveau absolviert oder sind bereit ein solches Studium zu absolvieren Sie bringen ein hohes Maß an Fach- und Sozialkompetenz mit Sie zeigen Empathie im Umgang mit Auszubildenden und neuen Mitarbeiter:innen Sie sind offen für Veränderungen und treiben Prozessoptimierungen aktiv voran Sie arbeiten strukturiert und zeichnen sich durch Teamgeist und Kooperationsfähigkeit aus Für eine sichere Kommunikation mit unseren Patientinnen und Patienten, Angehörigen sowie im interdisziplinären Team verfügen Sie über Deutschkenntnisse auf mindestens Sprachniveau B2 Worauf Sie sich freuen können: Vergütung: Die Vergütung erfolgt nach TVöD in der Entgeltgruppe P 8. Das Grundgehalt beträgt ca. 3.701,21 € – 4.488,98 € pro Monat in Vollzeit. Die konkrete Stufenzuordnung richtet sich nach Ihrer einschlägigen Berufserfahrung. Zusätzlich profitieren Sie von tariflichen Zulagen und Zuschlägen Ihr Einsatz verdient mehr: Freuen Sie sich auf bis zu 39 Tage Urlaub (bei Gewährung von Zusatzurlaub für Nacht- und Bereitschaftsdienste), eine Jahressonderzahlung, ein Leistungsentgelt (LOB) sowie eine betriebliche Altersvorsorge Pflege gestalten: Freuen Sie sich auf ein verantwortungsvolles und spannendes Aufgabengebiet Kontinuierliche Weiterentwicklung: Zur Erweiterung und Spezialisierung im Rahmen unserer Fachkarriere unterstützen wir Ihre berufliche Entwicklung durch gezielte Fort- und Weiterbildungsmaßnahmen und Studium Technische Unterstützung: Profitieren Sie von den Vorteilen der digitalen Patientendokumentation und des Unit-Dose-Systems für eine individuelle und sichere Medikamentenvergabe „pflegeattraktiv“-Zertifizierung: Ein Startschuss für innovative Mitarbeiterpartizipation – setzen Sie gemeinsam mit uns Projekte um, die das pflegerische Arbeitsumfeld nachhaltig verbessern Flexibel unterwegs: Nutzen Sie die Zuzahlung zum Job-Ticket des VHB oder Deutschlandticket, das …",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "51456b71c2488dba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/zentraler-praxisanleiter-m-w-d-at-gesundheitsverbund-landkreis-konstanz-4487161559"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Specialist Performance Management (m/w/d)",
+   "company": "BIPSO GmbH",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/specialist-performance-management-m-w-d-at-bipso-gmbh-4489443018",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "fee64dd3a9b336e3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/specialist-performance-management-m-w-d-at-bipso-gmbh-4489443018"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Hygienefachkraft oder Hygienefachkraft in Weiterbildung (m/w/d)",
+   "company": "Gesundheitsverbund Landkreis Konstanz",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/hygienefachkraft-oder-hygienefachkraft-in-weiterbildung-m-w-d-at-gesundheitsverbund-landkreis-konstanz-4487169103",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ee7a8f33b078d4a4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/hygienefachkraft-oder-hygienefachkraft-in-weiterbildung-m-w-d-at-gesundheitsverbund-landkreis-konstanz-4487169103"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Technical Writer and Graphic Designer (m/f/d)",
+   "company": "Tintschl Unternehmensgruppe",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/technical-writer-and-graphic-designer-m-f-d-at-tintschl-unternehmensgruppe-4488873133",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d737e93d5a2d85b3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/technical-writer-and-graphic-designer-m-f-d-at-tintschl-unternehmensgruppe-4488873133"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Safety Improvement Manager (m/w/d)",
+   "company": "Rolls-Royce",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/safety-improvement-manager-m-w-d-at-rolls-royce-4486558896",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "833dd7a7e48bb1aa",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/safety-improvement-manager-m-w-d-at-rolls-royce-4486558896"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Produktmanagement Bekleidung & Accessoires (m/w/d)",
+   "company": "texwork",
+   "location": "Bodman-Ludwigshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktmanagement-bekleidung-accessoires-m-w-d-at-texwork-4487768717",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "72b98f32a11fe09e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktmanagement-bekleidung-accessoires-m-w-d-at-texwork-4487768717"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Secretary Administrator (m/w/d)",
+   "company": "Rolls-Royce Power Systems",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/secretary-administrator-m-w-d-at-rolls-royce-power-systems-4489192206",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8a3918606a7b9a6e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/secretary-administrator-m-w-d-at-rolls-royce-power-systems-4489192206"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Assistenz der Rechtsabteilung (m/w/d)",
+   "company": "Sunovis GmbH",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/assistenz-der-rechtsabteilung-m-w-d-at-sunovis-gmbh-4489400326",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "f5878d3c0cd5d9d4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/assistenz-der-rechtsabteilung-m-w-d-at-sunovis-gmbh-4489400326"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Leiter Finanzbuchhaltung (m/w/d)",
+   "company": "Amcor",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leiter-finanzbuchhaltung-m-w-d-at-amcor-4488899357",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c4bd3aa4275e1241",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leiter-finanzbuchhaltung-m-w-d-at-amcor-4488899357"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Praxissemester für Studierende (m/w/d) im Bereich Qualität Automotive",
+   "company": "Constellium",
+   "location": "Gottmadingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/praxissemester-f%C3%BCr-studierende-m-w-d-im-bereich-qualit%C3%A4t-automotive-at-constellium-4488880946",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2426f9a7e6e2159d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/praxissemester-f%C3%BCr-studierende-m-w-d-im-bereich-qualit%C3%A4t-automotive-at-constellium-4488880946"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Anlagenführer/Maschinenbediener (m/w/d)",
+   "company": "Heimerle + Meule GmbH",
+   "location": "Stockach, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/anlagenf%C3%BChrer-maschinenbediener-m-w-d-at-heimerle-%2B-meule-gmbh-4489128087",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b0cd850e6ad233e9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/anlagenf%C3%BChrer-maschinenbediener-m-w-d-at-heimerle-%2B-meule-gmbh-4489128087"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Einrichtungsleitung (m/w/d) mind. 80%",
+   "company": "Kath. Verwaltungszentren der Diözese Rottenburg-Stuttgart",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/einrichtungsleitung-m-w-d-mind-80%25-at-kath-verwaltungszentren-der-di%C3%B6zese-rottenburg-stuttgart-4487175616",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "33d651b266b85ed9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/einrichtungsleitung-m-w-d-mind-80%25-at-kath-verwaltungszentren-der-di%C3%B6zese-rottenburg-stuttgart-4487175616"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Secretary Administrator (m/w/d)",
+   "company": "Rolls-Royce",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/secretary-administrator-m-w-d-at-rolls-royce-4488303323",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4f5a1f758a5c4453",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/secretary-administrator-m-w-d-at-rolls-royce-4488303323"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Incident & Emergency Manager (m/w/d)",
+   "company": "Rolls-Royce",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/incident-emergency-manager-m-w-d-at-rolls-royce-4486573523",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "fb6ecdfa2b77df52",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/incident-emergency-manager-m-w-d-at-rolls-royce-4486573523"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Manager (m/w/d) Material Flow Optimization & Performance",
+   "company": "Rolls-Royce Power Systems",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/senior-manager-m-w-d-material-flow-optimization-performance-at-rolls-royce-power-systems-4489178669",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "a0091b30c5c437b1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/senior-manager-m-w-d-material-flow-optimization-performance-at-rolls-royce-power-systems-4489178669"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Manager (m/w/d) Material Flow Optimization & Performance",
+   "company": "Rolls-Royce",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/senior-manager-m-w-d-material-flow-optimization-performance-at-rolls-royce-4487991920",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "0139c601fb228c35",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/senior-manager-m-w-d-material-flow-optimization-performance-at-rolls-royce-4487991920"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Lehrling zur/m Einzelhandelskauffrau/mann",
+   "company": "FUSSL Modestraße",
+   "location": "Braunau, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/lehrling-zur-m-einzelhandelskauffrau-mann-at-fussl-modestra%C3%9Fe-4489410970",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "Wir Suchen Dich Als Lehrling zur/m Einzelhandelskauffrau/mann Wochenstunden: 38,5 Braunau - Interspar Erlachweg 13 5280 Braunau Wir Bieten Dir - Teamprämien für ausgezeichnete Verkaufserfolge - 30% Personalrabatt auf unsere aktuelle Mode - Aus- & Weiterbildung in der FUSSL Akademie > kostenfrei & in der Arbeitszeit - Karrieremöglichkeiten für engagierte Mitarbeiter:innen Das Erwartet Dich Beratung von Kunden in Stil- und Modefragen Abwicklung Kassentätigkeit & Kundenservice Sortimentspflege selbstständige & kreative Warenpräsentation Das Bist Du positiv abgeschlossene Pflichtschule Interesse und Leidenschaft für Mode Spaß am Umgang mit Menschen offenes, freundliches und positives Auftreten Motivation und Teamgeist Für diese Position gilt auf Basis einer Vollbeschäftigung (38,5 Wochenstunden) ein KV-Mindestjahresgehalt von € 14.364,- brutto jährlich. Interessiert? Wir freuen uns auf deine Bewerbung Bewerbungsbogen Frau Herr Divers Anrede Vorname Nachname Strasse Hausnummer PLZ Ort Österreich Deutschland Italien Kroatien Schweiz Slowakei Slowenien Tschechien Ungarn Sonstige Land Geburtsdatum EMail-Adresse EMail-Adresse bestätigen Telefonnummer Zusätzliche Bemerkungen Formulare Verpflichtende Dokumente Lebenslauf Hier klicken zum Upload PDF, DOCX, JPG, PNG (MAX. 5MB) Foto Hier klicken zum Upload PDF, DOCX, JPG, PNG (MAX. 5MB) Weitere Dokumente Motivationsschreiben Hier klicken zum Upload PDF, DOCX, JPG, PNG (MAX. 5MB) Ausbildungsnachweise Hier klicken zum Upload PDF, DOCX, JPG, PNG (MAX. 5MB) Dienstzeugnisse Hier klicken zum Upload PDF, DOCX, JPG, PNG (MAX. 5MB) Show more Show less Seniority level Not Applicable Employment type Full-time Industries Retail Referrals increase your chances of interviewing at FUSSL Modestraße by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "fc837a492eb162a4",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/lehrling-zur-m-einzelhandelskauffrau-mann-at-fussl-modestra%C3%9Fe-4489410970"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "ICT-Supporter:in",
+   "company": "Forster Profile Systems",
+   "location": "Romanshorn, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/ict-supporter-in-at-forster-profile-systems-4487465138",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "423dae9c98515c7d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/ict-supporter-in-at-forster-profile-systems-4487465138"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Ladenleiter-Stellvertreterin/Ladenleiter-Stellvertreter Region Frauenfeld TG w/m/d",
+   "company": "Volg Konsumwaren AG",
+   "location": "Felben-Wellhausen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/ladenleiter-stellvertreterin-ladenleiter-stellvertreter-region-frauenfeld-tg-w-m-d-at-volg-konsumwaren-ag-4487902698",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1a4b294902147e31",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/ladenleiter-stellvertreterin-ladenleiter-stellvertreter-region-frauenfeld-tg-w-m-d-at-volg-konsumwaren-ag-4487902698"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Leiter:in Sicherheit 100%",
+   "company": "yellowshark® AG",
+   "location": "Bottighofen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-sicherheit-100%25-at-yellowshark%C2%AE-ag-4487173549",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b0d0b6fb6ce56813",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-sicherheit-100%25-at-yellowshark%C2%AE-ag-4487173549"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Information Technology Support Specialist",
+   "company": "Nicoll Curtin",
+   "location": "Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/information-technology-support-specialist-at-nicoll-curtin-4488832637",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b3e5f4d474def0ec",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/information-technology-support-specialist-at-nicoll-curtin-4488832637"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Sachbearbeitung Kundendienst",
+   "company": "Hans Eisenring AG",
+   "location": "Münchwilen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sachbearbeitung-kundendienst-at-hans-eisenring-ag-4487907770",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7a21146c0bcc3235",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeitung-kundendienst-at-hans-eisenring-ag-4487907770"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Accountant (a)",
+   "company": "Baumer Group",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-accountant-a-at-baumer-group-4487181434",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "01c0a813e7f4ae12",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-accountant-a-at-baumer-group-4487181434"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Stv. Leiter/-in Restauration",
+   "company": "Spital Thurgau AG",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/stv-leiter-in-restauration-at-spital-thurgau-ag-4489137048",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "06f1249f39eb3ed8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/stv-leiter-in-restauration-at-spital-thurgau-ag-4489137048"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Manufacturing Trainings Specialist - Vulcanizing",
+   "company": "VAT GROUP",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/manufacturing-trainings-specialist-vulcanizing-at-vat-group-4488836818",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "Location: Haag, St. Gallen, CH Employment Type: Permanent About VAT Group At VAT, we change the world with vacuum solutions. As the world’s leading supplier of high-performance vacuum valves, we have been driving innovation for more than 60 years. With over 3,200 employees worldwide, we operate from our headquarters in Haag, Switzerland, with manufacturing sites in Switzerland, Malaysia and Romania, as well as sales and service hubs around the world. We are guided by our passions: integrity, teamwork, customer centricity, and innovation – always working together as #oneVAT. Joining us means becoming part of a passionate, international team where your voice is heard, your ideas matter, and your career growth is supported. Purpose of the Role In this role, you will be responsible for the qualification, training, and development of employees within the Vulcanizing area. By delivering effective training programs and ensuring compliance with qualification standards, you will play a key role in supporting product quality, process reliability, and the successful onboarding of employees in a dynamic manufacturing environment. Responsibilities Plan, coordinate, and deliver foundational and job-specific training programs within the Vulcanizing area. Ensure structured and role-based qualification of new and existing employees. Organize, conduct, and document initial certifications and re-certifications. Monitor training progress and ensure compliance with defined qualification requirements. Analyze knowledge assessments and identify required refresher and development training activities. Develop, maintain, and continuously improve training materials and training concepts in collaboration with operational departments and Quality Assurance. Support the continuous improvement of training, qualification, and onboarding processes. Provide technical guidance and coaching to employees throughout their onboarding and qualification journey. Participate in cross-functional and global training and qualification initiatives. Qualifications Completed vocational training and/or further education in Mechanical Engineering, Production Engineering, Manufacturing, or a comparable technical discipline. Very good written and spoken German and English skills. Several years of experience in an industrial manufacturing environment. Strong knowledge of production and manufacturing processes. Experience in employee training, onboarding, coaching, or qualification programs is advantageous. Strong quality mindset with a structured and self-directed approach to work. Ability to communicate technical knowledge clearly and effectively to different audiences. High level of interpersonal skills, empathy, and enthusiasm for working with people from diverse backgrounds and experience levels. Motivating personality with strong coaching skills and a role-model mindset. Excellent communication and teamwork skills. Proficiency in Microsoft Office applications. Our commitment to inclusion, fairness and equal opportunities We believe in meaningful careers, continuous learning, and equal opportunities for everyone to drive our innovation and success. We welcome applicants from all backgrounds and are dedicated to fostering an inclusive and respectful workplace. If you have concerns, our compliance channel is available at our website. All reports are handled with strict confidentiality and in accordance with our Code of Conduct. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Semiconductor Manufacturing Referrals increase your chances of interviewing at VAT GROUP by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d18c93e235e94659",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/manufacturing-trainings-specialist-vulcanizing-at-vat-group-4488836818"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Digital Transformation Manager",
+   "company": "Darwin Recruitment",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/digital-transformation-manager-at-darwin-recruitment-4487919034",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ecd00ab1c7bb68e6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/digital-transformation-manager-at-darwin-recruitment-4487919034"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Fachspezialist/in HR und Lohn (m/w/d)",
+   "company": "Rocken®",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachspezialist-in-hr-und-lohn-m-w-d-at-rocken%C2%AE-4487913211",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1b16f88c7bed46eb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialist-in-hr-und-lohn-m-w-d-at-rocken%C2%AE-4487913211"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Administrative Assistant",
+   "company": "Institut auf dem Rosenberg",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/administrative-assistant-at-institut-auf-dem-rosenberg-4488856674",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e67ad62d33c491a7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/administrative-assistant-at-institut-auf-dem-rosenberg-4488856674"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Solution Architect AI (all genders)",
+   "company": "valantic",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/solution-architect-ai-all-genders-at-valantic-4398699413",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3333423b2e0daf82",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/solution-architect-ai-all-genders-at-valantic-4398699413"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Sozialpädagogin / Sozialpädagogen FH/HF",
+   "company": "HUMRES AG",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagogen-fh-hf-at-humres-ag-4488892146",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ba657f5e658d79f7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagogen-fh-hf-at-humres-ag-4488892146"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Office Assistant/Event Coordinator",
+   "company": "Holcim Latinoamérica",
+   "location": "Kirchberg, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/office-assistant-event-coordinator-at-holcim-latinoam%C3%A9rica-4487447296",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4cb13ebe6affeba6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/office-assistant-event-coordinator-at-holcim-latinoam%C3%A9rica-4487447296"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Fachspezialist Finanz- und Rechnungswesen (w/m/d) Teilzeit/Vollzeit",
+   "company": "Helvetia Schweiz",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-fachspezialist-finanz-und-rechnungswesen-w-m-d-teilzeit-vollzeit-at-helvetia-schweiz-4489173882",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9df9ac20f1de51de",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-fachspezialist-finanz-und-rechnungswesen-w-m-d-teilzeit-vollzeit-at-helvetia-schweiz-4489173882"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Greffier/-ère de Cour I, Do 1-6, langue principale allemande",
+   "company": "Bundesverwaltungsgericht – Federal Administrative Court",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/greffier-%C3%A8re-de-cour-i-do-1-6-langue-principale-allemande-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4486066820",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "58ba2aa71ab68a83",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/greffier-%C3%A8re-de-cour-i-do-1-6-langue-principale-allemande-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4486066820"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Maschinenbediener/in Umformtechnik (m/f/d)",
+   "company": "SFS Group",
+   "location": "Heerbrugg, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/maschinenbediener-in-umformtechnik-m-f-d-at-sfs-group-4487694828",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "62e46e7748b2e031",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/maschinenbediener-in-umformtechnik-m-f-d-at-sfs-group-4487694828"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Greenkeeper*in A/B befristet 100%",
+   "company": "Migros Golf AG",
+   "location": "Waldkirch, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/greenkeeper-in-a-b-befristet-100%25-at-migros-golf-ag-4487952122",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "6c46ad927665f9d3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/greenkeeper-in-a-b-befristet-100%25-at-migros-golf-ag-4487952122"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Greenkeeper*in A/B 100%",
+   "company": "Migros Golf AG",
+   "location": "Waldkirch, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/greenkeeper-in-a-b-100%25-at-migros-golf-ag-4487949613",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "b65b96ac3829c552",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/greenkeeper-in-a-b-100%25-at-migros-golf-ag-4487949613"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "FP&A Manager",
+   "company": "Meteomatics",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fp-a-manager-at-meteomatics-4487393776",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "FP&A Manager | 80–100% | St. Gallen, Switzerland We are hiring an FP&A Manager to build the finance engine behind our next growth stage. This is a build role. You will own planning, forecasting and performance insight, and you will redesign how it works: automated, AI-assisted and decision-ready, instead of spreadsheet-driven and manual. You report to the CFO and work with the leadership team and board. What you will do Own planning and forecasting: run budget, rolling forecast and scenario planning across our data and drone businesses; make forecasts faster, more frequent and more accurate. Build an AI-first FP&A stack: design automated data pipelines and agentic workflows (variance commentary, forecast refreshes, board pack drafts, anomaly detection) on top of NetSuite, HubSpot and our main tools Turn data into decisions: deliver clear insight on ARR, retention, unit economics, margins and cash, with a point of view and a recommendation, not just numbers. Partner with the business: be the finance counterpart to Sales, RevOps, Product and Operations; challenge assumptions and support pricing, headcount and investment decisions. Own management and board reporting: monthly, quarterly and annual reporting that is accurate, on time and increasingly self-serve. Build business cases and models: investments, pricing, new markets and strategic initiatives, with clear scenarios and risks. Support fundraising and lenders: maintain the financial model and KPI data that underpin investor and bank conversations. Raise the bar: set standards for data quality, documentation and controls, and coach colleagues to use AI tools in everyday finance work. What you bring Bachelor's or Master's degree in Finance, Economics, Accounting or a related field. 3-5 years in FP&A, controlling, or finance consulting, ideally in a scale-up or tech environment. Strong modelling skills and hands-on experience with planning tools and ERP/CRM data (NetSuite, HubSpot). Demonstrated AI-first habits: you already use LLMs and automation in your work, and can show examples (e.g agent workflows). Solid grasp of recurring revenue (SaaS) business model and metrics such as ARR, NRR and churn. Sharp analytical thinking and the ability to turn complex data into a clear recommendation. Excellent English; German is a plus. Drive, curiosity and ownership: you like building, challenge the status quo and thrive in a fast-moving environment. Strong business partnering and stakeholder management skills, with experience building collaborative relationships across functions and constructively challenging senior stakeholders What we offer Build and shape the future of finance: Take ownership of key finance processes and have the freedom to introduce new tools, automation and AI-driven ways of working. Make a real business impact: Work directly with our CFO and leadership team, providing insights that influence strategic and commercial decisions. Broad exposure and responsibility: Gain visibility across the business, from commercial performance and operations to strategic investments and growth initiatives. An international, collaborative environment: Join a motivated team with flat hierarchies, short decision-making processes and the opportunity to make things happen. At Meteomatics, we're passionate about transforming how weather and climate data is used around the world. Our technology helps organisations make better decisions, achieve their business goals and protect lives and property. As we continue to grow, you'll have the opportunity to help shape how we manage our financial performance and make decisions, contributing directly to the next stage of Meteomatics' development. Still reading? We are looking forward to your application! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Information Services Referrals increase your chances of interviewing at Meteomatics by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "53 applicants"
+   },
+   "id": "7b45cfc2d77b0dcb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fp-a-manager-at-meteomatics-4487393776"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Mitarbeiter/-in Kanzlei Abt. IV mit Hauptsprache Deutsch",
+   "company": "Bundesverwaltungsgericht – Federal Administrative Court",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-kanzlei-abt-iv-mit-hauptsprache-deutsch-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4487950167",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e69044c219eac06d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-kanzlei-abt-iv-mit-hauptsprache-deutsch-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4487950167"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Branding & Design Specialist (m/w/d)",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/branding-design-specialist-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4488854431",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4a0bdcb0825a3b68",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/branding-design-specialist-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4488854431"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "PMO Coordinator",
+   "company": "BioTalent",
+   "location": "Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/pmo-coordinator-at-biotalent-4489423786",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8af1eaace62e9f7e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/pmo-coordinator-at-biotalent-4489423786"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "<em>Fachspezialistin</em> / Fachspezialist Controlling, 100 %",
+   "company": "Finanzverwaltung",
+   "location": "8200 Schaffhausen",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/e84d5301-8743-42e1-bfa1-0cf3632b2e6d",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "Für diese spannenden und vielseitigen Aufgaben suchen wir per sofort oder nach Vereinbarung zur Verstärkung unseres Teams eine motivierte Persönlichkeit als\n**<em>Fachspezialistin</em> / Fachspezialist Controlling, 100 %\n**\n**Was erwartet Sie\n**\n* Mitarbeit bei der Erstellung des Budgets und Finanzplans bis",
+   "extra": {
+    "canton": "SH",
+    "query": "Fachspezialistin Gesellschaft",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "e84d5301-8743-42e1-bfa1-0cf3632b2e6d"
+   },
+   "id": "63033737cc596e10",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.job-room.ch/job-search/e84d5301-8743-42e1-bfa1-0cf3632b2e6d"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Application Expert CAD/PDM/PLM (all genders)",
+   "company": "Griesser",
+   "location": "8355 Aadorf",
+   "country": "CH",
+   "url": "https://recruitingapp-2690.umantis.com/Vacancies/1252/Description/1",
+   "posted": "2026-11-09",
+   "salary": null,
+   "via": null,
+   "description": "Engineering-Prozessen sowie Sicherstellung einer hohen Datenqualität\n *  Leitung und Umsetzung von Digitalisierungsprojekten im Engineering- und Manufacturing-Umfeld\n *  Zentrale Schnittstelle zwischen Engineering, Operations und IT zur Abstimmung von Anforderungen und&nbsp;Koordination von Systemanpassungen\n *  <em>Evaluation</em>",
+   "extra": {
+    "canton": "TG",
+    "query": "Evaluation",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "e126e121-61f7-47b3-a553-9618f03c2b34"
+   },
+   "id": "52cc4cf43f3e560d",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://recruitingapp-2690.umantis.com/Vacancies/1252/Description/1"
+   },
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Personalberater/in RAV Heerbrugg (m/w/d)",
+   "company": "RAV Heerbrugg Amt für Wirtschaft und Arbeit",
+   "location": "9435 Heerbrugg",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/3076f824-0780-4777-9449-0dfa646646bd",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "/-mann, Sozialversicherungs-<em>Fachfrau</em>/-mann oder die Bereitschaft die Weiterbildung zur/zum <em>HR</em>-<em>Fachfrau</em>/-mann (Fachrichtung B) in Angriff zu nehmen\nBerufserfahrung aus der Personalvermittlung, Personalberatung, anspruchsvollen Kundenberatung oder enger Bezug zur Sozialversicherung\nEmpathische und lösungsorientierte",
+   "extra": {
+    "canton": "SG",
+    "query": "HR Fachfrau",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "3076f824-0780-4777-9449-0dfa646646bd"
+   },
+   "id": "6fb8ac09c62084fa",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.job-room.ch/job-search/3076f824-0780-4777-9449-0dfa646646bd"
+   },
+   "first_seen": "2026-11-10"
+  }
+ ]
+}
