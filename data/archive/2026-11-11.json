@@ -1,0 +1,432 @@
+{
+ "generated_at": "2026-11-11T07:49:06+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 208,
+   "google_jobs": "deaktiviert",
+   "linkedin": 250,
+   "jobroom": 31
+  },
+  "excluded": 383,
+  "unique": 84,
+  "new": 17,
+  "carried_over": 0
+ },
+ "errors": {},
+ "jobs": [
+  {
+   "title": "PSYCHOSOZIALE BERATUNG (w/m/d)",
+   "company": "Polizeipräsidium Ravensburg Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003993776-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Dem **Polizeipräsidium Ravensburg** mit rund 1250 Mitarbeiterinnen und Mitarbeitern obliegt die Sicherheit in den Landkreisen Ravensburg, Sigmaringen und im Bodenseekreis.\nBei der Verwaltung, Referat Personal des Polizeipräsidiums Ravensburg am **Dienstort Weingarten** ist zum nächstmöglichen Zeitpunkt **eine unbefristete Vollzeitstelle** als\n## Psychosoziale Beratung (w/m/d)\nals Tarifbeschäftigte/r zu besetzen.\n**VERWALTUNG, REFERAT PERSONAL**\nDas Referat Personal ist neben dem Referat Finanzen und dem Referat Recht und Datenschutz eines von drei Referaten in der Verwaltung des Polizeipräsidiums Ravensburg.\nDas Referat Personal ist Service-Stelle in allen Personalangelegenheiten für unsere rund 1.250 Kolleginnen und Kollegen sowie für die Organisationseinheiten unserer Dienststelle.\n**IHRE AUFGABEN**\nZu den Aufgabenschwerpunkten gehören insbesondere:\nv  Beratung, Unterstützung, Begleitung und Betreuung von Bediensteten in belastenden Lebenssituationen oder psychischen Krisen\nv  Psychosoziale Unterstützung (PSU) im Rahmen der Akutintervention\nv  Anlassbezogene Beratung von Vorgesetzten in PSU-Relevanten Fragestellungen\nv  Beratung zu und Durchführung von präventiven Maßnahmen (z.B. Vermittlung von Inhalten und Konzepten in Form von Vorträgen)\nv  Beratung zum Thema Sucht\nv  Vor- und Nachbereitung PSU-relevanter Einsatzlagen\nv  Konfliktmanagement\nv  Betriebliches Eingliederungsmanagement\nv  Erarbeitung und Umsetzung konzeptioneller, fachlicher Inhalte\nv  Mitarbeit in themenspezifischen Projektgruppen\nv  Mitwirkung bei der fachlichen Koordination Sozialer Ansprechpartner\nv  Veranstaltungsplanung im Arbeitsbereich Gesundheitsmanagement unter Berücksichtigung der verfügbaren Mittel\nv  Administrative Tätigkeiten im Bereich Gesundheitsmanagement und der Koordinierungsstelle für Mitarbeiterberatung\nv  Weitere Aufgaben auf Weisung\n**IHR PROFIL**\nv  Abgeschlossenes Hochschulstudium (Diplom FH, Bachelor) der Sozialen Arbeit bzw. Sozialpädagogik mit staatlicher Anerkennung oder mehrjährige der Fachrichtung entsprechende Berufstätigkeit wünschenswert\nv  Ausgeprägte Teamfähigkeit, hohe soziale Kompetenz und Empathievermögen\nv  Überdurchschnittliche physische und psychische Belastbarkeit, Bereitschaft zu variablen Dienstzeiten (auch außerhalb der Regelarbeits-/Dienstzeit)\nv  Ausgeprägtes Pflicht– und Verantwortungsbewusstsein\nv  Kontaktfähigkeit und Freude am Umgang mit Menschen\nv  Kommunikative Kompetenzen und die Fähigkeit, mit unterschiedlichsten Zielgruppen auch in Konfliktsituationen angemessen und zielorientiert umzugehen\nv  Ausgeprägte Organisations- und Koordinationsfähigkeit, Fähigkeit zum analytischen Denken und konzeptionellen Arbeiten\nv  Bereitschaft, zur kontinuierlichen Fort- und Weiterbildung\nv  Sehr gute mündliche und schriftliche Ausdrucksfähigkeit\nv  Fähigkeit zur Selbsteinschätzung und Reflexion\nv  Sicherer Umgang mit den gängigen PC-Programmen\nv  Fahrerlaubnis Klasse B zwingend erforderlich\nv  Gute schriftliche und mündliche Ausdruckfähigkeit sowie gute Kommunikationsfähigkeit, insbesondere auch im Zusammenhang mit telefonischen Anfragen\n**WIR BIETEN IHNEN**\nv  Eine verantwortungsvolle, abwechslungsreiche sowie herausfordernde Tätigkeit\nv  Weiterbildung im Bereich psychosoziale Beratung und Suchtberatung\nv  Ein unbefristetes Beschäftigungsverhältnis\nv  Bezahlung nach **Entgeltgruppe 10 TV – L**\nv  Einen sicheren und interessanten Arbeitsplatz mit planbaren und verlässlichen Rahmenbedingungen\nv  Als Teil der Polizei Baden-Württemberg spannende Einblicke in die Polizeiarbeit\nv  Unterstützung der Vereinbarkeit von Beruf und Familie durch flexible Arbeitszeitgestaltung im Rahmen der dienstlichen Möglichkeiten\nv  Unterstützung Ihrer Mobilität mit dem JobTicket BW und JobBike BW\nv  Betriebliche Altersvorsorge (VBL)\nv  Attraktive Angebote unseres Betrieblichen Gesundheitsmanagements\n**BESONDERE HINWEISE**\nDas Polizeipräsidium Ravensburg engagiert sich für Chancengleichheit i. S. d. Gesetzes zur Verwirklichung der …",
+   "extra": {
+    "refnr": "10001-1003993776-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "c8505d6fd75b4956",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003993776-S"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Mitarbeiter Bewerbermanagement (m/w/d) Immenstaad am Bodensee",
+   "company": "Ingenieurbüro Heimann Gunnar Heimann",
+   "location": "Immenstaad am Bodensee",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003990148-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Mitarbeiter Bewerbermanagement (m/w/d)\n**Teilzeit | Standort: 88045 Immenstaad am Bodensee**\n# Über uns\nDas Ingenieurbüro Heimann ist ein inhabergeführtes, mittelständisches Unternehmen mit langjähriger Erfahrung in der Softwareentwicklung für industrielle Anwendungen sowie in der Vermittlung und Überlassung qualifizierter Fachkräfte im IT- und Engineering-Umfeld.\nZur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Mitarbeiter (m/w/d) für die Bereiche Bewerbermanagement, Kundenbetreuung und Arbeitnehmerüberlassung. Ein Schwerpunkt der Tätigkeit liegt in der Betreuung unserer Zusammenarbeit mit Airbus sowie unserer bestehenden Kunden.\n# Ihre Aufgaben\n## Kundenbetreuung\n- Entgegennahme und Bearbeitung neuer Stellen- und Personalanfragen\n- Prüfung, Annahme oder Ablehnung eingehender Stellenangebote\n- Abstimmung des Personalbedarfs mit unseren Kunden\n- Analyse und Bewertung von Stellen- und Anforderungsprofilen\n- Bearbeitung von Rückfragen\n## Bewerbermanagement\n- Sichtung und Bewertung eingehender Bewerbungen\n- Telefonische und fachliche Vorqualifizierung von Bewerbern\n- Beurteilung der fachlichen Eignung für offene Positionen\n- Zuordnung geeigneter Kandidaten zu Kundenanfragen und Erstellung aussagekräftiger Kandidatenprofile\n- Vorstellung geeigneter Kandidaten beim Kunden sowie Koordination und Vorbereitung von Interviews\n- Proaktive Kandidatensuche (Active Sourcing) und Pflege des Talentpools\n- Prüfung von Bewerbungsunterlagen, Referenzen sowie ggf. Visa und Arbeitserlaubnissen\n- Pflege der Bewerberdaten und Bearbeitung von Zu- und Absagen\n- Einhaltung relevanter gesetzlicher und interner Vorgaben im Bewerbungsprozess\n## Arbeitnehmerüberlassung & Mitarbeiterbetreuung\n- Vorbereitung und Durchführung des Onboardings neuer Mitarbeiter\n- Verwaltung von Vertragslaufzeiten, Vertragsänderungen und -verlängerungen\n- Überwachung von Equal-Pay-Fristen und Höchstüberlassungsdauer\n- Anwendung relevanter tariflicher und gesetzlicher Regelungen\n- Abstimmung von Arbeitsschutzanforderungen\n- Einholung von Probezeit-Rückmeldungen und Kundenbeurteilungen\n- Vorbereitung von Kündigungen und Austrittsprozessen\n## Administration & Qualität\n- Pflege von Kunden- und Arbeitnehmerstammdaten\n- Pflege und Aktualisierung von E-Mail- und Dokumentvorlagen\n- Unterstützung bei der Erreichung unserer Qualitätsziele\n- Mitarbeit bei der kontinuierlichen Verbesserung der QM-Dokumentation\n- Sicherstellung einer strukturierten und vollständigen Dokumentation aller relevanten Vorgänge\n# Ihr Profil\n- Abgeschlossene kaufmännische Ausbildung oder vergleichbare Qualifikation\n- Berufserfahrung im Bereich Personal, Recruiting, Personaldienstleistung oder Kundenbetreuung von Vorteil\n- Kenntnisse im Bereich Arbeitnehmerüberlassung und AÜG sind wünschenswert\n- Sicherer Umgang mit MS Office und digitalen Bewerber- bzw. Verwaltungssystemen\n- Gute Deutsch- und Englischkenntnisse\n- Ausgeprägte Kommunikationsfähigkeit und Freude am Umgang mit Kunden und Bewerbern\n- Selbstständige, strukturierte und zuverlässige Arbeitsweise\n- Organisationsgeschick, Verantwortungsbewusstsein und Diskretion im Umgang mit personenbezogenen Daten\n# Was Sie erwartet\n- Eine vielseitige Tätigkeit zwischen Recruiting, Kundenbetreuung und Personalmanagement\n- Direkter Kontakt zu namhaften Kunden aus dem Luftfahrt- und Technologiesektor\n- Selbstständiges Arbeiten in einem erfahrenen, mittelständischen Unternehmen\n- Kurze Entscheidungswege\n- Eine langfristige Perspektive in Vollzeit oder Teilzeit\n- Flexible Arbeitszeiten nach Absprache\n- Wellpass\n# Interesse?\nWir freuen uns auf Ihre aussagekräftige Bewerbung mit Angabe Ihres möglichen Eintrittstermins und Ihrer Gehaltsvorstellung.",
+   "extra": {
+    "refnr": "10001-1003990148-S",
+    "query": "Recruiting Teilzeit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "afd0e4379385134b",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003990148-S"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Niederlassungsleiter (m/w/d)",
+   "company": "ZG Raiffeisen eG",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/niederlassungsleiter-m-w-d-at-zg-raiffeisen-eg-4489469055",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "52ff5f74f22555d1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/niederlassungsleiter-m-w-d-at-zg-raiffeisen-eg-4489469055"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "SPS-Programmierer Anlagenbau - befristet 1 Jahr (m/w/d)",
+   "company": "ep group",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sps-programmierer-anlagenbau-befristet-1-jahr-m-w-d-at-ep-group-4487863518",
+   "posted": "2026-11-11",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d7d21a62ba74a40f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sps-programmierer-anlagenbau-befristet-1-jahr-m-w-d-at-ep-group-4487863518"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Leiter Supply Chain (m/w/d)",
+   "company": "ETO GRUPPE",
+   "location": "Stockach, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leiter-supply-chain-m-w-d-at-eto-gruppe-4471916109",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "53a9182abb2245ee",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leiter-supply-chain-m-w-d-at-eto-gruppe-4471916109"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Sls Representative",
+   "company": "Zimmer Biomet",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sls-representative-at-zimmer-biomet-4443876600",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ec70332191abc3d2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sls-representative-at-zimmer-biomet-4443876600"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Leitung Mobile Dienste (m/w/d)",
+   "company": "Evangelische Heimstiftung GmbH",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leitung-mobile-dienste-m-w-d-at-evangelische-heimstiftung-gmbh-4487831764",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d0de2a778f95c8e8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leitung-mobile-dienste-m-w-d-at-evangelische-heimstiftung-gmbh-4487831764"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Front Office Manager (m/w/d)",
+   "company": "Scholz Interim",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/front-office-manager-m-w-d-at-scholz-interim-4488380119",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "985673e9cbbb704d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/front-office-manager-m-w-d-at-scholz-interim-4488380119"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Projektmanager (M/W/D) Anlagen",
+   "company": "Elma Schmidbauer GmbH",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektmanager-m-w-d-anlagen-at-elma-schmidbauer-gmbh-4487841716",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "515d5fb754aac31f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-m-w-d-anlagen-at-elma-schmidbauer-gmbh-4487841716"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Leitung Assistenzteam Immobilienfinanzierung (m/w/d)",
+   "company": "Volksbank Bodensee-Oberschwaben eG",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leitung-assistenzteam-immobilienfinanzierung-m-w-d-at-volksbank-bodensee-oberschwaben-eg-4487463560",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c5c4135348dfc447",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leitung-assistenzteam-immobilienfinanzierung-m-w-d-at-volksbank-bodensee-oberschwaben-eg-4487463560"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Kfz-Meister/Werkstattleiter (m/w/d) 2.000€ Wechselprämie - Jobbird.com",
+   "company": "Jobster",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/kfz-meister-werkstattleiter-m-w-d-2-000%E2%82%AC-wechselpr%C3%A4mie-jobbird-com-at-jobster-4488339015",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "be17931e148a18af",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/kfz-meister-werkstattleiter-m-w-d-2-000%E2%82%AC-wechselpr%C3%A4mie-jobbird-com-at-jobster-4488339015"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Hörgeräteakustiker (m/w/d)",
+   "company": "TrustJobs",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/h%C3%B6rger%C3%A4teakustiker-m-w-d-at-trustjobs-4487843394",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "adfe0b9389f40935",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/h%C3%B6rger%C3%A4teakustiker-m-w-d-at-trustjobs-4487843394"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Buchhalter*in (w/m/d) ab sofort, befristet, Teil-/Vollzeit in Überlingen-Deisendorf",
+   "company": "Der Paritätische Baden-Württemberg",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/buchhalter-in-w-m-d-ab-sofort-befristet-teil-vollzeit-in-%C3%BCberlingen-deisendorf-at-der-parit%C3%A4tische-baden-w%C3%BCrttemberg-4488645629",
+   "posted": "2026-11-11",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c3203c250c10fa78",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/buchhalter-in-w-m-d-ab-sofort-befristet-teil-vollzeit-in-%C3%BCberlingen-deisendorf-at-der-parit%C3%A4tische-baden-w%C3%BCrttemberg-4488645629"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Sachbearbeiter (m/w/d) Heizölbüro in Teilzeit (50-60%)",
+   "company": "jobsintown.de GmbH",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-m-w-d-heiz%C3%B6lb%C3%BCro-in-teilzeit-50-60%25-at-jobsintown-de-gmbh-4488381776",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5423c0d01fb775ef",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-m-w-d-heiz%C3%B6lb%C3%BCro-in-teilzeit-50-60%25-at-jobsintown-de-gmbh-4488381776"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Leitung Zahlungsverkehrsberatung / Payment (m/w/d)",
+   "company": "Volksbank Bodensee-Oberschwaben eG",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/leitung-zahlungsverkehrsberatung-payment-m-w-d-at-volksbank-bodensee-oberschwaben-eg-4487451969",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d0b7a07d1c466b0e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/leitung-zahlungsverkehrsberatung-payment-m-w-d-at-volksbank-bodensee-oberschwaben-eg-4487451969"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Leitung Amt für Kultur",
+   "company": "Stadtverwaltung Frauenfeld",
+   "location": "8500 Frauenfeld",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/cb7b41db-e72a-4f4a-8cf8-26f2ae91d9e4/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-11",
+   "salary": null,
+   "via": null,
+   "description": "Insbesondere:\n* Fachliche und personelle Führung der Abteilungen Kultur und sozialräumliche <em>Stadtentwicklung</em>\n* Strategische Weiterentwicklung des kulturellen Angebotes der Stadt Frauenfeld Organisation und Betreuung der Kulturkommission und Geschäftsführung des Vereins Kulturpool Regio Frauenfeld",
+   "extra": {
+    "canton": "TG",
+    "query": "Stadtentwicklung",
+    "workload": "70-70 %",
+    "permanent": true,
+    "jobroom_id": "e4b5f582-2647-4980-a43b-777fae5739e9"
+   },
+   "id": "b2f5b89a3b4371bf",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/cb7b41db-e72a-4f4a-8cf8-26f2ae91d9e4/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Mitarbeiter/in ICT-Support und Schul-IT",
+   "company": "Wirtschaftsschule KV Winterthur",
+   "location": "8400 Winterthur",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/f6ff5f95-dcc6-44d9-ac82-5c83ec29d456/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-10",
+   "salary": null,
+   "via": null,
+   "description": "Fähigkeitszeugnis als Kauffrau/ , Buchhändlerin/Buchhändler oder Fachmann/<em>Fachfrau</em> Kundendialog, sondern auch die Berufsmaturität Typ Wirtschaft (BM1 und BM2\\) oder Typ Dienstleistungen (BM2\\).",
+   "extra": {
+    "canton": "ZH",
+    "query": "HR Fachfrau",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "124b497b-bb98-4dfc-b7b4-637220851dec"
+   },
+   "id": "8400c6723e1af633",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/f6ff5f95-dcc6-44d9-ac82-5c83ec29d456/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-11"
+  }
+ ]
+}
