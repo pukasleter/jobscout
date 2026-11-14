@@ -1,838 +1,964 @@
 {
- "generated_at": "2026-11-13T08:06:54+00:00",
+ "generated_at": "2026-11-14T07:43:21+00:00",
  "stats": {
   "raw_per_source": {
    "arbeitsagentur": 207,
    "google_jobs": "deaktiviert",
    "linkedin": 250,
-   "jobroom": 34
+   "jobroom": 32
   },
   "excluded": 366,
   "unique": 103,
-  "new": 34,
+  "new": 39,
   "carried_over": 0
  },
  "errors": {},
  "jobs": [
   {
-   "title": "Mitarbeiter/-in Hochschulgastronomie 50% (m/w/d)",
-   "company": "Seezeit Studierendenwerk Bodensee",
+   "title": "Theaterpädagog*in & Mitarbeiter*in Junges Theater Konstanz (w/m/d)",
+   "company": "Theater Konstanz",
    "location": "78462 Konstanz",
    "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004002801-S",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004015110-S",
    "posted": null,
    "salary": null,
    "via": null,
-   "description": "### **Seezeit Studierendenwerk Bodensee** sucht zum nächstmöglichen Zeitpunkt am Standort Konstanz eine\\*n:\n# Mitarbeiter/-in Hochschulgastronomie 50% (m/w/d)\n**In einer Mensa zählt nicht nur, was auf den Teller kommt.** Genauso wichtig ist es, dass die Abläufe funktionieren und die Studierenden sich in ihrer Pause gut versorgt fühlen. Und hier kommst du ins Spiel: Als Teil des Teams der Mensa HTWG sorgst du für gut vorbereitete Speisen und einen freundlichen Kontakt zu unseren Gästen.\nSeezeit unterstützt rund 25.000 Studierende in der Bodenseeregion. Unsere Mensen, Cafeterien und Cafés sind Treffpunkte, Pausenorte und ein wichtiger Teil des Studienalltags. Wenn du gerne praktisch arbeitest, Lebensmittel wertschätzt und ein geregelteres gastronomisches Umfeld suchst, kann diese Aufgabe gut zu dir passen.\n##\n## Was deine Aufgaben bei uns ausmacht\nIn der Hochschulgastronomie greifen viele Abläufe ineinander: Vorbereitung, Ausgabe, Reinigung, Hygiene uvm. Du übernimmst Aufgaben, die im Hintergrund genauso wichtig sind wie der direkte Kontakt mit den Gästen.\n- Du bereitest Speisen, Snacks und Getränke mit vor, präsentierst sie ansprechend und gibst sie freundlich an unsere Gäste aus.\n- Du sorgst dafür, dass die Ausgabe sauber, gut bestückt und vorbereitet ist.\n- Du bestückst und überwachst die vollautomatischen Spülmaschinen, damit Geschirr, Besteck und Arbeitsmaterialien schnell wieder einsatzbereit sind.Du sortierst und verräumst sauberes Geschirr und unterstützt damit die Abläufe in Küche und Ausgabe.\n- Du reinigst Küchengeräte, Arbeitsflächen und Einrichtungen sorgfältig.\n- Du hältst die HACCP-Richtlinien ein und trägst zu sicherer Lebensmittelhygiene bei.\n- Du unterstützt gelegentlich bei Veranstaltungen, wenn Seezeit auch außerhalb des regulären Mensabetriebs im Einsatz ist.\n##\n## Was du dafür mitbringst\nWichtig ist uns, dass du Erfahrung im gastronomischen Umfeld mitbringst. Erfahrung in der Betriebsgastronomie ist hilfreich, aber kein Muss. Entscheidend ist, dass du weißt, wie wichtig Sauberkeit, Tempo, Verlässlichkeit und ein freundlicher Umgang mit Gästen im gastronomischen Alltag sind.\nDu arbeitest serviceorientiert, sorgfältig und gerne mit Lebensmitteln. Du hast einen eigenen Qualitätsanspruch und siehst auch Aufgaben, die nicht sofort im Mittelpunkt stehen, aber für einen guten Ablauf wichtig sind. Persönlich passt du gut zu uns, wenn du freundlich auftrittst, gerne im Team arbeitest, zuverlässig bist und dazulernen möchtest.\nDamit du gut mit unseren Gästen und Kolleg\\*innen kommunizieren kannst, sind Deutschkenntnisse wichtig. Wenn deine Deutschkenntnisse noch nicht ausreichen, geben wir dir bis zu zwei Jahre Zeit, sie zu verbessern, und unterstützen dich dabei.\n##\n##\n## Wie Seezeit dich dabei unterstüzt\nGute Arbeit in der Gastronomie braucht klare Rahmenbedingungen, ein verlässliches Team und planbare Arbeitszeiten. Das bietet dir Seezeit:\n- Du bekommst eine **befristete Stelle bis zum 31.12.2027** in der Hochschulgastronomie.\n- Deine Arbeitszeiten sind geregelt: **Montag bis Freitag**, regulär ohne Schicht-, Teil- oder Abenddienste.\n- Du wirst nach dem **Tarifvertrag der Länder (TV-L)** vergütet. Bei einem Stellenumfang von 50 % liegt das Gehalt in **Entgeltgruppe 2 zwischen 1.371 € und 1.692 € brutto pro Monat**.\n- Hinzu kommen **30 Tage Urlaub**, zusätzliche freie Tage am **24.12. und 31.12.** sowie eine **Jahressonderzahlung**.\n- Hinzu kommen Jahressonderzahlung, betriebliche Altersvorsorge und Gesundheitsangebote wie Hansefit oder JobRad.\n- Du arbeitest in einem sozialen Unternehmen, das Studierende im Alltag unterstützt.\n- Dich erwartet ein freundliches und **kollegiales Arbeitsklima** in einem **erfahrenen Mensateam.**\n- Seezeit fördert offene Kommunikation, unter anderem durch Mitarbeiter\\*innen-Gespräche, Newsletter, Intranet und interne Veranstaltungen.\n##\n## So bewirbst du dich\nKlingt nach einer Aufgabe, bei der du deine Erfahrung in der Gastronomie in ein verlässliches, sinnvolles Umfeld einbringen …",
+   "description": "[Das Theater Konstanz sucht **zur Spielzeit 2027/2028** **eine\\*n Theaterpädagog\\*in und Mitarbeit Junges Theater Konstanz (w/m/d)**. ](https://www.theaterkonstanz.de/site/Theater/get/documents_E-29268685/theaterkonstanz/Medien-Bibiliothek/08%20Stellenangebote/Jobs_Theaterp%C3%A4dagogik_Mitarbeit%20Junges%20Theater_09.2027.pdf)\n[Als Theaterpädagog\\*in und Mitarbeiter\\*in am Jungen Theater sind Sie zusammen im Team der Theaterpädagogik und mit dem Referat für Schulen & Gruppen für die organisatorischen Abläufe im Tagesgeschäft des Jungen Theaters sowie für die theaterpädagogischen Aktivitäten des Hauses verantwortlich. Sie arbeiten initiativ und selbstständig in enger Abstimmung mit der Leitung Junges Theater Konstanz und der Dramaturgie.](https://www.theaterkonstanz.de/junges+theater)\n[Als Regiebetrieb der Stadt Konstanz geben wir rund 120 Beschäftigten ein berufliches Zuhause.](https://www.theaterkonstanz.de/haus/menschen) Theaterpädagogik am Theater Konstanz ermöglicht Zugang zum Theater durch Vermittlungsangebote zur Rezeption der Theaterstücke und durch partizipative Angebote, in denen das eigene Spiel der Kinder, Jugendlichen und auch von Erwachsenen gefördert wird. Zur Zielgruppe der Theaterpädagogik zählen neben Kindergärten, Schulen und anderen Einrichtungen auch Familien und Privatpersonen, die Interesse haben, eigenes Theaterspielen zu erproben.\nDie Fakten:\n- Das Beschäftigungsverhältnis richtet sich nach den Bestimmungen des Tarifvertrags NV Bühne–Solo.\n- Wir bieten eine Vollzeitstelle. Die Arbeitszeiten sind unregelmäßig.\n- Die Höhe der Monatsgage beträgt aktuell für Berufseinsteiger\\*innen tariflich € 3.095 brutto. Personen mit mind. zweijähriger Berufserfahrung erhalten tariflich € 3.310 brutto. Die Höhe der Monatsgage verhandeln Sie entsprechend.\n- Das Arbeitsverhältnis beginnt zur Spielzeit 2027/2028 im September 2027. Die Stelle ist tarifvertrags-typisch befristet und endet am 31.08.2029 mit der Option auf Verlängerung.\nDen gesamten Ausschreibungstext mit den ausführlichen Infos zu den Aufgabenschwerpunkten finden Sie hier: [theaterkonstanz.de/jobs ](https://www.theaterkonstanz.de/site/Theater/get/documents_E-29268685/theaterkonstanz/Medien-Bibiliothek/08%20Stellenangebote/Jobs_Theaterp%C3%A4dagogik_Mitarbeit%20Junges%20Theater_09.2027.pdf)\n**Klingt gut? Wir freuen uns auf Ihre Bewerbung!**\n**BewerbungTheater@konstanz.de**\nDie Stadt Konstanz als Unterzeichnerin der Charta der Vielfalt fördert Gleichstellung und Diversität. Wir freuen uns über Bewerbungen von allen Menschen, unabhängig von Geschlecht, geschlechtlicher Identität, Alter, ethnischer und sozialer Herkunft, Religion oder Weltanschauung, sexueller Orientierung oder Behinderung. Wir ermutigen ausdrücklich Menschen mit Migrationsgeschichte, People of Color und Menschen mit Behinderung, sich zu bewerben. Bei Fragen zur Barrierefreiheit des Arbeitsplatzes oder des Bewerbungsverfahrens sprechen Sie uns gerne an.\nDie Reisekosten in Zusammenhang mit der Bewerbung werden nicht erstattet. Bitte senden Sie Ihre Bewerbungsunterlagen digital per E-Mail im Dateiformat PDF. Mit der Abgabe Ihrer Bewerbung erklären Sie sich mit der Speicherung und Aufbewahrung Ihrer persönlichen Daten einverstanden, diese werden selbstverständlich nur zum angegebenen Zweck gespeichert und nicht an Dritte weitergegeben.",
    "extra": {
-    "refnr": "10001-1004002801-S",
+    "refnr": "10001-1004015110-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "b0c21e9fdc1ce66f",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004015110-S"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Akademische*r Mitarbeiter*in (w/m/d) im Projekt OPOS (OrtsNahe Pflege Oberschwaben) in Vollzeit",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004011573-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nZum nächstmöglichen Zeitpunkt ist an der\n**Fakultät Soziale Arbeit, Gesundheit und Pflege folgende Stelle zu besetzen:**\n# Akademische\\*r Mitarbeiter\\*in (w/m/d) im Projekt OPOS (OrtsNahe Pflege Oberschwaben) in Vollzeit\n**Bewerbungsfrist: 22.11.2026**\nStellen-Nr.: 33/2026\nEntgeltgruppe: bis E 13\nDie Einstellung erfolgt befristet bis zum 31.12.2029. Die Entgeltzahlung erfolgt nach dem Tarifvertrag der Länder (TV-L) bei Vorliegen der persönlichen Voraussetzungen bis Entgeltgruppe 13.\n## Ihr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Mitarbeit im Drittmittelforschungsprojekt OrtsNahePflege Oberschwaben (OPOS)\n- Eigenständige wissenschaftliche Forschungstätigkeit im Projekt\n- Selbstständige Konzeption, Durchführung und statistische bzw. inhaltsanalytische Auswertung von quantitativen und qualitativen Studien im Rahmen des Projektes (z. B. Fragebogenerhebung zu Qualifizierungsbedarfen, qualitative Interviews mit Ehrenamtlichen, Expert:inneninterviews)\n- Wissenschaftliche Begleitung des regionalen Pflegeforums samt Untergruppen (Analyse relevanter Themen, Auswertung und Aufbereitung der Arbeitsergebnisse)\n- Methodisch fundierte Konzeption, Durchführung und qualitative Auswertung partizipativer Forschungs- und Beteiligungsformate (z. B. Workshops, World Café, Zukunftswerkstatt, etc.)\n- Wissenschaftlich fundierte Beratung von Projektakteuren und Transfer von Forschungsergebnissen in die Praxis (z. B. zu Lebensqualität, Pflege, Vulnerabilität und Teilhabe; Reflexionsformate für Akteursgruppen aus Ehren- und Hauptamt)\n- Ableitung von Qualifizierungsbedarfen aus den Forschungsergebnissen sowie wissenschaftlich fundierte Konzeption und Mitwirkung bei der curricularen (Weiter-)Entwicklung von Qualifizierungs- und Weiterbildungsmodulen\n- Systematische Analyse und Dokumentation der im Modellvorhaben gewonnenen Erkenntnisse sowie eigenständige Analysen der Modellerkenntnisse (z. B. Ableitung von Kriterien und Konzepten für andere ländliche Regionen) in Abstimmung mit den Projektpartnern\n- Selbstständiges Verfassen von wissenschaftlichen Publikationen, Projektberichten sowie die Vorbereitung und das Halten von Vorträgen auf Fachtagungen und wissenschaftlichen Kongressen\n## Ihr Profil:\n- Abgeschlossenes wissenschaftliches Hochschulstudium (Master oder Universitätsdiplom) in einem einschlägigen Fach (z. B. Pflegewissenschaft, Gerontologie, Gesundheitswissenschaft, Soziale Arbeit, Soziologie)\n- Sehr gute Methodenkompetenz in der empirischen Sozialforschung (quantitativ/qualitativ)\n- Sichere Anwendung von Statistik- und QDA-Software (SPSS/R, MAXQDA) und Literaturverwaltung (Zotero) sowie von Office365, Kollaborations- und Videokonferenztools\n- Fundierte Kenntnisse des aktuellen Forschungsstands zu pflegerischer Versorgung im Kontext Alter(n), Caring Communities, pflegerische und medizinische Versorgung im ländlichen Raum\n- Nachgewiesene Erfahrung in der Konzeption, Moderation und Auswertung partizipativer Formate (z. B. Workshops, World Café, Zukunftswerkstatt)\n- Hohes Maß an Engagement und selbstständiger Arbeitsweise\n- Ausgeprägte Kommunikations- und Teamfähigkeit in interdisziplinären und multiprofessionellen Kontexten\n- Bereitschaft zur Zusammenarbeit mit kommunalen Akteuren, Ehrenamt, Fachpraxis und Wissenschaft\n- Führerschein Klasse B\n- Bereitschaft zur Reisetätigkeit im regionalen Projektgebiet sowie gelegentliche Reisen zu Kongressen und Fachtagen\n- Nachgewiesene Erfahrung in der wissenschaftlichen Arbeit in Drittmittelprojekten\nDie RWU ist als familiengerechte Hochschule …",
+   "extra": {
+    "refnr": "10001-1004011573-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "bf3659fd85220924",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004011573-S"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Sachbearbeiter (w/m/d)",
+   "company": "Apleona GmbH",
+   "location": "88090 Immenstaad am Bodensee",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17628-44572625-1113-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "40.000 Profis für die Zukunft des Gebäudes: Das ist Apleona. Wir sind führender Gebäudedienstleister und erleichtern täglich das Leben Tausender Menschen aus Industrie, Wirtschaft und öffentlicher Hand. Wir reden nicht lange, sondern packen es an. Das heißt für Sie Verantwortung ab Tag 1 und vielfältige Möglichkeiten, das eigene Potenzial zu entfalten.\nZum nächstmöglichen Zeitpunkt suchen wir am Standort Immenstaad am Bodensee einen Sachbearbeiter I KaufmännischerMitarbeiter (w/m/d) - Schwerpunkt Auftragsmanagement und Faktura - JobID 27768.\nArbeiten Sie dort, wo Technik auf Luftfahrt trifft.\nIn dieser Position sind Sie ein wichtiger Teil unserer kaufmännischen Organisation und übernehmen insbesondere Aufgaben im Auftragsmanagement und der kaufmännischen Abwicklung.\nDas machen Sie bei uns:\n  *  Unterstützung im Angebotswesen und bei der Einholung von Lieferantenangeboten\n  *  Analyse und Bearbeitung offener Forderungen und Verbindlichkeiten\n  *  Auftragsbezogenes Bestellwesen von Dienstleistungen und Materialien nach Vorgabe\n  *  Verursachungsgerechte Verbuchung von Kosten\n  *  Erstellung von Angeboten, Nachträgen sowie deren Nachverfolgung und Auftragsanlage\nDas wünschen wir uns von Ihnen:\n  *  Abgeschlossene kaufmännische Berufsausbildung als Industriekaufmann, Kauffrau für Büromanagement (w/m/d) oder eine vergleichbare Ausbildung\n  *  Berufserfahrung aus einer vergleichbaren Tätigkeit\n  *  Selbstständige, sorgfältige und strukturierte Arbeitsweise\n  *  Ausgeprägte Eigeninitiative sowie gute kommunikative Fähigkeiten\n  *  Gute Deutschkenntnisse in Wort und Schrift müssen vorhanden sein\nDarauf können Sie sich freuen:\n  *  Zukunftssicherer Arbeitsplatz\n  *  Individuelles Gehaltspaket\n  *  60 % Weihnachtsgeld\n  *  30 Tage Urlaub im Jahr plus Weihnachten und Silvester frei\n  *  Hauseigener Tarifvertrag\n  *  Flexible Arbeitszeiten von Montag bis Freitag\n  *  Mobiles Arbeiten\n  *  Strukturierte und umfassende Einarbeitung\n  *  Vielfältige Weiterbildungs- und Entwicklungsmöglichkeiten\n  *  Betriebliche Altersvorsorge\n  *  JobRad-Leasing\nInteressiert? Werden Sie Teil unseres Teams!\n​Wir leben Vielfalt und Chancengleichheit. Wir freuen uns daher über alle qualifizierten Bewerbungen unabhängig von Geschlecht, ethnischer Herkunft, Religion, sexueller Orientierung, Alter oder etwaigen Beeinträchtigungen.\nBewerben Sie sich in nur wenigen Klicks über das Bewerbungsformular!\nWir freuen uns auf Ihre Bewerbung!\nAnsprechpartner:\nThorsten Rössle\n+49 173 8900 497\nWir bitten Personalberater und -dienstleister von einer Kontaktaufnahme abzusehen. Die angegebenen Kontaktdaten sind ausschließlich für Bewerbende gedacht.",
+   "extra": {
+    "refnr": "17628-44572625-1113-S",
     "query": "Chancengleichheit",
     "befristung": null,
     "arbeitszeit": null
    },
-   "id": "8560322cd9dd124c",
+   "id": "f00cc920411c3685",
    "sources": [
     "arbeitsagentur"
    ],
    "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004002801-S"
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17628-44572625-1113-S"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Kassenleitung (m/w/d) Teilzeit - unbefristet im öffentlichen Dienst",
-   "company": "GEMEINDE BODOLZ",
-   "location": "88131 Bodolz",
+   "title": "Projektleiter (w/m/d) im Facility Management",
+   "company": "Apleona GmbH",
+   "location": "88090 Immenstaad am Bodensee",
    "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208652021-S",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17628-44572626-1113-S",
    "posted": null,
    "salary": null,
    "via": null,
-   "description": "Die **Gemeinde Bodolz** sucht zum nächstmöglichen Zeitpunkt eine\n**Kassenleitung (w/m/d)**\n**in Teilzeit (mind. 20 Wochenstunden) - unbefristet im öffentlichen Dienst**\n**Ihre Aufgabenschwerpunkte:**\n- Leitung der Gemeindekasse mit eigenverantwortlicher Erledigung aller Kassengeschäfte\n- Abwicklung des Zahlungsverkehrs\n- Verwaltung der Kassenmittel\n- Mahn- und Vollstreckungswesen\n- Bearbeitung von Stundungen, Niederschlagungen und Erlässen\n- Erstellen der kassenmäßigen Abschlüsse und der Jahresrechnung\nEntsprechende Anpassungen des Aufgabengebietes werden vorbehalten.\n**Sie bringen mit**\n- Sie verfügen über eine abgeschlossene Ausbildung zum/zur Verwaltungsfachangestellten, haben den Beschäftigtenlehrgang I absolviert, oder verfügen über eine vergleichbare kaufmännische Qualifikation mit entsprechenden Fachkenntnissen\n- Sie sind freundlich, flexibel, haben eine schnelle Auffassungsgabe und Freude an selbständiger Arbeit\n- Sie verfügen über gute EDV-Kenntnisse (MS-Office), Erfahrungen mit der kommunalen Finanzsoftware - insbesondere OK-FiS wären von Vorteil\n- Fachwissen im kameralen Haushalts-, Kassen- und Rechnungswesen oder Erfahrung in der Buchhaltung\n- Sicheres Auftreten, Team- und Kommunikationsfähigkeit\n**Wir bieten:**\n- Eine sichere, unbefristete Stelle im öffentlichen Dienst\n- Eine abwechslungsreiche und verantwortungsvolle Tätigkeit\n- Flexible Arbeitszeiten und gute Vereinbarkeit von Beruf und Privatleben\n- Vergütung nach TVöD (VKA)\n- Ein auf Kooperation ausgelegtes Arbeitsumfeld mit wertschätzender Führungskultur\n- Fort- und Weiterbildungsmöglichkeiten.\n**Wir haben Ihr Interesse geweckt?**\n**Bewerben Sie sich hier:**\nGemeinde Bodolz, Rathausstraße 20, 88131 Bodolz oder per E-Mail: personal@bodolz.de\nWir freuen uns auf Ihre Bewerbung.\nFür eventuelle Rückfragen steht Ihnen Herr Bürgermeister Eisenbach (Tel.: 08382/9330-11) gerne zur Verfügung.",
+   "description": "40.000 Profis für die Zukunft des Gebäudes: Das ist Apleona. Wir sind führender Gebäudedienstleister und erleichtern täglich das Leben Tausender Menschen aus Industrie, Wirtschaft und öffentlicher Hand. Wir reden nicht lange, sondern packen es an. Das heißt für Sie Verantwortung ab Tag 1 und vielfältige Möglichkeiten, das eigene Potenzial zu entfalten.\nZum nächstmöglichen Zeitpunkt suchen wir am Standort Immenstaad am Bodensee eine Projektleitung (w/m/d) im Facility Management  - JobID 27769.\nArbeiten Sie dort, wo Technik auf Luftfahrt trifft!\nWerden Sie Teil unseres Teams und übernehmen Sie Verantwortung für spannende Projekte im Facility Management bei einem namhaften Kunden der Luft- und Raumfahrtindustrie.\nDas machen Sie bei uns:\n  *  Vertragskonforme Steuerung der zugewiesenen Projekte\n  *  Erster Ansprechpartner für den Kunden\n  *  Umsetzung eines erfolgreichen Nachunternehmermanagements\n  *  Interdisziplinäre Abstimmung: Koordinieren Sie alle gebäudetechnischen Gewerke und sichern Sie eine reibungslose Zusammenarbeit zwischen den Fachbereichen\n  *  Ausschreibung und Vergabe: Verantworten Sie die Ausschreibung und Vergabe der Leistungen - präzise, termingerecht und kostenbewusst\n  *  Kosten- und Budgetkontrolle: Behalten Sie den Überblick über Kosten und Budgets und sorgen Sie dafür, dass alle Projektziele erreicht werden\n  *  Verantwortung für die Einhaltung des Qualitätsmanagementsystems\nDas wünschen wir uns von Ihnen:\n  *  Abgeschlossene technische Berufsausbildung und/oder eine Weiterbildung zum Meister, staatlich geprüften Techniker oder ein abgeschlossenes Studium im Bereich HKLS, Elektrotechnik oder Baugewerbe\n  *  Mehrjährige Berufserfahrung aus einer vergleichbaren Position\n  *  Selbstständig, analytisch, strukturiert und ergebnisorientierte und eine schnelle Auffassungsgabe sowie eine dienstleistungsorientierte Einsatzbereitschaft\n  *  Technisches Grundverständnis und Interesse an der Gebäudetechnik\n  *  Kenntnisse in HOAI, VOB und den einschlägigen Regelwerken\n  *  Gute Deutschkenntnisse in Wort und Schrift\nDarauf können Sie sich freuen:\n  *  Zukunftssicherer Arbeitsplatz\n  *  Individuelles Gehaltspaket\n  *  Individuelle Zielvereinbarungsprämie\n  *  Firmenwagen zur privaten Nutzung\n  *  30 Tage Urlaub im Jahr plus Weihnachten und Silvester frei\n  *  Hauseigener Tarifvertrag\n  *  Flexible Arbeitszeiten von Montag bis Freitag\n  *  Strukturierte und umfassende Einarbeitung\n  *  Vielfältige Weiterbildungs- und Entwicklungsmöglichkeiten\n  *  Betriebliche Altersvorsorge\n  *  JobRad-Leasing\nInteressiert? Werden Sie Teil unseres Teams!\n​Wir leben Vielfalt und Chancengleichheit. Wir freuen uns daher über alle qualifizierten Bewerbungen unabhängig von Geschlecht, ethnischer Herkunft, Religion, sexueller Orientierung, Alter oder etwaigen Beeinträchtigungen.\nBewerben Sie sich in nur wenigen Klicks über das Bewerbungsformular!\nWir freuen uns auf Ihre Bewerbung!\nAnsprechpartner:\nThorsten Rössle\n+49 173 8900 497\nWir bitten Personalberater und -dienstleister von einer Kontaktaufnahme abzusehen. Die angegebenen Kontaktdaten sind ausschließlich für Bewerbende gedacht.",
    "extra": {
-    "refnr": "10000-1208652021-S",
-    "query": "Buchhaltung Teilzeit",
+    "refnr": "17628-44572626-1113-S",
+    "query": "Chancengleichheit",
     "befristung": null,
     "arbeitszeit": null
    },
-   "id": "29083853349fb2f3",
+   "id": "f22886983efdf81d",
    "sources": [
     "arbeitsagentur"
    ],
    "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208652021-S"
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17628-44572626-1113-S"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Sachbearbeiter Rechnungswesen - Schwerpunkt Kreditorenbuchhaltung (m/w/d) in Teilzeit (mind. 50 %)",
-   "company": "Messe Friedrichshafen GmbH",
-   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "title": "Projektleiter (m/w/d) Luftwaffensysteme",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/sachbearbeiter-rechnungswesen-schwerpunkt-kreditorenbuchhaltung-m-w-d-in-teilzeit-mind-50-%25-at-messe-friedrichshafen-gmbh-4400759804",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "Werde Teil unseres Teams und gestalte mit uns die Zukunft! Du denkst unternehmerisch, liebst es, wenn Zahlen Klarheit schaffen und willst mit Deinen Analysen echte Entscheidungen möglich machen? Dann bereichere unser Team! Für unser engagiertes Team suchen wir einen Sachbearbeiter Rechnungswesen - Schwerpunkt Kreditorenbuchhaltung (m/w/d) in Teilzeit (mind. 50 %) Dein neuer Job: Prüfung, Kontierung und Erfassung aller laufenden Geschäftsvorfälle im Bereich Kreditoren Durchführung von Zahlungsläufen Prüfung und Buchung von Kreditkartenabrechnungen, Barauslagen und Reisekostenabrechnungen Abstimmung und Klärung von Kreditorenkonten Kassenführung Unterstützung und Mitarbeit bei der Erstellung von Quartals- und Jahresabschlüssen Dieser abwechslungsreiche Job in unserem Unternehmen wäre genau das Richtige für Dich? Dann melde Dich bei uns! So überzeugst Du uns: Abgeschlossene kaufmännische Ausbildung und mehrjährige Berufserfahrung im Bereich Rechnungswesen Erfahrung mit KHK Sage Officeline von Vorteil Hervorragendes Zeit- und Selbstmanagement IT-Affinität und Lust auf Weiterentwicklung der Digitalisierung Sehr gute Kenntnisse im Umgang mit MS Office Strukturierte, sorgfältige und lösungsorientierte Arbeitsweise mit hoher Eigenverantwortung Interesse an übergreifenden Arbeiten und Offenheit für interdisziplinäre Zusammenhänge Lust auf das Messewesen und unser Team Bringst Du alles mit? Dann passt Du perfekt zu uns! Freu Dich auf: Vielseitige und spannende Aufgaben in einem abwechslungsreichen Umfeld Viel Gestaltungsfreiraum für eigene Kreativität und Ideen Maßgeschneiderte Weiterbildungsmöglichkeiten Flache Hierarchien und eine kollegiale Atmosphäre in einem sympathischen Team Flexibles Gleitzeitmodell Attraktive Bezahlung (inkl. Zuschläge für Wochenend- und Feiertagsarbeit) Monatliche steuerfreie Arbeitgeberzuschüsse (Friedrichshafener Geschenkgutschein oder Zuschuss zum EGYM Wellpass) Exklusive Mitarbeitervorteile wie, Zuschuss zur betrieblichen Altersvorsorge, Corporate Benefits, etc. Betriebliches Gesundheitsmanagement Teamevents und weitere diverse kostenlose Annehmlichkeiten 30 Tage Jahresurlaub … und vieles mehr Haben wir Dein Interesse geweckt? Dann komm zu uns! Die Messe Friedrichshafen ist eine der führenden Messegesellschaften in Baden-Württemberg. Unser modernes Messegelände bietet viele Markt- und Wachstumschancen. Wenn Du Dich in einem erfolgreichen Unternehmen einbringen möchtest, freuen wir uns auf Dich. Bitte schicke Deine Bewerbungsunterlagen mit Motivationsschreiben und Lebenslauf sowie Angabe Deines frühesten Eintrittsdatums sowie Deiner Gehaltsvorstellung an: MESSE FRIEDRICHSHAFEN GMBH Personalabteilung Postfach 20 80 88010 Friedrichshafen oder per E-Mail an: jobs@messe-fn.de Show more Show less Seniority level Associate Employment type Part-time Industries Events Services Referrals increase your chances of interviewing at Messe Friedrichshafen GmbH by 2x See who you know",
-   "extra": {
-    "seniority": "Associate",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "9cab1ccd94c68bf3",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-rechnungswesen-schwerpunkt-kreditorenbuchhaltung-m-w-d-in-teilzeit-mind-50-%25-at-messe-friedrichshafen-gmbh-4400759804"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Finančni kontrolor svetovalec (2013), Oddelek za davke in prispevke iz poslovanja, Sektor za davke, Finančni urad Novo mesto",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/finan%C4%8Dni-kontrolor-svetovalec-2013-oddelek-za-davke-in-prispevke-iz-poslovanja-sektor-za-davke-finan%C4%8Dni-urad-novo-mesto-at-vlada-republike-slovenije-4489527056",
+   "url": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-luftwaffensysteme-at-diehl-defence-4488926501",
    "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv finančni kontrolor svetovalec III, z možnostjo napredovanja v uradniški naziv finančni kontrolor svetovalec II in finančni kontrolor svetovalec I, uvrstitev v 17. izhodiščni plačni razred naziva, kar znaša 2.030,25 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede, z izbranim kandidatom bo sklenjena pogodba o zaposlitvi za nedoločen in polni delovni čas ter s 6 mesečnim poskusnim delom. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge kontroliranje pravočasnosti in pravilnosti ter ukrepanje ob neobračunanem oziroma nepravilno obračunanem davku, nadzor nad izpolnjevanjem obveznosti predlaganja obračunov davka, vodenje prekrškovnega postopka in izdaja plačilnega naloga, vodenje zahtevnih upravnih in davčnih postopkov na I. stopnji po pooblastilu, priprava in knjiženje knjigovodskih dogodkov, usklajevanje podatkov z davčnimi zavezanci, izdaja potrdil s področja dela. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja), 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja), 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja), 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 7 mesecev delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, splošni strokovni izpit za opravljanje nalog finančne uprave, strokovni izpit za finančni nadzor I. stopnje, preizkus znanja za vodenje prekrškovnega postopka in izdajo plačilnega naloga, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena, pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela, vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba …",
+   "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­ar­bei­te­rin­nen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unseren Standort Diehl Defence GmbH & Co. KG in Überlingen am Bodensee suchen wir einen: Projektleiter (m/w/d) Luftwaffensysteme Aufgaben In dieser Position übernehmen Sie die Leitung von Projekten innerhalb des Produkt­bereichs Luftwaffensysteme / IRIS-T. Der Schwerpunkt liegt dabei auf Entwicklungs­projekten für zukünftige Flugkörper­generationen. Hierbei koordinieren Sie die Projekt­teams hinsicht­lich technischer Belange. Weiterhin sind Sie für die termin- und kosten­gerechte Umsetzung der (Teil-)Projekte in Ihrem Bereich zuständig. Eine detaillierte Abstimmung mit den anderen Projekt­leitungen der Lenkflug­körper­familie, dem Bereich Logistic Support, der Entwicklung, den Unterauftrag­nehmern sowie der Fertigung rundet Ihr abwechslungs­reiches Aufgaben­gebiet ab. Profil Ihr abgeschlossenes Studium im Bereich Ingenieur­wesen oder Informatik bzw. ein vergleich­barer Hinter­grund bildet die ideale Voraus­setzung für diese Position. Sie sollten bereits über Berufs­erfahrung im Projekt- und/oder Prozess­management verfügen. Neben Ihrer Freude am Kontakt mit externen nationalen und internationalen Partnern überzeugen Sie uns durch fließende Englisch­kenntnisse in Wort und Schrift. Weiterhin verfügen Sie über eine auf­geschlossene Persönlich­keit sowie ein hohes Maß an Kommunikations­fähigkeit, interkultureller Kompetenz und Durchsetzungs­vermögen. Eine hohe Eigeninitiative und Motivation sowie Ihre Reise­bereit­schaft runden Ihr Profil ab. Wir bieten Berufliche & persönliche Weiter­entwicklung Onboarding-Programm Familienunternehmen Interne Weiter­bildungs­programme Betrieb­liches Gesund­heits­management Wir freuen uns über Ihre Bewerbung unter Angabe der Kennziffer 260794! Hinweis: Bewerbungen schwerbehinderter Menschen werden bei gleicher Eignung bevorzugt behandelt. Bei Interesse geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "ff94f4b2bbe59689",
+   "id": "d70dc2bde937105c",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/finan%C4%8Dni-kontrolor-svetovalec-2013-oddelek-za-davke-in-prispevke-iz-poslovanja-sektor-za-davke-finan%C4%8Dni-urad-novo-mesto-at-vlada-republike-slovenije-4489527056"
+    "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-luftwaffensysteme-at-diehl-defence-4488926501"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Finančni kontrolor svetovalec (2013), Oddelek za dohodnino 2, Sektor za davke, Finančni urad Maribor",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/finan%C4%8Dni-kontrolor-svetovalec-2013-oddelek-za-dohodnino-2-sektor-za-davke-finan%C4%8Dni-urad-maribor-at-vlada-republike-slovenije-4489511507",
+   "title": "Inhouse Consultant (m/w/d) Strategische Programme und Operating Models",
+   "company": "Diehl Defence",
+   "location": "Kressbronn am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/inhouse-consultant-m-w-d-strategische-programme-und-operating-models-at-diehl-defence-4488918832",
    "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv finančni kontrolor svetovalec III, z možnostjo napredovanja v uradniški naziv finančni kontrolor svetovalec II in finančni kontrolor svetovalec I, uvrstitev v 17. izhodiščni plačni razred naziva, kar znaša 2.030,25 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede, z izbranim kandidatom bo sklenjena pogodba o zaposlitvi za nedoločen in polni delovni čas ter s 6 mesečnim poskusnim delom. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge kontroliranje pravočasnosti in pravilnosti ter ukrepanje ob ne obračunanem/nepravilno obračunanem davku, vodenje posebne ugotovitvenega postopka za določitev davčne osnove in odmere davkov in drugih obveznosti, vodenje zahtevnih postopkov v zvezi z zahtevi za vračilo davkov na podlagi obračunov davka, sodelovanje pri zahtevnejših postopkih kontrole/nadzora in odmere davkov, zbiranje, urejanje in priprava podatkov za oblikovanje zahtevnejših gradiv, vodenje prekrškovnega postopka in izdaja plačilnega naloga, priprava in knjiženje knjigovodskih dogodkov, usklajevanje podatkov z davčnimi zavezanci, razkritja. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja), 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja), 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja), 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 7 mesecev delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, splošni strokovni izpit za opravljanje nalog finančne uprave, strokovni izpit za finančni nadzor I. stopnje, preizkus znanja za vodenje prekrškovnega postopka in izdajo plačilnega naloga, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena, pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela, vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Prednost Pri Izbiri Bodo Imeli Kandidati s končano ekonomsko ali pravno smerjo izobrazbe zaključene najmanj na stopnji, ki je zahtevana kot pogoj za zasedbo delovnega mesta. Zaželeno Znanje opravljen vozniški …",
+   "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­ar­bei­te­rin­nen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unseren Standort Diehl Defence GmbH & Co. KG in Überlingen am Bodensee oder Röthenbach a. d. Pegnitz suchen wir einen: Inhouse Consultant (m/w/d) Strategische Programme und Operating Models Aufgaben Sie definieren die Roadmap für standort­über­greifende Transformations­programme und stellen deren Ausrichtung an der lang­fristigen Unternehmens­strategie sicher. Dabei arbeiten Sie in multi­disziplinären Projekt­teams und definieren Projekte und Workstreams – von der ersten Analyse über die Konzeption bis hin zur Implementierung. Sie unterstützen die Entwicklung und Optimierung von Operating Models, um die Agilität und Effizienz unserer internen Prozesse und Strukturen zu steigern. Sie fungieren als Brücke zwischen Strategie und Umsetzung. Dabei bereiten Sie komplexe Sach­verhalte für das Topmanagement auf und moderieren Entscheidungs­prozesse. Sie etablieren KPIs zur Messung des Programm­fortschritts und stellen durch regel­mäßiges Reporting die Transparenz gegenüber der Geschäfts­führung sicher. Weiterhin treiben Sie die Weiter­entwicklung unserer Consulting-Methodik (z. B. Projekt­management-Standards, Tools und Frameworks) voran. Profil Sie verfügen über ein erfolg­reich abgeschlossenes Studium der Wirtschafts­wissen­schaften, des Ingenieur­wesens oder einer vergleich­baren Fach­richtung. Ergänzend verfügen Sie über mehr­jährige Erfahrung in der Strategie- oder Management­beratung. Sie besitzen die Fähigkeit, komplexe Sach­verhalte und Geschäfts­prozesse schnell zu durchdringen, zu analysieren und in klare Handlungs­empfehlungen zu übersetzen. Sie sind kein reiner „Konzeptionist“ (m/w/d), sondern zeichnen sich durch eine ausgeprägte Hands-on-Mentalität und die Fähig­keit aus, Projekte auch in schwierigen Phasen zum Ziel zu führen. Sie überzeugen durch eine strukturierte, präzise Ausdrucks­weise sowie eine hohe Präsentations­kompetenz. Verhandlungs­sichere Deutsch- und Englisch­kenntnisse sind Voraussetzung. Wir bieten Tarifliche Vergütung Flexible Arbeits­zeiten Onboarding-Programm Familienunternehmen Mitarbeiterevents Als Inhouse Consultant (m/w/d) in dieser Position sind Sie der zentrale Motor für strategische Programme und Transformations­projekte. Ihr Ziel ist es, komplexe strategische Initiativen nicht nur zu planen, sondern sie durch methodische Exzellenz und konsequente Umsetzung in messbare Erfolge zu verwandeln. Wir freuen uns auf Ihre Bewerbung unter Angabe der Kennziffer 260754. Bewerbungen schwerbehinderter Menschen werden bei gleicher Eignung bevorzugt behandelt. Bei Interesse geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "e296197907cee418",
+   "id": "267535ed64fe5f1c",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/finan%C4%8Dni-kontrolor-svetovalec-2013-oddelek-za-dohodnino-2-sektor-za-davke-finan%C4%8Dni-urad-maribor-at-vlada-republike-slovenije-4489511507"
+    "linkedin": "https://de.linkedin.com/jobs/view/inhouse-consultant-m-w-d-strategische-programme-und-operating-models-at-diehl-defence-4488918832"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Lohnbuchhalter (w/m/d)",
-   "company": "BDO Germany",
-   "location": "Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/lohnbuchhalter-w-m-d-at-bdo-germany-4490330113",
-   "posted": "2026-11-12",
+   "title": "Einrichtungsleitung (m/w/d) für unseren Inselhort in Lindau",
+   "company": "Johanniter-Unfall-Hilfe e.V.",
+   "location": "Wasserburg (Bodensee), Bavaria, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/einrichtungsleitung-m-w-d-f%C3%BCr-unseren-inselhort-in-lindau-at-johanniter-unfall-hilfe-e-v-4488944268",
+   "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "We shape what matters! Wir schaffen Vertrauen. Für verantwortungsvolle Führung. Bist du bereit, Verantwortung für Menschen und Werte zu übernehmen? Wir sind davon überzeugt, dass wahre Führung mit Vertrauen beginnt. Deshalb schaffen wir ein Umfeld, in dem du nicht nur deine Expertise einbringst, sondern aktiv Verantwortung übernehmen kannst – für unsere Kunden, für die Gesellschaft und für deine eigene berufliche Entwicklung. Bist du bereit, die Trends von morgen schon heute mitzugestalten? Wir sind sicher, dass Fortschritt dort entsteht, wo Bestehendes mutig hinterfragt wird. Deshalb schaffen wir ein Umfeld, in dem deine Ideen zählen und du neue Wege gehen kannst – für innovative Lösungen, für den nachhaltigen Erfolg unserer Kundinnen und Kunden und für deinen eigenen Vorsprung.Unsere Teams in der Lohnabrechnung unterstützen unsere Kundinnen und Kunden in allen Fragestellungen rund um die Themen der Gehaltsabrechnung. Unterstütze unser Team in Flensburg zum nächstmöglichen Zeitpunkt in Voll- oder Teilzeit . Du wirst Teil eines sympathischen Teams, das dich bei deiner neuen Herausforderung unterstützt und individuell fördert. Dabei legen wir viel Wert auf ein gemeinsames Miteinander, bei dem die Arbeit gleich viel mehr Freude bereitet. Das sind deine Aufgaben: Du erstellst die Gehaltsabrechnungen für einen Kundenstamm mit nationalem und internationalem Bezug. Du berätst unsere Kundinnen und Kunden in allen Fragen rund um die Lohnabrechnung, Lohnsteuer und Sozialversicherung. Du übernimmst die Kommunikation mit Kundinnen und Kunden, Finanzämtern, Sozialversicherungsträgern und Berufsgenossenschaften. Du unterstützst unsere Kundinnen und Kunden und betreue Lohnsteuer- und Sozialversicherungsprüfungen. Das bringst du mit: Du hast deine steuerfachliche oder kaufmännische Ausbildung erfolgreich abgeschlossen und konntest idealerweise schon praktische Erfahrungen sammeln. Du bringst umfassende Kenntnisse in DATEV und MS Office mit. Du erfreust dich am Umgang mit Kundinnen und Kunden und der Arbeit im Team. Du bist interessiert an innovativen sowie zukunftsfähigen Tätigkeiten und arbeitest sehr sorgfältig. Das erwartet dich bei uns: Flexible Arbeitszeitmodelle und die Möglichkeit zum mobilen Arbeiten für eine ausgewogene Work-Life-Balance. Fachliche und persönliche Entwicklung durch umfangreiche Trainings, abwechslungsreiche E-Learning Einheiten und maßgeschneiderte Seminare. Ein vertrauensvolles, kollegiales Arbeitsklima, indem du dich wohlfühlst und mit deinem Team einen wichtigen Teil zum Erfolg von BDO beiträgst. Weitere Vorteile für Mitarbeitende wie Fahrrad-Leasing (Jobrad), ÖPNV-Ticket, EGYM Wellpass, betriebliche Altersvorsorge und vermögenswirksame Leistungen. Und jetzt freuen wir uns auf dich! Wenn du vorher noch etwas klären oder wissen möchtest, melde dich gerne. Du erreichst unser Recruiting Team unter 040 30293 600 oder recruiting@bdo.de. Show more Show less Seniority level Associate Employment type Full-time Industries Accounting, Business Consulting and Services, and Strategic Management Services Referrals increase your chances of interviewing at BDO Germany by 2x See who you know",
+   "description": "Veröffentlicht am 13. November 2026 Arbeitsort Barfüßerplatz 5, 88131 Lindau (Bodensee) Bundesland Bayern Stellenumfang Teilzeit Befristung unbefristet Stimmt, mit jungen Menschen zu arbeiten ist kein Kinderspiel. Wenn Kreativität Ihre Superpower ist und Sie es gewohnt sind, auch im größten Durcheinander die Ruhe zu bewahren, dann könnten Sie gut zu uns passen. Wir suchen offene Menschen mit Fantasie und Verstand, die sich mit Freude weiterentwickeln möchten – persönlich und fachlich. Dafür bilden wir starke Teams, in denen spürbar ist, dass alle an einem Strang ziehen. Wir sind eine große Hilfsorganisation mit Hauptsitz in Berlin. Zu unseren Aufgaben zählen u. a. Rettungs- und Sanitätsdienst, Pflegeangebote, Katastrophenschutz, soziale Dienste sowie die Arbeit mit Kindern und Jugendlichen. Weitere Informationen zu Einstiegsmöglichkeiten, Perspektiven und wie wir arbeiten: johanniter.de/karriere Das erwartet Sie Für unseren Inselhort in Lindau suchen wir eine engagierte und fachlich versierte Einrichtungsleitung. die pädagogische und organisatorische Leitung unserer Einrichtung unter Berücksichtigung des Profils der Einrichtung und der vorhandenen Ressourcen die Führung, Unterstützung und Entwicklung Ihrer MitarbeiterInnen inkl. der Wahrnehmung der Dienst- und Fachaufsicht eine vertrauensvolle Zusammenarbeit im Team, sowie mit den Eltern bzw. Familien Schaffung von Angeboten und Durchführung von gemeinsamen Veranstaltungen von Eltern / Familien, Kindern und MitarbeiterInnen die Planung von Weiterbildungs- u. Teambildungsmaßnahmen Sicherung eines reibungslosen Organisationsablaufes (Tagesablauf) und der personellen Besetzung (Dienstplanerstellung) Mitwirkung bei der Haushaltsplanung Hier Finden Sie Eine Übersicht Unserer Kompletten Mitarbeitervorteile https://www.johanniter.de/juh/lv-bayern/rv-bayerisch-schwaben/mitarbeiten-lernen/unsere-mitarbeitervorteile-fuer-sie/ Das zeichnet Sie aus Sie haben eine abgeschlossene Ausbildung zum Erzieher (m/w/d), Sozialpädagogen (m/w/d) oder eine vergleichbare AnerkennungS Sie haben bereits Berufserfahrung und / oder hatten schon eine Führungsrolle in einer Kindertageseinrichtung, vorzugsweise in einem Hort, vorzuweisen Sie verfügen über eine gute Belastbarkeit, Verantwortungsbewusstsein, Führungskompetenz, Zeitmanagement,- Kommunikations-, Team- und Organisationsfähigkeit Sie sind flexibel, hilfsbereit und arbeiten gern im Team sehr gute EDV-Kenntnisse Sie beherrschen die deutsche Sprache in Wort und Schrift Das bieten wir Ihnen zusätzlicher freier Tag an Heiligabend und Silvester 30 Urlaubstage bei einer 5-Tage-Woche persönliche Zulage für jedes Kind bei Vorlage der Kindergeldberechtigung 13. Monatsgehalt Ihr Einsatzort Regeln und Rituale geben unserer Gemeinschaft Halt. Die Johanniter arbeiten nach dem Konzept der ganzheitlichen Pädagogik, also mit Bewegung, Gefühlen und Fantasie. Ganz gleich aus welchem Kulturkreis die Kinder stammen - wir vermitteln und leben partnerschaftliches Miteinander. Dabei sind es Werte wie Nächstenliebe, Hilfsbereitschaft und Toleranz, die wir an die Kinder weitergeben. Das sollten Sie noch wissen Im Sinne der Gleichstellung und Chancengleichheit aller Mitarbeitenden begrüßen wir alle Bewerbungen von Interessierten, unabhängig von deren kultureller, religiöser und sozialer Herkunft, Geschlecht, Alter, Behinderung oder sexueller Identität. Einsatzort: Lindau Gehalt: 3.994,71 - 4.625,46 € (bei Vollzeit - 39 Wochenstunden) Art der Anstellung: Teilzeit Stundenumfang: 32 Wochenstunden Befristung: unbefristet Stellen-ID: J000035534 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Individual and Family Services Referrals increase your chances of interviewing at Johanniter-Unfall-Hilfe e.V. by 2x See who you know",
    "extra": {
-    "seniority": "Associate",
+    "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "908a31f8b0fc7812",
+   "id": "1b89bcb8bba9ef7f",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/lohnbuchhalter-w-m-d-at-bdo-germany-4490330113"
+    "linkedin": "https://de.linkedin.com/jobs/view/einrichtungsleitung-m-w-d-f%C3%BCr-unseren-inselhort-in-lindau-at-johanniter-unfall-hilfe-e-v-4488944268"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Payroll Specialist/in (m/w/d)",
+   "title": "Projektleiter*in Sanitär (m/w/d)",
    "company": "Rocken®",
-   "location": "Winterthur, Zurich, Switzerland",
+   "location": "Münchwilen, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/payroll-specialist-in-m-w-d-at-rocken%C2%AE-4489516437",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-sanit%C3%A4r-m-w-d-at-rocken%C2%AE-4489801942",
    "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "21bafb7cdf8767a6",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/payroll-specialist-in-m-w-d-at-rocken%C2%AE-4489516437"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Finanzbuchhalter (w/m/d)",
-   "company": "BDO Germany",
-   "location": "Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/finanzbuchhalter-w-m-d-at-bdo-germany-4490307985",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "7d9bf0084bc1e4f3",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/finanzbuchhalter-w-m-d-at-bdo-germany-4490307985"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Fachliche Leitung (m/w/d) Kindertagesstätten",
-   "company": "JCI Baden-Württemberg",
-   "location": "Trossingen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/fachliche-leitung-m-w-d-kindertagesst%C3%A4tten-at-jci-baden-w%C3%BCrttemberg-4490522881",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "Evangelische Landeskirche in Württemberg Fachliche Leitung (m/w/d) Kindertagesstätten Trossingen Kennziffer: 022991 Aufgabe Fachverantwortung für 15 Kindertageseinrichtungen, Trägervertretung und Ansprechperson für Leitungen, Mitarbeitende und Eltern Begleitung und Steuerung der Konzeptions- und Qualitätsentwicklung Mitwirkung bei Personalplanung und -gewinnung sowie Weiterqualifizierung und Fortbildung der pädagogischen Fachkräfte Sicherstellung der Einhaltung aller relevanten gesetzlichen Bestimmungen Verantwortung für die Weiterentwicklung und Umsetzung des evangelischen Profils der Kindertageseinrichtungen Qualifikation Abgeschlossenes Hochschulstudium (Bachelor, Diplom FH) der Sozialen Arbeit, Sozialpädagogik oder Sozialarbeit oder eine vergleichbare Qualifikation (z. B. Bachelor of Arts Frühkindliche Bildung und Erziehung) Ausgeprägte Fachkenntnisse und berufliche Praxis in der Elementarpädagogik Kompetenz und Erfahrung in der wertschätzenden und nachhaltigen Beratung von Leitungen und Teams Erfahrung in der Gestaltung kompetenzorientierter Fortbildungsangebote Führerschein, Bereitschaft zur dienstlichen Nutzung des Privat-PKW ist wünschenswert Wir erwarten grundsätzlich die Mitgliedschaft in einer Gliedkirche der Evangelischen Kirche in Deutschland Die vollständige Anzeige finden Sie beim Klick auf den Onlinebewerbungs-Button oder unter folgendem Link: https://jobs.jobware.net/v/0057?jw_result_piid=065057160&jw_chl_seg=NLINKEDIN Show more Show less Seniority level Not Applicable Employment type Full-time Industries Political Organizations Referrals increase your chances of interviewing at JCI Baden-Württemberg by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "8c9c6b7cbb4484f9",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/fachliche-leitung-m-w-d-kindertagesst%C3%A4tten-at-jci-baden-w%C3%BCrttemberg-4490522881"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Bau- und Projektleitung Schlüsselfertigbau (m/w/d) - Wohnungs- und Hotelbau",
-   "company": "i+R",
-   "location": "Constance, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/bau-und-projektleitung-schl%C3%BCsselfertigbau-m-w-d-wohnungs-und-hotelbau-at-i%2Br-4489503822",
-   "posted": "2026-11-13",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "9d6a50a8c605a877",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/bau-und-projektleitung-schl%C3%BCsselfertigbau-m-w-d-wohnungs-und-hotelbau-at-i%2Br-4489503822"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Project Manager (m/f/d) ATM International",
-   "company": "Indra Avitech",
-   "location": "Friedrichshafen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/project-manager-m-f-d-atm-international-at-indra-avitech-4490358370",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "9197a685c6cb9155",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/project-manager-m-f-d-atm-international-at-indra-avitech-4490358370"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "MRO Berater",
-   "company": "teamative",
-   "location": "Bodenseekreis, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/mro-berater-at-teamative-4490331966",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "376982b12335c773",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/mro-berater-at-teamative-4490331966"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Projektleiter:in Familienmusicals 80-100 %",
-   "company": "Balzer Event GmbH",
-   "location": "Oberwinterthur, Zurich, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-familienmusicals-80-100-%25-at-balzer-event-gmbh-4490347445",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "Familienunterhaltung, die begeistert: bybalzer tourt seit über 25 Jahren mit Theater- und Musicalproduktionen durch die ganze Deutschschweiz und zaubert mit den Produktionen Coop Kindermusicals und Coop Märchentheater Fidibus jedes Jahr Tausenden von Kindern und Familien ein Lächeln ins Gesicht. Wir suchen per Januar 2027 oder nach Vereinbarung eine:n Projektleiter:in Familienmusicals 80-100 % Du behältst den Überblick, koordinierst die vielen Puzzleteile einer Produktion und sorgst dafür, dass aus einer Idee ein begeisterndes Erlebnis für unser Publikum wird. Für diese vielseitige Schlüsselposition suchen wir eine initiative Persönlichkeit mit Organisationstalent, Begeisterung für Kultur und Freude daran, Projekte erfolgreich zum Ziel zu führen. Aufgabenschwerpunkte: - Du begleitest unsere Produktion von der ersten Idee bis zur Dernière. - Du koordinierst sämtliche Produktionsbereiche und stellst sicher, dass Zeitpläne, Budgets und Abläufe ineinandergreifen. - Du organisierst Castings, Proben und Tourneen und bist zentrale Ansprechperson für Künstler:innen, Regie, musikalische Leitung, Veranstalter und Partner. - Du unterstützt die Regie, während der Proben und sorgst für einen reibungslosen Produktionsprozess. - Du führst Produktionsbudgets, erstellst Zeitpläne und behältst Kosten, Termine und Prioritäten jederzeit im Blick. - Du arbeitest mit Sponsoren und Partnern zusammen. - Du begleitest ausgewählte Vorstellungen und sicherst die Qualität unserer Produktionen. Anforderungen: - Mehrjährige Erfahrung in der Projektleitung, idealerweise im Kultur-, Theater-, Musical- oder Eventbereich. - Organisationstalent, Eigeninitiative und eine strukturierte Arbeitsweise. - Ausgeprägte Kommunikationsfähigkeit sowie Freude an der Zusammenarbeit mit unterschiedlichen Menschen. - Flexibilität und Gelassenheit auch in hektischen Projektphasen. - Eine Ausbildung im Bereich Kulturmanagement, Eventmanagement oder eine vergleichbare Qualifikation ist von Vorteil. Das erwartet dich: - Eine etablierte und erfolgreiche Produktionsagentur mit hoher Bekanntheit im Schweizer Familientheater. - Eine abwechslungsreiche Tätigkeit mit viel Eigenverantwortung. - Spannende Kulturprojekte mit sichtbarer Wirkung und begeistertem Publikum. - Viel Raum für eigene Ideen und aktive Mitgestaltung. - Ein kleines, engagiertes Team mit grosser Leidenschaft für Familienunterhaltung. Neugierig? Dann freuen wir uns auf deine Bewerbung mit Lebenslauf und Motivationsschreiben. Kontakt: Theresa Hofer, hofer@bybalzer.ch, 052 238 40 10 Show more Show less Seniority level Mid-Senior level Employment type Full-time Referrals increase your chances of interviewing at Balzer Event GmbH by 2x See who you know",
+   "description": "Lohn - CHF75'000 - 85'000 Verantwortung Du planst, koordinierst und leitest Projekte im Bereich Sanitärtechnik von der ersten Idee bis zur erfolgreichen Abnahme. Du übernimmst die Projektsteuerung in Bezug auf Termine, Kosten und Qualität und sorgst dafür, dass alle Ziele erreicht werden. Du stimmst dich regelmäßig mit Bauherren, Architekten und anderen Gewerken ab, um einen reibungslosen Projektablauf sicherzustellen. Du überwachst die Ausführung der Arbeiten auf der Baustelle und stellst die Einhaltung von Normen und Vorschriften sicher. Du erstellst technische Dokumentationen und verantwortest die Erstellung von Leistungsverzeichnissen. Du führst die Projektteams und trägst Verantwortung für die erfolgreiche Umsetzung der Projekte. Qualifikationen Du hast eine abgeschlossene Ausbildung im Bereich Gebäudetechnik, idealerweise mit dem Schwerpunkt Sanitär. Du bringst mehrjährige Berufserfahrung in der Projektleitung im Bereich Sanitärtechnik mit. Du verfügst über fundierte Kenntnisse in der Planung und Ausführung von Sanitäranlagen. Du bist vertraut mit den relevanten Normen, Vorschriften und technischen Richtlinien im Bereich Sanitär. Du arbeitest eigenverantwortlich, strukturiert und verlierst auch bei komplexen Projekten nicht den Überblick. Du hast ausgezeichnete Kommunikationsfähigkeiten und eine lösungsorientierte Arbeitsweise. Der sichere Umgang mit gängigen Softwaretools im Bereich Projektmanagement und Gebäudetechnik ist für dich selbstverständlich. ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
    "extra": {
     "seniority": "Mid-Senior level",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "6079057e5a2cc243",
+   "id": "8a485550ac3095fd",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-familienmusicals-80-100-%25-at-balzer-event-gmbh-4490347445"
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-sanit%C3%A4r-m-w-d-at-rocken%C2%AE-4489801942"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Projektleiter/in E-Government Services (m/w/d)",
-   "company": "Kanton St.Gallen",
-   "location": "St Gallen, St Gallen, Switzerland",
+   "title": "Projektleiter Energieversorgung (m/w/d)",
+   "company": "Rocken®",
+   "location": "Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-e-government-services-m-w-d-at-kanton-st-gallen-4489273640",
-   "posted": "2026-11-12",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-energieversorgung-m-w-d-at-rocken%C2%AE-4489801931",
+   "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Für die Abteilung Prozesse und Standards suchen wir ab sofort oder nach Vereinbarung eine/n Ihre Aufgaben Du leitest anspruchsvolle IT-Projekte nach HERMES über alle Projektphasen – von der Initialisierung bis zum erfolgreichen Abschluss Du steuerst Termine, Kosten, Qualität und Risiken und sorgst für eine zielgerichtete Projektumsetzung Du führst interdisziplinäre Projektteams und koordinierst interne sowie externe Anspruchsgruppen Du erarbeitest Fach- und Umsetzungskonzepte und bringst Architektur-, Betriebs- und Sicherheitsaspekte zusammen Du verantwortest öffentliche Beschaffungen sowie die Zusammenarbeit mit externen Leistungserbringern Du stellst die Qualität der Projektergebnisse sicher und begleitest Tests, Abnahmen sowie die Überführung in den Betrieb Du entwickelst Projektmanagement-Standards weiter und förderst den Wissenstransfer innerhalb der Organisation Was Sie auszeichnet Hochschulabschluss (Bachelor oder Master bzw. gleichwertiger Abschluss) in Informatik, Wirtschaftsinformatik, System Engineering oder einem verwandten Fachgebiet Erfahrung in der Leitung von IT-Projekten, idealerweise im öffentlichen oder regulierten Umfeld Kenntnisse in klassischen, agilen oder hybriden Projektmanagement-Methoden sowie in Governance und Controlling Erfahrung im öffentlichen Beschaffungswesen (BöB / IVöB) und in der Durchführung von Ausschreibungen ist von Vorteil Ausgeprägte organisatorische und analytische Fähigkeiten sowie ein strukturierter und lösungsorientierter Arbeitsstil Hohe Kompetenz im Stakeholder-Management sowie ein sicheres Auftreten gegenüber Fachstellen, Gremien und externen Partnern Überzeugende Kommunikations-, Entscheidungs- und Führungskompetenz sowie Freude daran, Veränderungen aktiv zu gestalten Unsere Benefits Spannende und gesellschaftlich relevante Digitalisierungsprojekte mit grosser Wirkung für Bevölkerung, Wirtschaft und Verwaltung Ein engagiertes, interdisziplinäres Team mit hoher Eigenverantwortung und kurzen Entscheidungswegen Flexible Arbeitsformen mit attraktiven Möglichkeiten für Homeoffice und moderne Arbeitsplätze Individuelle Aus- und Weiterbildungsmöglichkeiten sowie Raum für fachliche und persönliche Entwicklung Zeitgemässe Anstellungsbedingungen und die Möglichkeit, die digitale Verwaltung des Kantons aktiv mitzugestalten Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "description": "Lohn - CHF105'000 - 115'000 Dein neuer Arbeitgeber ist im Energie- und Versorgungsbereich tätig. Wir bringen Talente und führende Arbeitgeber in diesem Bereich zusammen. Wenn du mehr über das Unternehmen und die Stelle erfahren möchtest, dann bewirb dich jetzt auf die Stelle. Rolle Du möchtest anspruchsvolle Projekte im Bereich Nieder- und Mittelspannung von der Projektierung bis zur Umsetzung begleiten? In dieser Funktion übernimmst Du technische, terminliche, qualitative und finanzielle Verantwortung und entwickelst gemeinsam mit verschiedenen Fachstellen zukunftsfähige Netzlösungen. Verantwortung Projektierung und Umsetzung von Nieder- und Mittelspannungsprojekten unter Berücksichtigung relevanter Normen, Vorschriften und Bewilligungen Beratung von Kunden sowie Erstellung von Netzkonzepten, Netzberechnungen und Sanierungslösungen Planung von Netzerweiterungen und technischen Anpassungen Verantwortung für Kosten, Qualität, Termine und Technik der zugewiesenen Projekte Zusammenarbeit mit internen und externen Fachstellen sowie Mitarbeit in Arbeitsgruppen Qualifikationen Erfahrung in Projekt- oder Bauleitung im Umfeld der Energieversorgung Elektrotechnische Grundausbildung mit Weiterbildung auf HF-, FH- oder Meisterstufe Vernetztes Denken und unternehmerische Arbeitsweise Freude daran, technische und bauliche Fragestellungen ganzheitlich zu lösen Interesse an der Weiterentwicklung moderner Energieinfrastrukturen Motivation, gemeinsam im Team innovative Lösungen zu entwickeln Benefits Flache Hierarchien Eingespieltes und dynamisches Team Interessante und abwechslungsreiche Tätigkeiten/Projekte Familienfreundliche Anstellungsbedingungen, Kinderbetreuung 13. Monatsgehalt Offene Unternehmenskultur Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d999bfd539994ad6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-energieversorgung-m-w-d-at-rocken%C2%AE-4489801931"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Technische:r Leiter:in Inbetriebsetzung Modernisierung & Reparatur – Frauenfeld",
+   "company": "Stadler",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technische-r-leiter-in-inbetriebsetzung-modernisierung-reparatur-%E2%80%93-frauenfeld-at-stadler-4489562344",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "82aaf028b0ed4c60",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technische-r-leiter-in-inbetriebsetzung-modernisierung-reparatur-%E2%80%93-frauenfeld-at-stadler-4489562344"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Senior Project Manager VDC (m/w/d) 80-100%",
+   "company": "BIM Tech Consulting GmbH",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-project-manager-vdc-m-w-d-80-100%25-at-bim-tech-consulting-gmbh-4490708702",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "BIM Tech Consulting ist ein wachsendes Beratungsunternehmen für digitales Bauen mit Sitz in Winterthur. Wir übernehmen die BIM-Gesamtkoordination und Projektleitung für Bauherren und Projektentwickler in der DACH-Region, von der Machbarkeitsstudie bis zur Inbetriebnahme. Unsere Kunden stammen aus Pharma, Life Sciences und Industrie. Wir sind ein kleines Team mit kurzen Entscheidungswegen, klaren Verantwortlichkeiten und dem Anspruch, organisch und stabil zu wachsen. Deine Rolle Als Senior Project Manager VDC übernimmst du die Gesamtprojektleitung in komplexen, interdisziplinären Bauprojekten. Du führst Planer, Gewerke und ausführende Unternehmen, bist die zentrale Schnittstelle zwischen Bauherr, Planung, Construction Management und Ausführung und entlastest die Geschäftsleitung operativ und strategisch. Deine Aufgaben • Gesamtprojektleitung in komplexen, interdisziplinären Bauprojekten • Führen und Steuern von Planern, Gewerken und ausführenden Unternehmen, nicht nur Koordinieren • Zentrale Schnittstelle zwischen Bauherr, Planung, CM und Ausführung • Leitung von Design Reviews und Koordinationssitzungen mit Bauherren, Planern und Unternehmern • Verantwortung für Termine, Qualität und Kosten • Sicherstellen der BIM-Prozesse und der Modellqualität (BEP, ISO 19650, Revit, Forma, Revizto) • Strategische Beratung von Kunden und Entwicklung interner Prozesse • Fachliche Führung und Mentoring von Projektleitern, Koordinatoren und Junior-Mitarbeitenden • Unterstützung bei Angeboten, Kundenterminen und Akquise Das bringst du mit • Ausbildung: Techniker HF, Ingenieur FH oder Dipl. in Architektur, Bauingenieurwesen, Gebäudetechnik etc. • Fachumfeld: Erfahrung im GMP-Umfeld, in der Prozessanlagentechnik, HVAC und Bauplanung • Construction: Erfahrung in der Ausführungsphase und Schnittstellen zum CM • BIM: fundierte Kenntnisse in Revit (zwingend); Forma, Revizto und ISO 19650 von Vorteil • Interdisziplinäres Denken und die Fähigkeit, Gesamtprojekte zu leiten, nicht nur Teilbereiche • Führungserfahrung und Projekteinsätze in der DACH-Region • Sprachen: sehr gutes Deutsch, gutes Englisch (Niveau B2) • Persönlichkeit: strukturiert, kommunikativ, lösungsorientiert und mit unternehmerischem Denken Deine Perspektive Die Stelle ist als Schlüsselrolle mit Entwicklung und Aufstieg angelegt. Bei entsprechender Bewährung eröffnen wir dir die Möglichkeit, in die Geschäftsleitung aufzusteigen und BIM Tech Consulting aktiv mitzugestalten, auch mit einer möglichen Beteiligung am Unternehmen. Konkrete Schritte und Rahmenbedingungen besprechen wir offen im persönlichen Gespräch. Was wir bieten • Vertrauensarbeitszeit, Homeoffice, Remote und Workation • Modernes Arbeitsumfeld und moderne Arbeitsmittel in Winterthur • 5 Wochen Ferien • Abo-Zuschüsse für den öffentlichen Verkehr • Weiterbildung, zeitlich und finanziell unterstützt • Eigenverantwortung und kurze Entscheidungswege • Ein kleines Team, das zusammenhält, mit Humor und Wertschätzung Interesse? Dann sende uns deine Bewerbungsunterlagen (Lebenslauf / CV ohne Motivationsschreiben) per E-Mail an info@bimtechconsulting.com. Wir freuen uns auf dich. BIM Tech Consulting GmbH · Sulzerallee 70 · 8404 Winterthur · www.bimtechconsulting.com Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Architecture and Planning Referrals increase your chances of interviewing at BIM Tech Consulting GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9e89a8ebb03a61f1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-project-manager-vdc-m-w-d-80-100%25-at-bim-tech-consulting-gmbh-4490708702"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Gruppenleiter/in Aktivierung 80-100%",
+   "company": "Tertianum",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/gruppenleiter-in-aktivierung-80-100%25-at-tertianum-4490725095",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Die Tertianum Gruppe steht für Wohnen und Leben im Alter auf hohem Niveau. Als Schweizer Marktführerin haben wir den Anspruch, das Leben von Seniorinnen und Senioren mit unseren 7000 Mitarbeitenden jeden Tag lebenswert zu machen, um ihnen Lebensfreude zu ermöglichen. Mit unseren individuell zugeschnittenen Leistungen schaffen wir so über alle Lebensphasen im Alter an 100 Standorten ein neues Zuhause, das ein sicheres und selbstbestimmtes Leben bietet. Was uns dabei jeden Tag antreibt, ist unser Respekt und unser Verantwortungsgefühl für ältere Menschen. Ihr Herz schlägt für ältere Menschen? Ist der Pflegeberuf Ihre Berufung? Sehen Sie Möglichkeiten, Ihre Fähigkeiten und Erfahrungen sinnstiftend bei uns einzubringen, um einen positiven Einfluss auf das Leben unserer Kundinnen und Kunden zu haben? Dann passen Sie perfekt zu uns! Für die Häuser Gartenhof und Papillon in der Region Zürich suchen wir per 1. Februar oder früher eine/einen Leiterin / Leiter Aktivierung 80 -100 % Ihre Aufgaben Verantwortlich für Planung, Organisation und Durchführung der ressourcenorientierten Aktivierung und Alltagsgestaltung in Gruppen- oder Einzelaktivitäten in enger Zusammenarbeit mit der Pflegeabteilung Verantwortlich für Planung, Koordination und Durchführung von Ausflügen, Anlässen und Aktivitäten im Haus Personelle und fachliche Führung des Aktivierungsteams und freiwilligen Mitarbeitenden Dokumentation im CareCoach (Anamnese, Biografie, Beobachtungen) Fördern der interdisziplinären Zusammenarbeit sowie Zusammenarbeit mit externen Partnern Bereitschaft, bei Veranstaltungen auch abends und an Wochenenden zu arbeiten Kontinuierliches internes und externes Weiterbilden sowie regelmässiger Austausch mit diversen Anspruchsgruppen Ihr Profil Abgeschlossene Ausbildung als Dipl. Aktivierungsfachfrau/Aktivierungsfachmann HF Berufserfahrung in der Langzeitpflege Erfahrung in der Langzeitpsychiatrie im Alter von Vorteil Organisationsstark und kontaktfreudig Eine herzliche und humorvolle Grundeinstellung Freude an vielseitigen Herausforderungen Gute Deutschkenntnisse in Wort und Schrift Warum Tertianum? Benefits Uns ist wichtig, dass unsere Mitarbeitenden Beruf und Privatleben gut miteinander vereinbaren können. Dazu gehört ein vielfältiges Angebot an unterschiedlichen Benefits, z.B.: Interne und externe Weiterbildungsmöglichkeiten Zusätzlicher freier Tag im Geburtstagsmonat Vergünstigte Mobile- und Internet-Abos bei Sunrise Rabatte auf ausgewählte Krankenkassen-Zusatzversicherungen SBB-Halbtaxabonnement Diverse Flottenrabatte Weitere Benefits finden Sie auf unsere Website. Sind Sie interessiert? Wir bieten Ihnen eine spannende Perspektive: Bei uns können Sie Ihre Fähigkeiten und Ihr Fachwissen in einem motivierten und flexiblen Team einsetzen. Sie übernehmen Verantwortung und helfen mit, die Zukunft von Tertianum zu gestalten. Bewerben Sie sich jetzt und werden Sie Teil unseres Teams. Wir freuen uns auf Ihre vollständige Online-Bewerbung über unser Bewerbungs-Tool. Klicken Sie auf «Jetzt bewerben» und erstellen Sie Ihr persönliches Konto. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Tertianum by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "3b67468bbedcd8fe",
+   "id": "1a3e14d83799a5e4",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-e-government-services-m-w-d-at-kanton-st-gallen-4489273640"
+    "linkedin": "https://ch.linkedin.com/jobs/view/gruppenleiter-in-aktivierung-80-100%25-at-tertianum-4490725095"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Beratung und Projektleitung, 80–100 %",
-   "company": "Alltag Agentur GmbH",
-   "location": "St Gallen, Switzerland",
+   "title": "Assistentin / Assistent Leitung Berufsbildung",
+   "company": "Kantonsspital Winterthur",
+   "location": "Winterthur, Zurich, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/beratung-und-projektleitung-80%E2%80%93100-%25-at-alltag-agentur-gmbh-4490312930",
-   "posted": "2026-11-12",
+   "url": "https://ch.linkedin.com/jobs/view/assistentin-assistent-leitung-berufsbildung-at-kantonsspital-winterthur-4489594428",
+   "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "Wir sind Alltag, eine Kommunikationsagentur aus St.Gallen. Unsere Kund:innen kommen zu uns, wenn etwas ansteht, das zählt: ein Jubiläum, eine Nachfolge, ein grosser Auftritt. Etwas, das nicht dem Zufall überlassen wird. Wir sehen, was sie ausmacht, machen es sichtbar und bleiben dran, oft über Jahre. Was wir gestalten, soll nicht nur für einen Moment glänzen, sondern jeden Tag wirken. Wir sind zwölf Kommunikationsprofis, bilden zwei Grafik-Lernende aus und suchen per 1. April 2027 oder nach Vereinbarung Verstärkung für unser Team. Beratung und Projektleitung, 80–100 % Was du bewirken kannst Du entwickelst den Alltag unserer Kund:innen, indem du ungewöhnliche Ideen zur Realität werden lässt. Dafür trägst du die Verantwortung – inhaltlich, zeitlich und finanziell. Unser Qualitätsanspruch ist schnell erklärt: Unsere Kund:innen sind glücklich – und wir stehen hinter der Lösung. Deine Aufgaben Beratung: Du hilfst unseren Kund:innen weiterzukommen – mit einem Blick von aussen und der Erfahrung, die dazugehört. Du erkennst ihre Bedürfnisse, übersetzt diese in Briefings und entwickelst daraus Ideen und Konzepte, deren Machbarkeit du von Anfang an mitdenkst. Deine Lösungen vertrittst du überzeugend in Präsentationen, Beratungsgesprächen und Verhandlungen. Kundenbeziehung: Du verantwortest dein eigenes Kundenportfolio, von der Neuanfrage bis zur langjährigen Partnerschaft, und trägst die Budgetverantwortung dafür. Du erkennst Potenziale und entwickelst bestehende Mandate weiter. Neue gewinnst du mit Freude dazu, sei es an Netzwerkanlässen, bei Pitches oder im direkten Gespräch. Projektleitung: Zusammen mit Kund:innen, externen Partner:innen und unserem Team bringst du Projekte erfolgreich in den Alltag: Kampagnen, Events und Kommunikationsmassnahmen aller Art. Du koordinierst selbständig, planst interne wie externe Ressourcen und führst das Team durch den Projektprozess. Termine, Budgets und die vollständige Abrechnung hast du im Griff. Mit Debriefings ziehst du Bilanz. Operative Leitung: Gemeinsam mit dem Projektleitungsteam und der Geschäftsführung trägst du die operative Verantwortung für das Alltagsgeschäft der Agentur. Das bringst du mit Du hast mehrjährige Erfahrung in Beratung und Projektleitung. Diese hast du in einer Kommunikationsagentur, in der Selbständigkeit oder einer Kommunikations- oder Marketingabteilung gesammelt. Du denkst konzeptionell, kämpfst für gute Ideen und bringst Projekte voran. Du gehst auf Menschen zu, statt auf Anfragen zu warten. Du übernimmst Verantwortung und zeigst Führungswillen. Du behältst die Übersicht, auch wenn es komplex wird oder zehn Projekte gleichzeitig laufen. Du trittst sicher auf, kommunizierst klar und auf Augenhöhe und sprichst auch Schwieriges offen an. Das bieten wir Ein Team, das klein genug ist, dass deine Ideen nicht in Prozessen versanden, aber gross genug für vielseitige Impulse Projekte für KMU, internationale Unternehmen, Behörden sowie Bildungs-, Sozial- und Kulturinstitutionen Freiraum für deine Stärken. Wir bauen auf die Kompetenzen jedes Teammitglieds. Du setzt deine Erfahrung dort ein, wo sie am meisten bewirkt. Ein transparentes Lohnsystem Einen inspirierenden Arbeitsplatz in unserer Büro-WG in der Villa am Rosenberg, mit Garten, Billardtisch und Gartenfesten Und eine Lage, die kaum Wünsche offenlässt: zu Fuss 1 Minute zur HSG-Mensa und zum Outdoor-Gym, 10 Minuten in den Wald und zum Marktplatz, 15 Minuten zum Bahnhof St.Gallen und zum Freibad Rotmonten Rahmen 80–100 %, ab 1. April 2027 oder nach Vereinbarung, Höhenweg 1, St.Gallen. Bewerbung Bitte sende dein Motivationsschreiben und deinen Lebenslauf an Isabelle Schirmer, bewerbung@alltag.ch, 071 534 38 55. Show more Show less Seniority level Entry level Employment type Full-time Industries Design Services Referrals increase your chances of interviewing at Alltag Agentur GmbH by 2x See who you know",
-   "extra": {
-    "seniority": "Entry level",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "e63c4f55cc7f2a4d",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/beratung-und-projektleitung-80%E2%80%93100-%25-at-alltag-agentur-gmbh-4490312930"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Senior Consultant / Projektleiter Health - KIS (all genders)",
-   "company": "adesso Schweiz AG",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/senior-consultant-projektleiter-health-kis-all-genders-at-adesso-schweiz-ag-4482089810",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "ARBEITEN BEI EINEM DER BESTEN ARBEITGEBER DER SCHWEIZ adesso steht für IT-Exzellenz, AI-Exzellenz und damit auch für exzellente Entwicklungsmöglichkeiten für alle adessi. Wir wachsen gemeinsam und lernen voneinander – an unseren Projekten, im Team und mit herausragenden Trainingsangeboten. Wir haben IT im Herzen, die Branche im Blick, den Erfolg unserer Kunden im Sinn und die Zukunft mit AI im Auge. Denn erfolgreiches Geschäft entsteht durch innovative Ideen, zukunftsfähige Strategien und kluge IT-Lösungen die heute schon AI fähig sind. Immer sind dabei Menschen beteiligt, die etwas bewegen wollen und das einfach machen. Wir gestalten und bauen Software, die unsere Kunden begeistert. In Projekten, die uns fordern. Und das in einem Umfeld, das uns Spass macht, in der Erfolg gemeinsam entsteht und sich alle wohlfühlen. DAS KANNST DU BEWEGEN Das Gesundheitswesen ist im Umbruch und die Schweiz hat Aufholbedarf. Moderne IT-Lösungen gehören ebenso zu einem modernen Gesundheitsdienstleister wie medizinische Leistungen und die Pflege. Wir bei adesso unterstützen führende Gesundheitsdienstleiter sowie eHealth- / mHealth- Lösungsanbieter mit unserem Prozess- und IT-Fachwissen bei deren Digitalen Transformation. Hilf uns mit deinem Wissen und Können, damit wir unseren Beitrag leisten können das Schweizer Gesundheitswesen für die Zukunft fit zu machen. Zu deinen Kernaufgaben gehören: Business und Prozess Analyse / Modellierung sowie Requirements Engineering in komplexen Business- und IT-Umgebungen (z.B. KIS, Fachapplikationen etc.) Beratung von Kunden bei Vorhaben der Digitalen Transformation Schnittstellenfunktion zwischen Fachabteilung und IT Vorbereitung, Moderation und Auswertung von Workshops und Assessments beim Kunden Übergreifende Zusammenarbeit mit unterschiedlichsten Stakeholdern und Projektleitern Coaching von Teams beim Kunden Beteiligung an der Ausarbeitung von Beratungs- und Lösungsangeboten Einbezug modernster Geschäftsmodelle und Lösungsansätze Presales-Support: Zur Förderung unseres Vertriebs und Business Developments unterstützt du bei Akquisitions- und Presales-Tätigkeiten. Beim Kunden arbeitest du aktiv am Aufbau eines Netzwerks und bist in der Lage Leads zu generieren WIE DIR DAS GELINGT Fundierte Ausbildung: Ein abgeschlossenes Studium der (Wirtschafts-)Informatik, Wirtschaftswissenschaften/BWL oder vergleichbare Qualifikation Relevante Berufserfahrung im Gesundheitswesen: Du bringst mindestens fünf Jahre Erfahrung in der Durchführung von IT-Projekten mit – idealerweise mit Fokus Schweizer Gesundheitssystem. Erfahrung mit Klinikinformationssystemen: Du verfügst über praktische Projekterfahrung mit Epic und KISIM. Methodenkenntnisse: Du bist mit gängigen Methoden und Vorgehensmodellen wie UML, BPMN, Scrum, Prince II, PMI vertraut. Technologisches Verständnis: Du kennst dich mit relevanten IT-Technologien und Produkten des Gesundheitswesens, idealerweise auch aktuellen IT-Themen wie Cloud oder Robotics, gut aus. Konzeptionelle Kenntnisse der fachlichen und technischen Standards im Gesundheitswesen und von Klinikinformationssystemen (KIS). Zertifikate: Idealerweise relevante Zertifizierungen (z.B. IIBA, IREB, OCEB). Eine Zertifizierung zum Certified Project Manager (IPMA® Level C), PMP oder Hermes Advanced hast du bereits erfolgreich abgeschlossen oder bist bereit sie zu absolvieren. Kommunikationsstärke: Ausgeprägte kommunikative Fähigkeiten und die Fähigkeit andere zu begeistern zeichnen dich aus. Sprachkenntnisse: Sehr gute Deutsch- und gute Englischkenntnisse CHANCENGEBER - WAS ADESSO AUSMACHT Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, gemeinschaftlich und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi. Lerne und wachse mit uns: Mit über 400 Trainingsangeboten …",
+   "description": "Organisationstalent mit Herz für die Berufsbildung gesucht! Du liebst es, den Überblick zu behalten, Dinge zu organisieren und Verantwortung zu übernehmen? Du möchtest mit deiner Arbeit die Ausbildung zahlreicher junger Menschen mitgestalten und gleichzeitig selbst KV-Lernende ausbilden? Dann erwartet dich bei uns eine vielseitige Aufgabe mitten im Geschehen der Berufsbildung! So sind wir gemeinschaftlich persönlich & fair einzigartig fortschrittlich Deine Aufgaben Du hältst die Fäden zusammen: Du übernimmst vielseitige administrative Aufgaben rund um unsere Ausbildungen – als administrative Drehscheibe unserer Berufsbildung sorgst du dafür, dass die organisatorischen und administrativen Abläufe rund um sämtliche Ausbildungsberufe reibungslos funktionieren Du kümmerst dich um alles rund um die Ausbildung: Von der Veranlassung der Ausbildungsverträge über die Administration der Rekrutierung und Organisation von Veranstaltungen bis zur Pflege von Ausbildungsdaten und Dokumenten – du behältst den Überblick und sorgst für eine zuverlässige Abwicklung Du machst Organisation zum Erlebnis: Du planst und organisierst Veranstaltungen, Sitzungen und Ausbildungsaktivitäten und koordinierst die benötigten Räume und die Infrastruktur Du bist die rechte Hand der Leitung Berufsbildung: Du unterstützt sie in administrativen und organisatorischen Aufgaben, koordinierst Termine, bereitest Unterlagen auf und denkst vorausschauend mit Du begleitest junge Talente: Als verantwortliche Berufsbildnerin bzw. verantwortlicher Berufsbildner gestaltest du die praktische Ausbildung unserer KV-Lernenden, förderst ihre Entwicklung und begleitest sie auf ihrem Weg zum Berufsabschluss Du bringst deine Ideen ein: Du bist eine wichtige Ansprechperson für unterschiedliche Anspruchsgruppen, erkennst Optimierungspotenzial und entwickelst unsere administrativen Prozesse aktiv weiter Dein Profil Du verfügst über eine abgeschlossene kaufmännische Ausbildung und bringst Erfahrung in einer vielseitigen administrativen oder organisatorischen Funktion mit Du hast Freude an der Ausbildung junger Menschen und verfügst idealerweise über den Berufsbildnerkurs oder bist bereit, diesen zu absolvieren Du bist ein echtes Organisationstalent, arbeitest selbstständig und strukturiert und behältst auch dann den Überblick, wenn vieles gleichzeitig läuft Du hast ein grosses Verantwortungsbewusstsein, bist kommunikativ, dienstleistungsorientiert und begegnest unterschiedlichen Menschen mit Offenheit und Wertschätzung Du bist versiert im Umgang mit MS Office, verfügst über stilsichere Deutschkenntnisse und hast Freude an digitalen Arbeitsprozessen Du überzeugst mit Eigeninitiative, Zuverlässigkeit, Verantwortungsbewusstsein und einer guten Portion Humor Hast du noch Fragen? Gerne Kannst Du Dich Bei Mir Melden Seraina Beerli Leitung Berufsbildung Tel. 052 266 36 61 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Kantonsspital Winterthur by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "f39220cb11c4362c",
+   "id": "8e40760c983f112c",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/senior-consultant-projektleiter-health-kis-all-genders-at-adesso-schweiz-ag-4482089810"
+    "linkedin": "https://ch.linkedin.com/jobs/view/assistentin-assistent-leitung-berufsbildung-at-kantonsspital-winterthur-4489594428"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Projektleiter Sicherheitstechnik (m/w) 100%",
-   "company": "yellowshark® AG",
-   "location": "Gossau, St Gallen, Switzerland",
+   "title": "Projektleiter:in Gebäudeautomation / Systemintegration 80 – 100%",
+   "company": "addexpert GmbH",
+   "location": "Schaffhausen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiter-sicherheitstechnik-m-w-100%25-at-yellowshark%C2%AE-ag-4472916106",
-   "posted": "2026-11-12",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-geb%C3%A4udeautomation-systemintegration-80%E2%80%AF%E2%80%93%E2%80%AF100%25-at-addexpert-gmbh-4488954252",
+   "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "Für ein etabliertes Unternehmen im Bereich technischer Sicherheitslösungen suchen wir einen erfahrenen Projektleiter mit elektrotechnischem Hintergrund. Die yellowshark AG begleitet Sie professionell auf dem Weg zu einer verantwortungsvollen Position mit vielseitigen technischen und organisatorischen Aufgaben. Aufgaben Ganzheitliche Leitung technischer Projekte von der Planung bis zum erfolgreichen Abschluss unter Berücksichtigung von Qualität, Terminen und Kosten Technische und kommerzielle Betreuung der Auftraggeber während der gesamten Projektabwicklung Planung und Koordination der benötigten personellen, materiellen und zeitlichen Ressourcen Fachliche Koordination und Einsatzplanung der für die jeweiligen Projekte zuständigen Servicetechniker Unterstützung des Verkaufs bei technischen Fragestellungen sowie Bearbeitung zusätzlicher Leistungen innerhalb laufender Projekte Bearbeitung projektbezogener Nachträge sowie Einhaltung der relevanten Qualitäts- und Sicherheitsvorgaben Profil Abgeschlossene Grundausbildung als Elektroinstallateur EFZ, Automatiker EFZ, Elektroniker EFZ oder eine vergleichbare elektrotechnische Ausbildung Berufserfahrung in der technischen Projektleitung, vorzugsweise im Bereich Sicherheits- oder Gebäudetechnik Fachspezifische Weiterbildungen oder Zertifizierungen im Bereich Sicherheits- und Brandschutztechnik sind ein grosses Plus Gutes betriebswirtschaftliches Verständnis und Erfahrung in der kostenbewussten Abwicklung technischer Projekte Selbstständige, strukturierte und kundenorientierte Arbeitsweise sowie ausgeprägtes Organisationstalent Fliessende Deutschkenntnisse in Wort und Schrift sowie gute Französisch- oder Englischkenntnisse von Vorteil Führerausweis Kategorie B Wissenswertes Ihre Beruflichen Perspektiven Vielseitige und anspruchsvolle Projekte mit hoher Eigenverantwortung Grosser Gestaltungsspielraum bei der Umsetzung technischer Lösungen Kollegiales und fachlich versiertes Arbeitsumfeld Vielseitige Aus- und Weiterbildungsmöglichkeiten Strukturierte und professionelle Einarbeitung in den Verantwortungsbereich Sie möchten Ihre Erfahrung in der Projektleitung mit Ihrem technischen Fachwissen verbinden? Dann senden Sie uns Ihre vollständigen Bewerbungsunterlagen mit Lebenslauf, Arbeitszeugnissen und Diplomen. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Services Referrals increase your chances of interviewing at yellowshark® AG by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "f9a7bc982422c295",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-sicherheitstechnik-m-w-100%25-at-yellowshark%C2%AE-ag-4472916106"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Projektleiter:in Gesamtleistung (m/w/d)",
-   "company": "Rhomberg Bau Gruppe",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/projektleiter-in-gesamtleistung-m-w-d-at-rhomberg-bau-gruppe-4488534451",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "Rhomberg Bau AG Wir bauen mit Blick aufs Ganze. Als wirtschaftlich eigenständiges Unternehmen und Teil der international agierenden Rhomberg Bau Gruppe unterstützen wir unsere Kunden und Kundinnen als Gesamtleister. Wir bieten Lösungen und Leistungen für alle Phasen im Lebenszyklus von öffentlichen und privaten Gebäuden. Verlässlich, direkt, ohne Umwege und aus einer Hand. Mit dir im Mittelpunkt. Zur Verstärkung unseres Teams in St. Gallen suchen wir eine:n Projektleiter:in. Deine Aufgaben Unternehmerische Gesamtverantwortung für Hochbauprojekte bis zur schlüsselfertigen Übergabe Eigenständige Projektsteuerung, Ausschreibung, Vergabe, Kosten-, Termin- und Qualitätskontrolle, Abrechnung und Nachkalkulation von Subunternehmer- und Subplanerleistungen Organisation und Führung von Projektteams Zusammenarbeit mit der Kalkulation und Projektentwicklung, Koordination mit Fachplaner, Unternehmer und Behörden und Ansprechpartner:in für die Bauherrschaft Dein Profil Abgeschlossene Ausbildung als dipl. Bauleiter:in, Techniker:in Hochbau HF, Architekt:in oder Bauingenieur:in Mehrjährige Erfahrung in der Projektleitung von Hochbauprojekten Erfahrung in der Führung und Weiterentwicklung von Projektteams Strukturierte und unternehmerisch denkende Arbeitsweise mit Blick für Qualität, Termine, Ressourcen und Wirtschaftlichkeit Selbständiges und eigenverantwortliches Handeln, belastbar, kommunikationsstark Unser Angebot Die Rhomberg Bau AG lebt eine zeitgemässe, unkomplizierte Firmenkultur mit kurzen Entscheidungswegen, legt grossen Wert auf eigenverantwortliches Denken und Handeln und unterstützt ihre Mitarbeitenden in ihrer beruflichen Weiterentwicklung. Hochqualifizierte und engagierte Mitarbeitende machen uns zu dem, was wir sind. Mehr Zeit für das, was dir wichtig ist Mit unserer 4½-Tage-Woche, flexiblen Arbeitszeiten und Home-Office-Möglichkeiten lässt sich Beruf, Familie und Freizeit optimal vereinbaren. Flexibel unterwegs mit deinem Dienstfahrzeug Für deine Mobilität steht dir ein Dienstfahrzeug zur Verfügung. Wir investieren in deine Gesundheit Mit einem jährlichen Gesundheitsbeitrag von CHF 300 unterstützen wir Fitnessabonnemente, Ernährungsangebote oder die Anschaffung eines Bikes bzw. E-Bikes. Entwicklung mit Perspektive Ob in der Rhomberg Akademie oder bei externen Weiterbildungen: Wir fördern deine persönliche und fachliche Entwicklung gezielt und nachhaltig. Kurze Entscheidungswege und viel Eigenverantwortung Bei uns kannst du mitgestalten, Verantwortung übernehmen und deine Ideen direkt einbringen. Wir vertrauen auf selbstständiges Handeln und unternehmerisches Denken. Du hast Interesse bei uns einzusteigen? Dann freuen wir uns über deine Bewerbung! Über den Bewerbungsbutton kannst du ganz einfach deine Bewerbungsunterlagen hochladen. Rhomberg Bau AG Feldlistrasse 2 9000 St. Gallen/Schweiz www.rhomberg.com Show more Show less Seniority level Not Applicable Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Rhomberg Bau Gruppe by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "ce5e3c35c93a6487",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-gesamtleistung-m-w-d-at-rhomberg-bau-gruppe-4488534451"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Leiter Institut für Landschaft und Freiraum (ILF) (m/w/d)",
-   "company": "Kohlberg & Partner GmbH",
-   "location": "St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/leiter-institut-f%C3%BCr-landschaft-und-freiraum-ilf-m-w-d-at-kohlberg-partner-gmbh-4490355091",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "Klimawandel, Biodiversität, Schwammstadt, nachhaltige Freiräume und digitale Planungsmethoden gehören zu den grossen Herausforderungen unserer Zeit. Als Leiter:in des Instituts für Landschaft und Freiraum (ILF) an der OST – Ostschweizer Fachhochschule übernehmen Sie eine Schlüsselrolle bei der Entwicklung praxiswirksamer Lösungen für Gemeinden, Kantone, Bundesstellen und die Privatwirtschaft. Sie führen ein Institut mit rund 30 hochqualifizierten Forschenden und Fachspezialist:innen und prägen dessen strategische Entwicklung in Forschung, Weiterbildung, Dienstleistung und Lehre. Gleichzeitig wirken Sie als Mitglied der Departementsleitung aktiv an der Zukunft des Departements Architektur, Bau, Landschaft, Raum mit. Dies ist keine klassische Hochschulfunktion. Es ist eine unternehmerische Führungsaufgabe mit hoher Sichtbarkeit, gesellschaftlicher Relevanz und grossem Gestaltungsspielraum. Mit der Funktion verbunden ist bei Eignung die Wahl zum Professor:in. Leiter Institut für Landschaft und Freiraum (ILF) 70–100% (m/w/d) Was Sie bewegen Sie entwickeln das ILF strategisch weiter und positionieren es als eine der führenden Adressen für angewandte Forschung und Innovation im Bereich Landschaft und Freiraum. Sie führen und inspirieren rund 30 Mitarbeitende aus unterschiedlichen Fachrichtungen. Sie stärken die Marktpräsenz und bauen Partnerschaften mit öffentlichen Auftraggebern, Unternehmen, Verbänden und Hochschulen aus. Sie fördern Zukunftsthemen wie Klimaanpassung, Biodiversität, Nature Based Solutions, Digitalisierung sowie GIS- und BIM-Anwendungen. Sie akquirieren Forschungs-, Entwicklungs- und Dienstleistungsprojekte und schaffen nachhaltige Wachstumsperspektiven. Sie engagieren sich in Lehre, Weiterbildung oder Forschung und fördern den Wissenstransfer zwischen Wissenschaft und Praxis. Sie bringen Ihre Perspektive in die strategische Weiterentwicklung des Departements ein. Wen wir suchen Sie verbinden fachliche Glaubwürdigkeit mit unternehmerischem Denken und verstehen es, Expertinnen und Experten für gemeinsame Ziele zu begeistern. Idealerweise bringen Sie mit: Hochschulabschluss in Landschaftsarchitektur, Raumplanung, Architektur, Umweltwissenschaften oder einer verwandten Disziplin Mehrjährige Führungs- und Managementerfahrung Nachweisbare Erfolge in der Entwicklung von Organisationen, Teams oder Geschäftsfeldern Ein belastbares Netzwerk in Landschaftsarchitektur, Planung, , öffentlicher Verwaltung, Forschung oder Wirtschaft Erfahrung in der Akquisition und Leitung anspruchsvoller Projekte Strategisches Denken, wirtschaftliches Verständnis und hohe Umsetzungsstärke Freude daran, Menschen, Ideen und Organisationen weiterzuentwickeln. Darauf können Sie sich freuen Eine Führungsfunktion mit hoher Wirkung für Umwelt, Gesellschaft und Lebensqualität Ein etabliertes Institut mit rund 30 Forschenden und starken Fachbereichen Die Möglichkeit, die Zukunftsthemen Klimaanpassung, Biodiversität und nachhaltige Freiraumentwicklung aktiv mitzugestalten Grosse unternehmerische Gestaltungsmöglichkeiten in Forschung, Weiterbildung und Dienstleistungen Eine moderne Hochschule mit ausgeprägter Praxisorientierung und kurzen Entscheidungswegen Attraktive Anstellungsbedingungen am Campus Rapperswil direkt am Zürichsee und wenige Schritte vom Bahnhof entfernt. Ihr nächster Schritt Wenn Sie Wissenschaft, Praxis und Führung verbinden möchten und die Zukunft der Landschaftsarchitektur sowie der Freiraum- und Landschaftsentwicklung aktiv prägen wollen, freuen wir uns auf Ihre Bewerbung. Für Fragen rund um die Position oder den Bewerbungsprozess steht Ihnen Michael Greuter (mgreuter@kohlberg.ch / +41 43 888 70 85) gerne zur Verfügung – selbstverständlich behandeln wir Ihre Kontaktaufnahme sowie Ihre Unterlagen mit absoluter Vertraulichkeit. Show more Show less Seniority level Associate Employment type Full-time Industries Architecture and Planning Referrals increase your chances of interviewing at Kohlberg & Partner GmbH by 2x See who you know",
+   "description": "Gebäudeautomation ist ihre Leidenschaft! Unser Kunde gehört schweizweit zu den grössten Anbietern von smarten Automations-Lösungen. Insbesondere zählen namhafte Gross- und Pionier-Projekte zu den Referenz-Installationen, welche von nationaler Bedeutung sind. Die Kernkompetenzen liegen in der Konzeption, Entwicklung und Realisierung von kundenspezifischen Anlagen in den Bereichen Tunnel- Gebäude- und Prozessautomation. Für den stetigen Ausbau suchen wir für die Abteilung Gebäudeautomatisierung nun eine erfahrene Persönlichkeit als: Projektleiter:in Gebäudeautomation / Systemintegration 80 – 100% (m/w/d) Ihre Aufgaben Als Senior Engineer und Projektleiter in der Gebäudeautomation kombinieren Sie die spannenden Aufgaben beider Rollen. Sie arbeiten eng mit internen Abteilungen wie Akquisition, Schemaerstellung, Schaltschrankbau und Fachplanern sowie Kunden zusammen. Dabei begleiten Sie Firmenkunden und Areale als Ansprechpartner, kalkulieren und planen Erweiterungen und begleiten diese bis zum Abschluss. Sie führen selbstständig Projekte von der Kalkulation über die Ausführung bis zur Inbetriebnahme, inklusive Fachbauleitung. Zudem sind Sie Teil des Programmierer-Teams (SPS oder Leitebene) und nehmen an der Inbetriebsetzung teil. Sie überwachen die Arbeiten des CAD-Teams und der Programmierer, programmieren die SPS und/oder Leitebene und legen die Hardware für HLKK(S)E Anlagen aus. Ihr Profil Sie haben breite Erfahrung in HLKK(S)E und kennen das Zusammenspiel der Aggregate. Sie können Funktionsbeschreibungen anhand von Prinzipschemata erstellen und haben eine Ausbildung in HF/FH Elektrotechnik, Automation, Gebäudeautomation, Maschinenbau oder Systemtechnik oder entsprechende Berufserfahrung. Sie verfügen über fundierte Erfahrungen in der Gebäudeautomatisation und HLKK(S)E sowie in Codesys basierten Steuerungen und/oder Leitsystemen. Sie sind umsetzungsstark, zielstrebig und belastbar. Ihre Perspektiven Sie erwartet interessante und abwechslungsreiche Aufgaben in einem stark wachsenden Branchenumfeld mit großem Gestaltungs- und Verantwortungsspielraum sowie flachen Hierarchien. In einem motivierten Team mit kollegialem Arbeitsumfeld und offener Firmenkultur haben Sie vielfältige Förder- und Weiterbildungsmöglichkeiten. Sie werden Teil eines familiären Unternehmens in einer krisensicheren Branche, das zu einer größeren Unternehmensgruppe gehört und attraktive Gehälter sowie hervorragende Sozialleistungen bietet, einschliesslich über 6 Wochen Urlaub. Show more Show less Seniority level Associate Employment type Full-time Industries Architecture and Planning and Retail Appliances, Electrical, and Electronic Equipment Referrals increase your chances of interviewing at addexpert GmbH by 2x See who you know",
    "extra": {
     "seniority": "Associate",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "d97f563eb053a77f",
+   "id": "9ade4b5636df91f0",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-institut-f%C3%BCr-landschaft-und-freiraum-ilf-m-w-d-at-kohlberg-partner-gmbh-4490355091"
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-geb%C3%A4udeautomation-systemintegration-80%E2%80%AF%E2%80%93%E2%80%AF100%25-at-addexpert-gmbh-4488954252"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "IS Project Manager (80-100%)",
-   "company": "ABB",
-   "location": "Schaffhausen, Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/is-project-manager-80-100%25-at-abb-4489097608",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "a3451180a49045c1",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/is-project-manager-80-100%25-at-abb-4489097608"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Standortleitung Mittagstisch Herblingen (30 %)",
-   "company": "Stadt Schaffhausen",
-   "location": "Schaffhausen, Schaffhausen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/standortleitung-mittagstisch-herblingen-30-%25-at-stadt-schaffhausen-4464465182",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "4629e070012d71e7",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/standortleitung-mittagstisch-herblingen-30-%25-at-stadt-schaffhausen-4464465182"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Schulleitung",
-   "company": "Lernpark Seidenbaum",
-   "location": "Flums, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/schulleitung-4490585407",
-   "posted": "2026-11-13",
-   "salary": null,
-   "via": null,
-   "description": "Das Heilpädagogische Zentrum Seidenbaum führt mit dem Lernpark Seidenbaum in Flums eine Tagessonderschule mit drei Klassen für insgesamt 25 Schülerinnen und Schüler der 1. bis 9. Klasse. Das Angebot richtet sich an normalbegabte Kinder und Jugendliche mit schwerwiegenden Lern- und Verhaltensschwierigkeiten. Aufgrund eines Mutterschaftsurlaubs suchen wir von Anfang März bis Ende Oktober 2027 eine/n Schulleiter/in (Pensum 40%, Arbeitstage Dienstag und Donnerstag) . Deine Aufgaben pädagogische, personelle und operative Führung des Lernparks Seidenbaum fachliche und alltagsbezogene Beratung von Lehr- und Fachpersonen Begleitung von Teams im professionellen Umgang mit herausforderndem Verhalten und anspruchsvollen pädagogischen Situationen Initiierung und Umsetzung von schulischen Entwicklungsprojekten Mitglied der Schulleitungskonferenz des HPZ Seidenbaum Dein Profil Erfahrung im professionellen Umgang mit schwerwiegenden Verhaltensschwierigkeiten Abschluss in schulischer Heilpädagogik (SHP) von Vorteil Abschluss als Schulleiter/in und/oder Führungserfahrung als Schulleitung von Vorteil eine ausgeprägt ressourcen-, beziehungs- und lösungsorientierte pädagogische Haltung Fähigkeit, herausforderndes Verhalten zu reflektieren und gemeinsam mit dem Team neue Handlungsmöglichkeiten zu entwickeln Kenntnisse der Neuen Autorität oder vergleichbarer beziehungs- und präsenzorientierter Ansätze von Vorteil Freude an Teamarbeit, Kommunikation und lösungsorientiertem Denken ( interdisziplinäre und kooperative Arbeitsweise - wertschätzender und klarer Umgang sowie persönliche Belastbarkeit Wir bieten eine verantwortungsvolle, vielseitige und sinnstiftende Führungsaufgabe ein kleines, motiviertes und unterstützendes Team sowie ein wertschätzendes Arbeitsklima fachlicher Austausch und Intervision innerhalb der Schulleitungskonferenz administrative Unterstützung durch die Schülerverwaltung im Sekretariat sowie die Abteilungen Personal und Finanzen Frau Nathalie Brauchli-Becker, Schulleitung Lernpark, steht dir bei Fragen per Mail (nathalie.brauchli@hpzseidenbaum.ch) gerne zur Verfügung. Haben wir dein Interesse geweckt? Wir freuen uns auf deine Bewerbung: https://jobs.dualoo.com/link/ae666ba1-01b5-4edb-bbff-bbac9f8a4e74/detail?lang=DE",
-   "extra": {
-    "seniority": "Director",
-    "employment_type": "Temporary",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "d5640d70e8760cfc",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/schulleitung-4490585407"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Produktionsleiter Spritzguss",
-   "company": "Jarusel Recruiting",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/produktionsleiter-spritzguss-at-jarusel-recruiting-4488291742",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "Sie bringen Menschen und Maschinen auf Höchstleistung? Dann wartet eine spannende Führungsaufgabe auf Sie! Unser Kunde im Kanton St. Gallen entwickelt, produziert und vertreibt technisch anspruchsvolle Kunststoffteile und Baugruppen von höchster Präzision für die Medizintechnik und die Industrie. Ihre Aufgaben Fachliche und disziplinarische Führung sowie Weiterentwicklung von 30 Mitarbeitenden im Schichtbetrieb Verantwortung für den Betrieb, die Optimierung und die Weiterentwicklung eines modernen Maschinenparks mit 15 Spritzgussmaschinen Sicherstellung der Qualitätsstandards sowie aktive Förderung der kontinuierlichen Verbesserung der Produktionsprozesse Überwachung und Koordination der abteilungsinternen Wartungsarbeiten zur Sicherstellung einer hohen Anlagenverfügbarkeit Aktive Mitarbeit bei KVP-Massnahmen, Projekten und bereichsübergreifenden Sonderaufgaben Ihr Profil Ausbildung zum Kunststofftechnologen oder Verfahrensmechaniker Führungserfahrung und fundierte Erfahrung im Spritzguss Sehr gute Deutschkenntnisse Was unser Kunde Ihnen bietet Ein moderner Arbeitsplatz mit flexiblen Arbeitsbedingungen und vielfältigen Weiterbildungsmöglichkeiten Eine attraktive, leistungsgerechte Vergütung sowie überdurchschnittliche Sozial- und Zusatzleistungen Gestaltungsspielraum, um eigene Ideen einzubringen und innovative Verbesserungen umzusetzen Unterstützung beim Umzug in die Schweiz sowie bei der Integration vor Ort Show more Show less Seniority level Director Employment type Full-time Industries Staffing and Recruiting Referrals increase your chances of interviewing at Jarusel Recruiting by 2x See who you know",
-   "extra": {
-    "seniority": "Director",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "d6fdfc96a6c8356d",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/produktionsleiter-spritzguss-at-jarusel-recruiting-4488291742"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "HR Business Partner/in (m/w/d)",
+   "title": "Leiter:in für das Couture Lehratelier (m/w/d)",
    "company": "Kanton St.Gallen",
    "location": "St Gallen, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/hr-business-partner-in-m-w-d-at-kanton-st-gallen-4489220011",
-   "posted": "2026-11-12",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-f%C3%BCr-das-couture-lehratelier-m-w-d-at-kanton-st-gallen-4489871256",
+   "posted": "2026-11-14",
    "salary": null,
    "via": null,
-   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Wir suchen dich per 1. Januar 2027 oder nach Vereinbarung als Ihre Aufgaben Du berätst und begleitest Führungspersonen und Mitarbeitende des Finanzdepartementes in allen Themen entlang des HR-Lifecycles Du gestaltest und begleitest Rekrutierungsprozesse sowie die Ein- und Austrittsphasen von Mitarbeitenden Du unterstützt Führungspersonen bei der Entwicklung und Förderung der Mitarbeitenden Du planst und führst Workshops, Schulungen und Informationsveranstaltungen zu HR-relevanten Themen durch Du stellst die korrekte Anwendung des Personalrechts sowie die einheitliche Umsetzung der HR-Instrumente und HR-Prozesse im Finanzdepartement sicher Du begleitest Organisations- und Veränderungsprozesse und unterstützt die Weiterentwicklung der Organisation Du wirkst aktiv in HR-Projekten und in der Weiterentwicklung von HR-Prozessen und HR-Instrumenten mit Was Sie auszeichnet Du verfügst über eine höhere Ausbildung im Bereich HR, Betriebswirtschaft oder Sozialwissenschaften sowie idealerweise über eine Weiterbildung im HR-Bereich, beispielsweise den eidg. Fachausweis HR Du bringst Berufserfahrung im Personalmanagement oder in einer vergleichbaren HR-Funktion mit Du berätst Führungspersonen kompetent und begegnest unterschiedlichen Anspruchsgruppen auf Augenhöhe Du kommunizierst klar, stilsicher sowie adressatengerecht und verfügst über ein gutes Gespür für Konfliktlösungen Du denkst strategisch und vernetzt, handelst lösungsorientiert und behältst auch in komplexen Situationen den Überblick Du überzeugst durch Eigeninitiative, Engagement sowie Durchsetzungsvermögen und gestaltest Veränderungen aktiv mit Du arbeitest strukturiert, selbstständig und zeichnest dich durch eine hohe Organisationsfähigkeit aus Unsere Benefits Eine verantwortungsvolle Schlüsselrolle mit grossem Gestaltungsspielraum Ein spannendes Umfeld mit vielfältigen Herausforderungen Interessante Aufgaben an der Schnittstelle zwischen Strategie und operativer Umsetzung sowie im Austausch mit vielfältigen Anspruchsgruppen Flexible Arbeits- und zeitgemässe Anstellungsbedingungen Moderne Arbeitsmittel und eine professionelle HR-Infrastruktur Attraktiver Arbeitsplatz im Zentrum der Stadt St.Gallen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Wir suchen per 1. Februar 2027 (oder nach Vereinbarung) für die Abteilung Schule für Gestaltung │ Lehrberufe eine:n Ihre Aufgaben Leitung des Lehrateliers nach ausbildungsrelevanten und betriebswirtschaftlichen Kriterien, inklusive Akquise von Kundenprojekten Umsetzung des betrieblichen Teils der Bildungsverordnung Bekleidungsgestalter:in EFZ Führung und Weiterentwicklung des Teams von drei Mitarbeitenden Initiieren, umsetzen und begleiten von praxisorientierten Projekten Vertretung des Lehrateliers gegenüber verschiedenen Anspruchsgruppen Was Sie auszeichnet Abgeschlossene branchenspezifische Berufsausbildung im Bereich Bekleidungsgestaltung oder -produktion mit Abschluss einer höheren Berufsprüfung, höheren Fachprüfung oder fachspezifischen Weiterbildung im berufspraktischen Bereich Mehrjährige praktische Berufserfahrung Du erkennst Gestaltungsspielräume, nutzt sie und kannst gleichzeitig mit verbindlichen Vorgaben und Prozessen umgehen Betriebswirtschaftliches Denken Weiterbildung als Berufsbildner:in oder die Bereitschaft, diese zu erlangen Kommunikative Persönlichkeit mit ausgeprägter Sozialkompetenz Vorbildliches Auftreten und Freude am Umgang mit Lernenden Unsere Benefits Bei uns erwarten dich spannende Herausforderungen und viel Raum zum Mitgestalten. Die Anstellung erfolgt nach kantonalen Richtlinien. Wir freuen uns auf deine vollständigen Bewerbungsunterlagen. Schick uns dein Dossier bis 29. November 2026 über den untenstehenden Button. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "52b603a644aa2a40",
+   "id": "6e436befda106b83",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/hr-business-partner-in-m-w-d-at-kanton-st-gallen-4489220011"
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-f%C3%BCr-das-couture-lehratelier-m-w-d-at-kanton-st-gallen-4489871256"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Personalreferent (m/w/d)",
-   "company": "SII Germany",
-   "location": "Friedrichshafen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/personalreferent-m-w-d-at-sii-germany-4473960786",
-   "posted": "2026-11-12",
+   "title": "Entrepreneurial Project Leader / Executive Operations (m/w/d)",
+   "company": "PMS SCHÖNENBERGER AG",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/entrepreneurial-project-leader-executive-operations-m-w-d-at-pms-sch%C3%B6nenberger-ag-4490741028",
+   "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "Als Engineering- und IT-Dienstleister unterstützt die SII Consulting Services GmbH ihre Kunden bei der Umsetzung anspruchsvoller Projekte sowie der Entwicklung komplexer Systeme. Mit fundierter Expertise begleiten wir Projekte entlang des gesamten Produktlebenszyklus – von der ersten Idee bis zur erfolgreichen Zulassung. Hinter unserem Erfolg stehen Menschen, die mit Leidenschaft, Kompetenz und Innovationsgeist täglich zukunftsweisende Lösungen gemeinsam mit unseren Kunden entwickeln. Deshalb suchen wir motivierte Talente, die Verantwortung übernehmen, ihr Wissen einbringen und mit uns die Technologien von morgen gestalten möchten. Mit fundierter Expertise begleiten wir Unternehmen nicht nur in technischen Projekten, sondern besetzen anspruchsvolle Positionen mit qualifizierten Fachkräften im Rahmen individueller Projekteinsätze. Schlägt Ihr Herz für das Personalwesen? Sie sind gern für andere Menschen da und setzen sich für ihre Interessen ein? Dann bewerben Sie sich doch bei uns! Aufgaben Beratung des Unternehmens in allen personalbezogenen Angelegenheiten Gestaltung der Prozesse, Inhalte und Kampagnen der Personalentwicklung Proaktive Unterstützung in den Bereichen Zeitwirtschaft, Entgeltabrechnung, Personalbeschaffung sowie Gesundheit und Arbeitssicherheit Focal Point für Mitarbeitende und Führungskräfte Koordination von Mitarbeiter-Entsendungen und Mitarbeit bei Mobility-Programmen Abwicklung des Interviewprozesses Qualifikationen Sie verfügen über ein abgeschlossenes Studium der Betriebswirtschaft, des Personalwesens oder eine vergleichbare Ausbildung Praktische Berufserfahrung im Bereich Human Resources bringen Sie mit Kenntnisse in den Bereichen Arbeitsrecht, Entgeltabrechnung und/oder Lohnsteuer sind wünschenswert Sehr gute Kommunikations-, Präsentations- und Organisationsfähigkeiten gehören zu Ihren Stärken Sichere Anwenderkenntnisse mit MS Office sowie ERP Systemen wie z.B. SAP können Sie vorweisen Analytisches Denken, die Fähigkeit zur Informationsbeschaffung aus unterschiedlichen Quellen, selbstständige und strukturierte Arbeitsweise, Teamfähigkeit und hohes Qualitätsbewusstsein runden Ihr Profil ab Sichere Deutsch- und Englischkenntnisse setzen wir voraus Ansprechpartner Bei Fragen zu dieser Position wenden Sie sich bitte an: SII Deutschland GmbH Linda Mehl Tel. +49 40 300 865 104 Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at SII Germany by 2x See who you know",
+   "description": "Eine aussergewöhnliche Aufgabe für eine besondere Persönlichkeit Sie haben Ambitionen, denken unternehmerisch und können mit Menschen umgehen? Sie übernehmen gerne Verantwortung, ohne sich selbst in den Mittelpunkt zu stellen? Und Sie suchen eine Aufgabe, die weit über eine klassische Projektmanagementfunktion hinausgeht? Dann könnte diese Herausforderung genau das Richtige für Sie sein. Für ein aussergewöhnliches, international ausgerichtetes Unternehmen in der Ostschweiz an der Schnittstelle von Technologie, Innovation, Kultur und Design suchen wir eine Persönlichkeit mit Verstand, Gespür und Tatkraft. Sie arbeiten eng mit einem visionären Unternehmer zusammen und helfen dabei, anspruchsvolle Ideen und Initiativen erfolgreich umzusetzen. Dabei bewegen Sie sich in einem faszinierenden Umfeld mit internationalen Partnern, kreativen Persönlichkeiten und spannenden Projekten. Ihre Aufgabe Sie sind die operative Schlüsselfigur im Hintergrund. Sie behalten den Überblick, verbinden Menschen und Themen und sorgen dafür, dass aus Ideen konkrete Ergebnisse werden. Sie koordinieren unterschiedliche Projekte, Aktivitäten und externe Partner – auch über Ländergrenzen hinweg. Sie übersetzen strategische Vorstellungen in konkrete Massnahmen und stellen deren Umsetzung sicher. Sie erkennen, wo Handlungsbedarf besteht, setzen Prioritäten und treiben Themen eigenständig voran. Sie schaffen pragmatische Strukturen und sorgen für Verbindlichkeit, ohne die unternehmerische Dynamik einzuschränken. Sie begleiten ausgewählte internationale Aktivitäten und repräsentieren das Unternehmen gegenüber unterschiedlichen Anspruchsgruppen. Sie entwickeln sich zu einer zentralen Vertrauensperson und übernehmen mit wachsender Erfahrung zunehmend Verantwortung. Ihre Persönlichkeit macht den Unterschied Wir suchen keinen perfekten Lebenslauf. Wir suchen einen Menschen, der etwas bewegen möchte. Sie verfügen über eine ausgeprägte soziale Intelligenz und verstehen es, mit unterschiedlichen Persönlichkeiten umzugehen. Sie wissen, wann Diplomatie gefragt ist, wann Sie Initiative ergreifen sollten und wann konsequentes Handeln entscheidend ist. Sie sind selbstbewusst, ohne überheblich zu sein. Ambitioniert, ohne sich selbst zu wichtig zu nehmen. Sie denken mit, handeln vorausschauend und bleiben auch dann gelassen, wenn sich Prioritäten kurzfristig verändern. Was Sie idealerweise mitbringen: Einige Jahre erfolgreiche Berufserfahrung, beispielsweise im Projektmanagement, in einer Stabsfunktion, im operativen Management, in der Beratung oder einem vergleichbaren Umfeld. Erfahrung in der Koordination komplexer Aufgaben und der Zusammenarbeit mit anspruchsvollen Stakeholdern. Überdurchschnittliches Organisationstalent, Eigeninitiative und eine ausgeprägte Umsetzungsorientierung. Diplomatisches Geschick, Diskretion, Verlässlichkeit und ein sicheres Auftreten. Unternehmerisches Denken sowie Interesse an digitalen Entwicklungen und innovativen Geschäftsmodellen. Sehr gute Deutsch- und Englischkenntnisse Ihr Ausbildungsweg ist weniger entscheidend als Ihre Persönlichkeit, Ihre bisherigen Leistungen und Ihr Potenzial. Eine Chance, die nicht alltäglich ist Diese Position bietet Ihnen weit mehr als einen interessanten Job. Sie erhalten unmittelbare Einblicke in unternehmerische Entscheidungen, arbeiten mit aussergewöhnlichen Persönlichkeiten zusammen und werden Teil eines internationalen Netzwerks. Sie erleben Projekte und Begegnungen, die sich in einer klassischen Unternehmenskarriere kaum bieten. Gleichzeitig haben Sie die Möglichkeit, sich persönlich und beruflich weiterzuentwickeln und schrittweise eine verantwortungsvolle Schlüsselposition einzunehmen. Dafür braucht es Neugier, Engagement, Flexibilität und die Bereitschaft, gelegentlich neue Wege zu gehen. Vielleicht ist dies nicht die Stelle, nach der Sie gesucht haben. Aber möglicherweise genau die Chance, auf die Sie gewartet haben. Interessiert? Dann freuen wir uns darauf, Sie kennenzulernen. Überzeugen Sie uns nicht …",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "01331868f82dd09f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/entrepreneurial-project-leader-executive-operations-m-w-d-at-pms-sch%C3%B6nenberger-ag-4490741028"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Leiter*in Kulturvermittlung beim Kulturmuseum St. Gallen",
+   "company": "Bundesvereinigung Kulturelle Kinder- und Jugendbildung BKJ",
+   "location": "Winkeln, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-kulturvermittlung-beim-kulturmuseum-st-gallen-at-bundesvereinigung-kulturelle-kinder-und-jugendbildung-bkj-4488970330",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "location_onSt. Gallen (Schweiz) calendar_clockbis 30.11.26 Leiter*in Kulturvermittlung beim Kulturmuseum St. Gallen erstellt: 13. November 2026 Das Kulturmuseum St. Gallen sucht ab dem 1. Januar 2027 eine*n Leiter*in für die Kulturvermittlung (Teilzeit, 80 Prozent). Aufgaben Sind Unter Anderem Zuständigkeit für die Bildungs- und Vermittlungsarbeit für unterschiedliche Zielgruppen, einschließlich inklusiver Angebote, sowie die Förderung des Museums als lebendiger Ort der Begegnung, des Austauschsund des informellen Lernens. Die Konzeption und Planung der Bildungs- und Vermittlungsangebote sowie deren zukunftsgerichtete Weiterentwicklung. Die Koordination und Leitung des Teams freier Vermittlerinnen und Vermittler. vollständiges Stellenangebot Show more Show less Seniority level Not Applicable Employment type Full-time Industries Political Organizations Referrals increase your chances of interviewing at Bundesvereinigung Kulturelle Kinder- und Jugendbildung BKJ by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
-    "applicants": "36 applicants"
+    "applicants": "Be among the first 25 applicants"
    },
-   "id": "eb991e83629317c7",
+   "id": "ed5e75048a833d8d",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/personalreferent-m-w-d-at-sii-germany-4473960786"
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-kulturvermittlung-beim-kulturmuseum-st-gallen-at-bundesvereinigung-kulturelle-kinder-und-jugendbildung-bkj-4488970330"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
   },
   {
-   "title": "Assistenz Vorstand",
-   "company": "HeyJobs",
-   "location": "Constance, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/assistenz-vorstand-at-heyjobs-4481193985",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "dc389bf85eb55e6e",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/assistenz-vorstand-at-heyjobs-4481193985"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Qualitätsmanager (w/m/d)",
-   "company": "TRANSCO",
-   "location": "Gottmadingen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-w-m-d-at-transco-4488511504",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "25ccbfcab48a0562",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsmanager-w-m-d-at-transco-4488511504"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Asset Manager (Commercial) (m/w/d)",
-   "company": "Sunovis GmbH",
-   "location": "Singen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/asset-manager-commercial-m-w-d-at-sunovis-gmbh-4490563394",
-   "posted": "2026-11-13",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "07bcdce00d6d2811",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/asset-manager-commercial-m-w-d-at-sunovis-gmbh-4490563394"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Senior Technical Consultant Marketing Applications (m/w/d)",
-   "company": "ORBIS SE",
-   "location": "Markdorf, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/senior-technical-consultant-marketing-applications-m-w-d-at-orbis-se-4490374604",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "c16494328b3474d2",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/senior-technical-consultant-marketing-applications-m-w-d-at-orbis-se-4490374604"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Leiter Entgeltabrechnung (m/w/d)",
-   "company": "Constellium",
-   "location": "Bodenseekreis, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/leiter-entgeltabrechnung-m-w-d-at-constellium-4482101945",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "2591b5a73fc380a0",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/leiter-entgeltabrechnung-m-w-d-at-constellium-4482101945"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Laborant Mikrobiologie Umgebungsmonitoring (w/m/d) befristet bis 29.02.2028",
-   "company": "Takeda",
-   "location": "Singen, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/laborant-mikrobiologie-umgebungsmonitoring-w-m-d-befristet-bis-29-02-2028-at-takeda-4462263683",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "4008e8c30f023550",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/laborant-mikrobiologie-umgebungsmonitoring-w-m-d-befristet-bis-29-02-2028-at-takeda-4462263683"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Private Banking Berater",
-   "company": "Internationales Bankhaus Bodensee AG",
-   "location": "Constance, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/private-banking-berater-at-internationales-bankhaus-bodensee-ag-4479985246",
-   "posted": "2026-11-12",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "0746a92c54c04c5d",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/private-banking-berater-at-internationales-bankhaus-bodensee-ag-4479985246"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Export Control Manager (w/m/d)",
-   "company": "HENSOLDT",
-   "location": "Immenstaad, Baden-Württemberg, Germany",
-   "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/export-control-manager-w-m-d-at-hensoldt-4490583609",
-   "posted": "2026-11-13",
-   "salary": null,
-   "via": null,
-   "description": "",
-   "extra": {
-    "seniority": null,
-    "employment_type": null,
-    "applicants": null
-   },
-   "id": "264502345ce021a5",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/export-control-manager-w-m-d-at-hensoldt-4490583609"
-   },
-   "first_seen": "2026-11-13"
-  },
-  {
-   "title": "Fachspezialist/-in Lohn & Personaladministration",
-   "company": "Ferroflex Group AG",
-   "location": "8207 Schaffhausen",
+   "title": "Gesamtprojektleiter*in Bauherrenvertretung 80 - 100%",
+   "company": "Genossenschaft Migros Ostschweiz",
+   "location": "Gossau, St Gallen, Switzerland",
    "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/f3b421e3-8a4d-4043-8090-a634fcc02cd1/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-12",
+   "url": "https://ch.linkedin.com/jobs/view/gesamtprojektleiter-in-bauherrenvertretung-80-100%25-at-genossenschaft-migros-ostschweiz-4489560764",
+   "posted": "2026-11-13",
    "salary": null,
    "via": null,
-   "description": "jährliche Personalkostenbudget\n  **Was du mitbringst**\n*  Kaufmännische Grundausbildung sowie Ausbildung im Bereich <em>HR</em>\\-<em>Fachfrau</em>/\\-mann mit eidg.",
+   "description": "",
    "extra": {
-    "canton": "SH",
-    "query": "HR Fachfrau",
-    "workload": "60-80 %",
-    "permanent": false,
-    "jobroom_id": "cc1426b4-b2ef-483e-816e-28e3639c55b6"
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
    },
-   "id": "3f1d9f06e6c360f2",
+   "id": "132ae942a1e9601a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/gesamtprojektleiter-in-bauherrenvertretung-80-100%25-at-genossenschaft-migros-ostschweiz-4489560764"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Kommerzieller Teilprojektleiter – St. Margrethen",
+   "company": "Stadler",
+   "location": "St Margrethen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/kommerzieller-teilprojektleiter-%E2%80%93-st-margrethen-at-stadler-4486355771",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1e7d05644a2e1977",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kommerzieller-teilprojektleiter-%E2%80%93-st-margrethen-at-stadler-4486355771"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Leiter*in Betreuung 100% (befristet bis 31.03.2027)",
+   "company": "ORS Service AG",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-betreuung-100%25-befristet-bis-31-03-2027-at-ors-service-ag-4490711679",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c83cdcc0ab418356",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-betreuung-100%25-befristet-bis-31-03-2027-at-ors-service-ag-4490711679"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Spezialist:in im Program Management Office - befristet für 24 Monate",
+   "company": "AXA",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-in-im-program-management-office-befristet-f%C3%BCr-24-monate-at-axa-4490718176",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "e0d0908c3fd1dab2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-im-program-management-office-befristet-f%C3%BCr-24-monate-at-axa-4490718176"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Wissenschaftliche:r Mitarbeiter:in (Doktorand:in) (m/w/d) im Bereich Organizational Behavior und Human Resource Management",
+   "company": "Universität St.Gallen (HSG)",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-doktorand-in-m-w-d-im-bereich-organizational-behavior-und-human-resource-management-at-universit%C3%A4t-st-gallen-hsg-4490703825",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "bfa1f6490630c5ba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-doktorand-in-m-w-d-im-bereich-organizational-behavior-und-human-resource-management-at-universit%C3%A4t-st-gallen-hsg-4490703825"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Sr Mgr, MSAT Strategy & Business Integr",
+   "company": "Johnson & Johnson Innovative Medicine",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/sr-mgr-msat-strategy-business-integr-at-johnson-johnson-innovative-medicine-4482813765",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "678b722a0559476d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/sr-mgr-msat-strategy-business-integr-at-johnson-johnson-innovative-medicine-4482813765"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Spezialist:in im Program Management Office - befristet für 24 Monate",
+   "company": "AXA Switzerland",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/spezialist-in-im-program-management-office-befristet-f%C3%BCr-24-monate-at-axa-switzerland-4490703317",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "af3bd5da5d51bbee",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-im-program-management-office-befristet-f%C3%BCr-24-monate-at-axa-switzerland-4490703317"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Team Lead (m/f/d) Project Management, Operations & Supply Chain",
+   "company": "Leica Geosystems",
+   "location": "Sankt Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/team-lead-m-f-d-project-management-operations-supply-chain-at-leica-geosystems-4488943423",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "24613f3ea0916540",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/team-lead-m-f-d-project-management-operations-supply-chain-at-leica-geosystems-4488943423"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Projektleiter HLK / Gebäudetechnik (m/w/d)",
+   "company": "Rocken®",
+   "location": "Wil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-hlk-geb%C3%A4udetechnik-m-w-d-at-rocken%C2%AE-4489565665",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1ef4bfa87d13c241",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-hlk-geb%C3%A4udetechnik-m-w-d-at-rocken%C2%AE-4489565665"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Senior Manager Prozessmanagement & Digitalisierung",
+   "company": "Noventa Consulting AG",
+   "location": "Diepoldsau, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-manager-prozessmanagement-digitalisierung-at-noventa-consulting-ag-4490725759",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Pensum: 80-100% Prozesse vereinfachen. Menschen entlasten. Du kennst die Bremsen in der Administration: Rückfragen, Wartezeiten und Medienbrüche. Bei Noventa Consulting führst du Beratungsmandate, vereinfachst Abläufe und setzt mit Fachbereichen und IT digitale Lösungen um, die im Alltag funktionieren. Schwerpunkte: Lean Administration, Informationsflüsse, Operational Excellence. Deine Aufgaben Du verkürzt Durchlaufzeiten in administrativen Wertströmen: Ursachen analysieren, Zielbild entwickeln, Umsetzung führen. Du reduzierst Rückfragen, Wartezeiten und Medienbrüche durch klare Informationsflüsse, Zuständigkeiten und Standards. Du setzt Prozesspotenziale in digitale Workflows und Automatisierung um und erprobst passende KI-Anwendungen mit Fachbereichen und IT. Du befähigst Teams, Verbesserungen selbst weiterzuführen, und überprüfst mit ihnen die Wirkung im Alltag. Das bringst du mit Mindestens fünf Jahre relevante Beratungserfahrung in einem mittelständischen oder grösseren Beratungsunternehmen und ein Hochschulabschluss. Fundierte Praxis in Lean Administration, Prozessmanagement und der Digitalisierung von Abläufen. Du hast Transformationsprojekte eigenständig geführt, Kunden entwickelt, Angebote erarbeitet und neue Mandate gewonnen. Du kommunizierst klar, gewinnst Menschen für Veränderungen und denkst interdisziplinär. Du reist gerne zu unseren Kunden. Automatisierung, operative KI oder KI-Agents sind ein Plus. Dein Schwerpunkt liegt in der Prozessberatung; Softwareentwicklung ist keine Voraussetzung. Das bekommst du bei uns Verantwortung für eigene Mandate: vom Erstgespräch bis zur Umsetzung. Fachliche Führung von Projekten und Teams; disziplinarische Führungserfahrung ist kein Muss. Geschäftswagen inkl. Lade-/Tankkarte sowie Laptop, Tablet und iPhone, auch zur privaten Nutzung. Klingt spannend? Jetzt bewerben. Noventa Consulting AG Sonnenstrasse 1 9444 Diepoldsau Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Business Consulting and Services Referrals increase your chances of interviewing at Noventa Consulting AG by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "2acc9ceab63364e5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-manager-prozessmanagement-digitalisierung-at-noventa-consulting-ag-4490725759"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Senior Manager Operations & Lean Production",
+   "company": "Noventa Consulting AG",
+   "location": "Diepoldsau, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-manager-operations-lean-production-at-noventa-consulting-ag-4490728684",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "bba7791419122b0f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-manager-operations-lean-production-at-noventa-consulting-ag-4490728684"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Kreditsachbearbeiter Baufinanzierung (m/w/d) in Teil- oder Vollzeit (50 - 100 %)",
+   "company": "Sparkasse Hegau-Bodensee",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/kreditsachbearbeiter-baufinanzierung-m-w-d-in-teil-oder-vollzeit-50-100-%25-at-sparkasse-hegau-bodensee-4482856839",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Wir starten durch – weil wir heute wissen, was morgen wichtig ist! Wir arbeiten in und für die Region seit Generationen. Wir geben für unsere Kundinnen und Kunden unser Bestes und vor allem – für Sie! Gestalten Sie einen modernen Arbeitgeber im Wandel aktiv mit. Unserer Geschäftsgebiet erstreckt sich über den Hegau mit seinen Hegau-Vulkanen bis über die Höri, Radolfzell und Bodman-Ludwigshafen mit direktem Zugang zum schönen Bodensee. Für die Abteilung Marktservice suchen wir zum nächst möglichen Zeitpunkt einen Kreditsachbearbeiter Baufinanzierung (m/w/d) in Teil- oder Vollzeit (50 - 100 %) Ihr Aufgabenspektrum: Erstellung und Verwaltung von Kredit‑, Darlehens‑ und Sicherheitenverträgen, auch in Zusammenarbeit mit Verbundpartnern Ausarbeitung von Beschlussvorlagen für Individual‑Baufinanzierungen und Organkredite auf Basis von Beraterangaben Komplette Abwicklung des Finanzierungsvorgangs inklusive Überwachung und Verwaltung der Sicherheiten Betreuung des Bestandskreditgeschäfts (Schuldnerwechsel, Kreditprolongationen, Kreditablösungen, Änderungen von Sicherheiten usw.) Abwicklung von Kaufpreiszahlungen und Treuhandaufträgen Aufbereitung der Kredit-Engagements für die Sanierung bzw. Abwicklung Ihr Profil: Abgeschlossene Bankausbildung und idealerweise ein Fachwirt (oder die Motivation, sich dieser Qualifikation zu nähern) Mehrjährige Erfahrung in der Kreditsachbearbeitung von privaten Baufinanzierungen Freude daran, sich in neue Themenfelder einzuarbeiten und Verantwortung zu übernehmen Wir bieten: Zuschuss zur betrieblichen Altersvorsorge und vermögenswirksame Leistungen Mitarbeiterkonditionen und Wertpapiervergünstigungen Einen modernen Arbeitsplatz und die Möglichkeit für mobiles Arbeiten Flexible Arbeitszeitgestaltung und 32 Urlaubstage Sicherer Arbeitsplatz im öffentlichen Dienst Was wir bieten: Vollzeitstelle in einem engagierten Marktservice‑Team Perspektiven für fachliche und persönliche Weiterentwicklung Ein kollegiales Arbeitsumfeld mit kurzen Entscheidungswegen Wir freuen uns auf Ihre Bewerbung bis zum 20.11.2026 ! Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Banking Referrals increase your chances of interviewing at Sparkasse Hegau-Bodensee by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "67450659cb9e6cf8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/kreditsachbearbeiter-baufinanzierung-m-w-d-in-teil-oder-vollzeit-50-100-%25-at-sparkasse-hegau-bodensee-4482856839"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Senior Manager Supply Chain Management",
+   "company": "Noventa Consulting AG",
+   "location": "Diepoldsau, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-manager-supply-chain-management-at-noventa-consulting-ag-4490729582",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3b5d8e8820b5bef9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-manager-supply-chain-management-at-noventa-consulting-ag-4490729582"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Wundmanager / Wundexperte (m/w/d)| Fachberater im Wundmanagement I Überlingen",
+   "company": "Rodday Family GmbH",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/wundmanager-wundexperte-m-w-d-fachberater-im-wundmanagement-i-%C3%BCberlingen-at-rodday-family-gmbh-4456315078",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Mit Fachwissen und Herz für die beste Wundversorgung! Du willst nicht einfach nur irgendeinen Job, sondern wirklich etwas bewegen? Du bist ein kommunikationsstarker Mensch mit Leidenschaft für moderne Wundversorgung? Du kannst andere mit deinem Wissen begeistern und baust gerne neue Beziehungen auf? Dann haben wir die gleiche Mission. Rodday Wundmanagement sorgt seit 20 Jahren für mehr Lebensqualität bei unseren Patient:innen. Unsere Unternehmensgruppe wächst stetig und beschäftigt fast 500 engagierte Mitarbeiter:innen deutschlandweit! Deine Benefits bei uns – weil du den Unterschied machst Attraktive, leistungsgerechte Vergütung Zertifizierte Weiterbildung inklusive: Kostenfreie Weiterbildung zum Wundmanager (DIMW) Kein Schicht-, Wochenend- oder Feiertagsdienste Plane deinen Tag eigenverantwortlich mit flexiblen Arbeitszeiten Firmenfahrzeug auch zur privaten Nutzung, und modernster Ausstattung mit iPad und iPhone Offene, wertschätzende Unternehmenskultur mit echtem Teamgeist Hansefit-Mitgliedschaft für körperliches und mentales Wohlbefinden Nachhaltig unterwegs mit deinem BusinessBike Corporate Benefits und attraktive Rabatte Wachse mit uns: Vielfältige Fort-, Weiterbildungs- und Entwicklungsmöglichkeiten Wohnortnahes & regionales Arbeiten Anerkennung, die ehrlich ist: Wertschätzung für dich als Person und deine Arbeit Intensive Einarbeitung und professionelle Unterstützung Betriebliche Altersvorsorge für deine Zukunft Deine Aufgaben Du verbindest Patient:innen, Ärzt:innen, Pflegeeinrichtungen und Kliniken und verfolgst das Ziel, eine bestmögliche Wundversorgung sicherzustellen Durch deine persönliche Präsenz, Empathie und Beratungsstärke baust du langfristige Beziehungen zu medizinischen Partnern auf und pflegst dein Netzwerk aktiv und vertrauensvoll Du planst eigenständig deine Termine und verantwortest die Betreuung deines Gebietes mit Fokus auf nachhaltige Kooperationen und Kundenzufriedenheit Du erkennst Versorgungsbedarfe, gehst offen auf neue Kontakte zu, pflegst dein Netzwerk mit Leidenschaft und verstehst es, langfristige und vertrauensvolle Beziehungen aufzubauen Mit deinem Fachwissen, deinem professionellen Auftreten und deiner Verlässlichkeit gewinnst du Vertrauen gleichermaßen von Patient:innen und Partner:innen Du dokumentierst und überprüfst Versorgungen professionell und trägst so zur Qualitätssicherung und Weiterentwicklung bei Dein aussagekräftiges Profil Du bringst eine 3-jährige abgeschlossene Berufsausbildung im humanmedizinischen Bereich (z.B. Altenpfleger/in | Gesundheits- und Krankenpfleger/in | Medizinische/r Fachangestellte/r | Pflegefachkraft | Pflegefachmann/-frau) mit Praktische und theoretische Erfahrung in der Wundversorgung zeichnen dich aus; idealerweise hast du bereits eine Qualifikation als Wundexpert:in oder Wundmanager:in (DIMW) Versorgungsmanagement, Beratung und Kommunikation sind deine Leidenschaft: Du gewinnst Menschen mit deiner positiven und authentischen Art und überzeugst durch Fachwissen und Begeisterung Du hast Freude daran, neue Kundenbeziehungen aufzubauen, bestehende Kontakte zu pflegen und Kooperationen aktiv weiterzuentwickeln Mit deinem unternehmerischen Denken erkennst du Marktpotenziale, setzt Impulse und gestaltest so den Erfolg deines Gebietes Eine strukturierte, selbstständige und digitale Arbeitsweise ist für dich selbstverständlich, denn du planst deine Termine eigenverantwortlich und agierst zuverlässig Du bist im Besitz eines Führerscheins der Klasse B (ehemals Klasse 3) und hast gute Deutschkenntnisse in Wort und Schrift, bei Bedarf kannst du ein aktuelles polizeiliches Führungszeugnis vorlegen Und wie geht's jetzt weiter? Sind wir dein „Perfect Match“? Dann Feuer frei für deine aussagekräftige Bewerbung! Wir freuen uns auf dich! #gerneperDU Dein Wunschgebiet ist nicht dabei? Sei mutig und bewirb dich auf unsere offene Stelle \"Wunschgebiet\". Du findest diese oben im Text. Gib deine Postleitzahl und deinen Wunscharbeitsort an - wir kalkulieren daraus das Gebiet. …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "f033be80c161684f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/wundmanager-wundexperte-m-w-d-fachberater-im-wundmanagement-i-%C3%BCberlingen-at-rodday-family-gmbh-4456315078"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Kreditrevisor (m/w/d) - Sicherheit und Qualität im Kreditgeschäft",
+   "company": "Volksbank eG Überlingen",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/kreditrevisor-m-w-d-sicherheit-und-qualit%C3%A4t-im-kreditgesch%C3%A4ft-at-volksbank-eg-%C3%BCberlingen-4479328929",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Als unabhängige Genossenschaftsbank gestalten wir bei der Volksbank eG Überlingen aktiv die Zukunft unserer Region – ehrlich, respektvoll und partnerschaftlich an der Seite unserer Mitglieder und Kunden. Teilen Sie unsere Werte? Dann werden Sie Teil unseres Teams! Was Sie bei uns bewegen: Im Zuge einer vorausschauenden Altersnachfolge suchen wir eine engagierte Persönlichkeit, die mit Fachkompetenz und Eigenverantwortung unser Team der Internen Revision mit Kredit-Know-how verstärkt. In dieser verantwortungsvollen Position führen Sie eigenständig risiko- und prozessorientierte Prüfungen im Kreditbereich durch. Sie analysieren Sie Geschäftsprozesse, identifizieren Schwachstellen sowie Risiken und bewerten die Einhaltung aufsichtsrechtlicher Vorgaben. Ihre fundierte Beurteilung von Kreditrisiken an Einzelfällen erfolgt sachgerecht und mit hoher fachlicher Expertise. Ihre Revisionsergebnisse bereiten Sie strukturiert auf, präsentieren diese adressatengerecht und stehen im regelmäßigen Austausch mit den geprüften Bereichen. Als Teil unseres Teams begleiten Sie aktiv die laufenden Veränderungsprozesse innerhalb der Bank und bringen Ihr kreditspezifisches Know-how gezielt in Projekten ein. Darüber hinaus bieten wir Ihnen die Möglichkeit, Ihr Prüfungsspektrum entsprechend Ihren Kenntnissen, Erfahrungen und Interessen auch auf andere Themen auszuweiten. Hierfür schaffen wir den nötigen Freiraum und unterstützen Ihre Weiterentwicklung. Das bringen Sie mit: Sie bringen ein abgeschlossenes Studium der (Bank-)Wirtschaftswissenschaften oder eine Bankausbildung mit fachspezifischer Zusatzqualifikation mit. Dank Ihrer mehrjährigen Berufserfahrung im Kreditbereich oder in der Kreditrevision verfügen Sie über fundierte Kenntnisse der relevanten aufsichtsrechtlichen Vorgaben. Ihre Arbeitsweise ist geprägt von Sorgfalt, Struktur und Gewissenhaftigkeit. Eigenverantwortliches Arbeiten sowie Teamgeist zeichnen sie aus. Mit Ihrem ausgeprägten analytischen Denken, Ihrem sicheren Urteilsvermögen und Ihrer hohen Kommunikationsstärke überzeugen Sie. Der Umgang mit gängigen IT-Anwendungen sowie bankspezifischer Software – idealerweise aus dem genossenschaftlichen Umfeld – bereitet Ihnen Freude. Was wir Ihnen bieten: Attraktive Vergütung nach Bankentarif Flexible Arbeitszeiten / Möglichkeit zum mobilen Arbeiten Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten Mitarbeiterkonditionen auf Bankprodukte Kostenlose Mitgliedschaft im Fitnessstudio und JobRad Ein Team, das zusammenhält, und kurze Entscheidungswege vor Ort Show more Show less Seniority level Associate Employment type Full-time Industries Banking Referrals increase your chances of interviewing at Volksbank eG Überlingen by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "88b8a0eafa780d76",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/kreditrevisor-m-w-d-sicherheit-und-qualit%C3%A4t-im-kreditgesch%C3%A4ft-at-volksbank-eg-%C3%BCberlingen-4479328929"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Betriebsbeauftragter (m/w/d) für Abfall",
+   "company": "Diehl Defence",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/betriebsbeauftragter-m-w-d-f%C3%BCr-abfall-at-diehl-defence-4489565229",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Das sind Ihre Aufgaben: In dieser Funktion kontrollieren Sie den Weg der im Betrieb anfallenden Abfälle von der Entstehung bis zur Entsorgung. Sie stellen die Einhaltung aller abfallrechtlichen Gesetze, Verordnungen und behördlichen Auflagen sicher. Sie beraten die Geschäftsführung sowie die Fachabteilungen in allen Fragen der Abfallvermeidung und -verwertung und führen interne Schulungen durch. Sie entwickeln bestehende Entsorgungskonzepte kontinuierlich weiter und senken dadurch Kosten und Umweltbelastungen und sind zentrale Ansprechpartner für Behörden, Entsorgungsunternehmen und interne Abteilungen. Das bringen Sie mit: Ihre erfolgreich abgeschlossene Fachkunde als Abfallbeauftragter (m/w/d) gemäß § 60 KrWG bzw. AbfBeauftrV bildet die ideale Voraussetzung für diese Position. Sie verfügen zudem über mehrjährige praktische Erfahrung im Bereich der betrieblichen Abfallwirtschaft oder im Umweltmanagement. Sie besitzen darüber hinaus eine stark ausgeprägte Fähigkeit zur eigenverantwortlichen, strukturierten und lösungsorientierten Tätigkeit. Ein gültiger Führerschein der Klasse B (PKW) für Flexibilität vor Ort und eventuelle Außentermine sowie Ihr Durchsetzungsvermögen, Ihre Kommunikationsstärke und ein sicheres Auftreten im Umgang mit Behörden und Dienstleistern runden Ihr Profil ab. Wir freuen uns auf Ihre Bewerbung unter Angabe der Kennziffer 261090. Hinweis: Bewerber (m/w/d) mit einer Schwerbehinderung werden bei gleicher Eignung bevorzugt behandelt. Sollten Sie das wünschen, geben Sie bitte dazu – auf freiwilliger Basis – Ihren SB-Status bei Ihrer Bewerbung an. Land/Standort Überlingen Funktionsbereich Sonstige Einstiegslevel Direkteinstieg - Mit Berufserfahrung Arbeitszeitmodell Vollzeit Arbeitsverhältnis unbefristet Unternehmensbereiche Diehl Defence Start ab sofort Diese Benefits bieten wir Ihnen - und mehr: Individuelle Entwicklungsmöglichkeiten Tarifliche Vergütung Flexible Arbeitszeiten Familienunternehmen Interne Weiterbildungsprogramme Betriebliches Gesundheitsmanagement Mach bei Diehl, was dir wichtig ist. Diehl Defence GmbH & Co. KG, Standort Überlingen Simone Riegger Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries Defense and Space Manufacturing Referrals increase your chances of interviewing at Diehl Defence by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "202750cd4e2887de",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/betriebsbeauftragter-m-w-d-f%C3%BCr-abfall-at-diehl-defence-4489565229"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Mitarbeiter (m/w/d) Entgeltabrechnung",
+   "company": "AMEOS Klinikum Schönebeck",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-entgeltabrechnung-at-ameos-klinikum-sch%C3%B6nebeck-4488934065",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "AMEOS sichert die Gesundheitsversorgung in den Regionen: An über 50 Standorten in unseren Krankenhäusern, Poliklinika, Reha-, Pflege- und Eingliederungseinrichtungen sind wir Vorreiter in Medizin und Pflege. AMEOS steht für eine umfassende und zukunftssichere Versorgung der breiten Bevölkerung in regionalen Netzwerken. Denn für AMEOS gilt: vor allem Gesundheit. Werden auch Sie Teil unseres Teams – wir freuen uns auf Ihre Bewerbung! Für das AMEOS Seeklinikum Friedrichshafen suchen wir einen Mitarbeiter (m/w/d) Entgeltabrechnung in Voll- oder Teilzeit (mind. 20 Stunden/Woche) Aufgaben Ordnungsgemäße und termingerechte Durchführung der monatlichen Entgeltabrechnung Pflege und Prüfung der Personalstamm- und abrechnungsrelevanten Daten und Sicherstellung einer korrekten Verarbeitung Bearbeitung von sämtlichen abrechnungsrelevanten Veränderungen, z. B. Ein- und Austritte, Gehaltsänderungen, Fehlzeiten, Zuschlägen, Sonderzahlungen und weiteren variablen Entgeltbestandteilen Betreuung von vor- und nachgelagerten Prozessen der Entgeltabrechnung Bearbeitung des Melde- und Bescheinigungswesens Kommunikation mit Krankenkassen, Behörden, Sozialversicherungsträgern und weiteren externen Stellen Ansprechperson für Mitarbeitende und Führungskräfte bei Fragen rund um Gehalt, Entgeltabrechnung, Sozialversicherung und lohnsteuerlichen Themen Durchführung von Plausibilitätsprüfungen und Kontrollen der Abrechnungsdaten und Klärung von Unstimmigkeiten Erstellung von Auswertungen und Reports Profil Abgeschlossene kaufmännische Berufsausbildung oder vergleichbare Qualifikation Idealerweise Weiterbildung im Bereich Lohn- und Gehaltsabrechnung, Personalwesen oder Entgeltabrechnung Gute Kenntnisse im Lohnsteuer- und Sozialversicherungsrecht Erfahrungen im Umgang mit dem TVöD-K und TV-Ärzte/VKA von Vorteil Sorgfältige, zuverlässige und strukturierte Arbeitsweise Verantwortungsbewusstsein und Dienstleistungsorientierung Wir bieten Mitarbeit in einem kleinen, kollegialen Team in guter Atmosphäre bei flachen Hierarchien Ein interessantes und verantwortungsvolles Aufgabengebiet mit Raum für Eigeninitiative und Weiterentwicklung Arbeitsplatzsicherheit Flexible Arbeitszeiten zur optimalen Vereinbarkeit von Familie und Beruf Individuelle Förderung von Fort- und Weiterbildung Umfassende Angebote und Rabatte bei namhaften Firmen Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Wellness and Fitness Services Referrals increase your chances of interviewing at AMEOS Klinikum Schönebeck by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e07622577b6aebc3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-entgeltabrechnung-at-ameos-klinikum-sch%C3%B6nebeck-4488934065"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Spezialist / in Steuern (m/w/d)",
+   "company": "jobsintown.de GmbH",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/spezialist-in-steuern-m-w-d-at-jobsintown-de-gmbh-4489589507",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Stellenanzeige von Sunovis GmbH Spezialist/in Steuern (m/w/d) - Vollzeit Komm zur Sunovis-Unternehmensgruppe und arbeite an der Energieversorgung der Zukunft. Die Sunovis-Unternehmensgruppe versteht sich als höchst flexibler und kompetenter Partner von der Projektentwicklung, Finanzierung bis zur Realisierung und Wartung schlüssel-fer-ti-ger Photovoltaik-kraftwerke. Die Marke Sunovis steht für kompromisslose Qualität, Transparenz und Agilität. Dank unseres lückenlosen Servicekonzept und umfassendem Know-how sichern wir die maximale Ausschöpfung erneuerbarer Energien mit nachhaltiger Rendite - das Plus an Sonne eben. Seit Anfang 2022 gehört die Sunovis-Unternehmensgruppe zur Brookfield Unternehmensgruppe. Brookfield ist ein globaler Asset Manager und einer der weltweit größten Betreiber von Wind- und Solaranlagen mit einem globalen Netzwerk und Expertise im Betrieb und der Entwicklung erneuerbarer Energien. Dein Profil Du verfügst über eine abgeschlossene kaufmännische Ausbildung / Studium im Bereich des deutschen Steuerrechts, idealerweise als Steuerfachangestellte/r, Steuerfachwirt/in, Steuer-/Prüfungsassistenz oder eine vergleichbare Qualifikation Mehrjährige einschlägige Berufserfahrung bei einer Steuerkanzlei und/oder im Finanz- und Rechnungswesen eines deutschen Unternehmens zeichnet dich aus und wird für diese Stelle vorausgesetzt Bilanz- und Abschlusssicherheit nach HGB und Steuerrecht Du bringst darüber hinaus sehr gute Kenntnisse im Umgang mit MS-Office, insbesondere im Excel mit und bist sicher im Umgang mit DATEV Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort & Schrift (min. C1 Niveau) Fähigkeit, Aufgaben/Terminfristen zu priorisieren, sowie analytisches Denken Gewissenhafte Arbeitsweise verbunden mit hohem Maß an Verantwortungsbewusstsein, Teamfähigkeit und Freude an der Arbeit runden dein Profil ab Deine Aufgaben Verantwortung für die Einhaltung der steuerrechtlichen Fristen und Termine in der gesamten Unternehmensgruppe Erstellung und Übermittlung der konsolidierten Umsatzsteuer-voranmeldung der Holding-Gesellschaft Ansprechperson für steuerliche Fragestellungen (insbesondere umsatzsteuerliche Spezialfälle) und sämtliche Steuermeldungen Identifizierung und Umsetzung von Gesetzesänderungen auf Ebene der gesamten Unternehmensgruppe Mitwirkung bei der Erstellung von etwaigen Steuererklärungen der Unternehmensgruppe In der Zusammenarbeit mit Steuerberatern und Betriebsprüfern bist Du die kompetente Ansprechperson Zudem trägst Du zur Optimierung und Entwicklung von Ablaufprozessen im Bereich Rechnungswesen mit Schwerpunkt Steuerwesen (Verfahrensdokumentation) bei Warum wir? Ein unbefristetes Arbeitsverhältnis in einem innovativen und kontinu-ierlich wachsenden Unternehmen mit flexiblen Arbeitszeiten Eine attraktive Vergütung und einen Arbeitgeberzuschuss zur betrieblichen Altersvorsorge in Höhe von bis zu 20% und wir bieten in individuellen Fällen einen Zuschuss zur Kinderbetreuung Unsere Unternehmenskultur ist geprägt von Teamspirit, offener Kommunikation und einer dynamischen Atmosphäre, flachen Hierarchien und kurze Entscheidungswegen Einen Arbeitsplatz in einer attraktiven Region mit hohem Freizeitwert Uns liegt die Gesundheit unserer Mitarbeiter am Herzen, weshalb wir besonderen Wert auf eine ergonomische und moderne Arbeitsplatz-ausstattung legen und übernehmen 100% der Hansefit-Mitgliedschaft Wir sorgen außerdem für das leibliches Wohl mit kostenlosem Kaffee oder Tee, Getränken und Snacks am Arbeitsplatz Teamspirit liegt uns am Herzen, weshalb wir regelmäßige Mitarbeiterevents veranstalten Unser Büro liegt zentral und verfügt über eine sehr gute Verkehrsanbindung. Lass uns gemeinsam in eine grüne Zukunft starten! Bewirb Dich jetzt! Bitte teile uns Deine Gehaltsvorstellungen sowie Dein frühestmögliches Eintrittsdatum mit. Dein Ansprechpartner Eve Kuttruff-Sehrer HR-Generalist Phone: +49 7731 7970 501 Mobile: +49 151 5735 4538 E-Mail: e.kuttruff-sehrer@sunovis.de Jetzt bewerben Sunovis GmbH | …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "52463fd347c0f380",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/spezialist-in-steuern-m-w-d-at-jobsintown-de-gmbh-4489589507"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "HR Generalist (m/w/d)",
+   "company": "Glenair",
+   "location": "Salem, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/hr-generalist-m-w-d-at-glenair-4488930306",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Wir bei Glenair lassen Dich Hoch hinaus fliegen Wir sind offen und neugierig auf begeisterungsfähige Menschen mit Potenzial und Talent. Als international erfolgreiches Unternehmen mit über 40 Jahren Präsenz in Deutschland verbinden wir Innovationskraft mit langfristiger Perspektive. Einen sicheren Hafen finden Glenair steht für Stabilität, Verlässlichkeit und Zukunftssicherheit – als sicherer Arbeitgeber bieten wir Dir ein Umfeld, in dem Du Dich langfristig entwickeln kannst. Durch die Zusammenarbeit mit unseren Branchenexperten erhältst Du nicht nur die Möglichkeit, von den Besten zu lernen, sondern gleichzeitig Deine Kenntnisse dahingehend auszubauen, auch für Zukunftsprojekte bestens gerüstet zu sein. Aufgaben Glenair wurde 1956 in Glendale, Kalifornien USA gegründet. Im Zuge des erfolgreichen Wachstums wurden weltweit Vertriebs-, Entwicklungs- und Produktionsstätten eröffnet, darunter u.a. in England, Italien, Deutschland, Frankreich und Schweden. Die seit 1983 etablierte Glenair GmbH mit Sitz in Bad Homburg erweiterte neben ihrem größten Vertriebsgebiet in der EU im Jahre 2017 ihren Tätigkeitsschwerpunkt mit der Entwicklung und Produktion von Mechanismen und Kabelsätzen für die Raumfahrtindustrie am Standort Salem/ Bodensee. Als einer der größten Hersteller der Verbindungstechnik arbeitet das Glenair Team eng mit nahezu allen namhaften Unternehmen aus den Branchen Luft- und Raumfahrt, Verteidigung, Bahn, Marine und Offshore erfolgreich zusammen. Deine Aufgaben und Verantwortlichkeiten HR Business Partnering : Eigenständige Beratung von Führungskräften und Mitarbeitenden in allen personalrelevanten und arbeitsrechtlichen Fragestellungen. Recruiting & Onboarding : Steuerung des gesamten Recruiting-Prozesses sowie Sicherstellung eines professionellen Onboardings. Employee Lifecycle: Verantwortung für die operative Personaladministration von Eintritt über Vertragsänderungen und Mitarbeiterbetreuung bis zum Offboarding. Performance & Development : Begleitung von Mitarbeitergesprächen, Performance-Management, Personalentwicklung und Maßnahmen zur Mitarbeiterbindung. Compensation & Benefits : Betreuung von Vergütungsthemen, Gehaltsanpassungen, Bonusregelungen und Benefits. HR-Prozesse & Projekte : Optimierung und Digitalisierung bestehender Prozesse sowie Erstellung relevanter HR-Kennzahlen und Unterstützung bei Personalplanung und Organisationsentwicklung. Darauf kannst Du dich freuen Gestaltungsspielräume & Flexibilität – flexible Arbeitszeiten und echte Möglichkeiten, eigene Ideen einzubringen und aktiv etwas zu bewegen Wachstum & Entwicklung – professionelle Trainings, Coachings und individuelle Weiterbildung Zukunftssicherheit – attraktive betriebliche Altersvorsorge Mobil & nachhaltig unterwegs – Ride-to-Work Leasing (JobRad) Fit & gesund bleiben – mit dem EGYM Wellpass. Exklusive Vorteile – vielfältige Rabatte über Corporate Benefits. Teamspirit erleben – abwechslungsreiche Teamevents und saisonale Feste, die verbinden Profil Erfolgreich abgeschlossenes betriebswirtschaftliche Studium, alternativ eine kaufmännische Ausbildung mit Abschluss im Bereich Personalwesen oder vergleichbar Mehrjährige Erfahrung im HR Business Partnerin g oder in einer vergleichbaren generalistischen HR-Funktion. Fundierte Kenntnisse entlang des gesamten Employee Lifecycle sowie im deutschen Arbeitsrecht. Erfahrung in der Beratung von Führungskräften und in der eigenständigen Bearbeitung personalrelevanter Themen . Eine ausgeprägte Hands-on-Mentalität , Eigeninitiative und eine strukturierte, lösungsorientierte Arbeitsweise. Kommunikationsstärke, Diskretion und ein souveränes Auftreten. Hohe Sozialkompetenz und ein gutes Gespür für unterschiedliche Stakeholder Fließende Deutsch- sowie Englischkenntnisse Freude an der Zusammenarbeit mit Menschen und an der Gestaltung moderner HR-Arbeit Sicherer Umgang mit MS Office und idealerweise Erfahrung mit HR-Systemen (HRworks, Ispring) Wir bieten Important note Please be advised that a valid work permit for …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "012b57c767c553d5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/hr-generalist-m-w-d-at-glenair-4488930306"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Technischer Leiter / Werkstattleiter / Produktionsleiter",
+   "company": "KAPYFRACT AG",
+   "location": "8252 Schlatt TG",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/68e1c0da-9eee-4726-9e99-9f8d804db06e/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Produktion sowie Unterstützung an Maschinen und Anlagen\n**Maschinen, Technik und Arbeitsvorbereitung**\n* Einrichtung, Bedienung und Programmierung der Maschinen (inkl. )\n* Programmierung und Betreuung der Produktionssysteme\n* Wartung, Unterhalt und kleinere Reparaturen an Maschinen und Anlagen\n* <em>Evaluation</em>",
+   "extra": {
+    "canton": "TG",
+    "query": "Evaluation",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "cd9392ab-1d9b-404e-b9c3-7c4a3bf81ba1"
+   },
+   "id": "d0eb8560c3994f07",
    "sources": [
     "jobroom"
    ],
    "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/f3b421e3-8a4d-4043-8090-a634fcc02cd1/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/68e1c0da-9eee-4726-9e99-9f8d804db06e/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
    },
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "<em>HR</em> Business Partner 80-100% (m/w)",
+   "company": "Evergreen Human Resources AG",
+   "location": "8400 Winterthur",
+   "country": "CH",
+   "url": "https://www.evergreen-hr.ch/stelle/16082012511427266570/?cache=9c780c757b780271b63199c2ba842e7f",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Um diese interessante Herausforderung optimal zu meistern, bringen sie die Weiterbildung zur <em>HR</em> <em>Fachfrau</em>/Fachmann mit und verfügen bereits über einige Jahre Berufserfahrung in einer vielseitigen und selbständigen <em>HR</em> Funktion (z.B. <em>HR</em> Business Partner, <em>HR</em> Manager) mit eigenem Betreuungsbereich.",
+   "extra": {
+    "canton": "ZH",
+    "query": "HR Fachfrau",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "31bff150-2c91-4e59-a38d-78919eba1f4a"
+   },
+   "id": "9bf2221875d338a9",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.evergreen-hr.ch/stelle/16082012511427266570/?cache=9c780c757b780271b63199c2ba842e7f"
+   },
+   "first_seen": "2026-11-14"
+  },
+  {
+   "title": "Hauswart:in",
+   "company": "Equans Switzerland Facility Management AG",
+   "location": "8645 Jona",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/9f4ab848-9955-4c12-af6f-5dec279766ad/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-13",
+   "salary": null,
+   "via": null,
+   "description": "Gallerstrasse 161\n8645\n **Deine Kontaktperson**\nBABOURI\n<em>HR</em> Business Partner\n ![Equans Switzerland AG]()\n*\n*\n*\n ![Equans Switzerland AG]()\n*\n*\n*\njid79766adjm jit1146jm jiy26jm",
+   "extra": {
+    "canton": "SG",
+    "query": "HR Fachfrau",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "03f1b365-d839-4124-8a4e-4cf3362c6359"
+   },
+   "id": "a7163d7f152e6700",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/9f4ab848-9955-4c12-af6f-5dec279766ad/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-14"
   }
  ]
 }
