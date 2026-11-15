@@ -1,19 +1,455 @@
 {
- "generated_at": "2026-11-14T07:43:21+00:00",
+ "generated_at": "2026-11-15T07:58:50+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 207,
+   "arbeitsagentur": 203,
    "google_jobs": "deaktiviert",
    "linkedin": 250,
-   "jobroom": 32
+   "jobroom": 29
   },
-  "excluded": 366,
-  "unique": 103,
-  "new": 39,
-  "carried_over": 0
+  "excluded": 377,
+  "unique": 89,
+  "new": 18,
+  "carried_over": 39
  },
  "errors": {},
  "jobs": [
+  {
+   "title": "WEG-Verwalter / Property Manager (m/w/d)",
+   "company": "Immobetriebe Bodensee",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/weg-verwalter-property-manager-m-w-d-at-immobetriebe-bodensee-4489349872",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Sie verwalten Eigentümergemeinschaften eigenverantwortlich und souverän und suchen ein Haus, das Ihnen dafür Raum, gute Werkzeuge und ein Team gibt? Dann sind Sie bei uns richtig. Die Immobetriebe Hausverwaltung GmbH ist ein inhabergeführtes Unternehmen in Konstanz. Wir verwalten Wohnungseigentümergemeinschaften, Mietshäuser und größere Gewerbeobjekte im Raum Konstanz, Radolfzell und Singen. Wir arbeiten weitgehend digital: ein Vorgangssystem für alle Fälle, KI-Assistenz bei Routinen und Abläufe, die wir aufschreiben und gemeinsam verbessern. Objektverwaltung mit eigenem Bestand | Vollzeit oder vollzeitnah | Standort Konstanz | ab sofort Aufgaben Sie betreuen selbständig und eigenverantwortlich einen eigenen Bestand von Eigentümergemeinschaften, auch mit Gewerbeanteilen Sie bereiten Eigentümerversammlungen vor, leiten sie und bereiten sie nach, von der Tagesordnung bis zur Beschlusssammlung Sie sind Ansprechperson für Beiräte, Eigentümer und Dienstleister, auch vor Ort Sie steuern Erhaltungs- und Sanierungsmaßnahmen von den Angeboten über den Beschluss bis zur Abnahme Sie halten Fristen, Verträge und Verkehrssicherung Ihrer Objekte im Blick Sie arbeiten im Verwaltungsteam und stimmen sich mit der Teamleitung und der Geschäftsführung ab Sie nutzen unser Vorgangssystem und die KI-Assistenz im Alltag und prüfen, was vorbereitet wird, bevor es rausgeht Qualifikation Mehrjährige Erfahrung in der eigenverantwortlichen WEG-Verwaltung; Eigentümerversammlungen leiten Sie routiniert Sicher im WEG-Recht nach der Reform 2020, Grundzüge des Miet- und Gewerbemietrechts und der Verkehrssicherung Zertifizierte Verwalterin oder zertifizierter Verwalter (IHK) oder eine gleichwertige Qualifikation Selbständige, strukturierte Arbeitsweise und ein freundliches, klares Auftreten gegenüber Eigentümern und Dienstleistern Ruhe auch in schwierigen Versammlungen und Freude daran, dass Termine gehalten und Zusagen eingelöst werden Sicherer Umgang mit Branchensoftware und Microsoft 365; Offenheit für digitale Werkzeuge und KI im Alltag Führerschein Klasse B und verhandlungssicheres Deutsch in Wort und Schrift Buchhaltung und Abrechnung erstellen Sie nicht selbst. Sie sollten sie lesen und vor der Versammlung vertreten können. Benefits Einen eigenen Bestand mit echtem Gestaltungsspielraum und Rückhalt im Team Ein Jahresgehalt, das zu Ihrer Erfahrung passt Ein unbefristetes Arbeitsverhältnis in einem Unternehmen, das seine Arbeitsweise gerade grundlegend modernisiert Kurze Entscheidungswege und eine Geschäftsführung, die offen für aktive Mitgestaltung ist Einen Arbeitsplatz mit KI-Assistenz, die Routinen vorbereitet, damit Sie sich um Eigentümer und Objekte kümmern können Anteilig mobiles Arbeiten, dazu Präsenz im Büro und bei den Objekten Zentrale Lage in Konstanz mit guter Verkehrsanbindung und kostenfreien Parkplätzen Betriebliche Zusatzleistungen und Weiterbildung, auch für die Pflicht nach § 34c GewO Haben wir Ihr Interesse geweckt? Dann bewerben Sie sich bei uns. Wenn Sie Freude an eigenverantwortlicher WEG-Verwaltung haben und modern arbeiten möchten, freuen wir uns auf Ihre Bewerbung mit Lebenslauf, frühestmöglichem Eintrittstermin und Gehaltsvorstellung. Bewerbungskosten, etwa Fahrtkosten zu Vorstellungsgesprächen, können wir leider nicht übernehmen. Show more Show less Seniority level Associate Employment type Full-time Industries Real Estate Referrals increase your chances of interviewing at Immobetriebe Bodensee by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "eed3f26ac023bbf7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/weg-verwalter-property-manager-m-w-d-at-immobetriebe-bodensee-4489349872"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Technical Product Owner (m/w/d) - Konstanz, Berlin oder remote gesucht",
+   "company": "SEITENBAU GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/technical-product-owner-m-w-d-konstanz-berlin-oder-remote-gesucht-at-seitenbau-gmbh-4489357354",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Technical Product Owner (m/w/d) – Konstanz, Berlin oder remote Festanstellung, Voll- oder Teilzeit Remote Deine Aufgaben Du möchtest die Digitalisierung der Verwaltung mitgestalten und deine innovativen Ideen im Rahmen eines agilen Arbeitsumfelds einbringen? Als Technical Product Owner (m/w/d) mit Schwerpunkt auf technisch und fachlich komplexen Sachverhalten begleitest du zusammen mit deinem Team und unseren Kund:innen die Anforderungserhebung und Umsetzung bis hin zum Release und der Weiterentwicklung einer Softwareanwendung. Mit einem Projekt zum Ausbau einer Kommunikations- und Kollaborationsplattform hilfst du dabei den digitalen Wandel in Bund, Ländern und Kommunen zu meistern und aktiv voranzutreiben. Du verbindest dein Verständnis für Technologie mit einem Gespür für die Bedürfnisse unserer Kund:innen und deines Teams und agierst dabei als leidenschaftliches Bindeglied und Übersetzer:in. Du erarbeitest zusammen mit deinem Team und den Kund:innen das Product Backlog mit vorwiegend technischen Inhalten, laufende Sprint Ziele und Releases. Du analysierst neue Anforderungen und leitest daraus User Stories für unsere Java-, Spring-Boot und React-basierten Komponenten ab. Du überzeugst als Ansprechperson für unsere Kund:innen mit ausgeprägtem Kommunikationsgeschick. Du informierst über aktuelle Entwicklungen und stehst dabei im ständigen Austausch mit Kund:innen, Scrum Mastern, weiteren Product Ownern und Entwickler:innen. Du verantwortest zusammen mit deinem Team die kontinuierliche Qualitätssicherung und Auslieferung von neuen Softwarebestandteilen. Das bringst du mit Ein abgeschlossenes Studium oder eine vergleichbare Ausbildung im technischen Umfeld Erfahrung in der Softwareentwicklung, als Technical Consultant oder als Product Owner, bevorzugt in agilen Softwareentwicklungsprojekten Fundierte Kenntnisse in Anforderungsanalyse sowie fachlicher und technischer Konzeption von Softwaresystemen Begeisterung für die Digitalisierung der Verwaltung und den Einsatz moderner Technologien im öffentlichen Sektor Begeisterung für die Arbeit an komplexen Themenfeldern in einem interdisziplinären Umfeld und analytisches Denken Ein hohes Qualitätsverständnis und Freude am Austausch mit internen und externen Stakeholdern Eine klare, verständliche und proaktive Kommunikation Reisebereitschaft und sehr gute Deutschkenntnisse (C2 oder Muttersprache). Das bieten wir dir Du bist Teil eines spannenden Projekts und kannst dich mit deinen Ideen einbringen. Dein Team arbeitet in enger Kooperation mit der öffentlichen Verwaltung an der Strategie und zukünftigen technischen Ausgestaltung eines modernen digitalen Staates. Als Teil eines selbstorganisierten Teams kannst du dich stetig weiterentwickeln. Du kannst eigenverantwortlich an deinen Aufgaben arbeiten und wachsen. Deine Arbeitszeiten und Urlaube kannst du in Abstimmung mit deinem Team flexibel gestalten. Du kannst eigene Ideen zur Gestaltung des Arbeitsalltags sowie der Weiterentwicklung der Organisation bei SEITENBAU in verschiedenen Boards einbringen. Du hast kurze Entscheidungswege und eine Zugehörigkeit: Bei SEITENBAU arbeitest du im Team. Umfangreiche Benefits runden unser Angebot ab. Kontakt Deine Ansprechpartner:innen für Recruiting & Ausbildung Andre Lämmlen karriere@seitenbau.com Jonas Moser karriere@seitenbau.com Marie Braun karriere@seitenbau.com Katharina Mohring karriere@seitenbau.com Über uns SEITENBAU ist ein inhabergeführtes Unternehmen, das es seit 1996 gibt. Bei SEITENBAU arbeiten mehr als 300 kreative Köpfe an verschiedensten Softwarelösungen in Scrum Teams. Offene Kommunikation, vertrauensvolle Zusammenarbeit und eine gesunde Mischung aus Praxisbewährtem und cutting edge - das ist das Credo, nach dem wir erfolgreich und mit Spaß arbeiten. Falls du noch mehr über SEITENBAU erfahren möchtest - und das aus Mitarbeitersicht- besuch doch mal unsere kununu Seite. Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "df405db3c948e31b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/technical-product-owner-m-w-d-konstanz-berlin-oder-remote-gesucht-at-seitenbau-gmbh-4489357354"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Wir suchen: Technical Product Owner (m/w/d) - Konstanz, Berlin oder remote",
+   "company": "SEITENBAU GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/wir-suchen-technical-product-owner-m-w-d-konstanz-berlin-oder-remote-at-seitenbau-gmbh-4489359214",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Technical Product Owner (m/w/d) – Konstanz, Berlin oder remote Festanstellung, Voll- oder Teilzeit Remote Deine Aufgaben Du möchtest die Digitalisierung der Verwaltung mitgestalten und deine innovativen Ideen im Rahmen eines agilen Arbeitsumfelds einbringen? Als Technical Product Owner (m/w/d) mit Schwerpunkt auf technisch und fachlich komplexen Sachverhalten begleitest du zusammen mit deinem Team und unseren Kund:innen die Anforderungserhebung und Umsetzung bis hin zum Release und der Weiterentwicklung einer Softwareanwendung. Mit einem Projekt zum Ausbau einer Kommunikations- und Kollaborationsplattform hilfst du dabei den digitalen Wandel in Bund, Ländern und Kommunen zu meistern und aktiv voranzutreiben. Du verbindest dein Verständnis für Technologie mit einem Gespür für die Bedürfnisse unserer Kund:innen und deines Teams und agierst dabei als leidenschaftliches Bindeglied und Übersetzer:in. Du erarbeitest zusammen mit deinem Team und den Kund:innen das Product Backlog mit vorwiegend technischen Inhalten, laufende Sprint Ziele und Releases. Du analysierst neue Anforderungen und leitest daraus User Stories für unsere Java-, Spring-Boot und React-basierten Komponenten ab. Du überzeugst als Ansprechperson für unsere Kund:innen mit ausgeprägtem Kommunikationsgeschick. Du informierst über aktuelle Entwicklungen und stehst dabei im ständigen Austausch mit Kund:innen, Scrum Mastern, weiteren Product Ownern und Entwickler:innen. Du verantwortest zusammen mit deinem Team die kontinuierliche Qualitätssicherung und Auslieferung von neuen Softwarebestandteilen. Das bringst du mit Ein abgeschlossenes Studium oder eine vergleichbare Ausbildung im technischen Umfeld Erfahrung in der Softwareentwicklung, als Technical Consultant oder als Product Owner, bevorzugt in agilen Softwareentwicklungsprojekten Fundierte Kenntnisse in Anforderungsanalyse sowie fachlicher und technischer Konzeption von Softwaresystemen Begeisterung für die Digitalisierung der Verwaltung und den Einsatz moderner Technologien im öffentlichen Sektor Begeisterung für die Arbeit an komplexen Themenfeldern in einem interdisziplinären Umfeld und analytisches Denken Ein hohes Qualitätsverständnis und Freude am Austausch mit internen und externen Stakeholdern Eine klare, verständliche und proaktive Kommunikation Reisebereitschaft und sehr gute Deutschkenntnisse (C2 oder Muttersprache). Das bieten wir dir Du bist Teil eines spannenden Projekts und kannst dich mit deinen Ideen einbringen. Dein Team arbeitet in enger Kooperation mit der öffentlichen Verwaltung an der Strategie und zukünftigen technischen Ausgestaltung eines modernen digitalen Staates. Als Teil eines selbstorganisierten Teams kannst du dich stetig weiterentwickeln. Du kannst eigenverantwortlich an deinen Aufgaben arbeiten und wachsen. Deine Arbeitszeiten und Urlaube kannst du in Abstimmung mit deinem Team flexibel gestalten. Du kannst eigene Ideen zur Gestaltung des Arbeitsalltags sowie der Weiterentwicklung der Organisation bei SEITENBAU in verschiedenen Boards einbringen. Du hast kurze Entscheidungswege und eine Zugehörigkeit: Bei SEITENBAU arbeitest du im Team. Umfangreiche Benefits runden unser Angebot ab. Kontakt Deine Ansprechpartner:innen für Recruiting & Ausbildung Andre Lämmlen karriere@seitenbau.com Jonas Moser karriere@seitenbau.com Marie Braun karriere@seitenbau.com Katharina Mohring karriere@seitenbau.com Über uns SEITENBAU ist ein inhabergeführtes Unternehmen, das es seit 1996 gibt. Bei SEITENBAU arbeiten mehr als 300 kreative Köpfe an verschiedensten Softwarelösungen in Scrum Teams. Offene Kommunikation, vertrauensvolle Zusammenarbeit und eine gesunde Mischung aus Praxisbewährtem und cutting edge - das ist das Credo, nach dem wir erfolgreich und mit Spaß arbeiten. Falls du noch mehr über SEITENBAU erfahren möchtest - und das aus Mitarbeitersicht- besuch doch mal unsere kununu Seite. Jetzt bewerben Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "64d4d5cefa0d4101",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/wir-suchen-technical-product-owner-m-w-d-konstanz-berlin-oder-remote-at-seitenbau-gmbh-4489359214"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Projektmanager Instandhaltung und Sanierung (m/w/d)",
+   "company": "Immobetriebe Bodensee",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektmanager-instandhaltung-und-sanierung-m-w-d-at-immobetriebe-bodensee-4489359391",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Sie kommen vom Bau oder aus dem Handwerk, erkennen auf den ersten Blick, ob eine Arbeit sauber ausgeführt ist, und wollen Maßnahmen nicht mehr selbst ausführen, sondern voranbringen? Dann sind Sie bei uns richtig. Die Immobetriebe Hausverwaltung GmbH ist ein inhabergeführtes Unternehmen in Konstanz. Wir verwalten Wohnungseigentümergemeinschaften, Mietshäuser und größere Gewerbeobjekte im Raum Konstanz, Radolfzell und Singen. Wir arbeiten weitgehend digital: ein Vorgangssystem für alle Fälle, KI-Assistenz bei Routinen und Abläufe, die wir aufschreiben und gemeinsam verbessern. Bisher haben unsere Verwalter die Umsetzung von Instandhaltung und Sanierung neben ihren rechtlichen Aufgaben mitgetragen. Diese Aufgabe lösen wir jetzt heraus und machen sie zu einer eigenen Stelle, die eng mit den Verwaltern zusammenarbeitet: Die Verwaltung führt Versammlung und Beschluss, Sie bringen die beschlossenen Maßnahmen auf die Baustelle und zum Abschluss. Als Projektkoordinator sorgen Sie dafür, dass Instandhaltung und Sanierung in unseren Objekten zügig, in guter Qualität und im beschlossenen Budget umgesetzt werden. Die Ausführung liegt bei unseren Fachfirmen. Sie vertreten die Eigentümer als Bauherr: Sie planen, beauftragen, prüfen und halten nach, bis die Maßnahme abgenommen ist. Aufgaben Sie sehen sich Schäden und Instandhaltungsbedarf vor Ort an und schätzen ein, was zu tun ist und welche Gewerke gebraucht werden Sie besprechen Umbau- und Modernisierungswünsche von Eigentümern am Objekt und machen daraus ein umsetzbares Vorhaben Sie holen Angebote ein, vergleichen sie und bereiten Entscheidungen vor; Umfang, Varianten und Kosten liefern Sie für die Beschlüsse der Eigentümer, den Beschluss selbst holt die Verwaltung ein Steht der Beschluss, setzen Sie die Maßnahme um: Sie beauftragen die Firmen, setzen Termine, koordinieren die Gewerke und halten nach, bis alles erledigt ist Sie prüfen vor Ort, ob fachgerecht gearbeitet wird, nehmen Leistungen ab, verfolgen Mängel und prüfen Rechnungen gegen den Auftrag Sie arbeiten im Rahmen der Budgets und Freigaben, die Beschlüsse und Verwaltervertrag vorgeben, und melden Abweichungen frühzeitig Sie dokumentieren jedes Projekt im Vorgangssystem und erfassen Ihre Zeiten laufend Ein großer Teil Ihrer Arbeit findet am Schreibtisch statt: Telefon, E-Mail, Angebote und Abstimmung mit Eigentümern, Beirat und Verwaltung Qualifikation Eine bautechnische Ausbildung, etwa im Handwerk, als Techniker oder ein Studium im Bauwesen, und mehrjährige Praxis am Bau oder in der Instandhaltung von Gebäuden Ein gutes Auge für Qualität über mehrere Gewerke hinweg; Sie erkennen, was ein Schaden braucht und was ein Angebot taugt Freude daran, Dinge zu Ende zu bringen und mehrere Maßnahmen gleichzeitig im Blick zu behalten Verlässlichkeit im Umgang mit Budgets und Freigaben Sorgfalt in der Dokumentation: Projektstand und Zeiten schreiben Sie konsequent auf Ein freundliches, klares Auftreten gegenüber Eigentümern und Handwerkern Sicherer Umgang mit Microsoft 365; Offenheit für digitale Werkzeuge und KI im Alltag Führerschein Klasse B und verhandlungssicheres Deutsch in Wort und Schrift WEG-Recht müssen Sie nicht mitbringen. Die rechtliche Seite verantwortet die Verwaltung, Sie lernen sie im Alltag kennen Benefits Direkteinstieg in bestehende Projekte mit beschlossenen Maßnahmen, mit sauberer Übergabe durch die betreuenden Verwalter Eigene Projekte von der Besichtigung bis zur Abnahme, mit klaren Vorgaben und Rückhalt im Team Abwechslung zwischen Büro und Objekten in der Region, planbare Arbeitszeiten statt Baustellenalltag Dienstfahrzeuge für Fahrten zu den Objekten Ein Jahresgehalt, das zu Ihrer Erfahrung passt Ein unbefristetes Arbeitsverhältnis in einem Unternehmen, das seine Arbeitsweise gerade grundlegend modernisiert Kurze Entscheidungswege und eine Geschäftsführung, die offen für aktive Mitgestaltung ist Einen Arbeitsplatz mit KI-Assistenz, die Angebote, Unterlagen und Routinen vorbereitet Zentrale Lage in Konstanz mit …",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "cf7dd2b49d662b04",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-instandhaltung-und-sanierung-m-w-d-at-immobetriebe-bodensee-4489359391"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Senior Talent Acquisition Specialist (m/f/d)",
+   "company": "CIRCOR International, Inc.",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/senior-talent-acquisition-specialist-m-f-d-at-circor-international-inc-4483178310",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "ALLWEILER GmbH – a subsidiary of Circor – is one of the most successful companies in the global pump industry. Our long expertise (since 1860), our high-quality standards in combination with advanced construction and pump technology are the basis for our growth. Our own sales companies and distributors in Europe, USA, Asia, Africa and the Middle East assure a high degree of customer satisfaction. We are looking for a Senior Talent Acquisition Specialist (m/f/d) to join our team. The role can be based at our offices in Radolfzell am Bodensee, Germany, or Uxbridge, UK, with remote working also available within Germany or the UK. The person will report directly to the Sr. Director Global Talent Acquisition and functionally to the VP HR Industrial EMEA & APAC. Your Core Responsibilities Full Life Cycle Recruitment: Manage all aspects of the recruitment process across different departments, handling 15+ requisitions at a time. Client Relationship Building: Build and maintain strong relationships with hiring managers and HR teams across Germany and Europe (Italy, France, Norway, UK), ensuring a deep understanding of their talent needs and company culture Sourcing & Talent Pool Development: Use a variety of sourcing strategies to build and maintain a pipeline of qualified candidates for both technical and non-technical roles. Candidate Screening & Evaluation: Conduct in-depth interviews and assessments to evaluate candidates’ qualifications, skills, and cultural fit, providing feedback to clients and recommending top talent. Process Improvement: Continuously assess and improve recruitment processes to enhance the candidate experience, streamline workflows, and increase efficiency. Identify new tools, techniques, and strategies to attract top talent. Reporting & Documentation: Keep detailed records of candidate interactions, recruitment progress, and performance metrics. Provide regular updates to key stakeholders. Talent Development Coordination: Support Talent Development initiatives, including annual Organizational & Talent Reviews, employee engagement efforts (e.g., annual Pulse Survey), and culture enhancement programs. Our Requirements Bachelor’s degree in human resources, Psychology, Business, Engineering, or a related field. At least 3 years of experience in agency recruitment or in-house talent acquisition, managing full-cycle recruitment processes, specializing in Engineering, Sales, Finance, Lean Manufacturing, and Supply Chain roles. Expertise in sourcing, screening, and placing candidates for technical and non-technical roles Strong interpersonal and relationship-building skills with the ability to influence and collaborate with key stakeholders at all levels. Proficiency in using sourcing tools and recruitment technologies (LinkedIn Recruiter, job boards, ATS systems). The ability to manage multiple requisitions, prioritize tasks, and meet deadlines. Strong communication and interviewing skills and the ability to assess technical qualifications as well as cultural fit. Fluent in German and English. Our Benefits Competitive salary and benefits package. Opportunity to work with leading diverse industry that’s growing and evolving. Flexible and dynamic work environment that fosters growth, innovation, and career development. A collaborative, supportive team culture that values your expertise and ideas. Flexible working hours due to flextime Please note: the benefits may vary from country to country. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Industrial Machinery Manufacturing Referrals increase your chances of interviewing at CIRCOR International, Inc. by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "172 applicants"
+   },
+   "id": "25367ba024717e50",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/senior-talent-acquisition-specialist-m-f-d-at-circor-international-inc-4483178310"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "AIT Production Controls Specialist",
+   "company": "Expleo Group",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/ait-production-controls-specialist-at-expleo-group-4419127202",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "The aerospace industry is at the forefront of innovation, designing and manufacturing aircraft and spacecraft. This includes commercial aircraft, military jets, helicopters and satellites. This sector drives advances in global transportation, defense and space exploration while maintaining high standards of safety and performance. At Expleo, we are looking for unique talents who act as a key interface between our multinational customers and our teams, driving exciting customer projects forward according to schedule. There is just one thing missing from our dynamic team: you. As an AIT Production Controls Specialist, you actively contribute to the successful implementation of satellite programs and thereby make a direct contribution to European space sovereignty. In this role, you ensure the structured planning and control of production activities in the field of AIT (Assembly, Integration & Testing). You keep track of production milestones, maintain and review relevant SAP data, and work closely with various departments. If you would like to apply your organizational skills in an international high-tech environment and advance your career in the space industry, we look forward to receiving your application! Verantwortlichkeiten Planning and scheduling production activities according to the AIT workflow Monitoring work orders and production milestones Reviewing, maintaining and updating production-related data in SAP – particularly for satellite projects Proactive coordination with adjacent departments such as Engineering, Purchasing and Quality Preparing reports and presenting status information to internal stakeholders Qualifikationen Completed degree in Mechanical Engineering, Aerospace Engineering or a comparable field Fluent English skills, both written and spoken; German language skills are an advantage Erforderliche Fähigkeiten Abgeschlossenes Studium im Bereich Maschinenbau, Flugzeugbau, Luftfahrttechnik, Raumfahrttechnik oder vergleichbar Fließende Englischkenntnisse in Wort und Schrift, Deutschkenntinsse sind vorteilhaft Gewünschte Fähigkeiten Experience in production planning, project management or PMO Strong organizational skills, an independent working style and excellent communication skills Confident handling of SAP MM or SAP PP Leistungen At Expleo, we focus on teamwork, openness, transparency and appreciation. We tackle our tasks together. You can expect an international and multicultural team. Everyone is equal here, and we all wear the same color: PURPLE! We offer flexible working hours, comprehensive onboarding, remote working opportunities and numerous employee benefits. We provide a workplace that takes your personal circumstances into account and supports you. Learning never stops: Your development is very important to us. We offer internal training and development opportunities and support you in achieving your future career goals. We are passionate about making a difference, motivating each other and welcoming your contribution to the bigger picture. Your experience, ideas and commitment will be heard and rewarded. Our customers are not only impressive; they are also leading players in their industries, including banking and insurance, automotive, aerospace, transportation, life sciences and many more. Social interaction matters to us. We focus on team building and a strong sense of belonging. Would you like to know more about us? Simply visit our YouTube channel and watch our videos. We look forward to receiving your application and meeting you personally. Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Expleo Group by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "29 applicants"
+   },
+   "id": "ce7a523ce7ca234a",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/ait-production-controls-specialist-at-expleo-group-4419127202"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Projektmanager:in Bereich Funk-, Intercom- und Videosysteme für Singen und Freiburg",
+   "company": "MEDER CommTech",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/projektmanager-in-bereich-funk-intercom-und-videosysteme-f%C3%BCr-singen-und-freiburg-at-meder-commtech-4489325601",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Wir sind ein knapp sechzigköpfiges Unternehmen in Singen am Hohentwiel und Standorten in Freiburg und Markdorf. Wir installieren Kommunikations- und Sicherheitssysteme; also Funkgeräte, Sirenen, Videoüberwachung uvm. Unsere Kunden sind unter anderem Feuerwehren, Polizei und Rettungsdienste. Außerdem produzieren wir Personenführungsanlagen; das sind diese kleinen Kästchen bei z.B. Museumsführungen um den Hals der Gäste. Gleich mal vorneweg: Du kannst dich auf viel Freiraum bei uns freuen. Schließlich sind wir kein Konzern mit starren Regeln. Wir freuen uns auf deine Ideen und auf den Austausch mit dir sind wir gespannt. Aufgaben Morgens klappst du den Laptop auf uns los geht es mit unterschiedlichsten Aufgaben: Mails checken, Kundenanfragen bearbeiten, Angebote erstellen, Ausschreibungen sichten und Projekte kalkulieren. Du bist der erste Ansprechpartner für die Kunden und betreust diese von der Anfrage bis zur Fertigstellung des Projekts. Was braucht der Kunde und was kannst du ihm noch empfehlen? Um die Angebote optimal erstellen zu können, fährst du zum Kunden und schaust dir die Gegebenheiten vor Ort an. Wenn die Bestellung ins Haus kommt, kümmerst du dich um die Material- und Personalplanung und die technische Planung des Projekts. Unsere Techniker bekommen von dir die Ausführungsplanung, damit auch klar ist wie was wo montiert werden soll. Wichtig ist bei unseren laufenden Projekten nicht den Überblick zu verlieren. Die können auch mal recht umfangreich sein und bis zu Monaten laufen. Ein Anteil an Vertriebstätigkeiten ist auch dabei. Kundenbindung und Networking ist bei uns das A und O. Hier muss der Kunde auf Augenhöhe mit Fachkompetenz und Bodenständigkeit angesprochen und betreut werden. Bei dir laufen die Fäden der Projekte zusammen und du bist die Schnittstelle zwischen Kunde, Technikern und Innendienst. Qualifikation Eine technische Ausbildung (z. B. Elektrotechnik, Nachrichtentechnik, Techniker oder Meister) oder vergleichbare praktische Erfahrung hast du in der Tasche – ein Studium ist kein Muss. Du warst schon mal auf einer Baustelle oder hast mit Servicetechnikern zusammengearbeitet? Dort geht es oft pragmatischer und flexibler zu als im reinen Industrieumfeld. Deine bereits gesammelte Erfahrung im Bereich Projektmanagement mit Technikbezug nehmen wir gerne mit - idealerweise aus Projektgeschäften mit wechselnden Kunden und Ansprechpartnern. Deine bereits gesammelte Erfahrung im Bereich Projektmanagement mit Technikbezug nehmen wir gerne mit. Du bist nicht so der „mein-Tag-läuft-immer-gleich-ab“ Typ und freust dich über jeden Menge Abwechslung. Kenntnisse in MS Office und CRM-/Warenwirtschaftsprogrammen wären klasse. Benefits Gehalt? Gestalten wir individuell nach deinen Vorstellungen und deinem Know-How. Unbefristeter Arbeitsvertrag 2 min. bis zur Bahn. 30 Tage Urlaub Wir laden Deine Pluxee Benefits Karte (bekommst Du von uns) monatlich steuerfrei auf; damit tankst Du, gehst einkaufen oder oder oder. Wir sind herrlich ehrlich. Jeder weiß wie der andere tickt und wie man ihn anpacken muss. Gibt es mal ein Problem oder man steckt mal fest, sind die Kolleg:innen immer zur Stelle. Nicht nur geschäftlich, auch mal privat. Unser Leben ist schon jetzt eine einzige Rush-Hour. Daher hoffen wir mit Gleitzeit und Homeoffice hier ein wenig das Gas rauszunehmen. Wir freuen uns immer riesig auf unsere Firmenfeiern (bring gerne Deine Familie mit) und Ausflüge. Wir passen uns Deinen Lebensphasen an und ermöglichen Dir die Arbeits- und Freizeiten (z.B. Elternzeit für Väter – bei uns ganz normal), die Du gerade brauchst. Gute Mitarbeiter werben gute Mitarbeiter: mit einer ordentlichen Prämienzahlung wirst Du dafür belohnt. Jetzt noch ein paar Goodies: Helle Büros mit höhenverstellbaren Schreibtischen, Klimaanlage 1A technischer Ausstattung – vom Laptop bis zum Bildschirm. Überdurchschnittlicher Zuschuss zur Altersvorsorge Jährliche Sonderzahlungen Parkplätze vor dem Haus. Kostenlos? Natürlich. Wasser, Kaffee, Tee und Obst …",
+   "extra": {
+    "seniority": "Director",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "070e38676ec1cde8",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-in-bereich-funk-intercom-und-videosysteme-f%C3%BCr-singen-und-freiburg-at-meder-commtech-4489325601"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Mitarbeiter:in im Risikomanagement (w/m/d)",
+   "company": "Raiffeisenlandesbank Niederösterreich-Wien AG",
+   "location": "Horn, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-im-risikomanagement-w-m-d-at-raiffeisenlandesbank-nieder%C3%B6sterreich-wien-ag-4456741924",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2883c6895589af64",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-im-risikomanagement-w-m-d-at-raiffeisenlandesbank-nieder%C3%B6sterreich-wien-ag-4456741924"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Leiter/in Hausdienst und Mesmer-Team",
+   "company": "evangelische Kirchgemeinde Kreuzlingen",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-hausdienst-und-mesmer-team-4491085785",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Unternehmensbeschreibung Die evangelische Kirchgemeinde Kreuzlingen ist eine lebendige Glaubensgemeinschaft mit vielfältigen Gottesdiensten, Veranstaltungen und Angeboten für Menschen aller Generationen. Sie versteht sich als offener und wertschätzender Ort der Begegnung, an dem Glaube, Kultur und soziale Verantwortung zusammenkommen. Die Gemeinde nutzt unterschiedliche Gebäude und Räume für kirchliche Feiern, Bildungsangebote und gemeinschaftliches Miteinander. Mitarbeitende finden hier ein sinnstiftendes Umfeld mit klaren Strukturen und einem engagierten Team, das die täglichen Abläufe im Gemeindealltag trägt. Rollenbeschreibung Als Leitung Hausdienst und Mesmer-Team übernehmen Sie die organisatorische und fachliche Führung des Hausdienstes und koordinieren das Mesmer-Team der Kirchgemeinde Kreuzlingen. Zu Ihren täglichen Aufgaben gehören die Planung und Sicherstellung von Reinigung, Pflege und Instandhaltung der Gebäude sowie die Vorbereitung und Begleitung von Gottesdiensten, Veranstaltungen und Feiern. Sie erstellen Dienstpläne, koordinieren Einsätze, arbeiten eng mit Pfarrpersonen, Gemeindeleitung und weiteren Mitarbeitenden zusammen und sorgen für einen reibungslosen Ablauf in allen kirchlichen Liegenschaften. Die Rolle umfasst zudem die Kontrolle von Sicherheits- und Ordnungsvorschriften, die Zusammenarbeit mit externen Dienstleistenden sowie die praktische Mitarbeit im Hausdienst. Es handelt sich um eine Vollzeitstelle vor Ort in Kreuzlingen. Qualifikationen Führung und Organisation: Erfahrung in der Leitung von Teams, Erstellen von Dienstplänen, Koordination von Einsätzen und strukturierte Arbeitsweise im Gebäudemanagement. Hausdienst und Technik: Praktische Kenntnisse in Hauswartung, Reinigung, Pflege von Gebäuden und Anlagen sowie Grundkenntnisse in Haustechnik und Sicherheitsvorschriften. Kommunikation und Zusammenarbeit: Sicherer und wertschätzender Umgang mit verschiedenen Personengruppen, Teamfähigkeit und Bereitschaft zur engen Zusammenarbeit mit kirchlichen Mitarbeitenden und Freiwilligen. Persönliche Kompetenzen: Verantwortungsbewusstsein, Zuverlässigkeit, körperliche Belastbarkeit, selbstständiges Arbeiten sowie Flexibilität bezüglich Arbeitszeiten (u. a. abends, an Wochenenden und Feiertagen). Zusätzliche Qualifikationen: Abgeschlossene Ausbildung in einem handwerklichen, technischen oder hauswirtschaftlichen Beruf von Vorteil; Erfahrung in einer Kirchgemeinde oder vergleichbarer Institution wünschenswert; gute Deutschkenntnisse und Identifikation mit den Werten einer evangelischen Kirchgemeinde.",
+   "extra": {
+    "seniority": "Director",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "fb75ec8cd139e75d",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-hausdienst-und-mesmer-team-4491085785"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Vermietungsspezialist Immobilien (m/w/d), St. Gallen, 100% (St. Gallen, St. Gallen, CH, 9000)",
+   "company": "Wincasa",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vermietungsspezialist-immobilien-m-w-d-st-gallen-100%25-st-gallen-st-gallen-ch-9000-at-wincasa-4472884452",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Wincasa, der führende Schweizer Immobilien-Dienstleister, gestaltet die Zukunft der Immobilienbranche entscheidend mit. Digitale Dienstleistungen, agile Prozesse und eine smarte Arbeitsweise zeichnen uns aus. Werde Teil unserer Transformationsreise und präge die Zukunft von Wincasa aktiv mit. #Wincasa An unserem Standort «Wohnen» in St. Gallen fühlen sich die Mieter nicht nur wie zuhause, sondern werden durch unsere neue Aufgabenverteilung im Team auch optimal und effizient betreut. Das hat nicht nur Vorteile für Mietende und die Eigentümerschaft, sondern auch für dich. Durch mehr Spezialisierung im Team arbeiten wir enger zusammen, und alle können sich auf ihre Stärken konzentrieren. Wenn dein Herz für Immobilien schlägt, du motiviert sowie zielorientiert bist und ausserdem gerne im Team arbeitest, dann freuen wir uns auf deine Bewerbung als Vermietungsspezialist Immobilien (m/w/d) St. Gallen, 100% Das Bewegst Du Du verantwortest die Bearbeitung des digitalen Wiedervermietungsprozesses vom Kündigungseingang bis zur Abnahme und Übergabe der Objekte, indem du direkt mit Mietern und Interessenten kommunizierst Die Erstellung qualitativ hochwertiger und fehlerfreier Online-Inserate sowie die Beauftragung weiterer Vermarktungsmassnahmen wie Fotos und 360°-Rundgänge gehören zu deinen Aufgaben Du prüfst Bewerbungen sorgfältig und wählst geeignete Mietinteressenten aus, um anschliessend Mietverträge für Wohn- und Nebenobjekte zu erstellen Die Durchführung von Wohnungsbesichtigungen mit Mietinteressenten sowie selbstständige Abnahmen und Übergaben fallen ebenfalls in deinen Verantwortungsbereich Als erste:r Ansprechpartner:in im Büro übernimmst du die Kundenbetreuung vor Ort und initiierst Massnahmen zur Überwachung und Priorisierung von Vermietungen und Leerständen Deshalb Gelingt Es Dir Du verfügst über eine abgeschlossene Berufsausbildung (z.B. KV, Detailhandel, Handelsschule o.Ä.) Ausserdem verfügst du über mehrjährige Berufserfahrung im Kundenkontakt Erste Immobilienerfahrungen sind von Vorteil, Quereinsteiger:innen sind aber ebenfalls willkommen Du handelst lösungs- und kundenorientiert und hast Freude am persönlichen Umgang mit Menschen Eine selbstständige und zuverlässige Arbeitsweise sowie gute Kommunikationsfähigkeiten und Verhandlungsgeschick zeichnen dich aus Deine Bereitschaft für flexible Einsätze abends und samstags runden dein Profil ab Du kommunizierst mündlich und schriftlich fliessend in Deutsch, Englisch von Vorteil Hier Einige Unserer Benefits Arbeitszeiten: Wir leben mobiles Arbeiten mit individueller (Jahres)-Arbeitszeit und/oder Teilzeitarbeit. Bis zu 40% Home-Office sind möglich. Work-Life-Balance wird bei uns grossgeschrieben, denn ausgeglichene und erholte Mitarbeitende sind uns wichtig. Der Kauf von zusätzlichen Ferien ist möglich. Mobilität und Verpflegung: Du erhältst einen Beitrag für das Mobiltelefon. Für deine Verpflegung leisten wir ebenfalls einen Beitrag. Aus- und Weiterbildung: Das Fördern von Mitarbeitenden ist ein wichtiger Bestandteil unserer Kultur. Profitiere von einer grosszügigen Unterstützung bei internen und externen Aus- und Weiterbildungen. Wir bieten Laufbahnmöglichkeiten in Führungs-, Fach- und Projektfunktionen Salär: Bei uns erwartet dich eine marktgerechte Entlöhnung mit absoluter Lohngleichheit für alle Geschlechter. Die Pensionskassenleistungen sind attraktiv und du kannst aus verschiedenen Modellen das für dich passende wählen. Die Unfallschutzversicherung deckt die private Spitalabteilung ab. Weitere Informationen zu unseren Benefits findest du auf unserer Karriereseite. #Wincasa Show more Show less Seniority level Not Applicable Employment type Full-time Industries Construction Referrals increase your chances of interviewing at Wincasa by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "bb45c2aee2dec69f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vermietungsspezialist-immobilien-m-w-d-st-gallen-100%25-st-gallen-st-gallen-ch-9000-at-wincasa-4472884452"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Payroll Spezialist 100% (m/w/d)",
+   "company": "Rocken®",
+   "location": "Rapperswil-Jona, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/payroll-spezialist-100%25-m-w-d-at-rocken%C2%AE-4490200465",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF95'000 - 105'000 Rolle Für unseren ROCKEN Partner, ein etabliertes Schweizer Industrie- und Produktionsunternehmen aus der Lebensmittelbranche in der Region Zürich (Zürcher Oberland), suchen wir eine erfahrene Persönlichkeit für die Payroll. Gemeinsam mit zwei weiteren Teammitgliedern stellst Du eine zuverlässige und professionelle Lohnverarbeitung sicher, bringst Dich aktiv in HR-Themen ein und übernimmst Verantwortung im operativen HR-Tagesgeschäft. Dich erwartet ein kollegiales Team mit flachen Hierarchien und kurzen Entscheidungswegen. Verantwortung Du führst die monatliche Lohnverarbeitung selbstständig durch, inklusive Vor- und Nachbearbeitung Du verantwortest sämtliche Mutationen sowie die Ein- und Austritte Du erstellst Jahresendabrechnungen und Lohnausweise Du wickelst Sozialversicherungen, Quellensteuern, Familienzulagen sowie Krankheits- und Unfallmeldungen ab und kontrollierst diese Du pflegst und kontrollierst die Personal- und Lohndaten in den HR-Systemen und verwaltest die Zeiterfassung Du bist Ansprechperson für Mitarbeitende und Führungskräfte in Fragen zu Payroll, Sozialversicherungen und HR Du wirkst in der Personaladministration sowie in HR-Projekten und -Prozessen mit Qualifikationen Du verfügst über eine kaufmännische Grundausbildung sowie eine Weiterbildung im Bereich HR, Payroll oder Sozialversicherungen Du bringst mindestens 3 Jahre Erfahrung in der selbstständigen Führung der Lohnbuchhaltung/Payroll mit, idealerweise aus einem Industrie- oder Produktionsumfeld Du besitzt sehr gute Kenntnisse des Schweizer Sozialversicherungs- und Arbeitsrechts Du arbeitest sicher mit MS Office (insbesondere Excel) und einer Payroll-/HR-Software, idealerweise Sage Du überzeugst mit einer selbstständigen, exakten Arbeitsweise, Diskretion, Hands-on-Mentalität und hoher Dienstleistungsorientierung; stilsicheres Deutsch in Wort und Schrift ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Human Resources Services Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d8e7fca89cd8c57c",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/payroll-spezialist-100%25-m-w-d-at-rocken%C2%AE-4490200465"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Fachberater*in Baufarben und Putze / Winterthur | Teile Stadt Zürich",
+   "company": "KARL BUBENHOFER AG",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachberater-in-baufarben-und-putze-winterthur-teile-stadt-z%C3%BCrich-at-karl-bubenhofer-ag-4489344722",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "00dff5033188fb69",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachberater-in-baufarben-und-putze-winterthur-teile-stadt-z%C3%BCrich-at-karl-bubenhofer-ag-4489344722"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Combustion Engine Specialist (m/f/d) 100%",
+   "company": "WinGD Ltd.",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/combustion-engine-specialist-m-f-d-100%25-at-wingd-ltd-4491071669",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3bb6d95718d913fa",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/combustion-engine-specialist-m-f-d-100%25-at-wingd-ltd-4491071669"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Project Office Manager (m/w/d) 80-100%",
+   "company": "bexio AG",
+   "location": "Rapperswil-Jona, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/project-office-manager-m-w-d-80-100%25-at-bexio-ag-4489367071",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "56192bc75de165f3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/project-office-manager-m-w-d-80-100%25-at-bexio-ag-4489367071"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Team Lead Customer Success (m/w/d) 100% - Focus Expansion & Growth",
+   "company": "bexio AG",
+   "location": "Rapperswil-Jona, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/team-lead-customer-success-m-w-d-100%25-focus-expansion-growth-at-bexio-ag-4489352715",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "1f4c51dbbf6750d3",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/team-lead-customer-success-m-w-d-100%25-focus-expansion-growth-at-bexio-ag-4489352715"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Fachfrau Finanz- und Rechnungswesen (m/w/d)",
+   "company": "Rocken®",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/fachfrau-finanz-und-rechnungswesen-m-w-d-at-rocken%C2%AE-4489887935",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9fd569bc3a1555ba",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachfrau-finanz-und-rechnungswesen-m-w-d-at-rocken%C2%AE-4489887935"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Technische:r Leiter:in Inbetriebsetzung Modernisierung &amp; Reparatur 80-100%",
+   "company": "Stadler Rail AG",
+   "location": "8500 Frauenfeld",
+   "country": "CH",
+   "url": "https://jobs.stadlerrail.ch/offene-stellen/inbetriebsetzung-service/technische-r-leiter-in-inbetriebsetzung-modernisierung-reparatur/91fbf6eb-b576-452b-8d86-048c390ab851",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "technischen Standards, Methoden und Arbeitsanweisungen für die Inbetriebsetzung\n- Planung, Organisation und Durchführung von Schulungen sowie Aus- und Weiterbildungsprogrammen für Inbetriebsetzungstechniker\n- Sicherstellung eines strukturierten und nachhaltigen Onboardings neuer Mitarbeitender\n- <em>Evaluation</em>",
+   "extra": {
+    "canton": "TG",
+    "query": "Evaluation",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "1b604ead-8118-467b-bb3c-eb4ac2babe1d"
+   },
+   "id": "2572e7a398c93a8d",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://jobs.stadlerrail.ch/offene-stellen/inbetriebsetzung-service/technische-r-leiter-in-inbetriebsetzung-modernisierung-reparatur/91fbf6eb-b576-452b-8d86-048c390ab851"
+   },
+   "first_seen": "2026-11-15"
+  },
+  {
+   "title": "Fachspezialist/-in Lohn & Personaladministration (60-80%)",
+   "company": "Ferroflex Group AG",
+   "location": "8207 Schaffhausen",
+   "country": "CH",
+   "url": "https://www.jobscout24.ch/de/job/f3b421e3-8a4d-4043-8090-a634fcc02cd1/?utm_source=job-room.ch&utm_medium=affiliate&utm_campaign=wb:jobscout24|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-14",
+   "salary": null,
+   "via": null,
+   "description": "Personalkostenbudget\n**Was du mitbringst**\n* Kaufmännische Grundausbildung sowie Ausbildung im Bereich <em>HR</em>\\-<em>Fachfrau</em>/\\-mann mit eidg.",
+   "extra": {
+    "canton": "SH",
+    "query": "HR Fachfrau",
+    "workload": "100-100 %",
+    "permanent": true,
+    "jobroom_id": "dfb65820-3fc9-46d3-bace-dc7a5f186f5a"
+   },
+   "id": "ef72458a17c872a6",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.jobscout24.ch/de/job/f3b421e3-8a4d-4043-8090-a634fcc02cd1/?utm_source=job-room.ch&utm_medium=affiliate&utm_campaign=wb:jobscout24|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-15"
+  },
   {
    "title": "Theaterpädagog*in & Mitarbeiter*in Junges Theater Konstanz (w/m/d)",
    "company": "Theater Konstanz",
@@ -37,7 +473,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004015110-S"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Akademische*r Mitarbeiter*in (w/m/d) im Projekt OPOS (OrtsNahe Pflege Oberschwaben) in Vollzeit",
@@ -62,7 +499,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004011573-S"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter (w/m/d)",
@@ -87,7 +525,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17628-44572625-1113-S"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Projektleiter (w/m/d) im Facility Management",
@@ -112,7 +551,8 @@
    "links": {
     "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17628-44572626-1113-S"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Projektleiter (m/w/d) Luftwaffensysteme",
@@ -136,7 +576,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektleiter-m-w-d-luftwaffensysteme-at-diehl-defence-4488926501"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Inhouse Consultant (m/w/d) Strategische Programme und Operating Models",
@@ -160,7 +601,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/inhouse-consultant-m-w-d-strategische-programme-und-operating-models-at-diehl-defence-4488918832"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Einrichtungsleitung (m/w/d) für unseren Inselhort in Lindau",
@@ -184,7 +626,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/einrichtungsleitung-m-w-d-f%C3%BCr-unseren-inselhort-in-lindau-at-johanniter-unfall-hilfe-e-v-4488944268"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Projektleiter*in Sanitär (m/w/d)",
@@ -208,7 +651,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-sanit%C3%A4r-m-w-d-at-rocken%C2%AE-4489801942"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Projektleiter Energieversorgung (m/w/d)",
@@ -232,7 +676,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-energieversorgung-m-w-d-at-rocken%C2%AE-4489801931"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Technische:r Leiter:in Inbetriebsetzung Modernisierung & Reparatur – Frauenfeld",
@@ -256,7 +701,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/technische-r-leiter-in-inbetriebsetzung-modernisierung-reparatur-%E2%80%93-frauenfeld-at-stadler-4489562344"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Senior Project Manager VDC (m/w/d) 80-100%",
@@ -280,7 +726,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-project-manager-vdc-m-w-d-80-100%25-at-bim-tech-consulting-gmbh-4490708702"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Gruppenleiter/in Aktivierung 80-100%",
@@ -304,7 +751,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/gruppenleiter-in-aktivierung-80-100%25-at-tertianum-4490725095"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Assistentin / Assistent Leitung Berufsbildung",
@@ -328,7 +776,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/assistentin-assistent-leitung-berufsbildung-at-kantonsspital-winterthur-4489594428"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Projektleiter:in Gebäudeautomation / Systemintegration 80 – 100%",
@@ -352,7 +801,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-in-geb%C3%A4udeautomation-systemintegration-80%E2%80%AF%E2%80%93%E2%80%AF100%25-at-addexpert-gmbh-4488954252"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Leiter:in für das Couture Lehratelier (m/w/d)",
@@ -376,7 +826,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-f%C3%BCr-das-couture-lehratelier-m-w-d-at-kanton-st-gallen-4489871256"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Entrepreneurial Project Leader / Executive Operations (m/w/d)",
@@ -400,7 +851,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/entrepreneurial-project-leader-executive-operations-m-w-d-at-pms-sch%C3%B6nenberger-ag-4490741028"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Leiter*in Kulturvermittlung beim Kulturmuseum St. Gallen",
@@ -424,7 +876,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-kulturvermittlung-beim-kulturmuseum-st-gallen-at-bundesvereinigung-kulturelle-kinder-und-jugendbildung-bkj-4488970330"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Gesamtprojektleiter*in Bauherrenvertretung 80 - 100%",
@@ -448,7 +901,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/gesamtprojektleiter-in-bauherrenvertretung-80-100%25-at-genossenschaft-migros-ostschweiz-4489560764"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Kommerzieller Teilprojektleiter – St. Margrethen",
@@ -472,7 +926,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/kommerzieller-teilprojektleiter-%E2%80%93-st-margrethen-at-stadler-4486355771"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Leiter*in Betreuung 100% (befristet bis 31.03.2027)",
@@ -496,7 +951,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-betreuung-100%25-befristet-bis-31-03-2027-at-ors-service-ag-4490711679"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Spezialist:in im Program Management Office - befristet für 24 Monate",
@@ -520,7 +976,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-im-program-management-office-befristet-f%C3%BCr-24-monate-at-axa-4490718176"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Wissenschaftliche:r Mitarbeiter:in (Doktorand:in) (m/w/d) im Bereich Organizational Behavior und Human Resource Management",
@@ -544,7 +1001,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-doktorand-in-m-w-d-im-bereich-organizational-behavior-und-human-resource-management-at-universit%C3%A4t-st-gallen-hsg-4490703825"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Sr Mgr, MSAT Strategy & Business Integr",
@@ -568,7 +1026,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sr-mgr-msat-strategy-business-integr-at-johnson-johnson-innovative-medicine-4482813765"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Spezialist:in im Program Management Office - befristet für 24 Monate",
@@ -592,7 +1051,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-im-program-management-office-befristet-f%C3%BCr-24-monate-at-axa-switzerland-4490703317"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Team Lead (m/f/d) Project Management, Operations & Supply Chain",
@@ -616,7 +1076,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/team-lead-m-f-d-project-management-operations-supply-chain-at-leica-geosystems-4488943423"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Projektleiter HLK / Gebäudetechnik (m/w/d)",
@@ -640,7 +1101,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-hlk-geb%C3%A4udetechnik-m-w-d-at-rocken%C2%AE-4489565665"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Senior Manager Prozessmanagement & Digitalisierung",
@@ -664,7 +1126,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-manager-prozessmanagement-digitalisierung-at-noventa-consulting-ag-4490725759"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Senior Manager Operations & Lean Production",
@@ -688,7 +1151,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-manager-operations-lean-production-at-noventa-consulting-ag-4490728684"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Kreditsachbearbeiter Baufinanzierung (m/w/d) in Teil- oder Vollzeit (50 - 100 %)",
@@ -712,7 +1176,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/kreditsachbearbeiter-baufinanzierung-m-w-d-in-teil-oder-vollzeit-50-100-%25-at-sparkasse-hegau-bodensee-4482856839"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Senior Manager Supply Chain Management",
@@ -736,7 +1201,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/senior-manager-supply-chain-management-at-noventa-consulting-ag-4490729582"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Wundmanager / Wundexperte (m/w/d)| Fachberater im Wundmanagement I Überlingen",
@@ -760,7 +1226,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/wundmanager-wundexperte-m-w-d-fachberater-im-wundmanagement-i-%C3%BCberlingen-at-rodday-family-gmbh-4456315078"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Kreditrevisor (m/w/d) - Sicherheit und Qualität im Kreditgeschäft",
@@ -784,7 +1251,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/kreditrevisor-m-w-d-sicherheit-und-qualit%C3%A4t-im-kreditgesch%C3%A4ft-at-volksbank-eg-%C3%BCberlingen-4479328929"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Betriebsbeauftragter (m/w/d) für Abfall",
@@ -808,7 +1276,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/betriebsbeauftragter-m-w-d-f%C3%BCr-abfall-at-diehl-defence-4489565229"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter (m/w/d) Entgeltabrechnung",
@@ -832,7 +1301,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-entgeltabrechnung-at-ameos-klinikum-sch%C3%B6nebeck-4488934065"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Spezialist / in Steuern (m/w/d)",
@@ -856,7 +1326,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/spezialist-in-steuern-m-w-d-at-jobsintown-de-gmbh-4489589507"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "HR Generalist (m/w/d)",
@@ -880,7 +1351,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/hr-generalist-m-w-d-at-glenair-4488930306"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Technischer Leiter / Werkstattleiter / Produktionsleiter",
@@ -906,7 +1378,8 @@
    "links": {
     "jobroom": "www.jobs.ch/de/stellenangebote/detail/68e1c0da-9eee-4726-9e99-9f8d804db06e/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "<em>HR</em> Business Partner 80-100% (m/w)",
@@ -932,7 +1405,8 @@
    "links": {
     "jobroom": "https://www.evergreen-hr.ch/stelle/16082012511427266570/?cache=9c780c757b780271b63199c2ba842e7f"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   },
   {
    "title": "Hauswart:in",
@@ -958,7 +1432,8 @@
    "links": {
     "jobroom": "www.jobs.ch/de/stellenangebote/detail/9f4ab848-9955-4c12-af6f-5dec279766ad/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
    },
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-14",
+   "carried_over": true
   }
  ]
 }
