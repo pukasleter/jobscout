@@ -1,19 +1,598 @@
 {
- "generated_at": "2026-11-15T07:58:50+00:00",
+ "generated_at": "2026-11-16T08:05:53+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 203,
+   "arbeitsagentur": 202,
    "google_jobs": "deaktiviert",
    "linkedin": 250,
    "jobroom": 29
   },
-  "excluded": 377,
-  "unique": 89,
-  "new": 18,
-  "carried_over": 39
+  "excluded": 367,
+  "unique": 94,
+  "new": 24,
+  "carried_over": 57
  },
  "errors": {},
  "jobs": [
+  {
+   "title": "Vorarbeiter für Zimmereibetrieb mit frei wählbarer Arbeitszeit (m/w/d)",
+   "company": "Holzvogt GmbH",
+   "location": "88263 Horgenzell",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004016427-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "**Dein Job, dein Rhythmus – arbeite flexibel und entspannt!**\nEgal, ob du in Vollzeit oder Teilzeit arbeiten möchtest, bei uns kannst du deine Arbeitszeiten an deine Lebenssituation anpassen.\nBist du ein erfahrener Zimmerergeselle\\* mit Führungserfahrung in Teams und Projekten? Oder möchtest du den nächsten Schritt machen und aus der zweiten Reihe in eine Führungsposition wechseln? Dann solltest du dir unser Angebot näher ansehen!\n**Willkommen bei der Firma holzvogt GmbH in Horgenzell! Mit dem patentierten Massivholzbausystem Thoma Holz100 setzen wir auf Nachhaltigkeit und Gesundheit. Bei uns arbeitest du täglich mit unbehandelten, natürlichen Materialien in einer sauberen und angenehmen Arbeitsumgebung.**\nAuf dich wartet ein bestens ausgebildetes und erfahrenes Team, in dem viele Kollegen ihre Karriere mit einer Ausbildung bei uns begonnen haben und seit Jahren fest dazugehören. Wir zahlen sehr gut, du kannst dich bei uns weiterentwickeln, und weil wir die Entgelttransparenzrichtlinie bereits heute umsetzen, können wir das sogar beweisen. Außerdem erwarten dich umfangreiche Zusatzleistungen wie eine betriebliche Krankenversicherung mit einem jährlichen Guthaben von 1.200 Euro. Wenn dir das wichtig ist, dann sollten wir uns unbedingt kennenlernen!\nDu erreichst mich Montag bis Donnerstag zwischen 7.00 Uhr und 16.30 Uhr (freitags bis 13.00 Uhr) unter der Nummer 0170 – 8120202.\nIch freue mich darauf, von dir zu hören!\nHerzliche Grüße\nRainer Vogt\nZimmerermeister\n### Dieses Bündel habe ich für dich geschnürt:\nBei uns erwartet dich ein attraktiver Lohn zwischen 4.200 und 4.900 Euro brutto (bei einer Vollzeitanstellung). Wenn du alle Termine einhalten kannst und dein Team weiterentwickelst, dann wirst du dich auf einen weiteren Leistungsbonus freuen können! Das anteilige Urlaubs- und Weihnachtsgeld gehört ebenfalls in dein umfangreiches Gehaltspaket.\n**Fair bezahlt, und du weißt genau, warum.** Wie sich dein Gehalt zusammensetzt, ist für dich nachvollziehbar, und die Maßstäbe gelten für alle gleich. Es richtet sich nach deiner fachlichen Kompetenz, deinem Wissen, deiner Erfahrung, deiner Ausbildung sowie deiner persönlichen und sozialen Kompetenz. So zählt, was du tatsächlich einbringst, und nicht allein dein Zeugnis. Weil wir die Entgelttransparenzrichtlinie der EU schon heute umsetzen, obwohl sie noch nicht in deutsches Recht überführt ist, können wir dir jederzeit belegen, dass es bei uns gerecht zugeht.\n**Weil uns deine Gesundheit am Herzen liegt,** bekommst du von uns eine kostenlose betriebliche Krankenversicherung (bKV) mit einem jährlichen Bonus von 1.200 Euro, damit du dir um Rezept- und Heilmittelkosten keine Sorgen mehr machen musst. Eine umfangreiche Zahnversicherung, ohne Budgetierung, gehört mit dazu. Deine Gesundheit ist unser höchstes Gut!\n**Bei den Arbeitszeiten sind wir flexibel unterwegs. Wenn** für dich eine klassische Vollzeitstelle nicht infrage kommt, dann können wir dir auch eine 3- oder 4-Tage-Woche anbieten. Es liegt ganz bei dir!\n**Jeder braucht mal eine Pause!** Für deine Erholung stehen dir bis zu 30 Tage Urlaub im Jahr zur freien Verfügung Du hast mal einen privaten Termin? Oder du brauchst mal spontan frei? Das ist bei uns kein Problem.\n**Weihnachtszeit ist bei uns Familienzeit!** Daher gehen wir ab dem 20.12. bis zum 06.01. in die verdiente und beliebte Auszeit.\n**Hast du Kinder im Kindergartenalter?** Dann unterstützen wir dich gerne mit einer anteiligen Kostenübernahme.\n**Der Drahtesel** ist für dich eine angenehme Abwechslung? Dann kommt für dich bestimmt unser E-Bike-Leasing infrage!\n**Zudem erhältst du umfangreiche Arbeitskleidung,** da du dich von Anfang an in deiner Haut wohlfühlen sollst, inklusive sicherem Schuhwerk.\n**Unsere Branche steht niemals still**, daher sind regelmäßige Schulungen und Werksbesichtigungen bei unserem Partner Thoma Holz100 ganz normal. Auch persönlichen Qualifizierungen stehe ich offen gegenüber. Sprich mich einfach an! Beim Erwerb der Erlaubnis zum Bedienen eines …",
+   "extra": {
+    "refnr": "10001-1004016427-S",
+    "query": "Recruiting Teilzeit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "8dcfa5fde204e6bd",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004016427-S"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Bahnsicherheit / Sicherheitsmitarbeiter (m/w/d) – Quereinsteiger willkommen!",
+   "company": "EDUVIA Bildungsakademie GmbH",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/bahnsicherheit-sicherheitsmitarbeiter-m-w-d-%E2%80%93-quereinsteiger-willkommen%21-at-eduvia-bildungsakademie-gmbh-4490272347",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "Bahnsicherheit / Sicherheitsmitarbeiter (m/w/d) – Quereinsteiger willkommen! Ihre Sicherheit - unsere Mission! 40 Stunden pro Woche • unbefristet • Frühester Beginn ab sofort 16,00 - 25,00 EUR pro Stunde Wir sind ein wachsendes Unternehmen im Sicherheitssektor und bieten unseren Kundinnen und Kunden professionelle Schutz- und Sicherheitsdienstleistungen auf höchstem Niveau. Zur Verstärkung unseres Teams suchen wir motivierte und zuverlässige Mitarbeiter im Raum Friedrichshafen. Deine Aufgaben Durchführung regelmäßiger Kontroll- und Sicherheitsrundgänge an Bahnhöfen, Bahnsteigen und in Zügen. Gewährleistung von Sicherheit und Ordnung im öffentlichen Bahnverkehr. Überwachung von Bahnsteigen, Zugangsbereichen und weiteren sicherheitsrelevanten Bereichen. Präsenz zeigen, um Konflikte, Vandalismus und andere Sicherheitsrisiken frühzeitig zu verhindern. Unterstützung und Information von Fahrgästen bei Fragen und besonderen Situationen. Erkennen und Melden verdächtiger Personen, Gegenstände oder ungewöhnlicher Vorkommnisse. Deeskalation von Konflikten und professioneller Umgang mit schwierigen Situationen. Einleitung geeigneter Maßnahmen bei Sicherheitsvorfällen und Gefahrensituationen. Zusammenarbeit mit Polizei, Bundespolizei und weiteren zuständigen Einsatzkräften. Dokumentation von Kontrollgängen, Sicherheitsvorfällen und besonderen Ereignissen. Unterstützung bei der Einhaltung von Sicherheitsvorschriften und Hausordnungen im Bahnbereich. Ihr Profil als Bahnsicherheit / Sicherheitsmitarbeiter (m/w/d) – Quereinsteiger willkommen! Sie handeln zuverlässig und verantwortungsbewusst und behalten auch in stressigen Situationen den Überblick. Sie treten freundlich, selbstbewusst und professionell gegenüber Fahrgästen und Mitarbeitenden auf. Sie verfügen über gute Deutschkenntnisse in Wort und Schrift. Sie sind aufmerksam, erkennen mögliche Gefahren frühzeitig und reagieren angemessen. Sie bringen Teamfähigkeit, Konfliktfähigkeit und Durchsetzungsvermögen mit. Sie sind bereit, im Schichtdienst sowie an Wochenenden und Feiertagen zu arbeiten. Sie sind körperlich belastbar und haben Freude an einer abwechslungsreichen Tätigkeit. Eine Sachkundeprüfung nach § 34a GewO ist von Vorteil bzw. je nach Einsatz erforderlich. Erste Erfahrungen im Sicherheitsdienst oder Bahnbereich sind willkommen, aber keine Voraussetzung für eine Bewerbung. Auch Quereinsteiger sind bei uns herzlich willkommen! Das ist uns wichtig Wir legen großen Wert auf herausragenden Kundenservice. Offenheit, Freundlichkeit und Geduld sind für uns essentielle Eigenschaften unserer Mitarbeiter. Der Umgang mit Menschen ist für uns eine Freude. Unsere Branche entwickelt sich schnell, weshalb wir eine Lernbereitschaft und die Fähigkeit zur Weiterentwicklung erwarten. So können wir gemeinsam die Herausforderungen der Zukunft meistern und unseren Kunden den besten Service bieten. In Friedrichshafen präsentieren wir Ihnen Einen sicheren Arbeitsplatz in einer wachsenden Branche. Eine abwechslungsreiche und verantwortungsvolle Tätigkeit im Bereich Bahnsicherheit. Eine strukturierte Einarbeitung – auch für Quereinsteiger. Pünktliche und tariforientierte Bezahlung. Zuschläge für Nacht-, Sonn- und Feiertagsarbeit nach den geltenden Regelungen. Ein freundliches und unterstützendes Team. Langfristige Beschäftigungsmöglichkeiten. Möglichkeiten zur beruflichen Weiterbildung und Qualifizierung. Entwicklungsperspektiven innerhalb der Sicherheitsbranche. So geht es weiter Bewerben Sie sich bitte direkt online als Bahnsicherheit / Sicherheitsmitarbeiter (m/w/d) – Quereinsteiger willkommen! in Friedrichshafen, indem Sie auf den Jetzt-auf-diese Stelle-bewerben-Button klicken. Nutzen Sie bei Fragen vorab die Kontaktdaten Ihres Ansprechpartners. Wir vereinbaren einen Telefontermin für ein kurzes Interview. Anschließend lernen wir uns persönlich kennen und besprechen alle Einzelheiten. Klingt das gut? Dann bewerben Sie sich jetzt als Bahnsicherheit / Sicherheitsmitarbeiter (m/w/d) – Quereinsteiger …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9c5c33e801cb63c1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/bahnsicherheit-sicherheitsmitarbeiter-m-w-d-%E2%80%93-quereinsteiger-willkommen%21-at-eduvia-bildungsakademie-gmbh-4490272347"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Maschinen- und Anlagenführer, Maschinenbediener (m/w/d) ab 19,- € / Std.",
+   "company": "TEMPTON Group",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/maschinen-und-anlagenf%C3%BChrer-maschinenbediener-m-w-d-ab-19-%E2%82%AC-std-at-tempton-group-4489395179",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "Maschinen- und Anlagenführer, Maschinenbediener (m/w/d) ab 19,- € / Std. Wir suchen ab sofort motivierte Unterstützung als Maschinen- und Anlagenführer, Maschinenbediener (m/w/d) ab 19,- € / Std. Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: Eigenständiges Einrichten und Bedienen diverser Montageautomaten, CNC-Maschinen und Anlagen unter Berücksichtigung terminlicher, wirtschaftlicher und qualitativer Vorgaben. Optimierung und Entwicklung laufender Produktionsprozesse sowie Neuteilen Überwachung und Dokumentation des Fertigungsprozesses , sowie eigenverantwortliches Sicherstellen der Produktqualität Selbstständige Maschinenüberwachung Ggf. Reparaturen & Wartungen der Produktionsmaschinen und Anlage Profil Das bringen Sie mit: Vorzugsweise erfolgreich abgeschlossene Berufsausbildung zum Industriemechaniker, Zerspanungs- o. Werkzeugmechaniker, Maschinen- und Anlagenführer oder vergleichbares (m/w/d) Berufserfahrung im Bereich einer Montageabteilung vorteilhaft Sorgfältige und gewissenhafte Arbeitsweise Hohes Maß an Selbstständigkeit und Eigeninitiative Handwerkliches Geschick Schichtbereitschaft (2-Schicht) Gute Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton 300 € Startprämie sowie 100 € für jeden neuen TEMPTON Mitarbeiter, welchen Sie uns empfehlen Unbefristeter Arbeitsvertrag Übertarifliche Bezahlung sowie 25% Nachtschichtzuschlag von 23 Uhr – 6 Uhr, 50% Sonntagszuschlag , 100% Feiertagszuschlag und 25% Überstundenzuschlag bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung eine spannende Tätigkeit in einem modernen Arbeitsumfeld Wertschätzung und ein angenehmes Arbeitsklima Attraktive Mitarbeiterrabatte bis zu 85% auf namhafte Produkte Volle Lohnauszahlung zum 15. Bankarbeitstages des Monats mit der Option auf feste Abschlagszahlungen zum 01. des Monats Auf Wunsch kostenfreie und regelmäßige Vorsorgeuntersuchungen Elektronische Zeiterfassung Sehr gute Chance auf Übernahme in den Kundenbetrieb Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. LNKD1_DE Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Referrals increase your chances of interviewing at TEMPTON Group by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "6f0b7124c8cf136f",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/maschinen-und-anlagenf%C3%BChrer-maschinenbediener-m-w-d-ab-19-%E2%82%AC-std-at-tempton-group-4489395179"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Produktionsmitarbeiter (m/w/d) Ablegeportal",
+   "company": "SpaceTech GmbH",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-ablegeportal-at-spacetech-gmbh-4489385288",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "Werden Sie Produktionsmitarbeiter für Ablegeportal in der Solar Array Factory bei SpaceTech! Aufgrund unseres stetig wachsenden Engagements im Bereich der Solarpaneele für Satelliten suchen wir Produktionsmitarbeiter zur Verstärkung unseres Teams. Ihre Aufgaben als Produktionsmitarbeiter bei SpaceTech Mitarbeit in hochpräzisen, teilautomatisierten Produktionslinien zur Fertigung von Solargeneratoren für Raumfahrtanwendungen Bedienung, Überwachung und Rüstung von halbautomatischen und automatischen Fertigungsanlagen Durchführung visueller und taktiler Kontrollen sowie Prüf- und Dokumentationsaufgaben Sicherstellung von Qualität, Sauberkeit und Prozessstabilität in einem sensiblen High-Tech-Umfeld Aktive Mitarbeit an kontinuierlichen Verbesserungen von Abläufen, Prozessen und Fertigungsstandards Ihr Profil als Produktionsmitarbeiter bei SpaceTech Abgeschlossene Berufsausbildung im technischen oder gewerblichen Bereich (z. B. Mechanik, Mechatronik) oder in einem naturwissenschaftlich-medizinischen Beruf (z. B. MTA, PTA) von Vorteil Idealerweise Berufserfahrung in der Bedienung von Produktionsanlagen (z. B. CNC-Maschinen, automatisierte Montage- und Prüf­anlagen, Roboter- oder Sondermaschinen) Selbstständige, strukturierte und sorgfältige Arbeitsweise Hohe Einsatzbereitschaft, Flexibilität und Belastbarkeit Ausgeprägtes Qualitätsbewusstsein sowie ein offener und konstruktiver Umgang mit Fehlern Freude an systematischer Arbeit im interdisziplinären Team Grundkenntnisse in Englisch Wir bieten Mitarbeit an innovativen Raumfahrtprojekten mit höchsten Qualitäts- und Zuverlässigkeitsanforderungen Einen modernen, sauberen und technologisch anspruchsvollen Arbeitsplatz Strukturierte Einarbeitung und langfristige Entwicklungsmöglichkeiten Zusammenarbeit in einem motivierten Team mit flachen Hierarchien Attraktive Zusatzleistungen wie Gewinnbeteiligung, betriebliche Altersvorsorge, kostenloses Mittagessen, Getränke, Wellpass und mehr… Show more Show less Seniority level Associate Employment type Full-time Industries Manufacturing Referrals increase your chances of interviewing at SpaceTech GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9549d1e2de2dbb38",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-ablegeportal-at-spacetech-gmbh-4489385288"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Frühstücksservice m/w/d",
+   "company": "Hotel Adler Immenstaad",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/fr%C3%BChst%C3%BCcksservice-m-w-d-at-hotel-adler-immenstaad-4489702155",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4c7983e322cfdb64",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/fr%C3%BChst%C3%BCcksservice-m-w-d-at-hotel-adler-immenstaad-4489702155"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Chef de Partie (m/w/d)",
+   "company": "Bora HotSpaResort",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/chef-de-partie-m-w-d-at-bora-hotsparesort-4489379790",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7735b7f4c3016aed",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/chef-de-partie-m-w-d-at-bora-hotsparesort-4489379790"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Senior CRM Product Manager with Focus on Braze & Native apps (m/w/d)",
+   "company": "wetter.com",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/senior-crm-product-manager-with-focus-on-braze-native-apps-m-w-d-at-wetter-com-4489374769",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "3b3c9ec601f05089",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/senior-crm-product-manager-with-focus-on-braze-native-apps-m-w-d-at-wetter-com-4489374769"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Steuerberater (m/w/d) in Radolfzell, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+   "company": "TaxTalente",
+   "location": "Radolfzell, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/steuerberater-m-w-d-in-radolfzell-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000%E2%82%AC-at-taxtalente-4489705919",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "7f174355dd42a166",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/steuerberater-m-w-d-in-radolfzell-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000%E2%82%AC-at-taxtalente-4489705919"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Mitarbeiter Druck & Scan (gn)",
+   "company": "SPS",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-druck-scan-gn-at-sps-4489706233",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cb70cbe284197f1e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-druck-scan-gn-at-sps-4489706233"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Personalreferent Arbeitsrecht (m/w/d) - Quereinsteiger willkommen",
+   "company": "MOD education",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/personalreferent-arbeitsrecht-m-w-d-quereinsteiger-willkommen-at-mod-education-4491229948",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9f484ac527ab6954",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/personalreferent-arbeitsrecht-m-w-d-quereinsteiger-willkommen-at-mod-education-4491229948"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Nachtwache / Sicherheitsmitarbeiter (m/w/d) – Quereinsteiger willkommen!",
+   "company": "EDUVIA Bildungsakademie GmbH",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/nachtwache-sicherheitsmitarbeiter-m-w-d-%E2%80%93-quereinsteiger-willkommen%21-at-eduvia-bildungsakademie-gmbh-4490261664",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "863783a8a92d3943",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/nachtwache-sicherheitsmitarbeiter-m-w-d-%E2%80%93-quereinsteiger-willkommen%21-at-eduvia-bildungsakademie-gmbh-4490261664"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Space Project Administrator (m/f/d) LISA Laser System",
+   "company": "SpaceTech GmbH",
+   "location": "Immenstaad am Bodensee, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/space-project-administrator-m-f-d-lisa-laser-system-at-spacetech-gmbh-4489392048",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c0dbe82fcf0b8e25",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/space-project-administrator-m-f-d-lisa-laser-system-at-spacetech-gmbh-4489392048"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Pravosodni policist, pooblaščena uradna oseba v Zavodu za prestajanje kazni zapora Ig, 2 delovni mesti",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/pravosodni-policist-poobla%C5%A1%C4%8Dena-uradna-oseba-v-zavodu-za-prestajanje-kazni-zapora-ig-2-delovni-mesti-at-vlada-republike-slovenije-4490241772",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Izbrana kandidata bosta delo na uradniškem delovnem mestu pravosodni policist opravljala v nazivu pravosodni policist III z možnostjo napredovanja v naziv pravosodni policist II in pravosodni policist I. Z izbranima kandidatoma bo sklenjena pogodba o zaposlitvi za delovno mesto pravosodni policist za nedoločen čas in s polnim delovnim časom. Izbrana kandidata bosta delo opravljala na sedežu Zavoda za prestajanje kazni zapora Ig, Na Grad 25, 1292 Ig, oziroma na celotnem območju delovanja zavoda, na terenu in v kraju, kjer bo delodajalec organiziral usposabljanje. Posebnosti delovnega mesta: pooblaščene uradne osebe, neenakomerni delovni čas (razpored), dodatno obvezno pokojninsko zavarovanje, stalnost, uniforma, IO sevanje. Osnovna plača na delovnem mestu pravosodni policist, v nazivu pravosodni policist III je 1.700,31 eur bruto (izhodiščni plačni razred delovnega mesta je 11) – izbrana kandidata bosta pridobila pravico do izplačila osnovne plače v vrednosti 11. plačnega razreda postopno, na način iz prvega odstavka 102. člena Zakona o skupnih temeljih sistema plač v javnem sektorju (Uradni list RS, št. 95/24). Izbrana kandidata bosta na delovnem mestu pravosodni policist lahko upravičena do različnih dodatkov, in sicer: dodatek za delovno dobo; dodatek za stalnost; dodatek za delo v posebnih pogojih; ostali dodatki (npr. del plače za delovno uspešnost). Izbrana kandidata bo Uprava Republike Slovenije za izvrševanje kazenskih sankcij dodatno pokojninsko zavarovala v skladu s predpisi, ki urejajo pokojninsko in invalidsko zavarovanje (več o poklicnem zavarovanju: Poklicno zavarovanje GOV.SI). Izbrana kandidata bosta imela kot pooblaščeni uradni osebi pravico do dodatnih 2 dni letnega dopusta. V Zavodu za prestajanje kazni zapora Ig nudimo brezplačno parkirišče. Zahteve za prijavo Kandidati, Ki Se Bodo Prijavili Na Prosto Uradniško Delovno Mesto, Morajo Poleg Splošnih Pogojev, Ki Jih Urejajo Predpisi s Področja Delovnega Prava, Izpolnjevati Še Naslednje Pogoje najmanj srednje tehniško in drugo strokovno izobraževanje/srednja strokovna izobrazba ali najmanj srednje splošno izobraževanje/srednja splošna izobrazba (V. raven izobrazbe); najmanj 6 mesecev delovnih izkušenj; znanje uradnega jezika (srednja raven aktivnega znanja slovenščine); opravljeno usposabljanje za imenovanje v naziv (če ga kandidat nima, ga lahko opravi v enem letu, od sklenitve delovnega razmerja, v skladu s 100. členom ZJU-1); opravljen in veljaven vozniški izpit B kategorije; državljanstvo Republike Slovenije s stalnim prebivališčem v Evropski uniji; ni pravnomočno obsojen zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti; ni pravnomočno obsojen zaradi drugega kaznivega dejanja na nepogojno kazen zapora v trajanju več kot tri mesece; zoper njega ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti; zoper njega ni izdana pravnomočna odločba o storjenem prekršku zoper javni red in mir z elementi nasilja oziroma pravnomočna odločba o storjenem prekršku v zvezi s proizvodnjo in prometom s prepovedanimi drogami ali pravnomočna odločba o storjenem prekršku v zvezi z orožjem; ni uveljavljal pravice do ugovora vesti vojaški dolžnosti; mu ni odvzeta poslovna sposobnost; pri kandidatu ne obstajajo drugi varnostni zadržki po ZIKS-1. Izbrana kandidata bosta mora la v osemnajstih mesecih po sprejemu v delovno razmerje uspešno opraviti predpisano usposabljanje in zahtevan strokovni izpit skladno z ZIKS-1. Kot delovne izkušnje se šteje delovna doba na delovnem mestu, za katero se zahteva ista raven izobrazbe, in čas pripravništva na isti ravni izobrazbe, ne glede na to, ali je bila pogodba o zaposlitvi sklenjena oziroma pripravništvo opravljeno pri istem ali pri drugem delodajalcu. Za delovne izkušnje se štejejo tudi delovne izkušnje, ki jih je oseba pridobila z opravljanjem del na delovnem mestu, za katero se zahteva za eno raven nižja izobrazba, razen pripravništva na takem …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "834236df61a41f58",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/pravosodni-policist-poobla%C5%A1%C4%8Dena-uradna-oseba-v-zavodu-za-prestajanje-kazni-zapora-ig-2-delovni-mesti-at-vlada-republike-slovenije-4490241772"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "HR-Bereichsverantwortliche (a) 80 – 100%",
+   "company": "Stiftung Kartause Ittingen",
+   "location": "Warth-Weiningen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/hr-bereichsverantwortliche-a-80-%E2%80%93-100%25-at-stiftung-kartause-ittingen-4489394351",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "Die Kartause Ittingen zählt zu den führenden Seminar- und Kulturzentren der Schweiz und bietet ein höchst vielseitiges und spannendes Umfeld mit Hotel-, Seminar- und Bankettbetrieb, Restaurants, Landwirtschaft, Weinbau, Käserei, Gärtnerei, Fischzucht, Metzgerei sowie einem Angebot für Betreutes Arbeiten und Wohnen. Sie beherbergt ausserdem das Kunstmuseum Thurgau und das Ittinger Museum. In diesem spannenden Umfeld sind rund 200 Mitarbeiterinnen und Mitarbeiter in ca. 50 verschiedenen Berufen mit den unterschiedlichsten Pensen beschäftigt. Weitere 60 betreute Mitarbeitende finden in geschützten Arbeitsplätzen eine Tagesstruktur. Zur Verstärkung unseres HR-Teams suchen wir per 1. März 2027 oder nach Vereinbarung eine HR-Bereichsverantwortliche (a) 80 – 100%. Zu dieser herausfordernden und abwechslungsreichen Position gehören folgende Aufgaben: Verantwortlich für einen zugeteilten Bereich innerhalb des Unternehmens Selbständige Personalrekrutierung in Zusammenarbeit mit der Linie Einholung von Bewilligung Selbständige Erledigung der gesamten Personaladministration von der Stellenausschreibung bis zur Zeugniserstellung Eigenständiges Führen der Lohnbuchhaltung für den zugeteilten Bereich inkl. Sozialversicherungswesen und Jahresabschluss Überwachen der Arbeitszeitplanung und -kontrollen Deklarationen und Meldungen der Sozialversicherungen inkl. Fallüberwachungen (Unfall, Krankheit und Pensionskasse/BVG) Ansprech- und Beratungsstelle für Mitarbeitende und Vorgesetzte in HR-Angelegenheiten und zu Arbeitsrecht Durchführung von verschiedenen Gesprächsarten in Zusammenarbeit mit der Linie Mitwirkung bei der Weiterentwicklung eines modernen HR Organisation von Weiterbildungsangeboten, Organisation und Durchführung von Events Das bringst du mit: Weiterbildung als HR-Fachfrau/mann mit eidg. FA Mindestens 5 Jahre HR Erfahrung, Erfahrung in der Lohnbuchhaltung von Vorteil Vertiefte ABACUS Kenntnisse sind Voraussetzung Englischkenntnisse von Vorteil Vertrauenswürdige Persönlichkeit Teamfähigkeit und hohe Belastbarkeit Flexibilität und Eigenverantwortung Das können wir dir bieten: Arbeiten an einem der schönsten Orte im Thurgau Möglichkeit für einen Tag Homeoffice in der Woche Verschiedene Teamevents und Betriebsfeiern Vergünstigungen bei unseren Hotel-Kooperationspartnern Beteiligung an Weiterbildungen Vielseitige Herausforderung in einem einmaligen, spannenden Umfeld Mitgestaltungs- und Weiterentwicklungsspielraum der HR-Abteilung Deine vollständigen Bewerbungsunterlagen inkl. deinem Wunschpensum und deinen Lohnvorstellungen kannst du einfach und sicher digital über das Bewerberformular unter Jobs und Karriere im Thurgau | Kartause Ittingen einreichen. Wir freuen uns auf dich und stehen dir für Fragen gerne zur Verfügung. Show more Show less Seniority level Entry level Employment type Part-time Industries Hospitality Referrals increase your chances of interviewing at Stiftung Kartause Ittingen by 2x See who you know",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "35341b194e218460",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/hr-bereichsverantwortliche-a-80-%E2%80%93-100%25-at-stiftung-kartause-ittingen-4489394351"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Gartenbauhelfer",
+   "company": "Top Temporär Lehner GmbH",
+   "location": "Roggwil, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/gartenbauhelfer-4491221856",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "Unternehmensbeschreibung Top Temporär Lehner GmbH ist ein Personaldienstleistungsunternehmen, das Fach- und Hilfskräfte für verschiedene Branchen vermittelt. Im Bereich Garten- und Landschaftspflege arbeitet das Unternehmen mit regionalen Betrieben zusammen und bietet saisonale sowie längerfristige Einsätze an. Bewerbende profitieren von einer persönlichen Betreuung, klaren Einsatzplänen und fairen Arbeitsbedingungen. Ziel ist es, motivierten Mitarbeitenden passende Einsätze zu vermitteln und ihnen langfristige Perspektiven zu eröffnen. Rollenbeschreibung Als Gartenbauhelfer:in unterstützen Sie vor Ort in Roggwil bei allen anfallenden Arbeiten im Garten- und Landschaftsbau. Zu Ihren täglichen Aufgaben gehören unter anderem die Pflege von Grünflächen, das Mähen, Schneiden und Bewässern von Pflanzen sowie einfache Pflanz- und Erdarbeiten. Sie helfen beim Anlegen und Instandhalten von Beeten, Wegen und kleinen Gartenanlagen und bedienen nach Einweisung einfache Gartengeräte und -maschinen. Die Stelle ist in Vollzeit ausgelegt, findet vollständig vor Ort statt und erfordert körperliche Belastbarkeit sowie sorgfältiges Arbeiten im Freien bei unterschiedlichen Witterungsbedingungen. Qualifikationen Erfahrung oder Interesse im Gartenbau, in der Grünpflege oder in handwerklichen Tätigkeiten; Freude an praktischer Arbeit im Freien. Zuverlässige und sorgfältige Arbeitsweise, Verantwortungsbewusstsein und Fähigkeit, einfache Anweisungen selbstständig umzusetzen. Körperliche Belastbarkeit, grundlegendes Sicherheitsbewusstsein im Umgang mit Werkzeugen und Maschinen sowie Bereitschaft zu gelegentlicher Mehrarbeit. Teamfähigkeit und respektvoller Umgang mit Kolleg:innen und Kund:innen; grundlegende Kommunikationsfähigkeit in Deutsch. Von Vorteil: Erste Berufserfahrung im Garten- oder Landschaftsbau, Führerschein der Klasse B und Bereitschaft, sich fachlich weiterzuentwickeln.",
+   "extra": {
+    "seniority": "Entry level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "9b210f0495d34626",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/gartenbauhelfer-4491221856"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Projektleiter Holzbau (m/w/d)",
+   "company": "Rocken®",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/projektleiter-holzbau-m-w-d-at-rocken%C2%AE-4490224825",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF110'000 - 115'000 Ein etabliertes Unternehmen ist im Holzbau tätig. Als erfahrener Rekrutierungspartner in dieser Branche kennen wir die spannendsten Arbeitgeber. Wenn du mehr über das Unternehmen und die Stelle erfahren möchtest, dann bewirb dich jetzt auf die Stelle. Rolle Im Kundenauftrag suchen wir eine qualifizierte Fachperson für die Projektleitung anspruchsvoller Holzbauprojekte von der technischen Planung bis zur erfolgreichen Realisierung. Sie übernehmen die Gesamtverantwortung für die Abwicklung vielseitiger Holzbauvorhaben und stellen die Einhaltung der vereinbarten Kosten-, Termin- und Qualitätsziele sicher. Im Mittelpunkt stehen die Koordination interner und externer Projektbeteiligter, die technische und wirtschaftliche Steuerung der Holzbauausführung sowie die frühzeitige Erkennung und Bearbeitung projektspezifischer Risiken. Die Position verbindet fundiertes Holzbauwissen mit eigenverantwortlichem Projektmanagement, konstruktiver Planung und der fachlichen Begleitung moderner Holzbauprojekte. Verantwortung Gesamtprojektleitung Holzbau: Eigenverantwortliche Führung und Abwicklung anspruchsvoller Holzbauprojekte von der Planung über die technische Vorbereitung bis zur Fertigstellung Technische Holzbauplanung: Koordination und Begleitung der konstruktiven und technischen Projektbearbeitung unter Berücksichtigung der Anforderungen moderner Holzbaukonstruktionen Projektorganisation und Ablaufsteuerung: Strukturierung der Projektabläufe sowie Planung und Koordination der erforderlichen Arbeitsschritte innerhalb der Holzbauprojekte Kostenplanung und Projektcontrolling: Überwachung der Projektbudgets, Kontrolle der Kostenentwicklung und Sicherstellung einer wirtschaftlichen Projektabwicklung Terminmanagement und Bauablaufplanung: Erstellung und Überwachung von Projektterminplänen sowie Abstimmung der Planungs-, Produktions- und Montagephasen Qualitätssicherung im Holzbau: Kontrolle der technischen Projektbearbeitung und Ausführung hinsichtlich vereinbarter Qualitätsstandards, konstruktiver Vorgaben und projektspezifischer Anforderungen Koordination interner Fachbereiche: Abstimmung zwischen Projektplanung, technischer Arbeitsvorbereitung, Produktion und Montage zur Sicherstellung reibungsloser Projektabläufe Externe Projektkoordination: Zusammenarbeit mit Bauherrschaften, Architekt, Bauingenieur, Fachplanenden und ausführenden Unternehmen Schnittstellenmanagement: Klärung und Koordination technischer und organisatorischer Schnittstellen zwischen Holzbau, angrenzenden Gewerken und weiteren Projektbeteiligten Risikomanagement und Projektoptimierung: Frühzeitige Identifikation technischer, wirtschaftlicher und terminlicher Projektrisiken sowie Entwicklung geeigneter Massnahmen und Lösungsvarianten Baubegleitung und Montagekoordination: Fachliche Unterstützung und Überwachung der Holzbauausführung sowie Abstimmung von Montageabläufen und baustellenbezogenen Anforderungen Projektkommunikation und Dokumentation: Vertretung der Interessen des Holzbaus gegenüber internen und externen Anspruchsgruppen sowie Erstellung und Pflege relevanter Projektunterlagen und Entscheidungsgrundlagen Qualifikationen Abgeschlossene Grundausbildung im Holzbau, Bauwesen oder einer vergleichbaren technischen Fachrichtung, beispielsweise als Zimmermann/Zimmerin EFZ oder mit einer gleichwertigen bautechnischen Qualifikation Abgeschlossene oder gleichwertige Weiterbildung auf Stufe HF/FH, beispielsweise als Holzbau-Techniker HF, Holzbauingenieur FH oder in einer verwandten bautechnischen Fachrichtung Praktische Berufserfahrung im Holzbau oder in der Abwicklung von Bauprojekten, idealerweise ergänzt durch erste Erfahrung in der eigenständigen Projektleitung Fundierte Kenntnisse in Holzbaukonstruktionen, technischen Planungsprozessen und der baulichen Umsetzung von Holzbauprojekten, einschliesslich der Schnittstellen zu angrenzenden Gewerken Kenntnisse im Kosten-, Termin- und Qualitätsmanagement von Bauprojekten sowie Verständnis für …",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "809a37dcf462c2cc",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/projektleiter-holzbau-m-w-d-at-rocken%C2%AE-4490224825"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Kriminalistični inšpektor specialist – forenzični izvedenec v Generalni policijski upravi, Nacionalnem forenzičnem laboratoriju, Oddelku za fizikalne preiskave",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/kriminalisti%C4%8Dni-in%C5%A1pektor-specialist-%E2%80%93-forenzi%C4%8Dni-izvedenec-v-generalni-policijski-upravi-nacionalnem-forenzi%C4%8Dnem-laboratoriju-oddelku-za-fizikalne-preiskave-at-vlada-republike-slovenije-4490243725",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "Opis delovnega mesta Izbrani kandidat bo delo na delovnem mestu kriminalistični inšpektor specialist – forenzični izvedenec opravljal v nazivu kriminalistični inšpektor specialist III, z možnostjo napredovanja v naziv kriminalistični inšpektor specialist II in kriminalistični inšpektor specialist I. Izhodiščni plačni razred delovnega mesta je 18. plačni razred, ki na dan objave znaša 1.955,46 € bruto mesečno in bo od 1. 7. 2027 znašal 2.091,16 € bruto mesečno, pri čemer kandidat pridobi pravico do izplačila osnovne plače v vrednosti tega plačnega razreda postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju (Uradni list RS, št. 95/24 in 12/26 – ZPPJUFT). Z izbranim kandidatom bo sklenjeno delovno razmerje za nedoločen čas s polnim delovnim časom in trimesečnim poskusnim delom. Delo pa bo opravljal v prostorih Nacionalnega forenzičnega laboratorija, Vodovodna 95, Ljubljana, oziroma v drugih uradnih prostorih organa. Posebnosti delovnega mesta: neenakomerni delovni čas (razpored), pooblaščena uradna oseba, dodatno obvezno pokojninsko zavarovanje, stalnost, izpostavljenost dodatnim tveganjem, ki vplivajo na notranjo varnost v policiji. Zahteve za prijavo najmanj visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja), najmanj visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) ali najmanj visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), najmanj 7 mesecev delovnih izkušenj, dovoljenje za dostop do tajnih podatkov stopnje »zaupno« (kandidat ga lahko pridobi v okviru izbirnega postopka), opravljeno obvezno usposabljanje za imenovanje v naziv (če ga izbrani kandidat nima, ga mora opraviti v zakonsko določenem roku), opravljen izpit za izvajanje policijskih pooblastil (če izbrani kandidat izpita še ni opravil, ga mora opraviti v zakonsko določenem roku), znanje uradnega jezika, ne sme biti pravnomočno obsojen zaradi naklepnega kaznivega dejanja, za katero se storilec preganja po uradni dolžnosti in ne sme biti pravnomočno obsojen zaradi drugega kaznivega dejanja na nepogojno kazen zapora v trajanju več kot tri mesece, zoper njega ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, za katero se storilec preganja po uradni dolžnosti, državljanstvo Republike Slovenije s stalnim prebivališčem v Evropski uniji, da nima dvojnega državljanstva, da ni član politične stranke in o tem poda pisno izjavo, da ima veljavno vozniško dovoljenje kategorije B, da je bil varnostno preverjen v obsegu in na način, kot je določen v Zakonu o organiziranosti in delu v Policiji, in da zanj ne obstaja varnostni zadržek (navedeno se izvede v okviru izbirnega postopka). Delovne naloge sodelovanje pri ogledih, hišnih preiskavah in pripravljanje poročil o preiskavi ter izvedenskih mnenj, sodelovanje pri pripravi normativnih aktov in razvojnih projektov, sodelovanje pri izvajanju programov izpopolnjevanja, usposabljanja in izobraževanja, opravljanje zahtevnih forenzičnih preiskav, izvajanje policijskih pooblastil, sodelovanje pri pripravljanju dokaznega gradiva za sestavljanje kazenskih ovadb, vzpostavitev in vzdrževanje sistema vodenja kakovosti v oddelku, razvoj, validacija in implementacija forenzičnih metod, sodelovanje v kriminalističnih akcijah in drugih operativnih obdelavah, sodelovanje pri izvajanju preventivnih akcij, sodelovanje pri načrtovanju in izvedbi kriminalističnih akcij in drugih operativnih nalog pri obravnavi najtežjih kaznivih dejanj, izvajanje nadzora, opravljanje drugih nalog s svojega delovnega področja, ki jih naroči nadrejeni, izvajanje nalog v skladu s 4. členom Zakona o nalogah in pooblastilih Policije. Prednosti pri izbiri Prednost pri izbiri bodo imeli kandidati z izobrazbo s področja elektrotehnike. Postopek prijave Kandidati pošljejo prijavo preko spletne strani …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "3aaf865218d0ee10",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kriminalisti%C4%8Dni-in%C5%A1pektor-specialist-%E2%80%93-forenzi%C4%8Dni-izvedenec-v-generalni-policijski-upravi-nacionalnem-forenzi%C4%8Dnem-laboratoriju-oddelku-za-fizikalne-preiskave-at-vlada-republike-slovenije-4490243725"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Payroll Specialist (m/w/d)",
+   "company": "Rocken®",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/payroll-specialist-m-w-d-at-rocken%C2%AE-4490245684",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF95'000 - 105'000 Unser Auftraggeber ist im Handel mit Werkzeugen, Stahlprodukten und Sicherheitstechnik tätig. Wir vermitteln gezielt Fachkräfte in diesem Tätigkeitsfeld und öffnen dir die passenden Türen. Wenn du mehr über das Unternehmen und die Stelle erfahren möchtest, dann bewirb dich jetzt auf die Stelle. Verantwortung Du führst die Lohnläufe eigenständig durch und sorgst dafür, dass sämtliche Mutationen im Abacus korrekt und termingerecht verarbeitet werden. Du kümmerst dich um die Quellensteuer inklusive monatlicher Abrechnungen und wirkst bei den Payroll-Abschlussarbeiten zum Monats- und Jahresende mit. Du verantwortest die Erstellung von Lohnstatistiken, Auswertungen und Reportings, bereitest Daten für das Personalkostenbudget auf und unterstützt bei der monatlichen Spesenverarbeitung. Du beantwortest Fragen zu Lohn- und Sozialversicherungsthemen, behältst die Gültigkeit von Arbeits- und Aufenthaltsbewilligungen im Blick und achtest auf korrekte Daten sowie die Einhaltung aller relevanten Vorschriften. Du pflegst die Zusammenarbeit mit HR, Finanzbuchhaltung und externen Stellen, übernimmst bei Bedarf administrative HR-Aufgaben wie Ein- und Austritte oder Vertragsänderungen und bringst Ideen zur Weiterentwicklung und Digitalisierung der Abläufe ein. Qualifikationen Du verfügst über eine kaufmännische Ausbildung und eine HR-Weiterbildung mit eidgenössischem Fachausweis oder eine gleichwertige Ausbildung im Bereich Payroll oder Sozialversicherungen. Du hast fundierte, mehrjährige Praxiserfahrung in der eigenständigen Durchführung sämtlicher Schweizer Lohnprozesse, einschliesslich Jahresabschluss. Du kennst dich bestens mit den schweizerischen Sozialversicherungen und der Quellensteuer aus. Du zeichnest dich durch eine zuverlässige, sorgfältige und strukturierte Arbeitsweise aus, behandelst vertrauliche Informationen mit höchster Diskretion und arbeitest gerne im Team. Sehr gute Deutschkenntnisse sind erforderlich. Benefits Flexible Arbeitszeitgestaltung Homeoffice Coaching und Mentoring Gute Verkehrsanbindung und Erreichbarkeit Attraktive Weiterbildungs- und Entwicklungsmöglichkeiten Offene Unternehmenskultur Interessante und abwechslungsreiche Tätigkeiten/Projekte Eingespieltes und dynamisches Team Flache Hierarchien ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Human Resources Services Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "b0551aba27d40cf1",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/payroll-specialist-m-w-d-at-rocken%C2%AE-4490245684"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "CHAUFFEUR POIDS LOURDS C/E (H/F)",
+   "company": "EMIL EGGER AG",
+   "location": "Winkeln, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/chauffeur-poids-lourds-c-e-h-f-at-emil-egger-ag-4489397417",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "30aba75fa8c966fd",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/chauffeur-poids-lourds-c-e-h-f-at-emil-egger-ag-4489397417"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Stellvertretende Studioleitung",
+   "company": "clever fit Schweiz",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/stellvertretende-studioleitung-at-clever-fit-schweiz-4489375759",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "695802b5b4bfc6ff",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/stellvertretende-studioleitung-at-clever-fit-schweiz-4489375759"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Strategic Sourcing Manager - Electronics",
+   "company": "VAT GROUP",
+   "location": "St Gallen, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/strategic-sourcing-manager-electronics-at-vat-group-4444463026",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8855681980b6b9d0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/strategic-sourcing-manager-electronics-at-vat-group-4444463026"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Leitung Medizinischer Praxisbetrieb (Praxiskoordinator:in ) (a) 80-100%",
+   "company": "Medbase Gruppe",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leitung-medizinischer-praxisbetrieb-praxiskoordinator-in-a-80-100%25-at-medbase-gruppe-4489458896",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5c2ded19b902a1e7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leitung-medizinischer-praxisbetrieb-praxiskoordinator-in-a-80-100%25-at-medbase-gruppe-4489458896"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Zolldeklarant",
+   "company": "BorderWerk GmbH",
+   "location": "Thayngen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/zolldeklarant-at-borderwerk-gmbh-4491288648",
+   "posted": "2026-11-16",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d9ab034ae04875e0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/zolldeklarant-at-borderwerk-gmbh-4491288648"
+   },
+   "first_seen": "2026-11-16"
+  },
+  {
+   "title": "Projektleiter/in Städtebau / Freiraum 60%",
+   "company": "Personaldienste der Stadt St.Gallen",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "https://swiss-architects.com/de/stellenanzeigen/projektleiterin-st%C3%A4dtebau-freiraum-60",
+   "posted": "2026-11-15",
+   "salary": null,
+   "via": null,
+   "description": "Dabei koordinieren Sie Projekte für eine nachhaltige <em>Stadtentwicklung</em> und begleiten Machbarkeitsstudien sowie Varianzverfahren zur Schaffung von qualitativ hochwertigem Wohnraum.",
+   "extra": {
+    "canton": "SG",
+    "query": "Stadtentwicklung",
+    "workload": "60-60 %",
+    "permanent": true,
+    "jobroom_id": "39b90ac0-350e-4eef-a0e6-750dff586c45"
+   },
+   "id": "157654bef3816602",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://swiss-architects.com/de/stellenanzeigen/projektleiterin-st%C3%A4dtebau-freiraum-60"
+   },
+   "first_seen": "2026-11-16"
+  },
   {
    "title": "WEG-Verwalter / Property Manager (m/w/d)",
    "company": "Immobetriebe Bodensee",
@@ -36,7 +615,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/weg-verwalter-property-manager-m-w-d-at-immobetriebe-bodensee-4489349872"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Technical Product Owner (m/w/d) - Konstanz, Berlin oder remote gesucht",
@@ -60,7 +640,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/technical-product-owner-m-w-d-konstanz-berlin-oder-remote-gesucht-at-seitenbau-gmbh-4489357354"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Wir suchen: Technical Product Owner (m/w/d) - Konstanz, Berlin oder remote",
@@ -84,7 +665,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/wir-suchen-technical-product-owner-m-w-d-konstanz-berlin-oder-remote-at-seitenbau-gmbh-4489359214"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Projektmanager Instandhaltung und Sanierung (m/w/d)",
@@ -108,7 +690,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-instandhaltung-und-sanierung-m-w-d-at-immobetriebe-bodensee-4489359391"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Senior Talent Acquisition Specialist (m/f/d)",
@@ -132,7 +715,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/senior-talent-acquisition-specialist-m-f-d-at-circor-international-inc-4483178310"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "AIT Production Controls Specialist",
@@ -156,7 +740,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/ait-production-controls-specialist-at-expleo-group-4419127202"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Projektmanager:in Bereich Funk-, Intercom- und Videosysteme für Singen und Freiburg",
@@ -180,7 +765,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/projektmanager-in-bereich-funk-intercom-und-videosysteme-f%C3%BCr-singen-und-freiburg-at-meder-commtech-4489325601"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter:in im Risikomanagement (w/m/d)",
@@ -204,7 +790,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-im-risikomanagement-w-m-d-at-raiffeisenlandesbank-nieder%C3%B6sterreich-wien-ag-4456741924"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Leiter/in Hausdienst und Mesmer-Team",
@@ -228,7 +815,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-hausdienst-und-mesmer-team-4491085785"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Vermietungsspezialist Immobilien (m/w/d), St. Gallen, 100% (St. Gallen, St. Gallen, CH, 9000)",
@@ -252,7 +840,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/vermietungsspezialist-immobilien-m-w-d-st-gallen-100%25-st-gallen-st-gallen-ch-9000-at-wincasa-4472884452"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Payroll Spezialist 100% (m/w/d)",
@@ -276,7 +865,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/payroll-spezialist-100%25-m-w-d-at-rocken%C2%AE-4490200465"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Fachberater*in Baufarben und Putze / Winterthur | Teile Stadt Zürich",
@@ -300,7 +890,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachberater-in-baufarben-und-putze-winterthur-teile-stadt-z%C3%BCrich-at-karl-bubenhofer-ag-4489344722"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Combustion Engine Specialist (m/f/d) 100%",
@@ -324,7 +915,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/combustion-engine-specialist-m-f-d-100%25-at-wingd-ltd-4491071669"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Project Office Manager (m/w/d) 80-100%",
@@ -348,7 +940,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/project-office-manager-m-w-d-80-100%25-at-bexio-ag-4489367071"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Team Lead Customer Success (m/w/d) 100% - Focus Expansion & Growth",
@@ -372,7 +965,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/team-lead-customer-success-m-w-d-100%25-focus-expansion-growth-at-bexio-ag-4489352715"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Fachfrau Finanz- und Rechnungswesen (m/w/d)",
@@ -396,7 +990,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/fachfrau-finanz-und-rechnungswesen-m-w-d-at-rocken%C2%AE-4489887935"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Technische:r Leiter:in Inbetriebsetzung Modernisierung &amp; Reparatur 80-100%",
@@ -422,7 +1017,8 @@
    "links": {
     "jobroom": "https://jobs.stadlerrail.ch/offene-stellen/inbetriebsetzung-service/technische-r-leiter-in-inbetriebsetzung-modernisierung-reparatur/91fbf6eb-b576-452b-8d86-048c390ab851"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Fachspezialist/-in Lohn & Personaladministration (60-80%)",
@@ -448,7 +1044,8 @@
    "links": {
     "jobroom": "https://www.jobscout24.ch/de/job/f3b421e3-8a4d-4043-8090-a634fcc02cd1/?utm_source=job-room.ch&utm_medium=affiliate&utm_campaign=wb:jobscout24|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
    },
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "carried_over": true
   },
   {
    "title": "Theaterpädagog*in & Mitarbeiter*in Junges Theater Konstanz (w/m/d)",
