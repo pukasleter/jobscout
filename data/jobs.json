@@ -1,218 +1,213 @@
 {
- "generated_at": "2026-11-17T09:21:17+00:00",
+ "generated_at": "2026-11-18T08:41:04+00:00",
  "stats": {
   "raw_per_source": {
    "arbeitsagentur": 205,
    "google_jobs": "deaktiviert",
-   "linkedin": 113,
-   "jobroom": 28
+   "linkedin": 71,
+   "jobroom": 30
   },
-  "excluded": 260,
-  "unique": 70,
+  "excluded": 223,
+  "unique": 69,
   "new": 8,
   "carried_over": 0
  },
  "errors": {},
  "jobs": [
   {
-   "title": "Mitarbeiter (m/w/d) im hauswirtschaftlichen Bereich - Jobbird.com",
-   "company": "Jobster",
-   "location": "Constance, Baden-Württemberg, Germany",
+   "title": "Sachbearbeiter (w/m/d)  im Kaufmännischen  Gebäudemanagement",
+   "company": "Vermögen und Bau BW Amt Ravensburg",
+   "location": "88214 Ravensburg, Württemberg",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-im-hauswirtschaftlichen-bereich-jobbird-com-at-jobster-4490636416",
-   "posted": "2026-11-16",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004029851-S",
+   "posted": null,
    "salary": null,
    "via": null,
-   "description": "Sie interessieren sich für eine hauswirtschaftliche Tätigkeit und haben Spaß an der Arbeit mit hilfebedürftigen Menschen? Sie möchten Teil (50%-70%) einer modernen Hilfsorganisation mit vielfältigen Aufgabenschwerpunkten werden? Dann suchen wir Sie in Teilzeit für unseren ambulanten Pflegedienst in Konstanz . Ihre Aufgaben: Hauswirtschaftliche Versorgung unserer Kunden in deren häuslicher Umgebung Reinigung des allgemein üblichen Lebensbereiches Durchführung aller Tätigkeiten unter den Hygienegrundregeln Das bieten wir: Eine umfangreiche Einarbeitung in Ihre Aufgaben Eine leistungsgerechte Vergütung nach AVR Caritas inklusive arbeitgeberfinanzierte Altersvorsorge Ein Beschäftigungsverhältnis in Teilzeit Eine vielseitige und verantwortungsvolle Tätigkeit Ein Arbeiten in häuslicher Atmosphäre Individuelle Fort- und Weiterbildungsmöglichkeiten Vergünstigungen über das Malteser Vorteilsportal Was wir uns vorstellen: Erfahrung in hauswirtschaftlichen Tätigkeiten Freude an der Arbeit mit alten und hilfebedürftigen Menschen Aufgeschlossenheit, Zuverlässigkeit und Freundlichkeit PKW-Führerschein Klasse B Haben wir Ihr Interesse geweckt? Senden Sie uns Ihre Bewerbung über das Online-Formular! #Jobster Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Jobster by 2x See who you know",
+   "description": "Ob Landtag, Schlösser, Universitäten, Finanzämter oder Klöster: Wir schaffen die Voraussetzungen für klima-neutrale Landesgebäude. Lust auf einen sicheren Arbeitsplatz in unserem interdisziplinären Team im Amt Ravensburg?\n### Ihre Aufgaben:\n- Mitarbeit in der Bewirtschaftung unserer Liegenschaften\n- Leistungs- und Rechnungsprüfung\n- Kontierung und Buchung von Rechnungen in SAP\nEine Änderung des Aufgabenzuschnitts bleibt vorbehalten.\n### Ihr Profil:\n- Erfolgreich abgeschlossene kaufmännische Berufsausbildung oder vergleichbar\n- Fachkenntnisse, wirtschaftliches Denken und Verantwortungsbewusstsein\n- Selbstständige, zielorientierte und strukturierte Arbeitsweise\n- Kommunikations- und Teamfähigkeit\n- SAP-Kenntnisse sind von Vorteil\n### Unser Angebot:\n- Fundierte und schrittweise Einarbeitung in das Aufgabengebiet\n- Eine zukunftssichere, vielfältige und interessante Tätigkeit, die dem Gemeinwohl dient\n- Selbstständiges und eigenverantwortliches Arbeiten\n- Familienfreundliche und flexible Arbeitszeitmodelle\n- Die Möglichkeit, im Homeoffice zu arbeiten\n- Heiligabend und Silvester dienstfrei, 30 Tage Urlaub pro Jahr bei einer 5-Tage-Woche\n- Jährliche Sonderzahlung sowie eine Zusatzversorgung als Betriebsrente\n- Ein umfassendes Fortbildungsangebot\n- Nachhaltige Mobilität mit dem JobTicket BW (z.B. Deutschlandticket) und JobBike BW\n### Kontakt:\nFragen zum Bewerbungsprozess\nFrau Beck (Personalreferat)\nTel.: 0751/18970-222\nFachliche Fragen\nHerr Clauß (Leiter Abteilung Gebäudemanagement)\nTel.: 0751/18970-250\n### Ihre Bewerbung:\nIhre aussagekräftige Bewerbung senden Sie bitte bis zum 06.12.2026 an das Amt Ravensburg, Personalreferat, Minneggstraße 1 in 88214 Ravensburg bzw. per E-Mail mit PDF-Datei an [Bewerbung.AmtRV@vbv.bwl.de](https://mailto:Bewerbung.AmtRV@vbv.bwl.de)\nWir freuen uns auf Ihre Bewerbung.\n### Wichtige Informationen:\nEs handelt sich um eine Vollzeitstelle, die grundsätzlich teilbar ist.\nIm Interesse der beruflichen Gleichstellung sind Bewerbungen von Frauen besonders erwünscht.\nBewerbungen von schwerbehinderten Menschen werden ausdrücklich begrüßt. Sie werden bei entsprechender Eignung bevorzugt berücksichtigt.\n[Datenschutzhinweise](https://www.vermoegenundbau-bw.de/datenschutz)\n**Weitere Stellenangebote und Informationen gibt’s auf unserem Karriereportal unter www.vermoegenundbau-bw.de/karriere/stellenangebote**",
    "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
+    "refnr": "10001-1004029851-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
    },
-   "id": "5e01fba05185f96b",
+   "id": "b73a3c2064aeab3b",
    "sources": [
-    "linkedin"
+    "arbeitsagentur"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-m-w-d-im-hauswirtschaftlichen-bereich-jobbird-com-at-jobster-4490636416"
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004029851-S"
    },
-   "first_seen": "2026-11-17"
+   "first_seen": "2026-11-18"
   },
   {
-   "title": "SVETOVALEC v Oddelku za upravno notranje zadeve",
-   "company": "Vlada Republike Slovenije",
-   "location": "Münsterlingen, Thurgau, Switzerland",
+   "title": "Mitarbeiter*in für Verwaltungs-EDV und Digitalisierung (w/m/d) in Vollzeit",
+   "company": "Hochschule Ravensb.-Weingarten Land BW",
+   "location": "88250 Weingarten, Württemberg",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004028692-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Die RWU ist eine Hochschule für Angewandte Wissenschaften in einer der schönsten und wirtschaftsstärksten Regionen Europas. Im Zentrum unserer Arbeit stehen die Studierenden. Praxisnah und partnerschaftlich geben wir ihnen das Handwerkszeug, ihren beruflichen Weg selbständig zu gehen. Dabei verbinden wir Lehre mit angewandter Forschung und arbeiten an den gesellschaftlichen Herausforderungen unserer Zeit, regional verankert und weltweit vernetzt!\nDie Hochschule Ravensburg-Weingarten (RWU) entwickelt ihre Verwaltungsprozesse und die dafür eingesetzten digitalen Anwendungen weiter. Für diese Aufgabe suchen wir zum 01.01.2027 im\n**Qualitätsmanagement eine\\*n:**\n# Mitarbeiter\\*in für Verwaltungs-EDV und Digitalisierung (w/m/d) in Vollzeit\n**Bewerbungsfrist: 06.12.2026**\nStellen-Nr: 27/2026\nEingruppierung: bis E 11 TV-L (Tarifvertrag der Länder)\nDie Einstellung erfolgt unbefristet. Die Entgeltzahlung erfolgt nach dem Tarifvertrag der Länder (TV-L) bei Vorliegen der persönlichen Voraussetzungen bis Entgeltgruppe 11.\n## Ihr Aufgabenbereich umfasst insbesondere folgende Tätigkeiten:\n- Sie betreuen und entwickeln die IT-Anwendungen und Fachverfahren der Hochschulverwaltung weiter. Dazu gehören bspw. Systeme für Bürokommunikation, Dokumentenmanagement, Zeiterfassung sowie für die Verwaltung von Räumen und Infrastruktur\n- Sie nehmen Anforderungen aus den Verwaltungsbereichen auf, erarbeiten gemeinsam mit den Beteiligten geeignete Lösungen und begleiten deren Umsetzung\n- Sie wirken an der Umsetzung der Digitalisierungsstrategie der RWU mit und übernehmen Aufgaben in Projekten zur Digitalisierung und Verbesserung von Verwaltungsprozessen\n- Sie koordinieren die Zusammenarbeit zwischen den Verwaltungsbereichen, der zentralen IT sowie externen Dienstleistern und Anbietern\n- Sie begleiten die Einführung neuer Anwendungen und Funktionen, führen Tests durch, erstellen Dokumentationen und unterstützen die Anwenderinnen und Anwender\n- Sie begleiten die Umsetzung der Registermodernisierung an der RWU. Gemeinsam mit den zuständigen Abteilungen und der IT klären Sie Anforderungen an Datenbestände, Fachverfahren und Schnittstellen und koordinieren die erforderlichen Anpassungen\n## Ihr Profil:\n- Sie verfügen über ein abgeschlossenes Hochschulstudium, bspw. in Verwaltungsinformatik, Wirtschaftsinformatik, Informatik oder einem vergleichbaren Fachgebiet, oder über eine gleichwertige Qualifikation\n- Sie haben Erfahrung in der Betreuung oder Einführung von IT-Anwendungen und ein gutes Verständnis für Verwaltungsabläufe\n- Sie können fachliche Anforderungen strukturieren und verständlich zwischen Anwenderinnen und Anwendern, Verwaltung und IT vermitteln\n- Sie arbeiten eigenständig, sorgfältig und lösungsorientiert und bringen Vorhaben gemeinsam mit anderen Beteiligten voran\n- Kenntnisse von Hochschulverwaltungen, Fachverfahren des öffentlichen Dienstes oder digitalem Prozessmanagement sind von Vorteil\nDie RWU ist als familiengerechte Hochschule zertifiziert und fördert die Gleichstellung aller Geschlechter, bietet Ihnen flexible und familiengerechte Arbeitsbedingungen, zahlreiche Angebote zum Betrieblichen Gesundheitsmanagement, ein vergünstigtes Job Ticket, die Sozialleistungen des öffentlichen Dienstes wie z. B. betriebliche Altersvorsorge, und vieles mehr. Bei entsprechender Eignung werden schwerbehinderte Menschen bevorzugt berücksichtigt (bitte Nachweis beifügen).\n**Inhaltliche Fragen beantwortet Ihnen gerne:**\nHenning Rudewig, Tel. 0751/501-9543, E-Mail: [henning.rudewig@rwu.de](https://mailto:henning.rudewig@rwu.de)\nWir freuen uns auf Ihre Bewerbung mit aussagekräftigen Unterlagen über unser Online-Bewerbungsportal bis spätestens **06.12.2026**.",
+   "extra": {
+    "refnr": "10001-1004028692-S",
+    "query": "Gleichstellung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "b3ea91e7daa0ea53",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004028692-S"
+   },
+   "first_seen": "2026-11-18"
+  },
+  {
+   "title": "Versorgungskoordinatoren (m/w/d)",
+   "company": "Gemeinde Horgenzell",
+   "location": "88263 Horgenzell",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004028577-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Wir suchen zum nächstmöglichen Zeitpunkt\n**mehrere Versorgungskoordinatoren (m/w/d)**\nin Teil- oder Vollzeit (50-100 %) befristet bis 31.12.2029\nfür unser Projekt „OrtsNahePflege Oberschwaben“\n**Über das Projekt**\nDie Kommunen Bad Saulgau, Fronreute und Horgenzell, die Hochschule Ravensburg-Weingarten (RWU) sowie die Bürgervereine aus Bolstern, Fronhofen und Zogenweiler setzen gemeinsam das Projekt „OrtsNahePflege Oberschwaben“ um. Ziel des Projekts sind die Entwicklung bedarfsgerechter Unterstützungsangebote sowie tragfähiger Versorgungsnetzwerke. Das Modellvorhaben und die Stelle werden gefördert durch das Ministerium für Soziales, Arbeit und Gesundheit finanziert aus Landesmitteln, die der Landtag von Baden-Württemberg beschlossen hat, sowie durch die sozialen und privaten Pflegekassen. Ansprechpartner und Anstellungsträger ist dabei die Gemeinde Horgenzell.\n**Kernaufgaben:**\n- Pflegebedürftige und Angehörige beraten, Bedarfe klären und passende Hilfen koordinieren\n- Case- und Caremanagement, Quartiersarbeit\n- Übergänge in teilstationäre oder stationäre Angebote begleiten\n- Begleitung des betrieblichen Aufbaus von selbstbestimmten Pflegewohngemeinschaften und anderer ambulanter Wohnformen\n- Pflegenetzwerke, Bürgergemeinschaften und Entlastungsangebote unterstützend weiterentwickeln\n- Ehrenamtliche, professionelle Dienste und lokale Partner vernetzen; Zusammenarbeit mit politischen Akteuren\n- Bedarfe einbringen, Angebote bekannt machen und Veranstaltungen mitgestalten\n- Dokumentation sowie Unterstützung bei Monitoring, Evaluation und Projektberichten\n- Sorge um nachhaltige Gewinnung und Qualifizierung von Assistenz,- und Pflegekräften\n- sonstige der Projektausschreibung dienende Aufgaben\n**Kompetenzen:**\n- abgeschlossener Bachelorabschluss (Pflege, Soziale Arbeit...) oder Pflegefachausbildung mit mehrjähriger Berufserfahrung\n- Erfahrung im Case- und Caremanagement oder in der Quartiersarbeit, idealerweise im ländlichen Raum\n- gute Kenntnisse im Sozial- und Pflegeleistungsrecht, besonders SGB XI und SGB V\n- Empathie, Organisationsgeschick und eine eigenständige und flexible Arbeitsweise\n- Case-Management-Fortbildung (z.B. DGCC-zertifiziert) wünschenswert\n- guter Umgang mit MS-Office\n**Das bieten wir:**\n- Eine vielseitige und sinnstiftende Tätigkeit mit Gestaltungsspielraum\n- Eingruppierung bis Entgeltgruppe 10 TVöD\n- Fort- und Weiterbildungsmöglichkeiten\n- flexible Arbeitszeiten\n- Möglichkeit von Homeofficezeiten\n**Interesse? Wir freuen uns auf Ihre Bewerbung!**\nRichten Sie diese bitte bis 11.12.2026 per E-Mail an [bewerbung@horgenzell.de](https://mailto:bewerbung@horgenzell.de) oder an die Gemeinde Horgenzell, Kornstraße 44, 88263 Horgenzell. Für Rückfragen steht Ihnen Theresa Eismann zur Verfügung ([t.eismann@horgenzell.de](mailto:t.eismann@horgenzell.de); 07504/9701-22).",
+   "extra": {
+    "refnr": "10001-1004028577-S",
+    "query": "Evaluation",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "0ba16a17c38a0b10",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004028577-S"
+   },
+   "first_seen": "2026-11-18"
+  },
+  {
+   "title": "Wissenschaftliche:r Mitarbeiter:in Versorgungsforschung / Health Services Research 70-100 %",
+   "company": "Equal.Jobs",
+   "location": "Winterthur, Zurich, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/svetovalec-v-oddelku-za-upravno-notranje-zadeve-at-vlada-republike-slovenije-4489756292",
-   "posted": "2026-11-16",
+   "url": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-versorgungsforschung-health-services-research-70-100-%25-at-equal-jobs-4492002143",
+   "posted": "2026-11-18",
    "salary": null,
    "via": null,
-   "description": "Opis delovnega mesta Z izbranim kandidatom bo sklenjena pogodba o zaposlitvi za določen čas dveh let, zaradi povečanega obsega dela, s polnim delovnim časom. Izbrani kandidat bo delo opravljal na uradniškem delovnem mestu »Svetovalec« (šifra DM 132), brez imenovanja v naziv. Pravice in obveznosti mu bodo določene glede na uradniški naziv svetovalec III. Osnovni plačni razred delovnega mesta je 17. plačni razred (2.030,25 evrov bruto). Zahteve za prijavo Kandidat, ki se bo prijavil na prosto delovno mesto, mora izpolnjevati naslednje pogoje: končano najmanj visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) ali najmanj visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) ali najmanj visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), najmanj sedem mesecev delovnih izkušenj, opravljen strokovni izpit iz upravnega postopka prve stopnje (če ga kandidat nima, ga lahko opravi naknadno), znanje slovenskega jezika, državljanstvo Republike Slovenije, ne sme biti pravnomočno obsojen zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti in ne sme biti obsojen na nepogojno kazen zapora v trajanju več kot šest mesecev, zoper njega ne sme biti vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Delovne naloge vodenje in odločanje v zahtevnih upravnih postopkih na prvi stopnji, pomoč pri pripravi osnutkov predpisov in drugih zahtevnejših gradiv, zbiranje, urejanje in priprava podatkov za oblikovanje zahtevnejših gradiv, samostojno oblikovanje manj zahtevnih gradiv s predlogi ukrepov, opravljanje drugih upravnih nalog podobne zahtevnosti. Prednosti pri izbiri Prednost pri izbiri bodo imeli kandidati, ki poznajo delo upravnih enot in imajo izkušnje z delom na področju osebnih dokumentov, prijave bivališč in tujcev. Postopek prijave Kandidati vložijo prijave na priloženem obrazcu »vloga za zaposlitev«, ki ga pošljejo na elektronski naslov: ue.logatec@gov.si ali v ovojnici na naslov: Upravna enota Logatec, Tržaška cesta 50a, 1370 Logatec, in sicer v roku 5 dni po objavi. Kontaktna oseba za dodatne informacije Maja Zidar načelnica Upravna enota Logatec 01 759 05 23 maja.zidar@gov.si Besedilo in prijavni obrazec javna objava svetovalec (pdf, 162 KB) vloga za zaposlitev svetovalec (doc, 111 KB) Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Vlada Republike Slovenije by 2x See who you know",
+   "description": "Gestalten Sie die Gesundheitsversorgung von morgen mit: Sie arbeiten in praxisnahen Forschungsprojekten im Schweizer Gesundheitswesen, bringen Erfahrung im Projektmanagement und eigene Ideen ein und nutzen innovative Methoden wie KI. Dafür suchen wir Sie Wir Betreiben Innovative Und Praxisnahe Forschung In Der Gesundheitsversorgung Mit Gesundheitsökonomischem Fokus. Unsere Forschungsergebnisse Fliessen In Politik Und Praxis Ein. Dabei Freuen Wir Uns Auf Mitarbeitende, Die Ihre Ideen Und Perspektiven Aktiv Einbringen Und Mitgestalten Möchten. Ihre Aufgaben Umfassen Mitarbeit in sowie Leitung von Forschungs- und Evaluationsprojekten, von der Auftragsklärung über die Analyse bis zur Berichterstattung, in engem Austausch mit Auftraggebenden und Praxispartnern Mitarbeit bei der Akquise von Forschungsprojekten und mittelfristig die selbstständige Ausarbeitung von Forschungsanträgen und Offerten Durchführung von Desk Research und Literaturrecherchen Aufbereitung und statistische Auswertung quantitativer Daten, beispielsweise Befragungs-, Versorgungs- und Abrechnungsdaten Erhebung und Auswertung qualitativer Daten, beispielsweise mittels Interviews und Fokusgruppen Einsatz und Weiterentwicklung KI-gestützter Methoden in der Datenerhebung, Datenaufbereitung, Auswertung und Textbearbeitung einschliesslich der Prüfung und Validierung der Ergebnisse Verfassen von Berichten für Auftraggebende sowie von Publikationen in peer-reviewed Journals Präsentation von Forschungsergebnissen an nationalen und internationalen Fachtagungen und Kongressen Lehre auf Bachelor- und Masterstufe sowie in der Weiterbildung und Begleitung studentischer Arbeiten (ca. 10–20 %) Was Sie auszeichnet Sie Verfügen Über Erfahrung In Der Forschung, Vorzugsweise Im Gesundheitsbereich. Ihr Fachlicher Hintergrund Liegt Beispielsweise In Public Health, Epidemiologie, (Gesundheits-)Ökonomie, Sozialwissenschaften Oder Computational Social Science. Ebenso Freuen Wir Uns Über Bewerbungen Von Personen Mit Forschungserfahrung In Der Medizin Oder In Einem Gesundheitsberuf Wie Pflege Oder Physiotherapie. Darüber Hinaus Bringen Sie Folgendes Mit Masterabschluss oder Doktorat Erfahrung im Projektmanagement, insbesondere in der Planung und Durchführung von Projekten, der Einhaltung von Zeitplänen und Budgets sowie in der Zusammenarbeit mit Auftraggebenden Belastbarkeit und die Fähigkeit, auch bei mehreren parallel laufenden Projekten den Überblick zu behalten und zielorientiert zu arbeiten Kenntnisse des Schweizer Gesundheitswesens Know-how in der quantitativen Datenanalyse sowie Programmiererfahrung mit Stata, R oder Python Neugier, Eigeninitiative und Freude daran, neue Methoden zu erproben, beispielsweise KI-gestützte Ver-fahren in der Datenerhebung und -auswertung Deutsch und Englisch in Wort und Schrift Von Vorteil sind zudem Lehrerfahrung, ein klinischer Hintergrund oder Praxiserfahrung in einem Gesundheitsberuf sowie Französisch- oder Italienischkenntnisse Bitte reichen Sie zusammen mit Ihren Bewerbungsunterlagen (CV, Zeugnisse etc.) bis zu drei Publikationen als PDF ein, bei denen Sie Erstautor:in sind. (Berichte oder Artikel in wissenschaftlichen Journals) Da arbeiten Sie Die ZHAW Zürcher Hochschule für Angewandte Wissenschaften ist mit über 14'000 Studierenden und über 11'000 Weiterbildungsteilnehmenden sowie mit rund 3'700 Mitarbeitenden eine der grössten Mehrsparten-Fachhochschulen der Schweiz. School of Management and Law Die ZHAW School of Management and Law (SML) ist mit rund 9500 Studierenden eine der grössten Business Schools der Schweiz. Sie ist als einzige Fachhochschule des Landes in renommierten Rankings der Wirtschaftszeitung «Financial Times» vertreten und AACSB, EQUIS sowie AMBA akkreditiert – Labels für hohe Qualitätsstandards in Lehre, Forschung und Weiterbildung. Die international anerkannten Bachelor- und Masterstudiengänge, kooperativen PhD-Programme sowie die zahlreichen Weiterbildungsangebote sind wissenschaftlich fundiert, interdisziplinär und …",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "2e9b8748a06d9278",
+   "id": "e32f7dbda845e4d9",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-v-oddelku-za-upravno-notranje-zadeve-at-vlada-republike-slovenije-4489756292"
+    "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-versorgungsforschung-health-services-research-70-100-%25-at-equal-jobs-4492002143"
    },
-   "first_seen": "2026-11-17"
+   "first_seen": "2026-11-18"
   },
   {
-   "title": "Wissenschaftliche Hilfskraft (m/w/d)",
+   "title": "Researcher gesundheitsökonomische Forschung 80–100 %",
+   "company": "Equal.Jobs",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/researcher-gesundheits%C3%B6konomische-forschung-80%E2%80%93100-%25-at-equal-jobs-4491790704",
+   "posted": "2026-11-18",
+   "salary": null,
+   "via": null,
+   "description": "Möchten Sie mit fundierter gesundheitsökonomischer Forschung einen relevanten Beitrag zu einem zukunftsfähigen Gesundheitswesen leisten? Am Winterthurer Institut für Gesundheitsökonomie der ZHAW gestalten Sie evidenzbasierte Lösungen für aktuelle Fragestellungen im Schweizer Gesundheitswesen. Dafür suchen wir Sie Leitung und Bearbeitung angewandter Forschungsprojekte zu gesundheitsökonomischen Fragestellungen (u.a. Methodikentwicklung, Datenanalyse) Verfassen von Forschungsberichten und wissenschaftlichen Artikeln Mitarbeit bei Projektofferten Unterricht in Lehre und Weiterbildung Diskussion und Sparring von im Team erarbeiteten Ideen und Resultaten Was Sie auszeichnet Abgeschlossenes Masterstudium in Volkswirtschaftslehre Ausgeprägtes Interesse an gesundheitsökonomischen Fragestellungen und deren praxisnaher Bearbeitung Berufserfahrung im Schweizer Gesundheitswesen und/oder in der angewandten Forschung im Schweizer Kontext Analytische, konzeptionelle und kreative Denkweise sowie eine selbstständige, verantwortungsbewusste Arbeitsweise Fundierte Kenntnisse in der Anwendung statistischer Methoden und im Umgang mit gängigen Statistikprogrammen Stilsichere mündliche und schriftliche Kommunikationsfähigkeiten in Deutsch und Englisch Da arbeiten Sie Die ZHAW Zürcher Hochschule für Angewandte Wissenschaften ist mit über 14'000 Studierenden und über 11'000 Weiterbildungsteilnehmenden sowie mit rund 3'700 Mitarbeitenden eine der grössten Mehrsparten-Fachhochschulen der Schweiz. School of Management and Law Die ZHAW School of Management and Law (SML) ist mit rund 9500 Studierenden eine der grössten Business Schools der Schweiz. Sie ist als einzige Fachhochschule des Landes in renommierten Rankings der Wirtschaftszeitung «Financial Times» vertreten und AACSB, EQUIS sowie AMBA akkreditiert – Labels für hohe Qualitätsstandards in Lehre, Forschung und Weiterbildung. Die international anerkannten Bachelor- und Masterstudiengänge, kooperativen PhD-Programme sowie die zahlreichen Weiterbildungsangebote sind wissenschaftlich fundiert, interdisziplinär und praxisorientiert. Die SML unterhält zahlreiche Kooperationen mit über 190 ausgesuchten Partnerhochschulen weltweit. Noch Fragen? Dann melden Sie sich bei uns! Fragen zum Bewerbungsprozess? Xenia Binner Recruiting Manager xenia.binner@zhaw.ch Fragen zur ausgeschriebenen Vakanz? Dr. Andreas Kohler Co-Leiter Gesundheitsökonomische Forschung +41 58 934 61 40 andreas.kohler@zhaw.ch Show more Show less Seniority level Not Applicable Employment type Full-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at Equal.Jobs by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "54bd744297d232c0",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/researcher-gesundheits%C3%B6konomische-forschung-80%E2%80%93100-%25-at-equal-jobs-4491790704"
+   },
+   "first_seen": "2026-11-18"
+  },
+  {
+   "title": "Wissenschaftlich-administrative:r Mitarbeiter:in (m/w/d)",
    "company": "Universität St.Gallen (HSG)",
    "location": "St Gallen, St Gallen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/wissenschaftliche-hilfskraft-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4490117738",
+   "url": "https://ch.linkedin.com/jobs/view/wissenschaftlich-administrative-r-mitarbeiter-in-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4491702974",
    "posted": "2026-11-17",
    "salary": null,
    "via": null,
-   "description": "Ihre Aufgaben Unterstützung von Forschungsprojekten, insbesondere bei der Datenerhebung und -analyse Weiterentwicklung des Competence Centers “Alliances, Platforms & Ecosystems\" Schneiden von Podcasts Erstellung von PowerPoint Präsentationen Recherchearbeiten Einbringen von eigenen Ideen und Kompetenzen Ihr Profil Studierender an der Universität St.Gallen, idealerweise in einem betriebswirtschaftlichen Bachelor- oder Masterprogramm (z. B. Bachelor BWL oder Master in General Management) Interesse am Themenbereich Alliances, Platforms, and Ecosystems Erfahrung im Schneiden von Podcasts und/oder Videos Unternehmerisches Denken Hohes Mass an Eigeninitiative & Kommunikationsstärke Selbstständige, strukturierte und zielorientierte Arbeitsweise Sehr gute Ausdrucksfähigkeit in Deutsch und Englisch in Wort und Schrift Zeitliche Flexibilität Sie erhalten einen Einblick in die wissenschaftlichen Tätigkeiten am Lehrstuhl für Strategisches Management an einer der weltweit führenden Wirtschaftsuniversitäten. Es erwartet Sie ein ambitioniertes Team mit zukunftsfähigen Ideen und herausfordernden Aufgaben mit frühzeitiger Verantwortung und dadurch steiler Lernkurve. Die kostenlose Nutzung universitärer Einrichtungen wie z. B. Fitnessstudio & Karriereberatung und die Teilnahme an den institutseigenen Brown-Bag Seminars & HDZ-Seminare, sowie eine attraktive Vergütung auf Monatslohnbasis mit flexibler Arbeitszeitgestaltung ist möglich. Die Arbeit vor Ort und/oder aus dem Homeoffice ist nach Absprache möglich. Wir freuen uns auf Ihre Online-Bewerbung gerne unter Angabe der Stellen-ID Inspirierendes Arbeitsumfeld An der HSG als führende Wirtschaftsuniversität Europas agieren wir in einem unternehmerisch denkenden Umfeld und Sie treffen auf hochqualifizierte, ambitionierte Expert*innen regional und international. Beispielsweise profitieren Sie von einer modernen IT-Infrastruktur und in unserer Bibliothek via HSGswisscovery von einem schweizweiten Zugang zum wissenschaftlichen Informationsbestand. Weiterbildung Wir unterstützen interne und externe Weiterbildungsmöglichkeiten. Unser internes Weiterbildungsprogramm bietet Ihnen praxisnahe, engagierte und didaktisch ausgereifte Wissensvermittlung in Form von Seminaren, E-Learnings, Coachings und kollegialer Beratung. Aufgabenspezifische externe Weiterbildungen unterstützen wir finanziell und zeitlich. Netzwerk Wir fördern unsere Kultur der bereichsübergreifenden Zusammenarbeit und schaffen Raum für das Knüpfen wertvoller Beziehungen – auch zu externen Partner*innen. Regelmässiger Austausch und interne Veranstaltungen helfen diese Beziehung zu festigen und langanhaltend zu gestalten. Familie & Beruf Wir stellen unseren Mitarbeitenden flexible Arbeitszeitmodelle mit variabler Wochenstundenanzahl zur Verfügung. Als familienfreundliche Arbeitgeberin bieten wir Teilzeitanstellungen an, 16 Wochen Mutterschaftsurlaub und eine subventionierte Kinderkrippe sowie Betreuungsangebote in den Ferien. Chancengleichheit Die Universität ermöglicht allen Beschäftigten und Studierenden die gleichen Chancen. Das betrifft das Studium, die Arbeit genauso wie die akademische Karriere, die Besetzung universitärer Leitungsfunktionen oder die Vereinbarkeit von Studium, Beruf und privatem Engagement. Hierfür engagieren wir uns mit diversen Massnahmen in den Bereichen Lehre, Forschung, Verwaltung und Rektorat. Fit und Gesund Wir unterstützen Sie, fit und gesund zu bleiben. Neben unserem vielseitigen, grösstenteils kostenfreien Unisportangebot und Aktionswochen zum betrieblichen Gesundheitsmanagement bieten wir Ihnen Früchte am Arbeitsplatz. In unserer Mensa finden Sie eine breite Auswahl an frisch zubereiteten Gerichten – von vegetarischen Speisen bis hin zu Fischgerichten – zu vergünstigten Preisen. Weitere Informationen zum Arbeiten an der HSG finden Sie hier. Die HSG «Ein Ort, der Wissen schafft» - Als eine der führenden Wirtschaftsuniversitäten Europas engagiert sich die Universität St.Gallen (HSG) in der Ausbildung von über …",
+   "description": "Ihre Aufgaben Unterstützung bei Forschungsprojekten am Lehrstuhl für Soziologie Mitarbeit im Seminar (organisatorische und administrative Aufgaben) Betreuung der Social Media Seiten sowie der Webseite des Lehrstuhls für Soziologie Unterstützung der Administrativen Leitung bei der Organisation von verschiedenen Anlässen Erfassen von wissenschaftlichen Aktivitäten für den Jahresbericht Ihr Profil Studierende (m/w/d) mit (idealerweise) abgeschlossenem Bachelorstudium oder Masterstufe (Anfangsphase) Interesse an einer akademischen Laufbahn Hintergrund in Sozialwissenschaften (Soziologie von Vorteil) Deutsch als Muttersprache, sehr gute Ausdrucksfähigkeit in Wort und Schrift in Deutsch und Englisch Kenntnisse in quantitativen und qualitativen Forschungsmethoden erwünscht Vernetzt denkende Person, die gerne mit mehreren Schnittstellen zusammenarbeitet Freude an selbständiger wissenschaftlicher Tätigkeit Praktisch veranlagt, neugierig, und flexibel Selbstständige Arbeitsweise und Freude am Arbeiten in einem Team Wir Bieten Ihnen Mitarbeit in einem engagierten und internationalen Team am Lehrstuhl für Soziologie mit Schwerpunkt Wirtschaftssoziologie Dynamisches und innovatives Forschungsumfeld an einer Universität mit einem starken Fokus auf interdisziplinärem Austausch und guter Vernetzung in der Forschungsgemeinschaft Möglichkeit, das Gelernte in die Praxis umzusetzen (z.B. für eigene Seminararbeiten) Zeiteinteilung und Pensum nach Absprache Wir freuen uns auf Ihre Online-Bewerbung gerne unter Angabe der Stellen-ID Inspirierendes Arbeitsumfeld An der HSG als führende Wirtschaftsuniversität Europas agieren wir in einem unternehmerisch denkenden Umfeld und Sie treffen auf hochqualifizierte, ambitionierte Expert*innen regional und international. Beispielsweise profitieren Sie von einer modernen IT-Infrastruktur und in unserer Bibliothek via HSGswisscovery von einem schweizweiten Zugang zum wissenschaftlichen Informationsbestand. Weiterbildung Wir unterstützen interne und externe Weiterbildungsmöglichkeiten. Unser internes Weiterbildungsprogramm bietet Ihnen praxisnahe, engagierte und didaktisch ausgereifte Wissensvermittlung in Form von Seminaren, E-Learnings, Coachings und kollegialer Beratung. Aufgabenspezifische externe Weiterbildungen unterstützen wir finanziell und zeitlich. Netzwerk Wir fördern unsere Kultur der bereichsübergreifenden Zusammenarbeit und schaffen Raum für das Knüpfen wertvoller Beziehungen – auch zu externen Partner*innen. Regelmässiger Austausch und interne Veranstaltungen helfen diese Beziehung zu festigen und langanhaltend zu gestalten. Familie & Beruf Wir stellen unseren Mitarbeitenden flexible Arbeitszeitmodelle mit variabler Wochenstundenanzahl zur Verfügung. Als familienfreundliche Arbeitgeberin bieten wir Teilzeitanstellungen an, 16 Wochen Mutterschaftsurlaub und eine subventionierte Kinderkrippe sowie Betreuungsangebote in den Ferien. Chancengleichheit Die Universität ermöglicht allen Beschäftigten und Studierenden die gleichen Chancen. Das betrifft das Studium, die Arbeit genauso wie die akademische Karriere, die Besetzung universitärer Leitungsfunktionen oder die Vereinbarkeit von Studium, Beruf und privatem Engagement. Hierfür engagieren wir uns mit diversen Massnahmen in den Bereichen Lehre, Forschung, Verwaltung und Rektorat. Fit und Gesund Wir unterstützen Sie, fit und gesund zu bleiben. Neben unserem vielseitigen, grösstenteils kostenfreien Unisportangebot und Aktionswochen zum betrieblichen Gesundheitsmanagement bieten wir Ihnen Früchte am Arbeitsplatz. In unserer Mensa finden Sie eine breite Auswahl an frisch zubereiteten Gerichten – von vegetarischen Speisen bis hin zu Fischgerichten – zu vergünstigten Preisen. Weitere Informationen zum Arbeiten an der HSG finden Sie hier. Die HSG «Ein Ort, der Wissen schafft» - Als eine der führenden Wirtschaftsuniversitäten Europas engagiert sich die Universität St.Gallen (HSG) in der Ausbildung von über 10'000 Studierenden und bietet als eine der grössten …",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Part-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "0a71d52e9e3c9727",
+   "id": "55a75f9d1a6cf885",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-hilfskraft-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4490117738"
+    "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftlich-administrative-r-mitarbeiter-in-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4491702974"
    },
-   "first_seen": "2026-11-17"
+   "first_seen": "2026-11-18"
   },
   {
-   "title": "Greffier/-ère Cour II langue principale française",
-   "company": "Bundesverwaltungsgericht – Federal Administrative Court",
-   "location": "St Gallen, Switzerland",
+   "title": "Wissenschaftliche Mitarbeiterin/Wissenschaftlicher Mitarbeiter Stadtarchiv (80 %)",
+   "company": "Stadt Schaffhausen",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/greffier-%C3%A8re-cour-ii-langue-principale-fran%C3%A7aise-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4486319305",
-   "posted": "2026-11-16",
+   "url": "https://ch.linkedin.com/jobs/view/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-stadtarchiv-80-%25-at-stadt-schaffhausen-4490313765",
+   "posted": "2026-11-17",
    "salary": null,
    "via": null,
-   "description": "St-Gall, Suisse (et travail à domicile) | 80-100% | Ce à quoi vous pouvez contribuer Rédiger des arrêts dans les matières de la compétence de la cour II (économie, formation, concurrence) Participer à l'instruction de procédures de recours de droit administratif Tenir le procès-verbal des délibérations et des débats publics Discuter des questions juridiques en équipe Ce qui vous rend unique Formation juridique complète avec brevet d'avocat ou doctorat Quelques années d'expérience dans l'administration, une étude d'avocats ou une organisation judiciaire Expérience ou connaissances dans les matières de la compétence de la cour II (économie, formation, concurrence) constituent un avantage Esprit analytique développé, expression linguistique précise, indépendance, résistance, esprit d'équipe Français comme langue principale et de travail; très bonnes connaissances d'une autre langue officielle En quelques mots Le droit administratif économique vous intéresse et vous souhaitez contribuer au développement de la jurisprudence du Tribunal administratif fédéral. Ce que nous offrons Travailler pour la Suisse Nous nous engageons pour le succès du modèle suisse et pour le bien-être de la population. La diversité au quotidien Nous veillons à l'égalité des chances, qui nous permet de déployer nos compétences et d'exprimer des points de vue différents. Santé au travail Nous assistons et conseillons nos collaboratrices et collaborateurs pour toutes les questions liées à la santé physique ou psychique. Tous les avantages Vivre en Suisse orientale – Travailler en français Le Tribunal administratif fédéral (TAF), sis à St-Gall, connaît des recours contre des décisions rendues par les autorités fédérales. Il statue en dernière instance dans la plupart des cas; parmi les arrêts susceptibles de recours au Tribunal fédéral, seule une minorité se voit attaquée. Le crédit dont jouit la jurisprudence du TAF est avant tout dû à une excellente qualité de travail et une durée de procédure adéquate. A cette fin, le tribunal offre à ses collaborateurs des postes de travail modernes, des horaires flexibles et un environnement trilingue. Informations complémentaires Veuillez noter qu'en cas de candidatures multiples de votre part, un échange de données entre les personnes impliquées dans les différents processus de recrutement au sein du Tribunal administratif fédéral pourrait avoir lieu. Vos données seront traitées conformément aux dispositions légales en matière de protection des données, que vous acceptez en approuvant la présente déclaration de confidentialité. Questions sur le poste Pierre-Emmanuel Ruedin Juge Cour II +41 58 46 52502 Questions sur la postulation Monika Sengör Responsable du domaine du personnel +41 58 48 45151 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Bundesverwaltungsgericht – Federal Administrative Court by 2x See who you know",
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "4a0400051ca5b593",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-stadtarchiv-80-%25-at-stadt-schaffhausen-4490313765"
+   },
+   "first_seen": "2026-11-18"
+  },
+  {
+   "title": "Doctoral Student in Structural Dynamics and Metamaterials for Hybrid Steel–Timber Buildings 100 %",
+   "company": "Equal.Jobs",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/doctoral-student-in-structural-dynamics-and-metamaterials-for-hybrid-steel%E2%80%93timber-buildings-100-%25-at-equal-jobs-4492008015",
+   "posted": "2026-11-18",
+   "salary": null,
+   "via": null,
+   "description": "Shape the future of sustainable structures by combining advanced simulation with cutting-edge experiments and contributing directly to safer, more comfortable and resource-efficient construction. What You Will Be Responsible For Review the literature on vibrations in hybrid steel–timber structures and on conventional mitigation solutions Select representative hybrid subsystems (floor segments, beam–slab interfaces, joints) Develop numerical models in COMSOL (frequency domain) and Abaqus (time domain) to identify vibration hot spots in the 1–100 Hz range Benchmark conventional damping solutions (viscoelastic layers, tuned mass dampers) numerically and experimentally Prepare and run tests on reduced-scale specimens with laser Doppler vibrometry, shakers and the multi-axial shaking table at ETH Zurich Publish in peer-reviewed journals, present at conferences and write your doctoral thesis What Makes You a Great Fit Master's degree in civil, structural or mechanical engineering, or a related field, meeting the admission requirements of the ETH Zurich doctoral programme Solid background in structural dynamics and finite element modelling; experience with COMSOL and/or Abaqus is an advantage Interest in experimental work and hands-on laboratory testing Knowledge of steel or timber construction is welcome Programming skills (e.g. Python or MATLAB) Fluent English; German is an advantage Curious, structured and able to work in an interdisciplinary team across institutions About Your Workplace The ZHAW Zurich University of Applied Sciences is the largest university of applied sciences in German-speaking Switzerland, with around 15,000 students, more than 11,000 continuing education participants and over 3,700 employees. We are committed to building diverse teams in order to promote equality and inclusion. We offer a flexible working environment that can be adapted to your individual circumstances. School of Architecture, Design and Civil Engineering The ZHAW School of Architecture, Design and Civil Engineering offers Bachelor’s and Master’s degree programmes and is one of the most established yet innovative educational institutions of its kind in Switzerland. In accordance with its statutory mandate, it carries out teaching, research and development, and continuing professional development, as well as providing services to third parties. We offer you an exciting, varied and challenging role in a dynamic environment. The position is based at the school’s headquarters in Winterthur. Institute of Building Technology and Process The Institute of Building Technology and Process IBP, together with two other institutes, provides services in teaching, research, and continuing education. In research, IBP focuses on hybrid lightweight construction, digital technologies in design and fabrication, building energy systems and technologies, as well as digital construction processes and management. At the intersection of architecture and engineering, we develop practical approaches and solutions in collaboration with industry partners. We offer an exciting, varied, and challenging role in a dynamic and ever-changing environment, working alongside an interdisciplinary and highly motivated team. Any questions? You’ll find the answers here! Do you have any questions about the application process? Irina Keiser Recruiting Assistant irina.keiser@zhaw.ch Do you have any questions about the advertised vacancy? Dr. Andrea Colombi Senior Researcher / Project Leader, ZHAW IBP andrea.colombi@zhaw.ch Show more Show less Seniority level Not Applicable Employment type Full-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at Equal.Jobs by 2x See who you know",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "91c56472b58f1b73",
+   "id": "0d479cd3c70fe2d8",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/greffier-%C3%A8re-cour-ii-langue-principale-fran%C3%A7aise-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4486319305"
+    "linkedin": "https://ch.linkedin.com/jobs/view/doctoral-student-in-structural-dynamics-and-metamaterials-for-hybrid-steel%E2%80%93timber-buildings-100-%25-at-equal-jobs-4492008015"
    },
-   "first_seen": "2026-11-17"
-  },
-  {
-   "title": "Lead Data Scientist",
-   "company": "Tyco Fire & Security GmbH",
-   "location": "8212 Neuhausen am Rheinfall",
-   "country": "CH",
-   "url": "https://www.job-room.ch/job-search/af6ff679-3a39-41a6-891a-c693a39d5236",
-   "posted": "2026-11-17",
-   "salary": null,
-   "via": null,
-   "description": "GenAI & Agentic Platform\n- Lead the design and scaling of an enterprise agentic AI platform (LLM orchestration, RAG pipelines, multi-agent workflows, tool/function calling, guardrails, and <em>evaluation</em> frameworks).\n- Drive adoption of GenAI copilots and autonomous agents across internal and customer-facing",
-   "extra": {
-    "canton": "SH",
-    "query": "Evaluation",
-    "workload": "100-100 %",
-    "permanent": true,
-    "jobroom_id": "af6ff679-3a39-41a6-891a-c693a39d5236"
-   },
-   "id": "55c7c5637043d0ca",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "https://www.job-room.ch/job-search/af6ff679-3a39-41a6-891a-c693a39d5236"
-   },
-   "first_seen": "2026-11-17"
-  },
-  {
-   "title": "Hauptberufliche/r BerufsbildnerIn  Pflege 60-80%",
-   "company": "Rehaklinik Zihlschlacht AG",
-   "location": "8588 Zihlschlacht",
-   "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/6232fe01-1dc7-4aa0-86cc-9f1e9a13ee15/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-16",
-   "salary": null,
-   "via": null,
-   "description": "darfst du dich freuen:\n-----------------------------\n* Aktiver Teil in der Ausbildung, Begleitung und Unterstützung von Studierenden, Lernenden und PraktikantInnen in der Pflege\n* Proaktive Gestaltung der Ausbildung im Berufsalltag und Übernahme von Aufgaben in den Bereichen der Planung, Umsetzung und <em>Evaluation</em>",
-   "extra": {
-    "canton": "TG",
-    "query": "Evaluation",
-    "workload": "60-100 %",
-    "permanent": true,
-    "jobroom_id": "bfe7a726-9495-4a33-919e-109635ed2136"
-   },
-   "id": "c90afd231e2b9a21",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/6232fe01-1dc7-4aa0-86cc-9f1e9a13ee15/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
-   },
-   "first_seen": "2026-11-17"
-  },
-  {
-   "title": "Personalberater/in IIZ St.Gallen",
-   "company": "Kanton St. Gallen",
-   "location": "9000 St. Gallen",
-   "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/32d12b51-d064-45c9-b7ed-539797e2acd6/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
-   "posted": "2026-11-17",
-   "salary": null,
-   "via": null,
-   "description": "/\\-mann, Sozialversicherungs\\-<em>Fachfrau</em>/\\-mann oder die Bereitschaft die Weiterbildung zur/zum <em>HR</em>\\-<em>Fachfrau</em>/\\-mann (Fachrichtung B) in Angriff zu nehmen\n* Berufserfahrung aus der Personalvermittlung, Personalberatung, anspruchsvollen Kundenberatung oder enger Bezug zur Sozialversicherung\n* Empathische",
-   "extra": {
-    "canton": "SG",
-    "query": "HR Fachfrau",
-    "workload": "100-100 %",
-    "permanent": true,
-    "jobroom_id": "9b0f8622-dea8-4c4b-9085-4f2700ff0e7f"
-   },
-   "id": "25aca7217b7b77d6",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/32d12b51-d064-45c9-b7ed-539797e2acd6/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
-   },
-   "first_seen": "2026-11-17"
-  },
-  {
-   "title": "<em>Sachbearbeiterin</em> Finanzen",
-   "company": "Awema AG",
-   "location": "8526 Oberneunforn",
-   "country": "CH",
-   "url": "https://www.job-room.ch/job-search/004b451e-e219-4b8c-9059-ae476412d98b",
-   "posted": "2026-11-16",
-   "salary": null,
-   "via": null,
-   "description": "Mehrjährige Berufserfahrung im Finanz- und\nRechnungswesen; eine Weiterbildung zur\n<em>Sachbearbeiterin</em> / zum Sachbearbeiter\nRechnungswesen ist von Vorteil.",
-   "extra": {
-    "canton": "TG",
-    "query": "Sachbearbeiterin Buchhaltung",
-    "workload": "40-60 %",
-    "permanent": true,
-    "jobroom_id": "004b451e-e219-4b8c-9059-ae476412d98b"
-   },
-   "id": "cfeac865eec88762",
-   "sources": [
-    "jobroom"
-   ],
-   "links": {
-    "jobroom": "https://www.job-room.ch/job-search/004b451e-e219-4b8c-9059-ae476412d98b"
-   },
-   "first_seen": "2026-11-17"
+   "first_seen": "2026-11-18"
   }
  ]
 }
