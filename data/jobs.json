@@ -1,19 +1,165 @@
 {
- "generated_at": "2026-11-22T08:08:41+00:00",
+ "generated_at": "2026-11-23T09:17:03+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 217,
+   "arbeitsagentur": 213,
    "google_jobs": "deaktiviert",
-   "linkedin": 102,
-   "jobroom": 32
+   "linkedin": 153,
+   "jobroom": 33
   },
-  "excluded": 247,
-  "unique": 84,
-  "new": 10,
-  "carried_over": 33
+  "excluded": 301,
+  "unique": 79,
+  "new": 6,
+  "carried_over": 43
  },
  "errors": {},
  "jobs": [
+  {
+   "title": "Administrator V v Glavni pisarni, Oddelek za splošne zadeve, Služba za splošne zadeve",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/administrator-v-v-glavni-pisarni-oddelek-za-splo%C5%A1ne-zadeve-slu%C5%BEba-za-splo%C5%A1ne-zadeve-at-vlada-republike-slovenije-4493548933",
+   "posted": "2026-11-23",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c491a537782d95fb",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/administrator-v-v-glavni-pisarni-oddelek-za-splo%C5%A1ne-zadeve-slu%C5%BEba-za-splo%C5%A1ne-zadeve-at-vlada-republike-slovenije-4493548933"
+   },
+   "first_seen": "2026-11-23"
+  },
+  {
+   "title": "Technischer Sachbearbeiter (m/w) 100%",
+   "company": "yellowshark® AG",
+   "location": "Sulgen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/technischer-sachbearbeiter-m-w-100%25-at-yellowshark%C2%AE-ag-4492369679",
+   "posted": "2026-11-23",
+   "salary": null,
+   "via": null,
+   "description": "Unser Kunde, ein seit 70 Jahren erfolgreiches und international etabliertes Unternehmen, sucht zur Verstärkung des Teams eine engagierte und technisch versierte Persönlichkeit als Technischen Sachbearbeiter (m/w). Das Unternehmen zählt weltweit zu den führenden Anbietern von hochwertigem Komplettinventar und beschäftigt an acht Standorten über 500 Mitarbeitende. Bei entsprechender Leistung und Engagement bieten sich attraktive Entwicklungsmöglichkeiten sowie interne Karrierechancen. Gesucht wird eine unkomplizierte, verantwortungsbewusste Persönlichkeit, die gerne selbstständig arbeitet, über eine effiziente Arbeitsweise verfügt und Freude am direkten Kundenkontakt sowie an technischen Fragestellungen hat. Aufgaben Betreuung und Pflege des Kunden- sowie Techniker per E-Mail und Telefon Erstellung von Offerten, Auftragsbestätigungen und Anzahlungsrechnungen Koordination und Zusammenarbeit mit nationalen und internationalen Lieferanten Bearbeitung von Reparaturaufträgen, Garantie- und Gewährleistungsfällen sowie Kundenrückmeldungen Unterstützung der Verkaufsberater im Aussendienst bei technischen und administrativen Anliegen Profil Technische Grundausbildung mit kaufmännischer Weiterbildung oder Erfahrung im kaufmännischen Bereich Sehr gute Anwenderkenntnisse in Microsoft Office sowie idealerweise Erfahrung mit SAP Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift; Französischkenntnisse von Vorteil Selbstständige, strukturierte und lösungsorientierte Arbeitsweise Ausgeprägtes Verhandlungsgeschick, unternehmerisches Denken und hohe Kundenorientierung Wissenswertes Beteiligung an externen Weiterbildungen Flexible Arbeitszeitgestaltung Internationales Tätigkeitsfeld Garantiertes Hybrid- und Homeoffice-Arbeiten Moderner Arbeitsplatz Show more Show less Seniority level Not Applicable Employment type Full-time Industries Human Resources Services Referrals increase your chances of interviewing at yellowshark® AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "d2d36f33afffcce9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/technischer-sachbearbeiter-m-w-100%25-at-yellowshark%C2%AE-ag-4492369679"
+   },
+   "first_seen": "2026-11-23"
+  },
+  {
+   "title": "Administrative Assistant",
+   "company": "Monolithic Power Systems",
+   "location": "Schaffhausen, Schaffhausen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/administrative-assistant-at-monolithic-power-systems-4431681607",
+   "posted": "2026-11-22",
+   "salary": null,
+   "via": null,
+   "description": "Monolithic Power Systems, Inc. (MPS) is one of the fastest growing companies in the Semiconductor industry. We are worldwide technical leaders in Integrated Power Semiconductors and Systems Power delivery architectures. At MPS, we cultivate creativity, are passionate about sustainability, and are committed to providing leading-edge products and innovation to our customers. Our portfolio of technology helps power our world ---come join our team and see how YOU can make a difference. Job Description Job Description Administrative Assistant - SW Reporting to: EU Controller, Europe Monolithic Power Systems (MPS) provides power circuits for systems found in cloud computing, telecom infrastructure, automotive, industrial and consumer applications. MPS is seeking an energetic, efficient, self-motivated and resourceful team player to be a member of its Administration staff supporting our local office activities in Schaffhausen, Switzerland. Essential Functions : SAP Concur (Travel and Expense) key user supporting Travel Expense reimbursement end to end. Works closely with Accounting and Finance teams supporting AP and AR operations. Invoice entries, reconciliation of accounts. Coordination with Facilities team, vendors and service providers. Purchase requests and office/marketing supplies Manages correspondence Supports travel arrangements Supports event organization. Supports training and onboarding. Supports Health and Security plan, implementation and document maintenance. Supports ESG reporting. Supports for ad hoc projects as assigned. Qualifications BS/BA degree in business, administration or related field >3 years’ experience Very good knowledge of Excel, Power Point, Teams and other MS applications. Fluent in German, English and French. Excellent verbal and written communication skills. Excellent organization skills. Monolithic Power Systems, Inc. (MPS) is an Equal Opportunity Employer and embraces diversity in our employee population. It is the policy of MPS to provide equal opportunity to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or special disabled veteran, marital status, pregnancy, genetic information, or any other legally protected status. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Semiconductor Manufacturing Referrals increase your chances of interviewing at Monolithic Power Systems by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Over 200 applicants"
+   },
+   "id": "699fc340342eeaf7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/administrative-assistant-at-monolithic-power-systems-4431681607"
+   },
+   "first_seen": "2026-11-23"
+  },
+  {
+   "title": "Consultant Data & AI, MS Fabric (100%) (w/m/d), DE, hybrid",
+   "company": "HICO Group AG",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/consultant-data-ai-ms-fabric-100%25-w-m-d-de-hybrid-at-hico-group-ag-4492396154",
+   "posted": "2026-11-23",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "83e3643cabf13c30",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/consultant-data-ai-ms-fabric-100%25-w-m-d-de-hybrid-at-hico-group-ag-4492396154"
+   },
+   "first_seen": "2026-11-23"
+  },
+  {
+   "title": "Business Application Manager ERP (m/w/d)",
+   "company": "Rocken®",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/business-application-manager-erp-m-w-d-at-rocken%C2%AE-4493187825",
+   "posted": "2026-11-22",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "9c7ca3e904d3a476",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/business-application-manager-erp-m-w-d-at-rocken%C2%AE-4493187825"
+   },
+   "first_seen": "2026-11-23"
+  },
+  {
+   "title": "Projektleiter/in Fuss- und Veloverkehr / Verkehrssicherheit",
+   "company": "Kantonales Tiefbauamt Thurgau",
+   "location": "8500 Frauenfeld",
+   "country": "CH",
+   "url": "https://ohws.prospective.ch/public/v1/jobs/43c0f565-9ced-458c-8f44-e87d4025c6f4",
+   "posted": "2026-11-23",
+   "salary": null,
+   "via": null,
+   "description": "Aufgaben**\n<br />\n* Leiten und koordinieren von Strassenbauprojekten im Bereich Fuss- und Veloverkehr sowie hindernisfreier Bushaltestellen und Verkehrssicherheit von der Studie bis zur Auflage oder der Übergabe an die ausführende Abteilung\n* Erarbeiten von Studien und Durchführen von Vorabklärungen zur <em>Evaluation</em>",
+   "extra": {
+    "canton": "TG",
+    "query": "Evaluation",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "7ed5896a-6bd3-4dcd-9a39-14270bb1fdb3"
+   },
+   "id": "375157734e79bbc7",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://ohws.prospective.ch/public/v1/jobs/43c0f565-9ced-458c-8f44-e87d4025c6f4"
+   },
+   "first_seen": "2026-11-23"
+  },
   {
    "title": "Sachbearbeiter Innendienst (m/w) 100%",
    "company": "yellowshark® AG",
@@ -36,7 +182,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeiter-innendienst-m-w-100%25-at-yellowshark%C2%AE-ag-4475208221"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "HR - Assistent (m/w/d)",
@@ -60,7 +207,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/hr-assistent-m-w-d-at-rieker-gruppe-4476837026"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Mitarbeiter/in Immobilienbewirtschaftung (m/w/d)",
@@ -84,7 +232,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-immobilienbewirtschaftung-m-w-d-at-rocken%C2%AE-4492894821"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeiter Finanzbuchhaltung & Rechnungswesen (m/w/d)",
@@ -108,7 +257,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/sachbearbeiter-finanzbuchhaltung-rechnungswesen-m-w-d-at-expertum-gruppe-4492334110"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Sachbearbeitung Innendienst Rohbau (w/m/d) 100%",
@@ -132,7 +282,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/sachbearbeitung-innendienst-rohbau-w-m-d-100%25-at-bms-building-materials-suisse-4459318934"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Prozessoptimierungsberater im Bereich Produktionsorganisation (m/w/d)",
@@ -156,7 +307,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/prozessoptimierungsberater-im-bereich-produktionsorganisation-m-w-d-at-liebherr-aerospace-and-transportation-4485341083"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Project Manager (m/f/d) for Space Electronics",
@@ -180,7 +332,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/project-manager-m-f-d-for-space-electronics-at-spacetech-gmbh-4492305269"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Technischer Experte Zeichnungsprüfung & Training (m/w/d) Integrations- und Anordnungszeichnungen",
@@ -204,7 +357,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/technischer-experte-zeichnungspr%C3%BCfung-training-m-w-d-integrations-und-anordnungszeichnungen-at-rolls-royce-power-systems-4493282359"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Leiter",
@@ -228,7 +382,8 @@
    "links": {
     "linkedin": "https://de.linkedin.com/jobs/view/leiter-4493296656"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Heizungsplaner (m/w/d)",
@@ -252,7 +407,8 @@
    "links": {
     "linkedin": "https://ch.linkedin.com/jobs/view/heizungsplaner-m-w-d-at-rocken%C2%AE-4490124443"
    },
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-22",
+   "carried_over": true
   },
   {
    "title": "Fachkraft (w/m/d) SGB IX AWS R126/26",
