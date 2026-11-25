@@ -1,0 +1,335 @@
+{
+ "generated_at": "2026-11-25T09:59:25+00:00",
+ "stats": {
+  "raw_per_source": {
+   "arbeitsagentur": 213,
+   "google_jobs": "deaktiviert",
+   "linkedin": 147,
+   "jobroom": 35
+  },
+  "excluded": 290,
+  "unique": 88,
+  "new": 13,
+  "carried_over": 0
+ },
+ "errors": {},
+ "jobs": [
+  {
+   "title": "Maschinenbediener (m/w/d)",
+   "company": "Aptar Radolfzell GmbH",
+   "location": "78315 Radolfzell am Bodensee",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004066384-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "**Wer wir sind**\nBei Aptar nutzen wir Expertenwissen, Design, Technik und Wissenschaft, um innovative Verpackungstechnologien zu entwickeln, die von Menschen auf der ganzen Welt verwendet werden.\nJeden Tag schaffen wir Aptar \"Aha-Momente\" für Kunden, Verbraucher und Patienten, indem wir kontinuierlich Innovationen auf den Markt bringen. Wir entwickeln durch unsere große Erfahrung und unserem hohen technologischen Know-How Spender- und Dosiersysteme für die Bereiche Kosmetik, Haushalt, Lebensmittel und Pharma, die das Leben von vielen Menschen in den vielfältigsten Lebensbereichen erleichtert.\nWir haben Produktionsstätten in Nordamerika, Europa, Asien und Südamerika und über 14.000 engagierte Mitarbeitende in rund 20 Ländern.\n**Ihre neue Herausforderung an unserem Standort in Eigeltingen:**\n- Bedienung und Überwachung von **Fertigungsanlagen** unter Einhaltung der GMP-, Hygiene- und Sicherheitsvorgaben\n- Sicherstellung der Produktions- und Qualitätsparameter, deren **Protokollierung sowie Fehlerbehebung** gemäß GMP-Richtlinien\n- Unterstützung bei **vor- oder nachgelagerten Produktionsabläufe**, insbesondere im Materialfluss und der Materialversorgung\n- Identifikation und Aufzeigen von **Verbesserungspotenzialen** in den Produktionsabläufen\n- **Einarbeitung** neuer Mitarbeitender an den Produktionsanlagen\n**Ihr Profil**\n- Abgeschlossene (technische) Berufsausbildung\n- Ausgeprägtes Qualitäts- und Verantwortungsbewusstsein\n- Eigenständige, sorgfältige und zuverlässige Arbeitsweise\n- Ausgeprägte Teamfähigkeit und Bereitschaft zur Unterstützung innerhalb des Produktionsbereichs\n- Idealerweise erste Erfahrung als Maschinenbediener in einem produzierenden Unternehmen, vorzugsweise in der Pharmabranche\n- Bereitschaft zur Schichtarbeit\n- Deutschkenntnisse in Wort und Schrift\n**Ihr neuer Arbeitgeber**\n- Global führender Hersteller innovativer Lösungen für Dosiersysteme, Versiegelungen und aktive Verpackungen für Pharma, Beauty und Closures\n- 14 000 Mitarbeitende - 20 Länder\n**Unsere lokalen Standorte in Radolfzell & Eigeltingen:**\n**Aptar Radolfzell GmbH:**\n- Gegründet 1947\n- Über 950 Mitarbeitende\n- Kontinuierliches Unternehmenswachstum & krisensicherer Arbeitgeber\n- Produktion für die pharmazeutische Industrie mit jährlich über 500 Millionen innovativen Dosiersystemen\n**Ihre Vorteile**\n- Fachliche Weiterentwicklung und Karriereplanung\n- 30 Tage Urlaub\n- Mitarbeitergewinnbeteiligung\n- Sonderleistungen wie Firmenfitness, Mitarbeiterrabatte, Altersvorsorge, Kantinenessen\n- Regelmäßige Firmenevents\n**Be You. Be Aptar.**\nAptar ist ein Arbeitgeber, der sich für Chancengleichheit ausspricht. Wir glauben, dass eine vielfältige Belegschaft der Schlüssel zu unserem Erfolg ist! Wir schätzen Bewerbungen jeglicher Mitglieder unserer Gesellschaft, unabhängig von Alter, Geschlecht, Behinderung, sexueller Orientierung, Herkunft, Religion oder Weltanschauung.\nBewerben Sie sich hier beim Weltmarktführer mit Nennung Ihrer Gehaltsvorstellungen & Ihres frühsten Eintrittsdatums.\n**Ihre Ansprechpartnerin bei Fragen:**\n**Linda Rademacher**\nLinda.rademacher@aptar.com | 07732/801-173\nAptar Radolfzell GmbH I Öschlestraße 54-56 | 78315 Radolfzell",
+   "extra": {
+    "refnr": "10001-1004066384-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "0dd23922b283c10a",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004066384-S"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Senior HR Manager",
+   "company": "IGS GmbH",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-hr-manager-at-igs-gmbh-4494128717",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "Für dich bedeutet HR mehr als Recruiting und Administration? Für uns auch. Bei IGS gestalten wir die digitale Zukunft der Schweizer Sozialversicherungen. Damit wir unsere ambitionierten Ziele erreichen, brauchen wir nicht nur die passenden Technologien, sondern vor allem die richtigen Menschen, Kompetenzen und Führungskräfte. Genau hier kommst du ins Spiel. Als Senior HR Manager bist du Sparringspartnerin oder Sparringspartner für unsere Führungskräfte, treibst die Weiterentwicklung unserer HR-Landschaft aktiv voran und gestaltest nachhaltige Lösungen für Talent Management, Personalentwicklung und Organisationsentwicklung. Dabei verbindest du strategisches Denken mit pragmatischer Umsetzung und schaffst echten Mehrwert für Mitarbeitende, Führungskräfte und das Unternehmen. Zur Verstärkung unseres Teams suchen wir eine engagierte, konzeptionell starke und umsetzungsorientierte Persönlichkeit mit Leidenschaft für moderne HR-Arbeit. Was du bewegst Du berätst und begleitest Führungskräfte in strategischen und operativen Personalfragen Du entwickelst unsere Talent-, Führungs- und Personalentwicklungsinstrumente kontinuierlich weiter Du konzipierst und implementierst Kompetenzmodelle, Laufbahn- und Nachfolgekonzepte Du leitest oder koordinierst HR-Projekte und treibst Digitalisierungs- und Transformationsinitiativen voran Du analysierst HR-Kennzahlen und leitest daraus fundierte Handlungsempfehlungen für das Management ab Du entwickelst bestehende HR-Prozesse und HR-Systeme kontinuierlich weiter und etablierst moderne Instrumente für den Employee Lifecycle Du begleitest organisatorische Veränderungen und unterstützt Führungskräfte in anspruchsvollen Change-Prozessen Du unterstützt bei der Besetzung von Schlüsselpositionen und wirkst bei anspruchsvollen Rekrutierungen mit Du bringst dein Know-how bei der Weiterentwicklung von Richtlinien, Reglementen und HR-Standards ein Weshalb dir das gelingt Du verfügst über eine höhere Ausbildung im Bereich Human Resources, Betriebswirtschaft, Psychologie oder eine vergleichbare Fachrichtung (HF, FH oder Universität) Du bringst mehrere Jahre Erfahrung als HR Business Partner, Talent Manager, HR Development Manager oder in einer vergleichbaren Funktion mit Du verfügst über fundierte Kenntnisse in den Bereichen Talent Management, Personalentwicklung und Führungsentwicklung Du hast Erfahrung in der Begleitung von Veränderungsprozessen sowie in der Zusammenarbeit mit Führungskräften auf unterschiedlichen Ebenen Du denkst analytisch, erkennst Zusammenhänge rasch und kannst komplexe Themen verständlich vermitteln Du arbeitest selbständig, strukturiert und mit hoher Eigenverantwortung Du bewegst dich sicher zwischen strategischen Fragestellungen und operativer Umsetzung Du bringst idealerweise Erfahrung in der Weiterentwicklung von HR-Systemen, digitalen HR-Lösungen oder HR-Projekten mit Du überzeugst durch ein souveränes Auftreten, Beratungskompetenz und ausgeprägte Kommunikationsfähigkeiten Du verfügst über stilsichere Deutschkenntnisse in Wort und Schrift Wir bieten Eine vielseitige Schlüsselrolle mit grossem Gestaltungs- und Wirkungsspielraum Die Möglichkeit, die Zukunft unserer HR-Landschaft aktiv mitzugestalten Direkte Zusammenarbeit mit Führungskräften und relevanten Entscheidungsträgern Spannende Projekte in den Bereichen Talent Management, Organisationsentwicklung und HR-Digitalisierung Moderne Arbeitsmittel und ein wertschätzendes Arbeitsumfeld Flexible Arbeitszeiten und die Möglichkeit von Homeoffice Moderne Büroräumlichkeiten an zentraler Lage nahe Bahnhof Business Smartphone mit Abo, Halbtax-Abo sowie attraktive Weiterbildungs- und Entwicklungsmöglichkeiten Mindestens 25 Ferientage und die Möglichkeit von Workation Show more Show less Seniority level Associate Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at IGS GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "f4b9d0ff949ef1de",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-hr-manager-at-igs-gmbh-4494128717"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Leiter/in Jugendheim Platanenhof (m/w/d)",
+   "company": "Kanton St.Gallen",
+   "location": "Oberuzwil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiter-in-jugendheim-platanenhof-m-w-d-at-kanton-st-gallen-4486034660",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Für unser Amt suchen wir per 1. August 2027 oder nach Vereinbarung eine/n Ihre Aufgaben Sie tragen die Gesamtverantwortung für die personelle, organisatorische, fachliche und wirtschaftliche Führung des Platanenhofs Sie führen und entwickeln Ihre Mitarbeitenden und fördern eine professionelle, wertschätzende und verbindliche Zusammenarbeit Sie gestalten die strategische und operative Weiterentwicklung des Platanenhofs und sorgen für zeitgemässe Strukturen, Prozesse und Arbeitskonzepte Sie stellen eine hohe Qualität der Angebote und Dienstleistungen sicher und entwickeln diese unter Berücksichtigung neuer fachlicher Erkenntnisse und der Bedürfnisse der einweisenden Behörden weiter Sie verantworten die Budgetplanung und -einhaltung und stellen einen wirtschaftlichen sowie nachhaltigen Betrieb sicher Sie vertreten den Platanenhof gegenüber Behörden, Fachstellen, Partnerinstitutionen und weiteren Anspruchsgruppen und pflegen ein tragfähiges Netzwerk Sie arbeiten eng mit der Amtsleitung zusammen, wirken in relevanten Fachgremien mit und vertreten den Platanenhof nach Absprache auch gegenüber Öffentlichkeit und Medien Was Sie auszeichnet Sie verfügen über einen Masterabschluss oder eine vergleichbare höhere Ausbildung, vorzugsweise in Sozialpädagogik, Sozialer Arbeit, Psychologie, Pädagogik oder einem verwandten Fachgebiet Sie bringen umfassende, fundierte Berufserfahrung sowie mehrjährige Führungserfahrung mit, idealerweise in einem komplexen institutionellen Umfeld des Sozial-, Justiz-, Bildungs- oder Gesundheitsbereichs Sie verfügen über eine ausgewiesene Führungskompetenz und Erfahrung in der Führung und Entwicklung von Mitarbeitenden und Führungskräften; eine entsprechende Führungsausbildung ist von Vorteil Sie denken strategisch und konzeptionell, erkennen übergeordnete Zusammenhänge und entwickeln Organisation, Angebote und Strukturen vorausschauend weiter Sie sind es gewohnt, komplexe und interdisziplinäre Fragestellungen zu beurteilen, tragfähige Lösungen zu entwickeln und Ihren Handlungsspielraum verantwortungsvoll zu nutzen Sie verbinden eine hohe fachliche Qualität mit organisatorischem und wirtschaftlichem Denken und treffen auch bei anspruchsvollen Fragestellungen klare und nachvollziehbare Entscheidungen Sie überzeugen als integre, belastbare und kommunikationsstarke Führungspersönlichkeit und treten gegenüber Mitarbeitenden, Behörden, Fachstellen und weiteren Anspruchsgruppen sicher und verbindlich auf Unsere Benefits Eine vielseitige und verantwortungsvolle Führungsfunktion mit hoher gesellschaftlicher Relevanz Die Möglichkeit, die Zukunft des Platanenhofs und dessen fachliche sowie organisatorische Entwicklung aktiv mitzugestalten Ein anspruchsvolles und abwechslungsreiches Tätigkeitsfeld mit hoher Eigenverantwortung und kurzen Entscheidungswegen Eine enge Zusammenarbeit mit der Amtsleitung und einem breiten Netzwerk aus Behörden und Fachstellen sowie Einblick in die Vielseitigkeit des Sicherheits- und Justizdepartements Attraktive Anstellungsbedingungen und zeitgemässe Rahmenbedingungen des Kantons St.Gallen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "56f6d51930f8ffea",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiter-in-jugendheim-platanenhof-m-w-d-at-kanton-st-gallen-4486034660"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Senior Projektmanager:in",
+   "company": "IGS GmbH",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-projektmanager-in-at-igs-gmbh-4494146694",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "Mit der Einführung unserer neuen Systemgeneration begleiten wir Ausgleichskassen in der Schweiz und Liechtenstein auf ihrem Weg in die digitale Zukunft. Als Project Manager (m/w/d) auf Senior-Level übernimmst du die Gesamtverantwortung für die Einführung von Informationssystemen bei Ausgleichskassen, befristet bis Dezember 2029. Du steuerst Einführungsprojekte von der Planung über die Umsetzung bis zur erfolgreichen Inbetriebnahme und bist zentrale Ansprechperson für Kunden, Programmteams und Stakeholder. Mit deinem Organisationstalent, deinem Stakeholder-Management, deiner guten Französisch-Kenntnisse und deiner Projekterfahrung sorgst du dafür, dass komplexe Vorhaben erfolgreich bei unseren Kunden eingeführt werden. Was du bewegst Projektverantwortung & Steuerung Du übernimmst die Gesamtverantwortung für die Einführung unserer Systemlösung bei einer Ausgleichskasse und steuerst das Projekt über alle Phasen hinweg – von der Planung bis zur erfolgreichen Stabilisierung nach dem Go-Live. Du planst und koordinierst zentrale Aktivitäten, behältst Meilensteine, Risiken und Abhängigkeiten im Blick und sorgst für eine zielgerichtete Umsetzung. Du stellst sicher, dass die Einführung optimal in die übergeordnete Programmplanung eingebettet ist und synchron mit weiteren Einführungsprojekten erfolgt. Anforderungs- & Gap-Management Du verstehst die spezifischen Anforderungen unserer Kunden und sorgst dafür, dass diese wirkungsvoll in die Programm- und Lösungskonzepte integriert werden. Du moderierst Workshops mit Kunden, Produktmanagement, Migration und weiteren Stakeholdern und gestaltest tragfähige Lösungen für identifizierte Gaps. Du bewertest Änderungsanforderungen, schaffst Transparenz bezüglich Auswirkungen und unterstützt bei der Priorisierung im Gesamtprogramm. Zusammenarbeit & Umsetzung Du begleitest und unterstützt die Projektleitung auf Kundenseite als vertrauensvolle Sparringspartnerin bzw. vertrauensvoller Sparringspartner. Du koordinierst die Vorbereitung von Testaktivitäten und stellst gemeinsam mit den Fachbereichen sicher, dass alle Beteiligten optimal auf die Einführung vorbereitet sind. Du führst Kunden und Projektteams sicher durch UAT, Go-Live und Hypercare und trägst massgeblich dazu bei, dass der Übergang in den produktiven Betrieb gelingt. Weshalb dir das gelingt Dank deiner höheren Ausbildung (HF/FH/Uni) in Informatik, Wirtschaftsinformatik, Betriebswirtschaft oder einer vergleichbaren Fachrichtung verfügst du über ein solides fachliches Fundament. Komplexe Projekte steuerst du seit mehreren Jahren erfolgreich und hast dabei idealerweise bereits Führungsverantwortung übernommen. Du beherrschst die französische Sprache auf mindestens Level B2. Mit deinem Organisationsgeschick, deinem strukturierten Vorgehen und deiner lösungsorientierten Denkweise behältst du auch in anspruchsvollen Situationen den Überblick. Komplexe Sachverhalte kannst du verständlich vermitteln und auf unterschiedliche Zielgruppen abstimmen. Deine ausgeprägte Kommunikationsstärke und dein sicheres Auftreten helfen dir dabei, unterschiedliche Interessen zusammenzubringen. Eine Zertifizierung in einer Projektmanagementmethodik wie HERMES, PMI oder IPMA rundet dein Profil idealerweise ab. Agile Methoden und Frameworks wie Scrum oder SAFe sind dir vertraut. Italienischkenntnisse sind von Vorteil. Wir bieten Eine Schlüsselrolle in einem der grössten Transformationsprogramme im Sozialversicherungsumfeld Hohe Eigenverantwortung und grossen Gestaltungsspielraum Flexible Arbeitsmodelle mit Homeoffice- und Workation-Möglichkeiten Ein erfahrenes, kollegiales Umfeld mit kurzen Entscheidungswegen Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten Moderne Arbeitsmittel und attraktive Anstellungsbedingungen Show more Show less Seniority level Associate Employment type Temporary Industries IT Services and IT Consulting Referrals increase your chances of interviewing at IGS GmbH by 2x See who you know",
+   "extra": {
+    "seniority": "Associate",
+    "employment_type": "Temporary",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "07474b3725c3fce6",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-projektmanager-in-at-igs-gmbh-4494146694"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Lehrperson und Coach für Brückenangebote (ca. 80 %, m/w/d) Vorlehre und Integrationsklassen",
+   "company": "Kanton St.Gallen",
+   "location": "Rapperswil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/lehrperson-und-coach-f%C3%BCr-br%C3%BCckenangebote-ca-80-%25-m-w-d-vorlehre-und-integrationsklassen-at-kanton-st-gallen-4486028795",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. eine Lehrperson und Coach für die Brückenangebote im Bereich Vorlehre und Integrationsklassen zu 80% auf das neue Schuljahr 2027/2028 Ihre Aufgaben Jugendliche auf ihrem Weg in Ausbildung und Beruf zu begleiten, bedeutet mehr als Unterricht. Es braucht Menschen, die Potenziale erkennen, Orientierung geben, klare Erwartungen formulieren und junge Menschen dabei unterstützen, ihren nächsten Schritt selbstständig zu gehen. Für unsere Brückenangebote Vorlehre und Integrationsklassen suchen wir eine engagierte Lehrperson mit Coachingaufgaben. Ein besonderer Schwerpunkt liegt auf der Begleitung von Jugendlichen mit unterschiedlichen sprachlichen, schulischen und kulturellen Voraussetzungen. Ihre Aufgaben Jugendliche und junge Erwachsene in der Vorlehre und in den Integrationsklassen unterrichten. Praxisnahen, kompetenzorientierten und differenzierten Unterricht planen und gestalten. Lernende bei ihrer persönlichen, schulischen, sprachlichen und beruflichen Entwicklung begleiten. Deutsch als Zweitsprache und Sprachförderung im Unterricht gezielt einbauen. Lernende im Berufswahlprozess sowie bei der Suche nach Praktikums- und Lehrstellen unterstützen. Klassenführungs- und Coachingaufgaben übernehmen sowie Standort-, Förder- und Entwicklungsgespräche führen. Mit Eltern bzw. Bezugspersonen, Praktikumsbetrieben, Berufsberatung und weiteren Fachstellen zusammenarbeiten. Sich aktiv in die Weiterentwicklung der Brückenangebote und zeitgemässer Unterrichtsformen einbringen. Was Sie auszeichnet Eine pädagogische Ausbildung bzw. ein Lehrdiplom oder eine vergleichbare Qualifikation, am besten auf der Oberstufe. Erfahrung im Unterricht mit Jugendlichen und jungen Erwachsenen. Freude an heterogenen Klassen und unterschiedlichen Bildungsbiografien. Interesse oder Erfahrung im Bereich Deutsch als Zweitsprache, Sprachförderung oder Integrationsarbeit. Interesse an Berufsbildung, Berufswahl und Arbeitswelt. Ausgeprägte Fähigkeiten in Beziehungsgestaltung, Klassenführung und Coaching. Einen wertschätzenden und gleichzeitig klaren Umgang mit Jugendlichen. Selbstständigkeit, Flexibilität und hohe Teamorientierung. Besonders willkommen Erfahrung in DaZ, Integrationsklassen, Sekundarstufe I, Coaching, Sozialpädagogik oder Berufswahlbegleitung ist von Vorteil. Unsere Benefits Ein vielseitiges Tätigkeitsfeld an der Schnittstelle von Unterricht, Coaching, Sprachförderung, Berufswahl und Integration. Die Zusammenarbeit in einem engagierten Team. Raum für eigene Ideen und innovative Unterrichtsformen. Eine moderne Berufsfachschule mit engem Bezug zur Arbeitswelt. Zeitgemässe Anstellungsbedingungen. Show more Show less Seniority level Not Applicable Employment type Part-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Part-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "314561dd389c7633",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/lehrperson-und-coach-f%C3%BCr-br%C3%BCckenangebote-ca-80-%25-m-w-d-vorlehre-und-integrationsklassen-at-kanton-st-gallen-4486028795"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Senior Collaboration Solution Designer (alle)",
+   "company": "SWICA Organisation de Santé",
+   "location": "Winterthur, Zurich, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/senior-collaboration-solution-designer-alle-at-swica-organisation-de-sant%C3%A9-4493064552",
+   "posted": "2026-11-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2eeedb512e9d914e",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/senior-collaboration-solution-designer-alle-at-swica-organisation-de-sant%C3%A9-4493064552"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Alltagsbegleiter (m/w/d) in Seniorenwohngemeinschaft - Jobbird.com",
+   "company": "Jobster",
+   "location": "Überlingen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/alltagsbegleiter-m-w-d-in-seniorenwohngemeinschaft-jobbird-com-at-jobster-4494338903",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "5d79fcec04cf1ad9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/alltagsbegleiter-m-w-d-in-seniorenwohngemeinschaft-jobbird-com-at-jobster-4494338903"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Product Owner (m/w/d)",
+   "company": "Stadtwerke Konstanz GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/product-owner-m-w-d-at-stadtwerke-konstanz-gmbh-4494153619",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "d96c6abc9cce43b5",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/product-owner-m-w-d-at-stadtwerke-konstanz-gmbh-4494153619"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Regional Social Media Manager (all genders) befristet 6 Monate",
+   "company": "AXA Switzerland",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/regional-social-media-manager-all-genders-befristet-6-monate-at-axa-switzerland-4494170348",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "8854bbee801ce560",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/regional-social-media-manager-all-genders-befristet-6-monate-at-axa-switzerland-4494170348"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Regional Social Media Manager (all genders) befristet 6 Monate",
+   "company": "AXA",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/regional-social-media-manager-all-genders-befristet-6-monate-at-axa-4494175855",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "2f0e311fb1358afa",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/regional-social-media-manager-all-genders-befristet-6-monate-at-axa-4494175855"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Stellenangebot SKV im Bereich Kommunikation, Content & Social Media (m/w) 20–40 %",
+   "company": "Schweizerischer Kaderverband (SKV)",
+   "location": "St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/stellenangebot-skv-im-bereich-kommunikation-content-social-media-m-w-20%E2%80%9340-%25-at-schweizerischer-kaderverband-skv-4494607075",
+   "posted": "2026-11-25",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "ca6877bab73bcca2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/stellenangebot-skv-im-bereich-kommunikation-content-social-media-m-w-20%E2%80%9340-%25-at-schweizerischer-kaderverband-skv-4494607075"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "<em>HR</em> <em>Fachfrau</em>",
+   "company": "Flexsis SA",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "www.jobs.ch/de/stellenangebote/detail/ffb37376-8f93-44c5-a72d-6cec21f0d3a9/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "---\nbase:\nmeta-keywords:\nmeta-viewport: width=device-width, initial-scale=1.0\ntitle: <em>HR</em> <em>Fachfrau</em>\n---\n<em>HR</em> <em>Fachfrau</em>\n===========\n**Firmenbeschreibung**\nFlexsis begleitet Sie als Fach\\- oder Arbeitskraft in den Bereichen Industrie, Bau, Produktion, Logistik, Technik oder Dienstleistung.",
+   "extra": {
+    "canton": "SG",
+    "query": "HR Fachfrau",
+    "workload": "100-100 %",
+    "permanent": false,
+    "jobroom_id": "fe9e1870-84d4-4d39-a77b-7e0e153152e9"
+   },
+   "id": "f5653eafe5c53a5e",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "www.jobs.ch/de/stellenangebote/detail/ffb37376-8f93-44c5-a72d-6cec21f0d3a9/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+   },
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "<em>HR</em> Business Partner (m/w/d) 80–100% – Verantwortung übernehmen",
+   "company": "ASSO PERSONAL AG",
+   "location": "9451 Kriessern",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/60d2b7f6-5d54-41bf-a4df-be9e7784146f",
+   "posted": "2026-11-24",
+   "salary": null,
+   "via": null,
+   "description": "Kennzahlenauswertungen, Controlling und Management-Reportings\nVertrauensvolle Zusammenarbeit mit der Geschäftsleitung bei personellen und betriebswirtschaftlichen Themen\nIhr Profil – das bringen Sie mit\nAbgeschlossene kaufmännische Grundausbildung mit einer Weiterbildung im Personalwesen, beispielsweise als <em>HR</em>-<em>Fachfrau</em>",
+   "extra": {
+    "canton": "SG",
+    "query": "HR Fachfrau",
+    "workload": "80-100 %",
+    "permanent": true,
+    "jobroom_id": "60d2b7f6-5d54-41bf-a4df-be9e7784146f"
+   },
+   "id": "a4950881331dc3f1",
+   "sources": [
+    "jobroom"
+   ],
+   "links": {
+    "jobroom": "https://www.job-room.ch/job-search/60d2b7f6-5d54-41bf-a4df-be9e7784146f"
+   },
+   "first_seen": "2026-11-25"
+  }
+ ]
+}
