@@ -1,269 +1,152 @@
 {
- "generated_at": "2026-11-26T09:41:56+00:00",
+ "generated_at": "2026-11-27T09:48:35+00:00",
  "stats": {
   "raw_per_source": {
-   "arbeitsagentur": 216,
+   "arbeitsagentur": 214,
    "google_jobs": "deaktiviert",
-   "linkedin": 125,
-   "jobroom": 39
+   "linkedin": 177,
+   "jobroom": 40
   },
-  "excluded": 268,
-  "unique": 94,
-  "new": 20,
+  "excluded": 313,
+  "unique": 100,
+  "new": 28,
   "carried_over": 0
  },
  "errors": {},
  "jobs": [
   {
+   "title": "Planner, Supply Chain (m/w/d)",
+   "company": "Aptar Radolfzell GmbH",
+   "location": "78315 Radolfzell am Bodensee",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208811025-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# **Planner, Supply Chain (m/w/d)**\n**Wer wir sind**\nBei Aptar nutzen wir Expertenwissen, Design, Technik und Wissenschaft, um innovative Verpackungstechnologien zu entwickeln, die von Menschen auf der ganzen Welt verwendet werden.\nJeden Tag schaffen wir Aptar \"Aha-Momente\" für Kunden, Verbraucher und Patienten, indem wir kontinuierlich Innovationen auf den Markt bringen. Wir entwickeln durch unsere große Erfahrung und unserem hohen technologischen Know-How Spender- und Dosiersysteme für die Bereiche Kosmetik, Haushalt, Lebensmittel und Pharma, die das Leben von vielen Menschen in den vielfältigsten Lebensbereichen erleichtert.\nWir haben Produktionsstätten in Nordamerika, Europa, Asien und Südamerika und über 14.000 engagierte Mitarbeitende in rund 20 Ländern.\n**Ihre neue Herausforderung an unseren Standorten Radolfzell & Eigeltingen:**\n- Erstellung und Pflege von Produktions- und Materialverfügbarkeitsplänen\n- Umsetzung des Bedarfsplans in realisierbare Versorgungspläne in Zusammenarbeit mit Produktion, Einkauf und Logistik\n- Überwachung von Lieferantenleistungen, Lieferzeiten und Kapazitäten zur Sicherstellung der Materialversorgung\n- Pflege und Validierung Supply Chain relevanter Stammdaten sowie Sicherstellung der Datenqualität in SAP und Planungssystemen\n- Optimierung der Lagerbestände und Durchführung von Ursachenanalysen bei Abweichungen, Engpässen und Überbeständen\n- Identifikation von Verbesserungspotenzialen in Planungsprozessen und Umsetzung geeigneter Maßnahmen\n- Enge bereichsübergreifende Zusammenarbeit sowie proaktive Kommunikation von Risiken und Gegenmaßnahmen\n- Ansprechpartner für planungsrelevante Themen und Mitarbeit in Supply-Chain-Projekten\n**Ihr Profil**\n- Abgeschlossene kaufmännische oder technische Ausbildung; Weiterbildung im Bereich Supply Chain Management oder Produktionsplanung von Vorteil\n- Berufserfahrung in Supply Chain, Produktionsplanung, Materialplanung oder Disposition\n- Fundierte SAP-Kenntnisse, insbesondere in PP/MM\n- Sehr gute Excel-Kenntnisse und Erfahrung mit Planungstools; APO-Kenntnisse von Vorteil\n- Analytische Fähigkeiten sowie eine strukturierte, eigenverantwortliche und lösungsorientierte Arbeitsweise\n- Hohe Kommunikations- und Teamfähigkeit sowie gute Deutsch- und Englischkenntnisse\nI**hr neuer Arbeitgeber**\n- Global führender Hersteller innovativer Lösungen für Dosiersysteme, Versiegelungen und aktive Verpackungen für Pharma, Beauty und Closures\n- 14 000 Mitarbeitende - 20 Länder\nUnsere lokalen Standorte in Radolfzell & Eigeltingen:\nAptar Radolfzell GmbH:\n- Gegründet 1947\n- Über 950 Mitarbeitende\n- Kontinuierliches Unternehmenswachstum & krisensicherer Arbeitgeber\n- Produktion für die pharmazeutische Industrie mit jährlich über 500 Millionen innovativen Dosiersystemen\nIhre Vorteile\n- Fachliche Weiterentwicklung und Karriereplanung\n- Flexible Arbeitszeiten, tageweise Home-Office Möglichkeit und 30 Tage Urlaub\n- Mitarbeitergewinnbeteiligung\n- Sonderleistungen wie Firmenfitness, Mitarbeiterrabatte, Altersvorsorge, Kantinenessen\n- Regelmäßige Firmenevents\nBe You. Be Aptar.\nAptar ist ein Arbeitgeber, der sich für Chancengleichheit ausspricht. Wir glauben, dass eine vielfältige Belegschaft der Schlüssel zu unserem Erfolg ist! Wir schätzen Bewerbungen jeglicher Mitglieder unserer Gesellschaft, unabhängig von Alter, Geschlecht, Behinderung, sexueller Orientierung, Herkunft, Religion oder Weltanschauung.\nBewerben Sie sich hier beim Weltmarktführer mit Nennung Ihrer Gehaltsvorstellungen & Ihres frühsten Eintrittsdatums.\nIhre Ansprechpartnerin bei Fragen:\n**Samira Baumann**\nsamira.baumann@aptar.com | 07732/801-172\nAptar Radolfzell GmbH I Öschlestraße 54-56 | 78315 Radolfzell",
+   "extra": {
+    "refnr": "10000-1208811025-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "5268e1a80a6432c1",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208811025-S"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Qualitätsprüfer (m/w/d) im Produktionsbereich Spritzguss",
+   "company": "Aptar Radolfzell GmbH",
+   "location": "78253 Eigeltingen",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208811391-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# **Qualitätsprüfer (m/w/d) im Produktionsbereich - Spritzguss**\n**Wer wir sind**\nBei Aptar nutzen wir Expertenwissen, Design, Technik und Wissenschaft, um innovative Verpackungstechnologien zu entwickeln, die von Menschen auf der ganzen Welt verwendet werden.\nJeden Tag schaffen wir Aptar \"Aha-Momente\" für Kunden, Verbraucher und Patienten, indem wir kontinuierlich Innovationen auf den Markt bringen. Wir entwickeln durch unsere große Erfahrung und unserem hohen technologischen Know-How Spender- und Dosiersysteme für die Bereiche Kosmetik, Haushalt, Lebensmittel und Pharma, die das Leben von vielen Menschen in den vielfältigsten Lebensbereichen erleichtert.\nWir haben Produktionsstätten in Nordamerika, Europa, Asien und Südamerika und über 14.000 engagierte Mitarbeitende in rund 20 Ländern.\n**Ihre neue Herausforderung an unserem Standort in Eigeltingen:**\n- Optische, maßliche und funktionelle Prüfung von Einzelteilen\n- Erstellung, Koordination und Bewertung von Prüfberichten und Abweichungen\n- Durchführung von Probeläufen und Inprozesskontrolle von Spritzteilen\n- Dokumentation der Testergebnisse im System\n- Mitgestaltung eines ordentlichen Arbeitsablaufes sowie flexible Unterstützung im QC-Team\n- Mitwirkung an (Teil)Projekten\n**Ihr Profil**\n- Abgeschlossene technische oder mechanische Berufsausbildung und / oder entsprechende Berufserfahrung\n- Erfahrung im Bereich Qualitäts- und Messtechnik von Vorteil\n- Lernbereitschaft sowie Freude an präzisen Tätigkeiten\n- Technisches Grundverständnis und Qualitätsbewusstsein setzen wir voraus\n- Erfahrung im Umgang mit ERP-Systemen (vorzugsweise SAP) ist von Vorteil\n- Allgemeine EDV-Affinität ist wünschenswert\n- Gute Deutschkenntnisse und Schichtbereitschaft sind vorhanden\n**Ihr neuer Arbeitgeber**\n- Global führender Hersteller innovativer Lösungen für Dosiersysteme, Versiegelungen und aktive Verpackungen für Pharma, Beauty und Closures\n- 14 000 Mitarbeitende - 20 Länder\nUnsere lokalen Standorte in Radolfzell & Eigeltingen:\nAptar Radolfzell GmbH:\n- Gegründet 1947\n- Über 950 Mitarbeitende\n- Kontinuierliches Unternehmenswachstum & krisensicherer Arbeitgeber\n- Produktion für die pharmazeutische Industrie mit jährlich über 500 Millionen innovativen Dosiersystemen\nIhre Vorteile\n- Fachliche Weiterentwicklung und Karriereplanung\n- 30 Tage Urlaub\n- Mitarbeitergewinnbeteiligung\n- Sonderleistungen wie Firmenfitness, Mitarbeiterrabatte, Altersvorsorge, Kantinenessen\n- Regelmäßige Firmenevents\nBe You. Be Aptar.\nAptar ist ein Arbeitgeber, der sich für Chancengleichheit ausspricht. Wir glauben, dass eine vielfältige Belegschaft der Schlüssel zu unserem Erfolg ist! Wir schätzen Bewerbungen jeglicher Mitglieder unserer Gesellschaft, unabhängig von Alter, Geschlecht, Behinderung, sexueller Orientierung, Herkunft, Religion oder Weltanschauung.\nBewerben Sie sich hier beim Weltmarktführer mit Nennung Ihrer Gehaltsvorstellungen & Ihres frühsten Eintrittsdatums.\nIhre Ansprechpartnerin bei Fragen:\n**Anna Maier**\nAnna.maier@aptar.com | 07732/801-507\nAptar Radolfzell GmbH I Öschlestraße 54-56 | 78315 Radolfzell",
+   "extra": {
+    "refnr": "10000-1208811391-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "3e1c4b718656a959",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208811391-S"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Quality Control Specialist Assembly (m/w/d)",
+   "company": "Aptar Radolfzell GmbH",
+   "location": "78253 Eigeltingen",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208811193-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "# **Quality Control Specialist Assembly (m/w/d)**\n**Befristet auf 2 Jahre**\n**Wer wir sind**\nBei Aptar nutzen wir Expertenwissen, Design, Technik und Wissenschaft, um innovative Verpackungstechnologien zu entwickeln, die von Menschen auf der ganzen Welt verwendet werden.\nJeden Tag schaffen wir Aptar \"Aha-Momente\" für Kunden, Verbraucher und Patienten, indem wir kontinuierlich Innovationen auf den Markt bringen. Wir entwickeln durch unsere große Erfahrung und unserem hohen technologischen Know-How Spender- und Dosiersysteme für die Bereiche Kosmetik, Haushalt, Lebensmittel und Pharma, die das Leben von vielen Menschen in den vielfältigsten Lebensbereichen erleichtert.\nWir haben Produktionsstätten in Nordamerika, Europa, Asien und Südamerika und über 14.000 engagierte Mitarbeitende in rund 20 Ländern.\n**Ihre neue Herausforderung an unserem Standort in Eigeltingen:**\n- Unterstützung bei der Organisation des operativen Tagesgeschäfts in der Qualitätskontrolle Assembly\n- Sicherstellung der qualitätsgerechten Warenausgangsprüfung sowie Unterstützung bei Chargenfreigaben\n- Treffen von Verwendungsentscheidungen sowie Durchführung von Sonderfreigaben und Sperrungen in Abstimmung mit relevanten Schnittstellen\n- Erstellung von Zertifikaten sowie Sicherstellung einer korrekten Bestands- und Sperrlagerverwaltung\n- Unterstützung bei Qualifizierungen, Validierungen, Montagetests sowie Transfer- und Optimierungsprojekten\n- Aktive Mitarbeit bei Kunden-, Behörden- und internen Audits\n- Unterstützung und Mitarbeit bei Inprozesskontrollen (IPC), Freigabeprüfungen sowie qualitätsrelevanten Prüfungen von Zwischen- und Fertigprodukten\n- Bearbeitung, Bewertung und Koordination von Abweichungen, OOS-Fällen und Fehlermeldungen gemäß Qualitätsmanagementsystem\n**Ihr Profil**\n- Berufserfahrung im Bereich Qualitätssicherung oder Qualitätskontrolle, vorzugsweise in einem regulierten Umfeld\n- Gute Deutschkenntnisse sowie grundlegende Englischkenntnisse\n- Kommunikationsstärke sowie Freude an der Zusammenarbeit mit verschiedenen Fachbereichen\n- Technisches Verständnis sowie Kenntnisse in MS Office sowie idealerweise SAP\n**Ihr neuer Arbeitgeber**\n- Global führender Hersteller innovativer Lösungen für Dosiersysteme, Versiegelungen und aktive Verpackungen für Pharma, Beauty und Closures\n- 14 000 Mitarbeitende - 20 Länder\nUnsere lokalen Standorte in Radolfzell & Eigeltingen:\nAptar Radolfzell GmbH:\n- Gegründet 1947\n- Über 950 Mitarbeitende\n- Kontinuierliches Unternehmenswachstum & krisensicherer Arbeitgeber\n- Produktion für die pharmazeutische Industrie mit jährlich über 500 Millionen innovativen Dosiersystemen\n**Ihre Vorteile**\n- Fachliche Weiterentwicklung und Karriereplanung\n- 30 Tage Urlaub\n- Mitarbeitergewinnbeteiligung\n- Sonderleistungen wie Firmenfitness, Mitarbeiterrabatte, Altersvorsorge, Kantinenessen\n- Regelmäßige Firmenevents\nBe You. Be Aptar.\nAptar ist ein Arbeitgeber, der sich für Chancengleichheit ausspricht. Wir glauben, dass eine vielfältige Belegschaft der Schlüssel zu unserem Erfolg ist! Wir schätzen Bewerbungen jeglicher Mitglieder unserer Gesellschaft, unabhängig von Alter, Geschlecht, Behinderung, sexueller Orientierung, Herkunft, Religion oder Weltanschauung.\nBewerben Sie sich hier beim Weltmarktführer mit Nennung Ihrer Gehaltsvorstellungen & Ihres frühsten Eintrittsdatums.\nIhre Ansprechpartnerin bei Fragen:\n**Anna Maier**\nAnna.maier@aptar.com | 07732/801-507\nAptar Radolfzell GmbH I Öschlestraße 54-56 | 78315 Radolfzell",
+   "extra": {
+    "refnr": "10000-1208811193-S",
+    "query": "Chancengleichheit",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "3e7b3cc7bbce9609",
+   "sources": [
+    "arbeitsagentur"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208811193-S"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "HR Specialist Development (m/w/d)",
+   "company": "KUMAVISION AG",
+   "location": "88677 Markdorf, Baden",
+   "country": "DE",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17195-k58839.1719-S",
+   "posted": null,
+   "salary": null,
+   "via": null,
+   "description": "Wir bei KUMAVISION entwickeln unsere Performance ständig weiter. Unsere Visionen, unsere Expertise, unser Drive und unsere Flexibilität wachsen aus einer besonderen Wir-Kultur, die wir quer durch alle Standorte und Ebenen pflegen.\nDas macht KUMAVISION zu einem weltweit führenden Microsoft Dynamics Integrationspartner und gefragten Experten für die digitale Transformation des Mittelstandes. Als einer der wenigen Microsoft-Partner bieten wir dabei umfassendes Know-how über die gesamte Microsoft-Technologieplattform Dynamics 365, von ERP- und CRM-Lösungen über Business Intelligence bis zu IoT und KI.\nSei dabei, wenn wir die nächste Herausforderung anpacken!\nAb sofort suchen wir dich als\n# HR Specialist Development (m/w/d)\nzur Verstärkung unseres Teams in\n##### Markdorf\n## DU und deine Performance bei KUMAVISION\nDu bist für unsere Mitarbeitenden und Führungskräfte eine wichtige Vertrauensperson. Gemeinsam mit dem HR-Team schaffst du ein Umfeld, in dem Menschen ihr Potenzial entfalten und ihren Weg aktiv gestalten können.\n- Du betreust im Rahmen unseres HR-Mentoring-Programms einen definierten Mitarbeiterkreis entlang des Employee Lifecycles und berätst mit Hilfe deiner herausragenden kommunikativen Fähigkeiten kompetent und lösungsorientiert.\n- Du begleitest als Sparringspartner unsere Team Manager und Expert Leads auf Augenhöhe und entwickelst mit ihnen gemeinsam unsere Leadership-Performance weiter.\n- Mit deiner mehrjährigen Erfahrung in der Personalentwicklung konzipierst Du Professional Development Journeys und zeigst in Gesprächen die Perspektiven und Entwicklungswege innerhalb der KUMAVISION auf.\n- Du führst durch unseren jährlichen Beurteilungs- und Förderprozess und berätst mit deiner Coaching-Kompetenz die Fach- und Führungskräfte zu individuellen Personalentwicklungsmaßnahmen.\n- Du unterstützt die Unternehmensentwicklung durch die Planung und Erstellung von Trainings und E-Learnings mit unserer digitalen Lernplattform KUMAlearn.\n- Du bist gerne Teil des Teams und unterstützt bei administrativen und organisatorischen Personalaufgaben.\n## Du und das Wir bei KUMAVISION\nUnsere Perfomance bei KUMAVISION wächst aus dem Wir. Uns vereint ein großartiger Teamgeist. Wenn du die folgenden Dinge ähnlich siehst wie wir, passt du perfekt in unser Team:\n- Du siehst in einem Job nicht nur eine Aufgabe, sondern erledigst ihn mit Leidenschaft. Du freust dich auf neue Herausforderungen, gehst sie gerne gemeinsam im Team an und hast Spaß an deiner Tätigkeit.\n- Deine Neugier treibt dich an, du willst Neues entdecken und gibst dich mit einem „geht nicht“ niemals zufrieden. Du hast Ideen und bringst diese aktiv ein.\n- Du unterstützt als Spezialist in deinem Aufgabengebiet deine Kolleginnen und Kollegen quer durch das gesamte Unternehmen. Dafür bekommst aber auch du jederzeit den Support, den du fachlich und persönlich benötigst. Hilfsbereitschaft zählt bei uns.\n- Im Team blühst du auf. Gemeinsam mit deinen Kolleginnen und Kollegen holst du das Beste aus unseren Projekten und treibst uns durch deine inspirierende Art immer wieder zu Höchstleistungen.\n- Dienst nach Vorschrift ist nicht dein Ding. Du suchst nach einem herausfordernden Umfeld, in dem du aktiv mitgestalten und einen echten Mehrwert leisten kannst. Beruf und Familie sind dabei jederzeit vereinbar, egal ob im Büro oder im Homeoffice.\n## Unsere Werte bei KUMAVISION\n## Wir Kultur\nBei KUMAVISION pflegen wir die Zusammenarbeit und den Zusammenhalt mit einer ganz besonderen Wir-Kultur. Egal ob du eine fachliche Frage oder ein persönliches Anliegen hast, bei uns wirst du immer jemanden antreffen, der mit dir gemeinsam eine Lösung findet. Quer durch alle Standorte und alle Hierarchieebenen sind wir ein großes, gemeinsames Team. Das zelebrieren wir regelmäßig bei Events in unseren Abteilungen und für das ganze Unternehmen.\n## Fairness\nDas Arbeits- und Geschäftsleben ist ein Geben und Nehmen. Um langfristig erfolgreich zu sein, achten wir bei KUMAVISION sehr auf Fairness und Transparenz. …",
+   "extra": {
+    "refnr": "17195-k58839.1719-S",
+    "query": "Personalentwicklung",
+    "befristung": null,
+    "arbeitszeit": null
+   },
+   "id": "243dbcf3a1081ad5",
+   "sources": [
+    "arbeitsagentur",
+    "linkedin"
+   ],
+   "links": {
+    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17195-k58839.1719-S",
+    "linkedin": "https://de.linkedin.com/jobs/view/hr-specialist-development-m-w-d-at-kumavision-ag-4495047154"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
    "title": "Referent*in Studierendenmarketing (w/m/d)",
-   "company": "Universität Konstanz",
-   "location": "78464 Konstanz",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-fqjxes7jd8-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "# Referent\\*in Studierendenmarketing (w/m/d)\n### ### (Vollzeit, E 13 TV-L)\n**Kennziffer 2026/237. Die Stelle ist zunächst auf zwei Jahre befristet, eine Entfristung wird ausdrücklich angestrebt, Eingruppierung nach persönlichen Voraussetzungen.**\nDie Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert.\nMit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung.\nDie **Stabsstelle Kommunikation und Marketing** bündelt die zentrale Kommunikation der Universität nach innen und außen. Sie verantwortet die Bereiche Redaktion, Presse- und Öffentlichkeitsarbeit, digitale und internationale Kommunikation, Corporate Design und Corporate Publishing sowie zentrale Veranstaltungen und Public Outreach. Zu ihren Schwerpunkten gehören außerdem das Alumni-, Netzwerk- und Beziehungsmanagement. Als direkt der Rektorin zugeordnete Stabsstelle unterstützt sie die Universitätsleitung in strategischen Kommunikationsfragen und bei der Positionierung der Universität in Wissenschaft, Gesellschaft und Öffentlichkeit.\n## Ihre Aufgaben\n- Entwicklung und Aufbau einer hochschulweiten Studierendenmarketing-Strategie sowie Konzeption einer jährlichen Marketing- und Kampagnenplanung für Studieninteressierte in Abstimmung mit den Fachbereichen und zentralen Einrichtungen der Universität\n- Schwerpunkt Community Management/Social Media: Verantwortung für die zentrale digitale Kommunikation im Studierendenmarketing, einschließlich Redaktionsplanung, Entwicklung zielgruppengerechter Formate und Inhalte (insbesondere Foto, Video und Reels), Community Management sowie Beobachtung relevanter Plattform- und Zielgruppentrends\n- Planung und Steuerung von Marketingkampagnen über geeignete Kanäle sowie Koordination des externen Performance-Marketings einschließlich Abstimmung von Zielen, Budgets, Maßnahmen und Auswertungen mit beauftragten Agenturen bzw. Dienstleistern. Koordination der Weiterentwicklung von Websites und Landingpages für Studieninteressierte\n- Konzeption und Koordination von Content-Produktionen sowie Auswahl, Briefing und Steuerung externer Agenturen, Dienstleister und Creator für umfangreichere Formate. Entwicklung von Vorlagen, Guidelines und Content-Bausteinen zur Unterstützung der dezentralen Aktivitäten.\n- Zentrale Ansprechperson und Beratung der Fachbereiche sowie der Abteilung Studium und Lehre zu Fragen des Studierendenmarketings und der Social-Media-Kommunikation; Abstimmung und Koordination zentraler und dezentraler Marketingaktivitäten und -ressourcen\n- Auswertung relevanter Bewerber-, Studierenden- und Kommunikationsdaten sowie Markt- und Wettbewerbsentwicklungen; Definition und Beobachtung geeigneter KPIs und Ableitung von Handlungsempfehlungen zur Weiterentwicklung des Studierendenmarketings\n- Enge Zusammenarbeit mit der Online-Redaktion im Bereich Social Media, Ansprechperson für studentische Hilfskräfte im Bereich Social Media und Studierendenmarketing\n## Ihr Profil\n- Abgeschlossenes wissenschaftliches Hochschulstudium mit Bezug zu Marketing, Kommunikation, Medien- oder Wirtschaftswissenschaften oder vergleichbare Qualifikation sowie einschlägige Berufserfahrung im Marketing, in der Kommunikation oder im Umfeld von Social Media, Erfahrungen im Studierenden-, Hochschul- oder Bildungsmarketing sind von Vorteil\n- Ausgeprägte Affinität zu digitalen Medien sowie praktische Erfahrung in der Konzeption, Redaktionsplanung und Weiterentwicklung von Social Media-Kommunikation und Content, insbesondere Foto, Video und …",
-   "extra": {
-    "refnr": "19772-fqjxes7jd8-S",
-    "query": "Gleichstellung",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "9f209fd9e7aae58b",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19772-fqjxes7jd8-S"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Produktionsmitarbeiter / Mitarbeiter Montage oder Maschinenbedienung (m/w/d)",
-   "company": "Chronon-Personal GmbH",
-   "location": "78333 Stockach, Baden",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004071125-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "**Produktionsmitarbeiter / Mitarbeiter Montage oder Maschinenbedienung (m/w/d)**\n[](<>)\nSie haben Berufserfahrung in der Kleinteilmontage und haben schon einfache Maschinen bedient? Eventuell haben Sie auch schonmal gelötet? Sie suchen eine Stelle in 2-Schicht? Perfekt - dann kommen Sie zur Chronon-Personal GmbH und lernen unser Kundenunternehmen in Stockach kennen!\n**Ihre Aufgaben – Das ist Ihre Tätigkeit:**\n- **Handmontage** von elektronischen Bauteilen und Baugruppen\n- **Handwerkliche Montagearbeiten** wie Schrauben, Verkleben, Pressen, Stanzen, Isolieren, Schleifen, Fräsen, Bohren, etc.\n- **Montageanweisungen**  beachten und danach arbeiten\n- **Dokumentation**  / Ausfüllen der Fertigungspapiere\n- **Löten** von Platinen, Drähten, Bauteilen – nur bei entsprechender Qualifikation, kein Muss\n- **Bedienung** unterschiedlichster (einfacher) Maschinen\n**Ihr Profil – Das bringen Sie mit:**\n- **Qualifikation:**  Berufserfahrung in der Kleinteil- / Baugruppenmontage erwünscht, von Vorteil sind Lötkenntnisse\n- **Fachkenntnisse:** Lesen von Montageanweisungen, handwerkliches Geschick, gute Deutschkenntnisse in Wort und Schrift\n- **Persönlichkeit:** Sorgfältige, selbständige und sehr genaue Arbeitsweise, Zuverlässigkeit, Teamfähigkeit\n- **Arbeitszeit:**  Vollzeit, 2-Schicht (06:00 – 14:00 / 14:00 – 22:00 Uhr im wöchentlichen Wechsel);\n- **Führerschein + PKW:** von Vorteil\nab Bahnhof Singen bieten wir auch einen Fahrdienst an, hierzu müssten Sie es schaffen, jeweils um 05:20 Uhr oder dann um 13:20 Uhr in Singen zu sein\n**Ihre Vorteile - Das erwartet Sie bei Chronon-Personal:**\n- **Unbefristeter Arbeitsvertrag** mit langfristiger Perspektive und Option auf Übernahme\n- **Faire und attraktive Vergütung** nach Tarifvertrag GVP + Zulage zur Gleichstellung mit den Festangestellten (=Branchenzuschlag) + Schichtzulagen + Fahrgeld oder Fahrdienst\n- **Pünktliche Bezahlung** zum 15. des Monats, Vorschüsse zum 01. des Monats möglich\n- **Zusätzliche Leistungen:**\n    - Urlaubs- und Weihnachtsgeld nach Tarifvertrag\n    - Prämien für Mitarbeiterempfehlungen\n    - Überstunden - / Gleitzeitkonto\n    - Mitarbeiter-App für Urlaubsbeantragung usw.\n- **Persönliche Betreuung**: Unser Team steht Ihnen während Ihrer gesamten Einsatzzeit unterstützend zur Seite\n**Sie sind interessiert?** Dann bewerben Sie sich mit **Lebenslauf** und Arbeitgeber-Zeugnissen (Anschreiben nicht notwendig) per E-Mail oder über unsere Homepage bei Frau Daniela Hörber.",
-   "extra": {
-    "refnr": "10001-1004071125-S",
-    "query": "Gleichstellung",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "deb8a636c7dea6d9",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004071125-S"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Mitarbeiter/in für die Prüfungsverwaltung (m/w/d)",
-   "company": "Pädagogische Hochschule",
-   "location": "88250 Weingarten, Württemberg",
-   "country": "DE",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004068217-S",
-   "posted": null,
-   "salary": null,
-   "via": null,
-   "description": "Die Pädagogische Hochschule Weingarten -University of Education- ist eine bildungswissenschaftliche Hochschule mit universitärem Profil und eine der größten staatlichen Hochschulen in Oberschwaben. International ausgerichtet und regional verankert, ermöglichen wir  ein breites Spektrum in Lehre, Forschung und Weiterbildung. In der barocken Klosteranlage auf dem Martinsberg finden Sie eine einmalige Atmosphäre, kurze Wege und direkten Kontakt zu Studierenden und Mitarbeitenden.\nZum nächstmöglichen Termin suchen wir zur Verstärkung unseres Teams im Dezernat 4 – Studium eine/n\n# **Mitarbeiter/in für die Prüfungsverwaltung** (m/w/d)\nEingruppierung E 6 TV-L\nBefristung zunächst auf 6 Monate als Krankheitsvertretung\nVollzeit, Teilzeit ab 50% ist ebenfalls möglich\n### **Ihre wesentlichen Aufgaben:**\n- Sie bearbeiten die Anmeldungen zu Bachelor- und Masterarbeiten sowie zu Prüfungen\n- Sie erstellen Abschlussunterlagen für die Bachelor- und Masterstudiengänge\n- Sie verwalten die Noten der Studierenden\n- Sie beraten Studierende und erteilen Auskünfte im Publikumsverkehr\n- Sie übernehmen Aufgaben in der Aktenführung und Archivierung\n- Sie erledigen allgemeine Sekretariatsaufgaben\nEine Änderung des Aufgabengebiets ist möglich.\n### **Das bringen Sie mit:**\n- Eine abgeschlossene Berufsausbildung, vorzugsweise als Verwaltungsfachangestellte/r, Bürokauffrau/-mann oder in einem vergleichbaren Beruf\n- Routine im Umgang mit MS Office, insbesondere Outlook, Word und Excel\n- Die Bereitschaft, sich in fachspezifische Software einzuarbeiten\n- Freude an der Zusammenarbeit im Team sowie eine freundliche und zuverlässige Art\n- Serviceorientierung, eine strukturierte Arbeitsweise und gutes Organisationsvermögen\n- Bereitschaft zu flexiblen Arbeitszeiten\n### **Freuen Sie sich auf**\n- eine abwechslungsreiche Tätigkeit im vielseitigen Arbeitsalltag der PH Weingarten,\n- die Zusatzversorgung des öffentlichen Dienstes und eine Jahressonderzahlung,\n- Work-Life-Balance durch flexible Arbeitszeitmodelle und gleitende Arbeitszeit,\n- die Möglichkeit zu anteiliger Arbeitszeit im Mobilen Arbeiten,\n- zahlreiche Angebote zum Betrieblichen Gesundheitsmanagement und die Möglichkeit einer Mitgliedschaft beim Firmenfitnessprogramm „Hansefit“,\n- die Förderung Ihrer umweltfreundlichen Mobilität durch das Jobticket BW und das Jobbike,\n- ein abwechslungsreiches Angebot in unserer Cafeteria und Mensa.\nBei der Einstellung werden die Grundsätze des Allgemeinen Gleichbehandlungsgesetzes (AGG) berücksichtigt. Menschen mit Behinderung haben bei gleicher Eignung Vorrang. Ein Nachweis ist beizufügen.\nBei Fragen zu den Inhalten der Tätigkeit stehe ich Ihnen gerne zur Verfügung:\n**Jasmin Schorpp,** Geschäftsführerin Prüfungsamt\nTel.: 0751/501-8805, E-Mail: schorpp@vw.ph-weingarten.de\nBei Fragen zum Tarifrecht wenden Sie sich bitte an\n**Carmen Mutscheller**, Personalsachbearbeitung,\nTel.: 0751/501-8522, E-Mail: carmen.mutscheller@vw.ph-weingarten.de\nWir freuen uns über Ihre Bewerbung, die Sie uns bitte **unter Angabe der Kennziffer V312 bis zum 10. Dezember 2026** zusenden (bevorzugt per Mail und zusammengefasst in einem pdf-Dokument).\nMail: bewerbung@ph-weingarten.de\nPost: Pädagogische Hochschule Weingarten, Personalabteilung, Kirchplatz 2, 88250 Weingarten",
-   "extra": {
-    "refnr": "10001-1004068217-S",
-    "query": "Personalsachbearbeitung Teilzeit",
-    "befristung": null,
-    "arbeitszeit": null
-   },
-   "id": "39d778761ac50d9c",
-   "sources": [
-    "arbeitsagentur"
-   ],
-   "links": {
-    "arbeitsagentur": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004068217-S"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Referent*in Studierendenmarketing (w/m/d)",
-   "company": "University of Konstanz",
+   "company": "Singener Wochenblatt GmbH & Co. KG Verlag",
    "location": "Constance, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/referent-in-studierendenmarketing-w-m-d-at-university-of-konstanz-4494697763",
-   "posted": "2026-11-25",
+   "url": "https://de.linkedin.com/jobs/view/referent-in-studierendenmarketing-w-m-d-at-singener-wochenblatt-gmbh-co-kg-verlag-4495568554",
+   "posted": "2026-11-27",
    "salary": null,
    "via": null,
-   "description": "### (Vollzeit, E 13 TV-L) Kennziffer 2026/237. Die Stelle ist zunächst auf zwei Jahre befristet, eine Entfristung wird ausdrücklich angestrebt, Eingruppierung nach persönlichen Voraussetzungen. Die Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert. Mit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung. Die Stabsstelle Kommunikation und Marketing bündelt die zentrale Kommunikation der Universität nach innen und außen. Sie verantwortet die Bereiche Redaktion, Presse- und Öffentlichkeitsarbeit, digitale und internationale Kommunikation, Corporate Design und Corporate Publishing sowie zentrale Veranstaltungen und Public Outreach. Zu ihren Schwerpunkten gehören außerdem das Alumni-, Netzwerk- und Beziehungsmanagement. Als direkt der Rektorin zugeordnete Stabsstelle unterstützt sie die Universitätsleitung in strategischen Kommunikationsfragen und bei der Positionierung der Universität in Wissenschaft, Gesellschaft und Öffentlichkeit. Ihre Aufgaben Entwicklung und Aufbau einer hochschulweiten Studierendenmarketing-Strategie sowie Konzeption einer jährlichen Marketing- und Kampagnenplanung für Studieninteressierte in Abstimmung mit den Fachbereichen und zentralen Einrichtungen der Universität Schwerpunkt Community Management/Social Media: Verantwortung für die zentrale digitale Kommunikation im Studierendenmarketing, einschließlich Redaktionsplanung, Entwicklung zielgruppengerechter Formate und Inhalte (insbesondere Foto, Video und Reels), Community Management sowie Beobachtung relevanter Plattform- und Zielgruppentrends Planung und Steuerung von Marketingkampagnen über geeignete Kanäle sowie Koordination des externen Performance-Marketings einschließlich Abstimmung von Zielen, Budgets, Maßnahmen und Auswertungen mit beauftragten Agenturen bzw. Dienstleistern. Koordination der Weiterentwicklung von Websites und Landingpages für Studieninteressierte Konzeption und Koordination von Content-Produktionen sowie Auswahl, Briefing und Steuerung externer Agenturen, Dienstleister und Creator für umfangreichere Formate. Entwicklung von Vorlagen, Guidelines und Content-Bausteinen zur Unterstützung der dezentralen Aktivitäten. Zentrale Ansprechperson und Beratung der Fachbereiche sowie der Abteilung Studium und Lehre zu Fragen des Studierendenmarketings und der Social-Media-Kommunikation; Abstimmung und Koordination zentraler und dezentraler Marketingaktivitäten und -ressourcen Auswertung relevanter Bewerber-, Studierenden- und Kommunikationsdaten sowie Markt- und Wettbewerbsentwicklungen; Definition und Beobachtung geeigneter KPIs und Ableitung von Handlungsempfehlungen zur Weiterentwicklung des Studierendenmarketings Enge Zusammenarbeit mit der Online-Redaktion im Bereich Social Media, Ansprechperson für studentische Hilfskräfte im Bereich Social Media und Studierendenmarketing Ihr Profil Abgeschlossenes wissenschaftliches Hochschulstudium mit Bezug zu Marketing, Kommunikation, Medien- oder Wirtschaftswissenschaften oder vergleichbare Qualifikation sowie einschlägige Berufserfahrung im Marketing, in der Kommunikation oder im Umfeld von Social Media, Erfahrungen im Studierenden-, Hochschul- oder Bildungsmarketing sind von Vorteil Ausgeprägte Affinität zu digitalen Medien sowie praktische Erfahrung in der Konzeption, Redaktionsplanung und Weiterentwicklung von Social Media-Kommunikation und Content, insbesondere Foto, Video und Reels. Kenntnisse im Performance-Marketing, in Analytics- und Reporting-Tools sowie …",
+   "description": "Jobs Bildung / Soziales Marketing / PR / Werbung Referent*in Studierendenmarketing (w/m/d) Referent*in Studierendenmarketing (w/m/d) Top Job Universität Konstanz location 78 Konstanz, Deutschland Veröffentlicht Veröffentlicht: 26.11.2026 Marketing / PR / Werbung | Vollzeit, E 13 TV-L Kennziffer 2026/237. Die Stelle ist zunächst auf zwei Jahre befristet, eine Entfristung wird ausdrücklich angestrebt, Eingruppierung nach persönlichen Voraussetzungen. Die Universität Konstanz ist eine dynamische und international erfolgreiche Forschungsuniversität mit etwa 10.000 Studierenden. Die Architektur der Campusuniversität fördert die interdisziplinäre Kooperation sowie die Gemeinschaft der Forschenden, Lehrenden und Studierenden. Die Universität Konstanz wird seit 2006 im Rahmen der Exzellenzstrategie gefördert. Mit rund 3.500 Mitarbeitenden gehört die Universität Konstanz zu den größten Arbeitgebern der Region. In einer der schönsten Gegenden Deutschlands bieten wir flexible Arbeitszeitmodelle, vielfältige Weiterbildungs- und Gesundheitsangebote sowie attraktive Möglichkeiten zur Familienförderung. Die Stabsstelle Kommunikation und Marketing bündelt die zentrale Kommunikation der Universität nach innen und außen. Sie verantwortet die Bereiche Redaktion, Presse- und Öffentlichkeitsarbeit, digitale und internationale Kommunikation, Corporate Design und Corporate Publishing sowie zentrale Veranstaltungen und Public Outreach. Zu ihren Schwerpunkten gehören außerdem das Alumni-, Netzwerk- und Beziehungsmanagement. Als direkt der Rektorin zugeordnete Stabsstelle unterstützt sie die Universitätsleitung in strategischen Kommunikationsfragen und bei der Positionierung der Universität in Wissenschaft, Gesellschaft und Öffentlichkeit. Ihre Aufgaben Entwicklung und Aufbau einer hochschulweiten Studierendenmarketing-Strategie sowie Konzeption einer jährlichen Marketing- und Kampagnenplanung für Studieninteressierte in Abstimmung mit den Fachbereichen und zentralen Einrichtungen der Universität Schwerpunkt Community Management/Social Media: Verantwortung für die zentrale digitale Kommunikation im Studierendenmarketing, einschließlich Redaktionsplanung, Entwicklung zielgruppengerechter Formate und Inhalte (insbesondere Foto, Video und Reels), Community Management sowie Beobachtung relevanter Plattform- und Zielgruppentrends Planung und Steuerung von Marketingkampagnen über geeignete Kanäle sowie Koordination des externen Performance-Marketings einschließlich Abstimmung von Zielen, Budgets, Maßnahmen und Auswertungen mit beauftragten Agenturen bzw. Dienstleistern. Koordination der Weiterentwicklung von Websites und Landingpages für Studieninteressierte Konzeption und Koordination von Content-Produktionen sowie Auswahl, Briefing und Steuerung externer Agenturen, Dienstleister und Creator für umfangreichere Formate. Entwicklung von Vorlagen, Guidelines und Content-Bausteinen zur Unterstützung der dezentralen Aktivitäten. Zentrale Ansprechperson und Beratung der Fachbereiche sowie der Abteilung Studium und Lehre zu Fragen des Studierendenmarketings und der Social-Media-Kommunikation; Abstimmung und Koordination zentraler und dezentraler Marketingaktivitäten und -ressourcen Auswertung relevanter Bewerber-, Studierenden- und Kommunikationsdaten sowie Markt- und Wettbewerbsentwicklungen; Definition und Beobachtung geeigneter KPIs und Ableitung von Handlungsempfehlungen zur Weiterentwicklung des Studierendenmarketings Enge Zusammenarbeit mit der Online-Redaktion im Bereich Social Media, Ansprechperson für studentische Hilfskräfte im Bereich Social Media und Studierendenmarketing Ihr Profil Abgeschlossenes wissenschaftliches Hochschulstudium mit Bezug zu Marketing, Kommunikation, Medien- oder Wirtschaftswissenschaften oder vergleichbare Qualifikation sowie einschlägige Berufserfahrung im Marketing, in der Kommunikation oder im Umfeld von Social Media, Erfahrungen im Studierenden-, Hochschul- oder Bildungsmarketing sind von Vorteil Ausgeprägte Affinität zu …",
    "extra": {
     "seniority": "Not Applicable",
     "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "462d2650d2d88b49",
+   "id": "3fd256e014a57799",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/referent-in-studierendenmarketing-w-m-d-at-university-of-konstanz-4494697763"
+    "linkedin": "https://de.linkedin.com/jobs/view/referent-in-studierendenmarketing-w-m-d-at-singener-wochenblatt-gmbh-co-kg-verlag-4495568554"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Gruppenleiter*in Externat (80-100%)",
-   "company": "Faire une carrière empreinte d'humanité",
-   "location": "Münchwilen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/gruppenleiter-in-externat-80-100%25-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4494648577",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "Wir begleiten erwachsene Menschen mit einer schweren Mehrfachbeeinträchtigung in ihrer Lebensgestaltung und schaffen für sie individuelle Lebensfelder. Unsere Arbeit ist geprägt von Respekt und Empathie. Wir orientieren uns an definierten Qualitätsstandards sowie an anerkannten agogischen, pflegerischen und therapeutischen Grundsätzen. Gruppenleiter*in Externat (80-100%) Das ist dein Aufgabenbereich Leiten einer Externatsgruppe mit neun Klient*innen und ca. 5 Mitarbeiter*innen (ca. 500 Stellenprozente) Kooperative, kompetenz- und ressourcenorientierte Begleitung und Förderung von Menschen mit einer schweren Mehrfachbeeinträchtigung bei ihrer Alltagsgestaltung Unterstützung von Selbstbestimmung und Selbständigkeit der Klient*innen Zusammenarbeit mit anderen Gruppenleiter*innen, Angehörigen, anderen Fachpersonen und Behörden Das wünschen wir von dir Abschluss in Sozialpädagogik HF oder FH Berufserfahrung in der Arbeit mit Menschen mit einer Mehrfachbeeinträchtigung Führungserfahrung mit einem Team und entsprechende Weiterbildung oder Bereitschaft, eine solche zu absolvieren Konzeptionelles Denken und Handeln liegt dir und ist dir wichtig Offenheit, im Bereich des Ateliers mitzuwirken Das darfst du erwarten Regelmässige Arbeitszeiten von Montag bis Freitag ca. 8-17 Uhr Einen Arbeitsplatz mit viel Eigenverantwortung und Gestaltungsmöglichkeiten Eine wertschätzende und teamorientierte Zusammenarbeitskultur Grosszügige Weiterbildungsmöglichkeiten und Supervision Mitgestaltungsmöglichkeiten in einem ressourcen- und lösungsorientierten Arbeitsumfeld Zeitgemässe Anstellungsbedingungen und Sozialleistungen (Details auf unserer Website) Für weitere Auskünfte wende dich bitte an Fabienne Friedlos, Abteilungsleitung Tagesangebote Tel. 071 969 36 53 oder f.friedlos@stiftung-sonnenhalde.ch So kannst du dich bewerben Bitte sende deine vollständige Bewerbung per E-Mail an personal@stiftung-sonnenhalde.ch Besuche unsere Homepage www.stiftung-sonnenhalde.ch Show more Show less Seniority level Not Applicable Employment type Full-time Industries Higher Education Referrals increase your chances of interviewing at Faire une carrière empreinte d'humanité by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "2071c386c14dd840",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/gruppenleiter-in-externat-80-100%25-at-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-4494648577"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Gruppenleiter*in Externat (80-100%)",
-   "company": "Mach Karriere als Mensch_Faire une carrière empreinte d'humanité_Fai una carriera piena di umanità",
-   "location": "Münchwilen, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/gruppenleiter-in-externat-80-100%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4494980034",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "Wir begleiten erwachsene Menschen mit einer schweren Mehrfachbeeinträchtigung in ihrer Lebensgestaltung und schaffen für sie individuelle Lebensfelder. Unsere Arbeit ist geprägt von Respekt und Empathie. Wir orientieren uns an definierten Qualitätsstandards sowie an anerkannten agogischen, pflegerischen und therapeutischen Grundsätzen. Gruppenleiter*in Externat (80-100%) Das ist dein Aufgabenbereich Leiten einer Externatsgruppe mit neun Klient*innen und ca. 5 Mitarbeiter*innen (ca. 500 Stellenprozente) Kooperative, kompetenz- und ressourcenorientierte Begleitung und Förderung von Menschen mit einer schweren Mehrfachbeeinträchtigung bei ihrer Alltagsgestaltung Unterstützung von Selbstbestimmung und Selbständigkeit der Klient*innen Zusammenarbeit mit anderen Gruppenleiter*innen, Angehörigen, anderen Fachpersonen und Behörden Das wünschen wir von dir Abschluss in Sozialpädagogik HF oder FH Berufserfahrung in der Arbeit mit Menschen mit einer Mehrfachbeeinträchtigung Führungserfahrung mit einem Team und entsprechende Weiterbildung oder Bereitschaft, eine solche zu absolvieren Konzeptionelles Denken und Handeln liegt dir und ist dir wichtig Offenheit, im Bereich des Ateliers mitzuwirken Das darfst du erwarten Regelmässige Arbeitszeiten von Montag bis Freitag ca. 8-17 Uhr Einen Arbeitsplatz mit viel Eigenverantwortung und Gestaltungsmöglichkeiten Eine wertschätzende und teamorientierte Zusammenarbeitskultur Grosszügige Weiterbildungsmöglichkeiten und Supervision Mitgestaltungsmöglichkeiten in einem ressourcen- und lösungsorientierten Arbeitsumfeld Zeitgemässe Anstellungsbedingungen und Sozialleistungen (Details auf unserer Website) Für weitere Auskünfte wende dich bitte an Fabienne Friedlos, Abteilungsleitung Tagesangebote Tel. 071 969 36 53 oder f.friedlos@stiftung-sonnenhalde.ch So kannst du dich bewerben Bitte sende deine vollständige Bewerbung per E-Mail an personal@stiftung-sonnenhalde.ch Besuche unsere Homepage www.stiftung-sonnenhalde.ch Porträt Stiftung SONNENHALDE TG 9542 Münchwilen Murgtalstrasse 50 Stiftung Sonnenhalde – Am Leben teilhaben Im grünen Norden der Gemeinde Münchwilen hat die Stiftung Sonnenhalde seit 1990 ihren Sitz (gegründet 1975 in Sirnach). Hier werden derzeit 32 Erwachsene mit schwerer Mehrfachbeeinträchtigung von 135 Teil- und Vollzeitkräften rund um die Uhr betreut. 18 Externatsplätze stehen Menschen mit schwerer Mehrfachbeeinträchtigung zur Verfügung. Sie erleben in der Sonnenhalde den Tag in einer optimal auf ihre Bedürfnisse abgestimmten Struktur und verbringen die Nacht zu Hause bei ihren Angehörigen. Ein ganz besonderes Angebot sind die sechs Entlastungsplätze in der Sonnenhalde. Im Rahmen dieses temporären Betreuungsangebots für Kinder, Jugendliche und Erwachsene werden Menschen mit schwerer Mehrfachbeeinträchtigung für ein Wochenende oder auch eine Ferienwoche in der Sonnenhalde aufgenommen; das ermöglicht auch den Angehörigen dringend notwendige Entlastungsphasen. Website Benefits Flexible Arbeitszeiten Individuelle Arbeitsmodelle im Betreuungsbereich Bezahlte Pausen Eine Viertelstunde Ferien Plus 27 beziehungsweise 32 Tage plus Dienstaltersgeschenk in Form von Ferien Unbezahlte Ferien nach Absprache Gesundheits-Massnahmen Events für Mitarbeitende Barrierefreie Einrichtung Kantine Vergünstigte Menüs und Wochenhit Vorsorge Plus 60% Arbeitgeber*innenanteil - 40% Arbeitnehmer*innenanteil Aus- und Weiterbildung individuelle und grosszügige Weiterbildungsregelung Förderung Mitarbeitende individuelle Förderung Zulagen / Spesen Wochenend- , Abend- und Nachtzulagen Parkplätze Gratis Parkplätze Gratis Getränke Gratis Kaffee und Tee Elternurlaub Plus 16 Wochen Mutterschaftsurlaub Früchte gratis Info Gruppenleiter*in Externat (80-100%) TG Münchwilen Stiftung Sonnenhalde Inserat-Nr. J1000148 Datum 25.11.2026 Arbeitsort 9542 Münchwilen (TG), Schweiz Anstellungsverhältnis Festanstellung Funktion Mitarbeit Arbeitspensum Teilzeit 80-100% Stellenantritt nach Vereinbarung Berufsfelder Stationäre Pflege (Heime …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "7e7b3a161def9111",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/gruppenleiter-in-externat-80-100%25-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4494980034"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Collaborateur/-trice Services et support RH",
-   "company": "Bundesverwaltungsgericht – Federal Administrative Court",
-   "location": "St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/collaborateur-trice-services-et-support-rh-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4492107224",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "St-Gall, Suisse (et travail à domicile) | 80-100% | Ce à quoi vous pouvez contribuer Vous assurez l'administration du personnel, de l'entrée en fonction au départ, et rédigez les contrats, les certificats de travail et la correspondance. Vous organisez les cours, les formations continues et les manifestations internes et en assurez le suivi administratif. Vous apportez un soutien administratif aux recrutements ainsi qu'au suivi des apprentis et des stagiaires universitaires. Vous tenez à jour les données RH, les dossiers du personnel et les contenus de l'intranet. Vous soutenez toute l'équipe RH dans ses activités quotidiennes et améliorez les processus administratifs. Ce qui vous rend unique Vous disposez d'une formation commerciale initiale complétée par une formation continue en ressources humaines. Vous possédez une expérience dans l'administration du personnel ; des connaissances en organisation de cours constituent un atout. Vous travaillez avec autonomie, précision et discrétion et gardez une vue d'ensemble lorsque vous gérez plusieurs tâches en parallèle. Vous vous distinguez par votre sens du service, votre esprit d'équipe et votre aisance avec les outils numériques. Vous maîtrisez très bien une langue officielle et disposez de bonnes connaissances actives d'une deuxième langue officielle. En quelques mots Vous aimez organiser et garder une vue d'ensemble ? Grâce à votre fiabilité, vous assurez le bon déroulement des processus RH et soutenez notre équipe dans un environnement de travail varié et trilingue. Ce que nous offrons Travailler pour la Suisse Nous nous engageons pour le succès du modèle suisse et pour le bien-être de la population. La diversité au quotidien Nous veillons à l'égalité des chances, qui nous permet de déployer nos compétences et d'exprimer des points de vue différents. Santé au travail Nous assistons et conseillons nos collaboratrices et collaborateurs pour toutes les questions liées à la santé physique ou psychique. Tous les avantages Le Tribunal administratif fédéral (TAF), sis à St-Gall, connaît des recours contre des décisions rendues par les autorités fédérales. Il statue en dernière instance dans la plupart des cas; parmi les arrêts susceptibles de recours au Tribunal fédéral, seule une minorité se voit attaquée. Le crédit dont jouit la jurisprudence du TAF est avant tout dû à une excellente qualité de travail et une durée de procédure adéquate. A cette fin, le tribunal offre à ses collaborateurs des postes de travail modernes, des horaires flexibles et un environnement trilingue. Informations complémentaires Veuillez noter qu'en cas de candidatures multiples de votre part, un échange de données entre les personnes impliquées dans les différents processus de recrutement au sein du Tribunal administratif fédéral pourrait avoir lieu. Vos données seront traitées conformément aux dispositions légales en matière de protection des données, que vous acceptez en approuvant la présente déclaration de confidentialité. Questions sur le poste Debora Rimoli +41 58 46 52647 Questions sur la postulation Judith Alpiger +41 58 46 53190 Show more Show less Seniority level Not Applicable Employment type Full-time Industries Government Administration Referrals increase your chances of interviewing at Bundesverwaltungsgericht – Federal Administrative Court by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "e87e1823a409b331",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/collaborateur-trice-services-et-support-rh-at-bundesverwaltungsgericht-%E2%80%93-federal-administrative-court-4492107224"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Fachspezialist:in Diversity, Equality & Inclusion (m/w/d)",
-   "company": "Universität St.Gallen (HSG)",
-   "location": "St Gallen, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/fachspezialist-in-diversity-equality-inclusion-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4487030144",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "Ihre Aufgaben Beratung und Begleitung von Studierenden in schwierigen Studiensituationen sowie Beratung zu Nachteilsausgleichen Prüfung von Anträgen auf Nachteilsausgleich und der dazugehörigen Zeugnisse und Nachweise Qualitätssicherung und kontinuierliche Weiterentwicklung des Nachteilsausgleichsprozesses Entwicklung und Umsetzung von Strategien und Massnahmen zur Förderung einer chancengerechten Studien-, Arbeits- und Lernumgebung für Studierende und Mitarbeitende Aufbau und Pflege der Zusammenarbeit mit relevanten universitären Stellen und Stakeholder Konzeption, Durchführung und Weiterentwicklung zielgruppenspezifischer Formate und Workshops zur Förderung inklusiven Lernens und Arbeitens für Schools, Institute und Verwaltungsstellen Vertretung der Universität in relevanten externen Netzwerken zum Thema «Inklusives Lernen und Arbeiten» Ihr Profil Abgeschlossenes Hochschulstudium (Master), idealerweise in Psychologie, Bildungs- oder Sozialwissenschaften; zusätzliche Qualifikationen oder Praxiserfahrung in Betriebswirtschaft oder Organisationsentwicklung sind von Vorteil Erfahrung in der Beratung und Begleitung von Studierenden, insbesondere von neurodivergenten Studierenden sowie Studierenden mit Behinderungen, chronischen Erkrankungen oder psychosozialen Belastungen Erfahrung in der Konzeption und Durchführung von Schulungen und Workshops Kenntnisse und praktische Erfahrung im Bereich Barrierefreiheit, insbesondere digitale Barrierefreiheit Ausgeprägte kommunikative Fähigkeiten, interkulturelle Sensibilität und sicheres Auftreten Sehr gute Deutschkenntnisse (C2) und Englischkenntnisse (C1) Ausgeprägte Team- und Kooperationsfähigkeit sowie eine strukturierte, eigenverantwortliche Arbeitsweise Fundierte Erfahrung in der Konzeptentwicklung, Prozessgestaltung und im Projektmanagement ist von Vorteil Die Abteilung DE&I nimmt eine universitätsweite Fach-, Beratungs- und Querschnittsfunktion wahr. Sie ist die zentrale Anlaufstelle der HSG für Diversity, Equity & Inclusion, persönliche Integrität und soziale Nachhaltigkeit. Wir setzen uns für eine respektvolle Campuskultur ein, in der alle ihr Potenzial entfalten und einbringen können. Dafür gestalten wir faire, inklusive und zugängliche Studien- und Arbeitsbedingungen mit. Wir beraten vertraulich bei krankheits- oder behinderungsbedingten Herausforderungen im Studium und am Arbeitsplatz sowie zu sexueller Belästigung, Diskriminierung, Barrierefreiheit und Familienfreundlichkeit. Wir arbeiten eng mit universitätsinternen Stellen zusammen, unterstützen die Umsetzung der Nachhaltigkeits- und Gleichstellungsziele und vertreten die HSG in DE&I-relevanten Themen. Mit unserem lösungsorientierten Ansatz tragen wir zur Rechtskonformität, zur Qualität der Studien- und Arbeitsbedingungen und zur Attraktivität der HSG als Arbeitgeberin und Studienort bei. Mehr über uns erfahren Sie unter www.unisg.ch/diversity Wir freuen uns auf Ihre Online-Bewerbung gerne unter Angabe der Stellen-ID Inspirierendes Arbeitsumfeld An der HSG als führende Wirtschaftsuniversität Europas agieren wir in einem unternehmerisch denkenden Umfeld und Sie treffen auf hochqualifizierte, ambitionierte Expert*innen regional und international. Beispielsweise profitieren Sie von einer modernen IT-Infrastruktur und in unserer Bibliothek via HSGswisscovery von einem schweizweiten Zugang zum wissenschaftlichen Informationsbestand. Weiterbildung Wir unterstützen interne und externe Weiterbildungsmöglichkeiten. Unser internes Weiterbildungsprogramm bietet Ihnen praxisnahe, engagierte und didaktisch ausgereifte Wissensvermittlung in Form von Seminaren, E-Learnings, Coachings und kollegialer Beratung. Aufgabenspezifische externe Weiterbildungen unterstützen wir finanziell und zeitlich. Netzwerk Wir fördern unsere Kultur der bereichsübergreifenden Zusammenarbeit und schaffen Raum für das Knüpfen wertvoller Beziehungen – auch zu externen Partner*innen. Regelmässiger Austausch und interne Veranstaltungen helfen diese Beziehung zu …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "f3f6eb48f515fd19",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialist-in-diversity-equality-inclusion-m-w-d-at-universit%C3%A4t-st-gallen-hsg-4487030144"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Pflegeexpertin / Pflegeexperte Medizin",
-   "company": "Kantonsspital Graubünden",
-   "location": "Walenstadt, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/pflegeexpertin-pflegeexperte-medizin-at-kantonsspital-graub%C3%BCnden-4494325531",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "Du kannst etwas, was andere nicht können? Du machst den Unterschied aus? Dann gehörst du zu uns! Pflegeexpertin / Pflegeexperte Medizin 80% Standort Chur Walenstadt In dieser Funktion gestaltest du die Fach- und Qualitätsentwicklung der Pflege aktiv mit. Du initiierst und begleitest Entwicklungsprojekte und förderst den Austausch von Wissen und Erfahrungen. Bei uns erwartet dich ein vielseitiges und dynamisches Arbeitsumfeld, in dem du deine Fachkompetenz einbringen und die Weiterentwicklung der Pflege mitgestalten kannst. Du möchtest die Pflegequalität nachhaltig verbessern und neue Impulse setzen? Dann freuen wir uns darauf, dich kennenzulernen! Das sind deine Aufgaben Du gestaltest die Fach- und Qualitätsentwicklung der Pflege mit und bringst neue Impulse in die Pflegepraxis ein Du förderst eine patientenorientierte, wirksame und wirtschaftliche Pflege in enger Zusammenarbeit mit den Pflegefachverantwortlichen und Fachexperten Du unterstützt und berätst die Pflegeteams bei fachlichen Fragestellungen und komplexen Pflegesituationen Du planst und gestaltest Schulungen, Fallbesprechungen und fachliche Austauschgefässe und förderst den Wissenstransfer Das bringst du mit Abgeschlossenes oder laufendes Masterstudium in Pflegewissenschaften Klinische Erfahrung und fundiertes pflegefachliches Wissen, idealerweise im Bereich Innere Medizin Freude an der Weiterentwicklung der Pflege sowie Beratungs- und Leadership-Kompetenzen zur Förderung einer evidenzbasierten Pflegepraxis Flexibilität für Einsätze an den Standorten Chur und Walenstadt Und das bieten wir dir Beruf und Familie Als flexible Arbeitgeberin fördern wir unterschiedliche Arbeitsmodelle, sodass du Beruf und Familie für dich optimal kombinieren kannst. Ferner bieten wir dir und deiner Familie ein mannigfaltiges Angebot an Unterstützungsleistungen an. Ferien / Diensttreueurlaub Der jährliche Ferienanspruch bei uns beträgt mindestens 25 Tage. Langjährige Mitarbeiter:innen werden mit einem zusätzlichen Diensttreueurlaub belohnt. Flexible Arbeitszeit / Home Office / Teilzeitarbeit Wenn der Betrieb es zulässt, können Arbeitszeiten und -pensen flexibel auf deine aktuelle Lebenssituation zugeschnitten werden. Gastronomisches Angebot Alle vier Standorte des Kantonsspitals Graubünden bieten eine grosse Auswahl an Verpflegungsmöglichkeiten. Bei uns kannst du dich abwechslungsreich, ausgewogen und gesund ernähren. Gesundheit Die Gesundheit unserer Mitarbeiter:innen liegt uns am Herzen: Das Kantonsspital Graubünden wurde im November 2022 mit dem Qualitätslabel Friendy Work Space ausgezeichnet. Unterkünfte für Personal Für unsere Mitarbeitenden, Praktikanten und Lernenden stellen wir je nach Möglichkeit Personalzimmer und -Wohnungen vergünstigt zur Verfügung. Sozialleistungen Wir bieten dir nebst den gesetzlich vorgegebenen Leistungen ergänzende und grosszügige überobligatorische Leistungen an (wie z.B. 100% Lohnfortzahlung, Verzicht auf Koordinationsabzug bei PK). Weiterbildung und persönliche Entwicklung Wir investieren kontinuierlich in die Aus-, Fort- und Weiterbildungen unserer Mitarbeitenden. Bei uns wirst du unterstützt, motiviert, gefordert und gefördert. Unsere Werte Die ausgezeichnete Qualität unserer Dienstleistungen und die Gesundheit und Zufriedenheit unserer Mitarbeitenden stehen bei uns gleichermassen im Fokus. Eine offene, wertschätzende Unternehmenskultur, Vielfalt, Toleranz und Nachhaltigkeit sind ebenso feste Bestandteile unserer Philosophie wie fortschrittliche Anstellungsbedingungen und vielfältige Entwicklungsmöglichkeiten. Kontakt Bei Fragen bin ich gerne für dich da: Stephan Wanzenried, Pflegeleiter Innere Medizin stationär Telefon +41 81 256 74 65 Job-ID 1979 Bei uns im Kantonsspital Graubünden arbeiten über 3'600 Super Kräfte in mehr als 50 Berufen. Und bald eine:r mehr! Show more Show less Seniority level Not Applicable Employment type Part-time Industries Hospitals and Health Care Referrals increase your chances of interviewing at Kantonsspital Graubünden by …",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "b95aa0818d8a2fdf",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/pflegeexpertin-pflegeexperte-medizin-at-kantonsspital-graub%C3%BCnden-4494325531"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "HR Business Partner (m/f/d)",
-   "company": "SFS Group",
-   "location": "Heerbrugg, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/hr-business-partner-m-f-d-at-sfs-group-4486075429",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "As an HR Business Partner for the Engineered Components division, you will be the key point of contact for our management team on all strategically relevant HR matters. You will act as a trusted and challenging sparring partner for our managers and play a key role in driving transformation, talent development, and organisational and cultural development. Drawing on your entrepreneurial mindset, you will develop division-specific HR strategies that directly contribute to our business objectives and create genuine, sustainable added value. Your Tasks Strategic HR consultancy for our senior managers on an equal footing, close collaboration to develop and implement division-specific HR strategies Managing and supporting change processes, as well as identifying opportunities for optimisation Facilitating talent reviews, promoting internal career development and playing a strategic role in shaping succession planning at management level Analysing and interpreting relevant HR KPIs to derive strategic recommendations for the business Leading and coordinating global programmes and cultural initiatives (e.g. diversity or new HR tools) in close collaboration with the HR team Your profile A degree with a focus relevant to HR (Business Studies, Psychology, Social Sciences), or a qualified HR specialist or HR Manager with a federal diploma At least five years’ professional experience as an HR professional in a strategic role, ideally in an international industrial or commercial environment Solid practical experience and specialist knowledge in organisational development, change management and employment law Entrepreneurial, strategic and networked thinking for working in complex, dynamic organisations Strong interpersonal skills, excellent communication skills on an equal footing, trustworthiness and resilience Business-level German and very good written and spoken English We offer A varied range of responsibilities, with scope for personal responsibility and initiative Flexible working hours & the option to work from home Six weeks’ holiday & the option to buy additional holiday entitlement Annual profit-sharing scheme, a wide range of sports activities & staff events, staff canteen with attractive prices Flexible travel arrangements for your commute Further benefits: https://join.sfs.com/ch/de/benefits/ Show more Show less Seniority level Not Applicable Employment type Full-time Industries Fabricated Metal Products Referrals increase your chances of interviewing at SFS Group by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "36 applicants"
-   },
-   "id": "3a3767d7be45b19b",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/hr-business-partner-m-f-d-at-sfs-group-4486075429"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Pflegeexpertin mit Fachverantwortung",
-   "company": "Mach Karriere als Mensch_Faire une carrière empreinte d'humanité_Fai una carriera piena di umanità",
-   "location": "Mels, St Gallen, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/pflegeexpertin-mit-fachverantwortung-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4494972361",
-   "posted": "2026-11-25",
+   "title": "Mitarbeiter Standortassistenz & Personaladministration (m/w/d)",
+   "company": "HYDAC Group",
+   "location": "Friedrichshafen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/mitarbeiter-standortassistenz-personaladministration-m-w-d-at-hydac-group-4495036644",
+   "posted": "2026-11-26",
    "salary": null,
    "via": null,
    "description": "",
@@ -272,141 +155,237 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "c3ff7b22bd876ec5",
+   "id": "34195187c4d66336",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/pflegeexpertin-mit-fachverantwortung-at-mach-karriere-als-mensch-faire-une-carri%C3%A8re-empreinte-d-humanit%C3%A9-fai-una-carriera-piena-di-umanit%C3%A0-4494972361"
+    "linkedin": "https://de.linkedin.com/jobs/view/mitarbeiter-standortassistenz-personaladministration-m-w-d-at-hydac-group-4495036644"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Sozialpädagogin/Sozialpädagogen (60-80%)",
-   "company": "ABA Amriswil",
-   "location": "Amriswil, Thurgau, Switzerland",
+   "title": "International HR-Manager / Deputy CHRO Division Service (m/w/d) – Bussnang",
+   "company": "Stadler",
+   "location": "Bussnang, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagogen-60-80%25-at-aba-amriswil-4493492965",
+   "url": "https://ch.linkedin.com/jobs/view/international-hr-manager-deputy-chro-division-service-m-w-d-%E2%80%93-bussnang-at-stadler-4495018225",
    "posted": "2026-11-26",
    "salary": null,
    "via": null,
-   "description": "Das ABA Amriswil ist ein wirtschaftsnaher Sozialbetrieb mit einem vielfältigen Angebot an Wohn-, Arbeits- und Ausbildungsplätzen. An zentraler Lage in Amriswil bieten wir rund 150 Arbeitsplätze, gegen 100 Wohnplätze sowie 20 Ausbildungsplätze für Menschen mit einer Beeinträchtigung. Zur Ergänzung unseres Teams suchen wir ab Februar 2027 oder nach Vereinbarung eine/n Sozialpädagogin/Sozialpädagogen (60-80%) In einem kleinen Team betreuen/begleiten Sie unsere Bewohner/innen in den Wohnheimen. Neben der Tagesverantwortung der Betreuung übernehmen Sie Bezugspersonenarbeit einiger Bewohner/innen und unterstützen diese in der Lebensgestaltung. Aufgaben Tagesverantwortung Betreuung Individuelle Einzel- und Gruppenbetreuung Organisation und Durchführung von Freizeitaktivitäten Bezugspersonenarbeit Mitarbeit bei der konzeptuellen und fachlichen Weiterentwicklung Anforderungen Sozialpädagoge/in HF oder FH Bereitschaft zu teils unregelmässigen Arbeitszeiten (Abend- und Wochenenddienste, keine Nachtdienste) Berufserfahrung in der Betreuung/Begleitung von Menschen mit Behinderung Ausgeprägte Sozialkompetenz und Teamfähigkeit Angebot Motiviertes Team, moderner Arbeitsplatz Interessantes, vielseitiges Tätigkeitsgebiet Fortschrittliche Anstellungsbedingungen, überdurchschnittliche Sozialleistungen Weiterbildungen Haben wir Ihr Interesse geweckt? Dann freuen wir uns Sie kennenzulernen. Gerne erwarten wir Ihre Bewerbungsunterlagen. ABA Amriswil Angela Bühler, Fachstelle Personal Arbonerstrasse 17 8580 Amriswil 071 414 13 00 / personal@aba-amriswil.ch Show more Show less Seniority level Entry level Employment type Part-time Industries Civic and Social Organizations Referrals increase your chances of interviewing at ABA Amriswil by 2x See who you know",
+   "description": "DEINE AUFGABENBEREICHE Internationales HR-Management und Koordination Du unterstützt die verantwortliche Führungskraft bei komplexen, länderspezifischen und -übergreifenden HR-Fragestellungen Du koordinierst Themen wie Performance Management, Nachfolgeplanung und die Besetzung von Schlüsselpositionen. Du entwickelst gemeinsam mit den relevanten Stakeholdern HR-Vorgaben, Standards und Prozesse weiter und koordinierst deren Umsetzung in den verschiedenen Ländern. Strategische HR-Themen und Personalentwicklung Du treibst ausgewählte strategische HR-Projekte voran und leistest damit einen wichtigen Beitrag zur Weiterentwicklung der HR-Arbeit innerhalb der Division. Du unterstützt die CHRO bei übergeordneten Fragestellungen und strategischen Initiativen. Du übernimmst im Rahmen der Stellvertretungsfunktion zusätzliche Verantwortung und vertrittst die CHRO bei Bedarf. Du verantwortest das Trainee-Programm und konzipierst und koordinierst Leadership-Programme und weitere Entwicklungsangebote. DEINE BERUFLICHEN ERFAHRUNGEN Du verfügst über eine höhere Ausbildung im Bereich Human Resources, Betriebswirtschaft oder eine vergleichbare Qualifikation. Du bringst Erfahrung in einer anspruchsvollen HR-Funktion innerhalb eines internationalen Konzerns oder einer vergleichbaren Unternehmensstruktur mit. Von Vorteil bist du mit Matrixorganisationen, länderübergreifender Zusammenarbeit und der Koordination dezentral organisierter HR-Teams vertraut. Du verfügst über Erfahrung in der Entwicklung und Umsetzung von HR-Standards, Performance-Management-Prozessen, Talentmanagement oder strategischen Personalentwicklungsmassnahmen. Du verstehst die Anliegen des Business und bewegst dich sicher im Austausch mit Führungskräften auf unterschiedlichen Hierarchiestufen. Du denkst konzeptionell und strategisch, arbeitest gleichzeitig pragmatisch und setzt Themen eigenständig und strukturiert um. Du kommunizierst stilsicher auf Deutsch und Englisch. Du bist bereit für internationalen Reisen von rund 20 %, üblicherweise verbunden mit etwa einer Übernachtung in den von dir betreuten Länder-Organisationen. Ähnliche Stellen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Railroad Equipment Manufacturing Referrals increase your chances of interviewing at Stadler by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e8f37a82a2c16531",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/international-hr-manager-deputy-chro-division-service-m-w-d-%E2%80%93-bussnang-at-stadler-4495018225"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Leiterin/Leiter Abteilung Kaufleute / BMS / MPA und Mitglied der Schulleitung",
+   "company": "Kanton St.Gallen",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/leiterin-leiter-abteilung-kaufleute-bms-mpa-und-mitglied-der-schulleitung-at-kanton-st-gallen-4495052008",
+   "posted": "2026-11-26",
+   "salary": null,
+   "via": null,
+   "description": "Als der fünftgrösste Kanton der Schweiz mit rund 6000 Mitarbeitenden setzen wir uns bei der Kantonsverwaltung für das Gemeinwohl der Gesellschaft ein. Mit einer beeindruckenden Vielfalt an Leistungen betrifft unserer Arbeit alle Bereiche des Lebens, sei es Bildung, Wirtschaft, Recht, Sicherheit, Natur, Gesundheit, Bau, Kultur und Finanzen. Mit unserer sinnstiftenden Arbeit hinterlassen wir täglich einen kleinen Fussabdruck, da diese für über eine halbe Millionen Menschen relevant ist. Aufgrund der Pensionierung des aktuellen Stelleninhabers suchen wir per 1. August 2027 eine engagierte, führungsstarke und integrative Persönlichkeit als Ihre Aufgaben Sie leiten an unserem Standort in Altstätten die Abteilung «Kaufleute / Berufsmaturitätsschule / Medizinische Praxisassistenz» und sind dabei für folgende Themen verantwortlich: operative Führung der Abteilung mit rund 30 Mitarbeitenden Schulentwicklung auf Ebene Abteilung (Umsetzung Vision BZR30+) Umsetzung der Ressourcen- und Personalplanung Umsetzung des Qualitätsmanagements Vertretung der Abteilung nach aussen Unterricht von mind. 5 Wochen-Lektionen Als Mitglied der Schulleitung sind Sie zudem in gesamtschulischen Projekten und in kantonalen Fachgremien involviert. Was Sie auszeichnet Sind Sie eine Persönlichkeit mit hoher Sozialkompetenz, erfolgreicher Berufserfahrung in Führung und Lehrtätigkeit und verfügen über folgende Eigenschaften: strategisches Denken, Innovationsfreude, Zielorientierung und Teamfähigkeit ausgeprägte kommunikative und organisatorische Kompetenzen selbständige, strukturierte und effiziente Arbeitsweise Freude an der Arbeit mit jungen Menschen ausgewiesene Erfahrungen im Projektmanagement sehr gute Kenntnisse der Berufsbildung, insbesondere der kaufmännischen Bildungslandschaft Hochschulabschluss mit Wahlfähigkeit als Lehrperson für die Sekundarstufe II und abgeschlossene Schulleitungsausbildung bzw. die Bereitschaft, diese nachzuholen Unsere Benefits Sie übernehmen eine vielseitige und sinnstiftende Führungsaufgabe in einem gut positionierten Berufs- und Weiterbildungszentrum mit engagierten Mitarbeitenden, starken Bildungspartnern und hoher regionaler Bedeutung. Neben zeitgemässen kantonalen Anstellungsbedingungen erhalten Sie die Möglichkeit, die Zukunft der Abteilung in einer wichtigen Entwicklungsphase aktiv mitzugestalten ein kompetentes und erfahrenes Abteilungsteam eine Organisation mit kurzen Wegen, hoher Eigenverantwortung und Gestaltungsspielraum ein spannendes Umfeld zwischen Bildung, Wirtschaft und Gesellschaft eine Aufgabe mit direkter Wirkung auf die berufliche Zukunft junger Menschen Show more Show less Seniority level Not Applicable Employment type Full-time Industries Executive Offices Referrals increase your chances of interviewing at Kanton St.Gallen by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "326c956d8d4884cd",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/leiterin-leiter-abteilung-kaufleute-bms-mpa-und-mitglied-der-schulleitung-at-kanton-st-gallen-4495052008"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "EHS-Spezialist/in (100 %)",
+   "company": "OST – Eastern Switzerland University of Applied Sciences",
+   "location": "Rapperswil, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/ehs-spezialist-in-100-%25-at-ost-%E2%80%93-eastern-switzerland-university-of-applied-sciences-4493843633",
+   "posted": "2026-11-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "733a6c079a6f54cf",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/ehs-spezialist-in-100-%25-at-ost-%E2%80%93-eastern-switzerland-university-of-applied-sciences-4493843633"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "HR Business Partner (m/w/d)",
+   "company": "Rocken®",
+   "location": "Bad Ragaz, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/hr-business-partner-m-w-d-at-rocken%C2%AE-4495083204",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "cc5bfaf62ccb2ad9",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/hr-business-partner-m-w-d-at-rocken%C2%AE-4495083204"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Zwei Pädagogische Fachkräfte",
+   "company": "Lebenshilfe Hegau Bodensee e.V.",
+   "location": "Singen, Baden-Württemberg, Germany",
+   "country": "DE",
+   "url": "https://de.linkedin.com/jobs/view/zwei-p%C3%A4dagogische-fachkr%C3%A4fte-at-lebenshilfe-hegau-bodensee-e-v-4495273365",
+   "posted": "2026-11-26",
+   "salary": null,
+   "via": null,
+   "description": "Die Lebenshilfe setzt sich seit vielen Jahren für die Teilhabe und Inklusion von Menschen mit Beeinträchtigung in Singen und dem Landkreis Konstanz ein. Unsere Angebote tragen zu einem selbstbestimmten Leben von Menschen mit Beeinträchtigung bei. Gleichzeitig unterstützen die Einzel- und Gruppenbetreuungen deren Angehörige und Familien. Ziel der Lebenshilfe ist es, die Lebenswelten von Kindern, Jugendlichen und Erwachsenen mit einer kognitiven Beeinträchtigung zu erweitern und altersentsprechende Freizeitaktivitäten in den Alltag zu integrieren. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt zwei engagierte Mitarbeitende, die Freude an der Begleitung und Anleitung von unterschiedlichen Menschen haben und sich gerne in die Organisation und Gestaltung unserer Angebote einbringen. Insgesamt steht ein Stellenumfang von bis zu 120% zur Verfügung. Die Aufteilung der Stellenanteile ist flexibel gestaltbar. Tipps: Vermitteln Sie einen Überblick über die Position, beschreiben Sie, was es heißt, in dieser Position erfolgreich zu sein und welchen Stellenwert die Position für das Unternehmen hat. Das sind Ihre Aufgaben bei uns: Der Schwerpunkt der Tätigkeit liegt in der Begleitung, Betreuung und Anleitung unserer Angebote, insbesondere im Kinder- und Jugendbereich sowie vereinzelt im Erwachsenenbereich. Dazu gehören insbesondere: *Begleitung und Anleitung regelmäßiger Angebote wie ganztägigen Ferienbetreuungen, Angebote während der Schulzeiten und am Wochenende *Begleitung von mehrtägigen Urlaubsreisen *Unterstützung und Assistenz der Teilnehmenden entsprechend ihrer individuellen Bedürfnisse *Planung und Organisation unterschiedlicher Freizeitangebote *Mitwirkung bei der Entwicklung und Gestaltung neuer Angebote *Gewinnung, Einarbeitung und Anleitung ehrenamtlicher Mitarbeitender *Zusammenarbeit und Kommunikation mit Eltern, Angehörigen, Betreuern und Kooperationspartnern *Beratung und Unterstützung von Angehörigen Ergänzend übernehmen Sie organisatorische und administrative Aufgaben, die mit der Planung und Durchführung unserer Angebote verbunden sind. Das zeichnet Sie aus: *Abschluss als Heilerziehungspfleger/in (m/w/d) oder einer vergleichbaren Ausbildung *Interesse an der Begleitung, Anleitung und Gestaltung von unterschiedlichen Freizeit- und Assistenzangeboten *Freude an der Zusammenarbeit mit Angehörigen, ehrenamtlichen Mitarbeitenden und Kooperationspartnern *Einfühlungsvermögen, Kommunikationsfähigkeit und Teamfähigkeit *Sicherer Umgang mit digitalen Anwendungen und administrativen Aufgaben *Ein PKW-Führerschein ist zur Ausübung der Stelle erforderlich Darauf können Sie sich bei der Lebenshilfe freuen: *Eine abwechslungsreiche Tätigkeit mit unterschiedlichen Aufgabenbereichen und Gestaltungsmöglichkeiten *Ein engagiertes Team und eine wertschätzende Zusammenarbeit *Eine sinnstiftende, herzliche Tätigkeit mit viel Kontakt zu Menschen *Einarbeitung und langfristige Unterstützung *Fort- und Weiterbildungsmöglichkeiten *Flexible Arbeitszeiten *Hybrides Arbeiten *30 Tage Urlaub *Weihnachtsgeld *Arbeitgeberzuschuss zur betrieblichen Altersvorsorge *Parkmöglichkeiten in der Nähe *Diensthandy *Nutzung Dienstfahrzeug möglich *Kostenlose Getränke Wir freuen uns auf Ihre Bewerbung! Bitte senden Sie uns Ihre Bewerbung bis zum 15.12.2026. Werden Sie Teil unseres kleinen Teams, in dem jeder Mensch Großes bewirkt. Wir freuen uns darauf, Sie bald persönlich kennenzulernen. Lebenshilfe Hegau Bodensee e.V. Tel: 07731 822 809 21 www.lebenshilfe-hegau-bodensee.de Wichtig : Bitte bewerben Sie sich Online. Show more Show less Seniority level Entry level Employment type Part-time Industries Civic and Social Organizations Referrals increase your chances of interviewing at Lebenshilfe Hegau Bodensee e.V. by 2x See who you know",
    "extra": {
     "seniority": "Entry level",
     "employment_type": "Part-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "4fbe3580b8d2b2b4",
+   "id": "29f9dba5fb5520aa",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/sozialp%C3%A4dagogin-sozialp%C3%A4dagogen-60-80%25-at-aba-amriswil-4493492965"
+    "linkedin": "https://de.linkedin.com/jobs/view/zwei-p%C3%A4dagogische-fachkr%C3%A4fte-at-lebenshilfe-hegau-bodensee-e-v-4495273365"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Geschäftsleiter:in",
-   "company": "Nellen & Partner AG Zürich und St. Gallen",
-   "location": "Horn, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/gesch%C3%A4ftsleiter-in-at-nellen-partner-ag-z%C3%BCrich-und-st-gallen-4493438026",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "Das Seniorenzentrum Horn ist eine etablierte und regional stark verankerte Institution im Kanton Thurgau. Mit einem umfassenden Angebot in den Bereichen Pflege, Betreuung und Wohnen bietet das Seniorenzentrum seinen Bewohnerinnen und Bewohnern ein Zuhause mit hoher Lebensqualität. Dabei stehen Menschlichkeit, Professionalität und eine zukunftsorientierte Weiterentwicklung im Zentrum des Handelns. Im Rahmen einer Nachfolgeregelung suchen wir eine engagierte, unternehmerisch denkende und führungsstarke Persönlichkeit als Geschäftsleitung (m/w/d) Ihre Rolle Strategische und operative Führung des Seniorenzentrums Verantwortung für Qualität und Wirtschaftlichkeit, Steuerung von Finanzen und Ressourcen Sicherstellung einer bedarfsgerechten Pflege und Betreuung Weiterentwicklung von Angebot und Prozessen inkl. Compliance Führung und Entwicklung von Mitarbeitenden und Unternehmenskultur Zusammenarbeit mit Behörden, Partnern und weiteren Anspruchsgruppen Repräsentation der Institution nach innen und aussen Ihr Profil Weiterbildung als Heim- oder Institutionsleiter/in oder gleichwertige Qualifikation Mehrjährige Führungserfahrung, vorzugsweise in der Langzeitpflege Sehr gute Kenntnisse des Schweizer Gesundheitswesens Erfahrung in Qualitätsmanagement, Audits und regulatorischen Anforderungen Souveräner Umgang mit Behörden und externen Anspruchsgruppen Strategische, unternehmerische und lösungsorientierte Denkweise Überzeugende Führungs- und Kommunikationsstärke Kenntnisse der Thurgauer Tarif- und Finanzierungsstrukturen von Vorteil Ihre Benefits Anspruchsvolle und vielseitige Führungsfunktion mit hoher Eigenverantwortung Möglichkeit, die Zukunft des Seniorenzentrums aktiv zu gestalten und weiterzuentwickeln Wertschätzendes Arbeitsumfeld mit motivierten Mitarbeitenden und engagiertem Führungsteam Sinnstiftende Tätigkeit mit direkter Wirkung auf die Lebensqualität der Bewohnerinnen und Bewohner Möchten Sie Ihre Führungserfahrung, Ihr Engagement und Ihre Fachkompetenz in einer verantwortungsvollen Schlüsselrolle einbringen? Dann freuen wir uns auf Ihre Nachricht an careers@nellen.ch. Auf unsere Diskretion ist Verlass. Show more Show less Seniority level Executive Employment type Full-time Industries Health and Human Services Referrals increase your chances of interviewing at Nellen & Partner AG Zürich und St. Gallen by 2x See who you know",
-   "extra": {
-    "seniority": "Executive",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "ef20db634624c860",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/gesch%C3%A4ftsleiter-in-at-nellen-partner-ag-z%C3%BCrich-und-st-gallen-4493438026"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Spezialist/in oder Experte ASGS / Lärmschutzspezialist/in",
-   "company": "Kanton Thurgau",
-   "location": "Frauenfeld, Thurgau, Switzerland",
-   "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/spezialist-in-oder-experte-asgs-l%C3%A4rmschutzspezialist-in-at-kanton-thurgau-4488378850",
-   "posted": "2026-11-25",
-   "salary": null,
-   "via": null,
-   "description": "Das Amt für Wirtschaft und Arbeit AWA / Abteilung Arbeitsinspektorat sucht per 01.01.2027 oder nach Vereinbarung eine/ einen Spezialist/in oder Experte ASGS / Lärmschutzspezialist/in 80–100% Das Amt für Wirtschaft und Arbeit setzt sich für attraktive und wettbewerbsfähige Rahmenbedingungen für Unternehmen und Arbeitnehmende ein. Die Abteilung Arbeitsinspektorat ist im Bereich Arbeitnehmerschutz und Lärmschutz tätig und engagiert sich für sichere und gesunde Arbeitsbedingungen im Kanton Thurgau. Wir fungieren dabei als Drehscheibe zwischen Arbeitgebern, Arbeitnehmern, Behörden und Fachorganisationen – und leben eine ausgeprägte Du-Kultur, in der wir uns auf Augenhöhe begegnen. Ihre Aufgaben Durchführung von Plangenehmigungs- und Begutachtungsverfahren bei Industrie- und Gewerbebetrieben Planung und Umsetzung von Arbeitssicherheits- und ASA-Systemkontrollen Beratung der Betriebe, Erteilen von Bewilligungen sowie Kontrolle der Arbeits- und Ruhezeitbestimmungen Beurteilung von Industrie- und Gewerbelärm, Durchführung von Messungen, Anordnung von Massnahmen Bearbeitung von Lärmklagen und Mitarbeit an Lärmkatastern und Massnahmenplänen Vertretung des Amts in regionalen und nationalen Fachgremien Aktive Zusammenarbeit mit amtsinternen und externen Stellen Ihr Profil Abgeschlossene technische/handwerkliche Berufslehre sowie höhere Berufsbildung (eidg. Fachausweis oder eidg. Dipl. HF/FH Spezialist/in ASGS / Experte ASGS oder die Bereitschaft zur Ausbildung Idealerweise CAS Akustik-Grundlagen Berufserfahrung in der Wirtschaft und gutes technisches Verständnis Interesse an rechtlichen Fragestellungen Sicheres, vertrauenswürdiges Auftreten, kommunikative Stärke, hohe Sozialkompetenz, Belastbarkeit sowie Durchsetzungsvermögen Lösungsorientiert, entscheidungsfreudig und teamfähig Stilsicheres Deutsch in Wort und Schrift, weitere Fremdsprachenkenntnisse von Vorteil Versiert im Umgang mit IT- Anwendungen, wie MS Office, Datenbanken, etc. Bezug zum Kanton Thurgau und Bereitschaft zu Aussendiensttätigkeit mit eigenem Fahrzeug (ca. 30-40%) Unser Angebot Wir bieten Ihnen eine abwechslungsreiche, herausfordernde und interessante Tätigkeit mit hoher Eigenverantwortung, viel Kundenkontakt in einem eingespielten und kollegialen Team. Für einen erfolgreichen Start sorgen wir mit einer gründlichen und strukturierten Einarbeitung. Zudem profitieren Sie von attraktiven Anstellungsbedingungen, spannenden Weiterbildungsmöglichkeiten und einem modernen Arbeitsplatz in Frauenfeld Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständige Online-Bewerbung. Ihr Kontakt Martin Kradolfer, Leiter Arbeitsinspektorat, Amt für Wirtschaft und Arbeit, T 058 345 56 36 Ramon Signer, Stv. Leiter Arbeitsinspektorat, Amt für Wirtschaft und Arbeit, T 058 345 56 33 Show more Show less Seniority level Not Applicable Employment type Part-time Industries Government Administration Referrals increase your chances of interviewing at Kanton Thurgau by 2x See who you know",
-   "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Part-time",
-    "applicants": "Be among the first 25 applicants"
-   },
-   "id": "b66bab0aa9ebcaeb",
-   "sources": [
-    "linkedin"
-   ],
-   "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/spezialist-in-oder-experte-asgs-l%C3%A4rmschutzspezialist-in-at-kanton-thurgau-4488378850"
-   },
-   "first_seen": "2026-11-26"
-  },
-  {
-   "title": "Supply Planner - Focus Production Planning (m/w/d)",
-   "company": "ifm",
-   "location": "Tettnang, Baden-Württemberg, Germany",
+   "title": "Offer & Planning Coordinator Außenwerbung (m/w/d)",
+   "company": "Schwarz-Außenwerbung GmbH",
+   "location": "Constance, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/supply-planner-focus-production-planning-m-w-d-at-ifm-4493457099",
-   "posted": "2026-11-25",
+   "url": "https://de.linkedin.com/jobs/view/offer-planning-coordinator-au%C3%9Fenwerbung-m-w-d-at-schwarz-au%C3%9Fenwerbung-gmbh-4493865832",
+   "posted": "2026-11-27",
    "salary": null,
    "via": null,
-   "description": "Nur das, was man liebt, macht man wirklich mit 100% Leidenschaft und Herzblut. Als potenzieller Arbeitgeber fordern wir dazu auf, das zu tun, was man liebt. Und wir bieten dafür das Spielfeld. In einem internationalen, innovativen Unternehmen, in dem jede:r persönliche Stärken und Leidenschaften ausleben kann. Mit einer Arbeit, die sinnvoll ist, mit vielfältigen Aufgabenbereichen, Respekt, Offenheit, Vielfalt, Mut und Wertschätzung sowie viel Freiraum, sich weiterzuentwickeln. Denn bei ifm zu arbeiten heißt: Do what you love. Supply Planner - Focus Production Planning (m/w/d) Kennziffer: 975 Die Aufgabe Produktionsplanung & Lieferfähigkeit Eigenverantwortliche tägliche Produktionsplanung und -steuerung eines definierten Fertigungsbereichs Sicherstellung einer hohen Material- und Lieferfähigkeit unter Berücksichtigung vereinbarter Service-Level, Bestände und Produktionskapazitäten Flexible und marktgerechte Anpassung der Produktionsplanung aufgrund einer hohen Produkt- und Bedarfsvariabilität Bereichs- und stufenübergreifende Terminüberwachung in einer variantenreichen Fertigung mit mehreren aufeinanderfolgenden Produktionsstufen Aktives Fehlteilemanagement bei Materialunterdeckungen sowie Abstimmung geeigneter Maßnahmen mit Einkauf, Produktion und angrenzenden Bereichen Laufendes Monitoring von Bedarfen, Produktionsoutput und verfügbaren Kapazitäten sowie Ableitung notwendiger Anpassungen der Produktionsplanung Projekte & Zusammenarbeit Steuerung und kontinuierliche Optimierung von Sicherheitsbeständen, Reichweiten und Bestandsstrukturen Aktive Mitwirkung bei der Weiterentwicklung von Planungsparametern und Planungsprozessen mit dem Ziel, Lieferfähigkeit, Bestand und Kapazitätsauslastung optimal aufeinander abzustimmen Mitarbeit in bereichsübergreifenden Supply-Chain- und Logistikprojekten, beispielsweise bei Veränderungen von Materialflüssen Enge Abstimmung mit internationalen Produktionsstandorten und relevanten Schnittstellen innerhalb der Supply Chain Erstellung und Weiterentwicklung von Prozessbeschreibungen, Arbeits- und Schulungsunterlagen innerhalb des eigenen Aufgabengebiets Entwicklungsperspektive Die Position bietet die Möglichkeit, über die operative Produktionsplanung hinaus zusätzliche Verantwortung und zunehmend taktisch-strategische Aufgaben zu übernehmen. Mögliche Entwicklungsschwerpunkte liegen insbesondere in den Bereichen Bestandsstrategie, standortübergreifende Supply-Chain-Planung sowie in der Weiterentwicklung und Automatisierung von Planungsprozessen. Das Profil Abgeschlossenes Studium der Betriebswirtschaft, (Wirtschafts-) Ingenieurwesen mit Schwerpunkt Logistik/Supply Chain oder vergleichbare Qualifikation Erste Berufserfahrung im Supply Chain Planning, Produktionsplanung oder S&OP Grundkenntnisse im Umgang mit ERP-/APS-Systemen, idealerweise SAP Starkes analytisches Zahlenverständis und strukturierte, eigenverantwortliche Arbeitsweise Hohe Kommunikations- und Koordinationsstärke im Umgang mit vielfältigen Schnittstellen Sehr gute Deutschkenntnisse (mind. C1) und gute Englischkenntnisse (mind. B2) Wir Bieten Sicherheit eines international tätigen Familienunternehmens Vielseitiges Aufgabenfeld mit der Möglichkeit zur individuellen Weiterentwicklung je nach Vorkenntnissen und Interessen Individuelle fundierte Einarbeitung Flexible Arbeitszeiten mit Gleitzeitkonto sowie attraktive Home Office- & Remote-Angebote Unternehmensprämie, Weihnachts- und Urlaubsgeld Betriebliches Gesundheitsmanagement und diverse Fitness- und Sportangebote Weitere attraktive Angebote wie gemeinsame Events, Firmenfeiern, Sportveranstaltungen, Bike Leasing, Corporate Benefits, Betriebsrestaurant, Kinderferienbetreuung, Betriebliche Altersvorsorge, Berufsunfähigkeitsversicherung u.v.m. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Automation Machinery Manufacturing Referrals increase your chances of interviewing at ifm by 2x See who you know",
+   "description": "",
    "extra": {
-    "seniority": "Not Applicable",
-    "employment_type": "Full-time",
-    "applicants": "Be among the first 25 applicants"
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
    },
-   "id": "92e72b473800adcb",
+   "id": "b834a49cc6611932",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/supply-planner-focus-production-planning-m-w-d-at-ifm-4493457099"
+    "linkedin": "https://de.linkedin.com/jobs/view/offer-planning-coordinator-au%C3%9Fenwerbung-m-w-d-at-schwarz-au%C3%9Fenwerbung-gmbh-4493865832"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Freiberufliche Familienratskoordinatoren (m/w/d)",
-   "company": "GJFH",
+   "title": "Koordinator",
+   "company": "Gesellschaft für Jugend-und Familienhilfe",
    "location": "Überlingen, Baden-Württemberg, Germany",
    "country": "DE",
-   "url": "https://de.linkedin.com/jobs/view/freiberufliche-familienratskoordinatoren-m-w-d-at-gjfh-4493423467",
-   "posted": "2026-11-25",
+   "url": "https://de.linkedin.com/jobs/view/koordinator-4495276481",
+   "posted": "2026-11-26",
    "salary": null,
    "via": null,
-   "description": "Die Gesellschaft für Jugend- und Familienhilfe e.V. sucht engagierte Persönlichkeiten als Familienratskoordinatoren (m/w/d) Die GJFH e.V. begleitet seit 1994 als bundesweit anerkannter Träger der Jugendhilfe Kinder, Jugendliche und Erwachsene individuell, flexibel, ambulant und stationär. Aufgaben Ein Familienrat ist ein Treffen der gesamten Familie und ihres erweiterten Netzwerks (Verwandte, Freunde, Nachbarn) um eigenverantwortliche Lösungen und tragfähige Pläne für die Zukunft zu erarbeiten. Als Koordinator*in begleiten Sie diesen Prozess der Familien von der ersten Kontaktaufnahme bis zur Dokumentation der Ergebnisse – eigenverantwortlich, sinnstiftend, neutral und flexibel. Ihre Aufgaben: Netzwerkarbeit & Organisation: Sie sorgen dafür, dass alle wichtigen Personen aus dem Umfeld der Familie an einem bestimmten Tag an einem Ort zusammenkommen. Sie klären den Rahmen (Ort, Einladungen, Verpflegung). Vorbereitung: Sie helfen der Familie dabei, die zentrale Fragestellung und das Kernproblem zu formulieren. Moderation & Leitung: Sie moderieren den ersten Teil des Familienrats und unterstützen die Gruppe bei der Dokumentation des Ergebnisses. Nachbereitung: Sie dokumentieren den erarbeiteten Familienrat-Plan und koordinieren einen Folgerat. Qualifikation Das bringen Sie mit: Persönlichkeit: Sie sind empathisch, kommunikationsstark und besitzen Fingerspitzengefühl im Umgang mit Menschen in herausfordernden Lebenslagen. Organisationstalent: Sie arbeiten absolut selbstständig, strukturiert und behalten auch bei komplexen Konstellationen den Überblick. Flexibilität: Sie können sich Ihre Zeit für die rund 35 Stunden pro Familienrat/Folgerat flexibel einteilen. Wohnort/Nähe: Sie kommen aus dem Bodenseekreis Ost oder der näheren Umgebung. Benefits Unser Angebot – Ihre Ausbildung: Kostenlose Fachschulung: Wir machen Sie fit für die Aufgabe! Sie erhalten einen fundierten 4-tägigen Grundkurs direkt vor Ort in Tettnang . Als weiterer Teil der Schulung werden Ihre ersten drei vergüteten Familienräte eng von unserem Familienratsbüro begleitet. Das Beste: Die Ausbildung ist für Sie komplett kostenfrei, wenn Sie diese drei vergüteten Familienräte mit uns durchführen. ( Bitte beachten Sie: Die Teilnehmerzahl ist begrenzt! ) Nächster Ausbildungstermin: Sa. 20.02.2027 / So. 21.02.2027 und Sa. 27.02.2027 / So. 28.02.2027 Sinnstiftende Nebentätigkeit: Eine anspruchsvolle und abwechslungsreiche Aufgabe auf Honorarbasis, die sich perfekt mit dem Hauptberuf, dem Studium oder der Rente vereinbaren lässt. Wichtig: Sie haben keine pädagogische / therapeutische Ausbildung. Haben wir Ihr Interesse geweckt? Werden Sie Teil unseres Teams und unterstützen Sie Familien dabei, neue Wege zu gehen. Senden Sie uns einfach Ihren Lebenslauf online. Für Fragen sind wir unter +49 8141 5274610 erreichbar oder schauen Sie auf unsere Webseite. Wir freuen uns darauf, Sie kennenzulernen! Show more Show less Seniority level Entry level Employment type Contract Industries Individual and Family Services Referrals increase your chances of interviewing at GJFH by 2x See who you know",
+   "description": "",
    "extra": {
-    "seniority": "Entry level",
-    "employment_type": "Contract",
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "482149f846e76fa2",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://de.linkedin.com/jobs/view/koordinator-4495276481"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Svetovalec (79), Sektor za okolje, prostor in kmetijstvo - področje Prostora in točke SPOT",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-79-sektor-za-okolje-prostor-in-kmetijstvo-podro%C4%8Dje-prostora-in-to%C4%8Dke-spot-at-vlada-republike-slovenije-4495055683",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "c9a2df5792221539",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-79-sektor-za-okolje-prostor-in-kmetijstvo-podro%C4%8Dje-prostora-in-to%C4%8Dke-spot-at-vlada-republike-slovenije-4495055683"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Svetovalec, Sektor za okolje in prostor, Oddelek za okolje in prostor",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-sektor-za-okolje-in-prostor-oddelek-za-okolje-in-prostor-at-vlada-republike-slovenije-4495054709",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji, možnost za različne oblike mobilnosti in karierni razvoj, kolektivno dodatno pokojninsko zavarovanje, imenovanje v uradniški naziv Svetovalec III, z možnostjo napredovanja v uradniški naziv Svetovalec II in Svetovalec I, uvrstitev v 17. izhodiščni plačni razred naziva, kar znaša 2.030,25 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge pomoč pri pripravi osnutkov predpisov in zahtevnejših gradiv, zbiranje, urejanje in priprava podatkov za oblikovanje zahtevnejših gradiv, pregledovanje dokumentacije in pozivanje na dopolnitev vlog, opravljanje drugih upravnih nalog podobne zahtevnosti. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: najmanj: visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja), visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja), visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 7 mesecev delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 5. 12. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Izbirni postopek se izvaja v dveh delih. Prvi del izvaja Center za kadre, kjer kandidati opravljajo pisni preizkus osnovnega poznavanja državne ureditve in ureditve lokalne samouprave Republike Slovenije ter presojo temeljnih osebnih sposobnosti in veščin za opravljanje dela. Uspešni kandidati izbirni postopek nadaljujejo pri organu, ki je razpisal javni natečaj. Izbirni postopek pri organu lahko poteka v več fazah, v katerih se uporabljajo različne metode preverjanja strokovno usposobljenosti, kot sta na primer pisni preizkus in ustni razgovor. O ne(izbiri) kandidati prejmejo sklep. Kontaktna oseba za dodatne informacije Jasna Vratanar Informacije …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
     "applicants": "Be among the first 25 applicants"
    },
-   "id": "a503ab07b9cdb997",
+   "id": "b3e8f5dcefae534a",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://de.linkedin.com/jobs/view/freiberufliche-familienratskoordinatoren-m-w-d-at-gjfh-4493423467"
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-sektor-za-okolje-in-prostor-oddelek-za-okolje-in-prostor-at-vlada-republike-slovenije-4495054709"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Fachspezialist*in Planungssysteme 80 - 100%",
-   "company": "Group Micarna",
-   "location": "Bazenheid, St Gallen, Switzerland",
+   "title": "Fachperson Kinderbetreuung 100%",
+   "company": "ORS Service AG",
+   "location": "Kreuzlingen, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/fachspezialist-in-planungssysteme-80-100%25-at-group-micarna-4495004624",
+   "url": "https://ch.linkedin.com/jobs/view/fachperson-kinderbetreuung-100%25-at-ors-service-ag-4495530904",
    "posted": "2026-11-26",
    "salary": null,
    "via": null,
@@ -416,22 +395,22 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "eff7e4cbf948d6ae",
+   "id": "38d500f677ac3cb9",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/fachspezialist-in-planungssysteme-80-100%25-at-group-micarna-4495004624"
+    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-kinderbetreuung-100%25-at-ors-service-ag-4495530904"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Workforce Manager (m/w/d), Winterthur, 80-100% (Winterthur, Zürich, CH, 8400)",
-   "company": "Wincasa",
-   "location": "Winterthur, Zurich, Switzerland",
+   "title": "Svetovalec (144), Sektor za okolje in prostor",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/workforce-manager-m-w-d-winterthur-80-100%25-winterthur-z%C3%BCrich-ch-8400-at-wincasa-4478427427",
-   "posted": "2026-11-25",
+   "url": "https://ch.linkedin.com/jobs/view/svetovalec-144-sektor-za-okolje-in-prostor-at-vlada-republike-slovenije-4495057602",
+   "posted": "2026-11-27",
    "salary": null,
    "via": null,
    "description": "",
@@ -440,22 +419,22 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "f71617430915360a",
+   "id": "bb036029b76ab381",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/workforce-manager-m-w-d-winterthur-80-100%25-winterthur-z%C3%BCrich-ch-8400-at-wincasa-4478427427"
+    "linkedin": "https://ch.linkedin.com/jobs/view/svetovalec-144-sektor-za-okolje-in-prostor-at-vlada-republike-slovenije-4495057602"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Fachperson Bodenschutz (m/w/d)",
-   "company": "Kanton St.Gallen",
-   "location": "St Gallen, St Gallen, Switzerland",
+   "title": "Višji svetovalec (10334), Sektor za izenačevanje možnosti invalidov",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
    "country": "CH",
-   "url": "https://ch.linkedin.com/jobs/view/fachperson-bodenschutz-m-w-d-at-kanton-st-gallen-4494919043",
-   "posted": "2026-11-25",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-10334-sektor-za-izena%C4%8Devanje-mo%C5%BEnosti-invalidov-at-vlada-republike-slovenije-4495055682",
+   "posted": "2026-11-27",
    "salary": null,
    "via": null,
    "description": "",
@@ -464,40 +443,256 @@
     "employment_type": null,
     "applicants": null
    },
-   "id": "580e0b626333f302",
+   "id": "260383bf8d04345f",
    "sources": [
     "linkedin"
    ],
    "links": {
-    "linkedin": "https://ch.linkedin.com/jobs/view/fachperson-bodenschutz-m-w-d-at-kanton-st-gallen-4494919043"
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-10334-sektor-za-izena%C4%8Devanje-mo%C5%BEnosti-invalidov-at-vlada-republike-slovenije-4495055682"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "title": "Mitarbeiter:in Löten",
-   "company": "KELLER Pressure",
-   "location": "8404 Winterthur",
+   "title": "Višji svetovalec (DM 5604) v Uradu UJP, Sektorju za plačilne storitve, Oddelku za podporo plačilnim storitvam",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
    "country": "CH",
-   "url": "www.jobs.ch/de/stellenangebote/detail/06ffaa71-c098-41d5-82e1-7dd5149e47ef/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-dm-5604-v-uradu-ujp-sektorju-za-pla%C4%8Dilne-storitve-oddelku-za-podporo-pla%C4%8Dilnim-storitvam-at-vlada-republike-slovenije-4495051823",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "fb8f18609d7ea664",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-dm-5604-v-uradu-ujp-sektorju-za-pla%C4%8Dilne-storitve-oddelku-za-podporo-pla%C4%8Dilnim-storitvam-at-vlada-republike-slovenije-4495051823"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Višji svetovalec (767), Območni urad Kranj",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-767-obmo%C4%8Dni-urad-kranj-at-vlada-republike-slovenije-4495061456",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "435065d4288145a7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-767-obmo%C4%8Dni-urad-kranj-at-vlada-republike-slovenije-4495061456"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Kinderbetreuer*in 100%",
+   "company": "ORS Service AG",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/kinderbetreuer-in-100%25-at-ors-service-ag-4495539588",
    "posted": "2026-11-26",
    "salary": null,
    "via": null,
-   "description": "* KELLER Pressure\nFrau\n<em>HR</em>\\-<em>Fachfrau</em>\n*\n*\n* KELLER Pressure\nFrau\n<em>HR</em>\\-<em>Fachfrau</em>\n*\n*\njid49e47efjm jit1148jm jiy26jm",
+   "description": "Funktion Kinderbetreuer*in 100% Eintrittsdatum 01.01.2027 Gruppe Kanton St. Gallen Impact a better future! Tragen Sie dazu bei, unseren Auftrag im Bereich der Migration mit Engagement und Professionalität zu erfüllen. Bei ORS begleiten wir geflüchtete Menschen von ihrer Ankunft in Europa bis hin zur Integration in die lokale Gesellschaft. Neutral, flexibel und achtsam – Werte, die uns in unserer Arbeit leiten und die Grundlage für den positiven Unterschied bilden, den wir gemeinsam erzielen. ORS ist in der Schweiz, Deutschland, Österreich und Italien tätig und Teil der Serco Group, einem internationalen Anbieter öffentlicher Dienstleistungen. Unsere Mission konzentriert sich auf die Betreuung und Integration von Asylsuchenden und Flüchtlingen. Mit Mitarbeitenden aus über 100 Nationen fördern wir Vielfalt und Zusammenhalt. Qualität und verantwortungsbewusstes Handeln stehen bei uns an erster Stelle. Als Partnerin von Bund, Kantonen und Gemeinden bieten wir Ihnen die Möglichkeit, sich in einem gesellschaftlich relevanten Bereich zu engagieren. Zur Ergänzung unseres Teams im Zentrum BAZ Altstätten\" suchen wir per 01.01.2027 eine*n Kinderbetreuer*in zu 100% . Verantwortungen Begleiten von Kindern in ihrer ganzheitlichen Entwicklung und individuellen Lebenssituation Gestalten einer sicheren, fördernden und altersgerechten Umgebung Planen und Durchführen pädagogischer Aktivitäten zur Förderung von Selbstständigkeit und sozialem Lernen Beobachten und Dokumentieren von Entwicklungsfortschritten und Verhaltensweisen Kommunizieren respektvoll und empathisch mit Kindern, Eltern und Teammitgliedern Zusammenarbeiten im Team und Mitgestalten gemeinsamer pädagogischer Ziele Fördern von Integration, Toleranz und Inklusion im Gruppenalltag Sicherstellen von Hygiene-, Sicherheits- und Qualitätsstandards im Betreuungsalltag Profil Sekundarstufe II: Eidg. Fähigkeitszeugnis (EFZ) bis 1 Jahr relevante Berufserfahrung Grund- und Anwenderkenntnisse der MS-Office Applikationen Einwandfreier Leumund (kein Eintrag im Betreibungs- und im Strafregister) Deutsch | mündlich: B2 | schriftlich: B2 Französisch | mündlich: B1 | schriftlich: B1 Englisch | mündlich: B1 | schriftlich: B1 Für den Ihnen anvertrauten Aufgabenbereich setzen Sie sich initiativ und vollumfänglich ein. Zu Ihren Stärken zählen Flexibilität und selbständiges Arbeiten und ein gesundes Durchsetzungsvermögen. Eine hohe Arbeitsqualität und konsequenter Service- und Dienstleistungsgedanke sind für Sie selbstverständlich. Sie kommunizieren geschickt und Ihre positive Lebenseinstellung ist motivierend, erleichtert Ihnen den Zugang zu Menschen und fördert die Zusammenarbeit. Beratungs- und hohe Sozialkompetenz sowie sicheres Auftreten runden Ihr Profil ab. Was wir bieten Es erwartet Sie eine abwechslungsreiche, erfüllende Aufgabe in einem multikulturellen, dynamischen Umfeld Sie profitieren von einem breiten Spektrum an Aus- und Weiterbildungsprogrammen Wir engagieren uns für Lohngerechtigkeit und sind stolz auf unsere Fair-ON-Pay-Advanced-Zertifizierung Wir bieten die Möglichkeit, unbezahlten Urlaub zu beziehen oder zusätzliche Ferientage zu kaufen Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständigen Bewerbungsunterlagen. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Individual and Family Services Referrals increase your chances of interviewing at ORS Service AG by 2x See who you know",
    "extra": {
-    "canton": "ZH",
-    "query": "HR Fachfrau",
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "e8b0fc859417be12",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/kinderbetreuer-in-100%25-at-ors-service-ag-4495539588"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Konfliktpräventionsbetreuer*in 80-100%",
+   "company": "ORS Service AG",
+   "location": "Altstätten, St Gallen, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/konfliktpr%C3%A4ventionsbetreuer-in-80-100%25-at-ors-service-ag-4495526989",
+   "posted": "2026-11-26",
+   "salary": null,
+   "via": null,
+   "description": "Funktion Konfliktpräventionsbetreuer*in 80-100% Eintrittsdatum 01.01.2027 Gruppe Kanton St. Gallen Impact a better future! Tragen Sie dazu bei, unseren Auftrag im Bereich der Migration mit Engagement und Professionalität zu erfüllen. Bei ORS begleiten wir geflüchtete Menschen von ihrer Ankunft in Europa bis hin zur Integration in die lokale Gesellschaft. Neutral, flexibel und achtsam – Werte, die uns in unserer Arbeit leiten und die Grundlage für den positiven Unterschied bilden, den wir gemeinsam erzielen. ORS ist in der Schweiz, Deutschland, Österreich und Italien tätig und Teil der Serco Group, einem internationalen Anbieter öffentlicher Dienstleistungen. Unsere Mission konzentriert sich auf die Betreuung und Integration von Asylsuchenden und Flüchtlingen. Mit Mitarbeitenden aus über 100 Nationen fördern wir Vielfalt und Zusammenhalt. Qualität und verantwortungsbewusstes Handeln stehen bei uns an erster Stelle. Als Partnerin von Bund, Kantonen und Gemeinden bieten wir Ihnen die Möglichkeit, sich in einem gesellschaftlich relevanten Bereich zu engagieren. Zur Ergänzung unseres Teams im Zentrum BAZ Altstätten suchen wir per 01.01.2027 eine*n Konfliktpräventionsbetreuer*in zu 80-100% . Verantwortungen Umsetzen der Vorgaben der Fachbereichsleitung (FBL) und der Leitung Betreuung (LB) Teilnehmen an regelmässigen Teamtreffen Umsetzen der SEM-Qualitätsstandards QSU Durchführen von Betreuungsarbeiten gemäss BEKO SEM Wahrnehmender Bedürfnisse Asylsuchender und Deeskalierenvon Konflikten Herstellenvon Kontakten, Führenvon Gesprächenund Vertrauenaufbauen Umsetzendes Gewaltpräventionskonzepts des SEM und Mitwirken bei Aktualisierung Profil Sekundarstufe II: Eidg. Berufsattest (EBA) 2 bis 3 Jahre relevante Berufserfahrung Grund- und Anwenderkenntnisse der MS-Office Applikationen Einwandfreier Leumund (kein Eintrag im Betreibungs- und im Strafregister) Deutsch | mündlich: B2 | schriftlich: B2 Englisch | mündlich: B1 | schriftlich: B1 Weitere asylrelevante Sprache (von Vorteil) | mündlich: B1 | schriftlich: B1 Quereinstieg möglich Für den Ihnen anvertrauten Aufgabenbereich setzen Sie sich initiativ und vollumfänglich ein. Zu Ihren Stärken zählen Flexibilität und selbständiges Arbeiten und ein gesundes Durchsetzungsvermögen. Eine hohe Arbeitsqualität und konsequenter Service- und Dienstleistungsgedanke sind für Sie selbstverständlich. Sie kommunizieren geschickt und Ihre positive Lebenseinstellung ist motivierend, erleichtert Ihnen den Zugang zu Menschen und fördert die Zusammenarbeit. Beratungs- und hohe Sozialkompetenz sowie sicheres Auftreten runden Ihr Profil ab. Was wir bieten Es erwartet Sie eine abwechslungsreiche, erfüllende Aufgabe in einem multikulturellen, dynamischen Umfeld Sie profitieren von einem breiten Spektrum an Aus- und Weiterbildungsprogrammen Wir engagieren uns für Lohngerechtigkeit und sind stolz auf unsere Fair-ON-Pay-Advanced-Zertifizierung Wir bieten die Möglichkeit, unbezahlten Urlaub zu beziehen oder zusätzliche Ferientage zu kaufen Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vollständigen Bewerbungsunterlagen. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Individual and Family Services Referrals increase your chances of interviewing at ORS Service AG by 2x See who you know",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "08a4390d8758966b",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/konfliktpr%C3%A4ventionsbetreuer-in-80-100%25-at-ors-service-ag-4495526989"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Instandhaltungsplaner / Instandhaltungsplanerin",
+   "company": "Bell Schweiz AG",
+   "location": "Oensingen, Solothurn, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/instandhaltungsplaner-instandhaltungsplanerin-at-bell-schweiz-ag-4487727781",
+   "posted": "2026-11-26",
+   "salary": null,
+   "via": null,
+   "description": "",
+   "extra": {
+    "seniority": null,
+    "employment_type": null,
+    "applicants": null
+   },
+   "id": "823ad436ec4f52b7",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/instandhaltungsplaner-instandhaltungsplanerin-at-bell-schweiz-ag-4487727781"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Baukalkulator Tiefbau (m/w/d)",
+   "company": "Rocken®",
+   "location": "Frauenfeld, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/baukalkulator-tiefbau-m-w-d-at-rocken%C2%AE-4495044535",
+   "posted": "2026-11-26",
+   "salary": null,
+   "via": null,
+   "description": "Lohn - CHF10'000 - 109'000 Rolle Im Kundenauftrag suchen wir für ein Schweizer Bauunternehmen im Bereich Gleisbau, Tiefbau und Bahninfrastruktur einen erfahrenen Baukalkulator Tiefbau und Gleisbau. Das Unternehmen realisiert anspruchsvolle Gleisbau-, Bahninfrastruktur- und Tiefbauprojekte und ist auf den Bau sowie den Unterhalt von Schienenverkehrsanlagen spezialisiert. Der Schwerpunkt liegt auf der eigenständigen Baukalkulation, der Bewertung von Ausschreibungen sowie der wirtschaftlichen Planung und Optimierung von Bauprojekten . Verantwortung Selbstständige Kalkulation von Bauprojekten im Tiefbau, Gleisbau und Bahninfrastrukturbereich unter Berücksichtigung technischer und wirtschaftlicher Anforderungen Prüfung und Bewertung von Ausschreibungsunterlagen, Leistungsverzeichnissen und technischen Projektspezifikationen Ermittlung und Kalkulation von Bauleistungen, Materialmengen, Personal-, Maschinen- und Gerätekosten sowie Erstellung detaillierter Angebotsberechnungen Einholung, Prüfung und Vergleich von Lieferanten- und Subunternehmerangeboten zur Optimierung der Projektkosten Entwicklung von wirtschaftlichen Ausführungsvarianten, Kostenoptimierungen und technischen Alternativlösungen für anspruchsvolle Bauvorhaben Unterstützung der Projektleitung und Bauführung bei Nachtragskalkulationen, Nachkalkulationen und Wirtschaftlichkeitsanalysen Mitarbeit bei Angebots- und Vergabegesprächen sowie enge Abstimmung mit Bauführung, Projektleitung und externen Projektbeteiligten Qualifikationen Abgeschlossene technische Grundausbildung im Bauwesen, Tiefbau, Verkehrswegebau oder Gleisbau, idealerweise ergänzt durch eine Weiterbildung als Bauführer HF, Bautechniker HF oder Bauingenieur FH Mehrjährige Berufserfahrung in der Baukalkulation, Bauführung oder Projektleitung im Tiefbau beziehungsweise Gleisbau Fundierte Kenntnisse in der Mengenermittlung, Baukostenkalkulation, Ausschreibungsbearbeitung und Erstellung von Leistungsverzeichnissen Gute Anwenderkenntnisse in MS Office und branchenüblicher Kalkulationssoftware sowie Erfahrung mit der Kalkulation von Personal-, Material- und Maschinenkosten Gute Deutschkenntnisse sowie Kenntnisse der Schweizer Baukostenstrukturen, Vertragsgrundlagen und relevanten SIA-Normen Benefits Coaching und Mentoring Komfortables Büro mit moderner Infrastruktur Flexible Arbeitszeitgestaltung Eingespieltes und dynamisches Team Interessante und abwechslungsreiche Tätigkeiten/Projekte ROCKEN Jobs https://rocken.jobs Profil Erstellen https://rocken.jobs/application/profil-erstellen/ new Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Internet Publishing Referrals increase your chances of interviewing at Rocken® by 2x See who you know",
+   "extra": {
+    "seniority": "Mid-Senior level",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "5b13b8dab4c54922",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/baukalkulator-tiefbau-m-w-d-at-rocken%C2%AE-4495044535"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Podsekretar (5303), Sektor za gradnjo vodne infrastrukture",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/podsekretar-5303-sektor-za-gradnjo-vodne-infrastrukture-at-vlada-republike-slovenije-4495063338",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, imenovanje v uradniški naziv podsekretar, z možnostjo napredovanja v uradniški naziv sekretar, uvrstitev v 28. izhodiščni plačni razred naziva, kar znaša 2.785,27 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge neposredna pomoč pri vodenju strokovnih nalog na delu delovnega področja, neposredna pomoč pri vodenju strokovnih nalog na delu delovnega področja notranje organizacijske enote, vodenje projektnih skupin, samostojno oblikovanje sistemskih rešitev in drugih najzahtevnejših gradiv, opravljanje drugih najzahtevnejših nalog, vodenje in sodelovanje v najzahtevnejših projektnih skupinah, druge naloge po navodilu neposredno nadrejenega. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 17001 Specialistično izobraževanje po visokošolski strokovni izobrazbi (prejšnje)/specializacija po visokošolski strokovni izobrazbi (prejšnja) 17002 Visokošolsko univerzitetno izobraževanje (prejšnje)/visokošolska univerzitetna izobrazba (prejšnja) 17003 Magistrsko izobraževanje (druga bolonjska stopnja)/magistrska izobrazba (druga bolonjska stopnja), 6 let delovnih izkušenj, Obvezno usposabljanje za imenovanje v naziv, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Zaželeno Je, Da Imajo Kandidati izkušnje z obdelavo podatkov in vnosom v informacijske sisteme za spremljanje projektov, poznavanje zakonodaje s področja upravljanja z vodami ter gradbeno in okoljsko zakonodajo ter izkušnje pri vodenju posameznih nalog projektov. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala eUprava, in sicer z uporabo spletnega obrazca, do katerega dostopa s klikom na gumb »e-Prijava na delovno mesto«, ki se nahaja na desni strani (na mobilnih napravah na dnu strani). Če kandidat prijave ne odda preko portala eUprava, se šteje, da ta ni bila vložena. Vloga mora biti popolna, saj se kandidatov k dopolnitvi prijave ne poziva. Prijavo je treba oddati najkasneje do 7. 12. 2026. Kandidati, ki oddajo pravočasno in popolno prijavo ter na podlagi prijave izkazujejo izpolnjevanje natečajnih pogojev, se uvrstijo v izbirni postopek. Kandidati, ki se ne uvrstijo v izbirni postopek, o tem prejmejo sklep. Izbirni postopek se izvaja v dveh delih. …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "8603d0e4d8e04d58",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/podsekretar-5303-sektor-za-gradnjo-vodne-infrastrukture-at-vlada-republike-slovenije-4495063338"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Višji svetovalec (3713), Sektor za mnenja območja Drave",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-3713-sektor-za-mnenja-obmo%C4%8Dja-drave-at-vlada-republike-slovenije-4495061454",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, imenovanje v uradniški naziv višji svetovalec III, z možnostjo napredovanja v uradniški naziv višji svetovalec II in višji svetovalec I, uvrstitev v 22. izhodiščni plačni razred naziva, kar znaša 2.353,61 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge organiziranje medsebojnega sodelovanja in usklajevanja notranjih organizacijskih enot in sodelovanja z drugimi organi, sodelovanje pri oblikovanju sistemskih rešitev in drugih najzahtevnejših gradiv, samostojna priprava zahtevnih analiz, razvojnih projektov, informacij, poročil in drugih zahtevnih gradiv, samostojno opravljanje drugih zahtevnejših nalog, vodenje zahtevnejših upravnih postopkov, samostojno vodenje upravnih postopkov izdaje vodnih soglasij, samostojna priprava mnenj z vidika upravljanja z vodami, druge naloge po navodilu neposredno nadrejenega. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja) 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 4 leta delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Prednost Pri Izbiri Bodo Imeli Kandidati z znanjem in delovnimi izkušnjami s področja upravljanja in urejanja voda ter graditve objektov in poznavanje zakonodaje s teh področij, delovnimi izkušnjami s področja vodenja upravnih postopkov oziroma postopkov izdaje mnenj. Zaželena Znanja poznavanje projektne dokumentacije ter sposobnost njenega branja in razumevanja, poznavanje upravnih postopkov oziroma postopkov izdaje mnenj, poznavanje predpisov s področja upravljanja z vodami in graditve objektov, sposobnost samostojnega, natančnega in organiziranega dela. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "a4bbdf51a5083dcc",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-3713-sektor-za-mnenja-obmo%C4%8Dja-drave-at-vlada-republike-slovenije-4495061454"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Višji svetovalec (3710), Sektor za mnenja območja Drave",
+   "company": "Vlada Republike Slovenije",
+   "location": "Münsterlingen, Thurgau, Switzerland",
+   "country": "CH",
+   "url": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-3710-sektor-za-mnenja-obmo%C4%8Dja-drave-at-vlada-republike-slovenije-4495051822",
+   "posted": "2026-11-27",
+   "salary": null,
+   "via": null,
+   "description": "Nudimo varno in stabilno zaposlitev, možnost strokovnega in osebnega razvoja z rednimi izobraževanji ter udeležb na konferencah s področja dela, možnost opravljanja dela na domu in zagotavljanje pravice do odklopa, ki prispevata k lažjemu usklajevanju poklicnega in zasebnega življenja, možnost za različne oblike mobilnosti in karierni razvoj, koriščenje počitniških kapacitet, imenovanje v uradniški naziv višji svetovalec III, z možnostjo napredovanja v uradniški naziv višji svetovalec II in višji svetovalec I, uvrstitev v 22. izhodiščni plačni razred naziva, kar znaša 2.353,61 eurov bruto (pri čemer se pravica do izplačila osnovne plače v vrednosti tega plačnega razreda pridobi postopno, na način iz 3. točke prvega odstavka 101. člena Zakona o skupnih temeljih sistema plač v javnem sektorju). Ob upoštevanju zakonskih pogojev je možna tudi uvrstitev v višji plačni razred od izhodiščnega, kot tudi prenos in napredovanje v višje plačne razrede. Ključne naloge Kandidat Bo Na Navedenem Delovnem Mestu Opravljal Naslednje Naloge organiziranje medsebojnega sodelovanja in usklajevanja notranjih organizacijskih enot in sodelovanja z drugimi organi, sodelovanje pri oblikovanju sistemskih rešitev in drugih najzahtevnejših gradiv, samostojna priprava zahtevnih analiz, razvojnih projektov, informacij, poročil in drugih zahtevnih gradiv, samostojno opravljanje drugih zahtevnejših nalog, vodenje zahtevnejših upravnih postopkov, samostojno vodenje upravnih postopkov izdaje vodnih soglasij, samostojna priprava mnenj z vidika upravljanja z vodami, druge naloge po navodilu neposredno nadrejenega. Pogoji za opravljanje dela Kandidati, ki se bodo prijavili na prosto delovno mesto, morajo izpolnjevati naslednje pogoje: 16201 Specialistično izobraževanje po višješolski izobrazbi (prejšnje)/specializacija po višješolski izobrazbi (prejšnja) 16202 Visokošolsko strokovno izobraževanje (prejšnje)/visokošolska strokovna izobrazba (prejšnja) 16203 Visokošolsko strokovno izobraževanje (prva bolonjska stopnja)/visokošolska strokovna izobrazba (prva bolonjska stopnja) 16204 Visokošolsko univerzitetno izobraževanje (prva bolonjska stopnja)/visokošolska univerzitetna izobrazba (prva bolonjska stopnja), 4 leta delovnih izkušenj, obvezno usposabljanje za imenovanje v naziv, strokovni izpit iz upravnega postopka druge stopnje, znanje uradnega jezika, državljanstvo Republike Slovenije, da oseba ni bila pravnomočno obsojena na nepogojno kazen več kot šest mesecev zapora zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti, da zoper osebo ni vložena pravnomočna obtožnica zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti. Več informacij o izpolnjevanju posameznega pogoja je na voljo v rubriki »Pojasnila« na dnu objave. V Elektronski Prijavi Mora Kandidat Navesti, Da Izpolnjuje pogoj glede predpisane izobrazbe, iz katere mora biti razvidna raven in smer izobrazbe, ter leto in ustanova, na kateri je bila izobrazba pridobljena; pogoj glede delovnih izkušenj, iz katerih je razvidno izpolnjevanje pogoja glede predpisanih delovnih izkušenj z opredelitvijo časa opravljanja dela in zahtevnosti dela glede na raven izobrazbe, ki se zahteva za opravljanje tega dela; vse ostale pogoje za razpisano delovno mesto. Zaželena znanja, osebne sposobnosti in veščine ter prednostni kriteriji Prednost Pri Izbiri Bodo Imeli Kandidati z znanjem in delovnimi izkušnjami s področja upravljanja in urejanja voda ter graditve objektov in poznavanje zakonodaje s teh področij, delovnimi izkušnjami s področja vodenja upravnih postopkov oziroma postopkov izdaje mnenj. Zaželena Znanja poznavanje projektne dokumentacije ter sposobnost njenega branja in razumevanja, poznavanje upravnih postopkov oziroma postopkov izdaje mnenj, poznavanje predpisov s področja upravljanja z vodami in graditve objektov, sposobnost samostojnega, natančnega in organiziranega dela. Postopek prijave in izbire Prijavo na javni natečaj kandidat odda v elektronski obliki preko portala …",
+   "extra": {
+    "seniority": "Not Applicable",
+    "employment_type": "Full-time",
+    "applicants": "Be among the first 25 applicants"
+   },
+   "id": "4941d01d56b9bbce",
+   "sources": [
+    "linkedin"
+   ],
+   "links": {
+    "linkedin": "https://ch.linkedin.com/jobs/view/vi%C5%A1ji-svetovalec-3710-sektor-za-mnenja-obmo%C4%8Dja-drave-at-vlada-republike-slovenije-4495051822"
+   },
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Metallbauer/in 100%",
+   "company": "IMPIRIO St. Gallen AG",
+   "location": "9000 St. Gallen",
+   "country": "CH",
+   "url": "https://www.job-room.ch/job-search/25705e3c-4c66-47df-a1ad-ea6cecded19b",
+   "posted": "2026-11-26",
+   "salary": null,
+   "via": null,
+   "description": "B von Vorteil\n\tHohes Mass an Selbständigkeit, Verantwortungsbewusstsein und Zuverlässigkeit\n\tBevorzugtes Alter: Zwischen 20 und 45 Jahre\nImpirio AG ist bestrebt, <em>Chancengleichheit</em> zu fördern und alle qualifizierten Bewerber unabhängig von Geschlecht, Alter, Hautfarbe, Religion, sexueller Orientierung",
+   "extra": {
+    "canton": "SG",
+    "query": "Chancengleichheit",
     "workload": "100-100 %",
     "permanent": true,
-    "jobroom_id": "fa86931a-9bb3-4618-af45-1c49e127ebc4"
+    "jobroom_id": "25705e3c-4c66-47df-a1ad-ea6cecded19b"
    },
-   "id": "434cdd93296f6444",
+   "id": "408122429cacdf71",
    "sources": [
     "jobroom"
    ],
    "links": {
-    "jobroom": "www.jobs.ch/de/stellenangebote/detail/06ffaa71-c098-41d5-82e1-7dd5149e47ef/?utm_source=job-room.ch&inv=ppd-p&utm_medium=affiliate&utm_campaign=wb:jobs|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic"
+    "jobroom": "https://www.job-room.ch/job-search/25705e3c-4c66-47df-a1ad-ea6cecded19b"
    },
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   }
  ]
 }
